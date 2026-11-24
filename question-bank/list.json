@@ -3,7 +3,7 @@
   "description": "U32练习场 - 新概念英语完美演练题集",
   "lastUpdated": "2026-10-31",
   "version": "3.0.0",
-  "basePath": "https://kid.u32.cn/data/question-bank/bank/",
+  "basePath": "https://kid.u32.cn/data/question-bank/",
   "categories": [
     {
       "id": "ket",
