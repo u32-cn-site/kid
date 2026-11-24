@@ -1,0 +1,504 @@
+{
+ "lesson": 87,
+ "title": [
+  "The Three Young Women",
+  "三个年轻女子"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "Wukong and his companions were walking through a forest.",
+    "悟空和他的伙伴们正在穿过一片森林。"
+   ],
+   [
+    "\"I'm glad the road goes through this shady forest,\" said the Tang Monk.",
+    "“我很高兴这条路穿过这片荫郁的森林，”唐僧说道。"
+   ],
+   [
+    "\"The sun is very hot this morning.\"",
+    "“今天早上太阳非常热。”"
+   ],
+   [
+    "Wujing nodded.",
+    "武静点了点头。"
+   ],
+   [
+    "\"It's nice to walk in the shade.\"",
+    "“在树荫下漫步感觉真好。”"
+   ],
+   [
+    "Wukong looked around suspiciously.",
+    "悟空怀疑地环顾四周。"
+   ],
+   [
+    "He knew that forests were often filled with dangers.",
+    "他知道森林里常常充满了危险。"
+   ],
+   [
+    "Suddenly Bajie fell flat on his face.",
+    "突然，八戒脸朝下摔倒了。"
+   ],
+   [
+    "\"Oof!",
+    "“哎哟！”"
+   ],
+   [
+    "He climbed back to his feet and rubbed his nose.",
+    "他重新站了起来，然后揉了揉鼻子。"
+   ],
+   [
+    "\"I'm okay,\" he said.",
+    "“我没事，”他说。"
+   ],
+   [
+    "\"I tripped on a rock.\"",
+    "“我被一块石头绊倒了。”"
+   ],
+   [
+    "The travelers soon came to a wall running along the road.",
+    "旅行者们很快来到了一堵沿着道路延伸的墙。"
+   ],
+   [
+    "Behind the wall they could see the roof of a house.",
+    "在墙后面，他们能看到一座房子的屋顶。"
+   ],
+   [
+    "Up ahead was a gate.",
+    "前方有一扇大门。"
+   ],
+   [
+    "\"I wonder who lives here,\" said Wujing.",
+    "“我想知道这里住着谁？”伍静说道。"
+   ],
+   [
+    "\"Shh,\" said Wukong.",
+    "“嘘，”悟空说道。"
+   ],
+   [
+    "\"I hear laughter.\"",
+    "“我听到笑声。”"
+   ],
+   [
+    "The monkey peeked over the wall.",
+    "猴子从墙那边偷看了进来。"
+   ],
+   [
+    "Three young women were laughing and kicking a ball around.",
+    "三个年轻女性正在笑着互相踢着一个球玩耍。"
+   ],
+   [
+    "\"I see three young women,\" said Wukong.",
+    "“我看到三个年轻女子，”悟空说。"
+   ],
+   [
+    "\"Let's ask them for some food,\" said Wujing.",
+    "“我们向他们要一些食物吧，”伍静说。"
+   ],
+   [
+    "\"That's a good idea,\" said Bajie.",
+    "“这是个好主意，”八戒说。"
+   ],
+   [
+    "\"I'll go talk to them.",
+    "“我去和他们谈谈。”"
+   ],
+   [
+    "The pig headed toward the gate.",
+    "猪朝大门走去。"
+   ],
+   [
+    "\"Bajie, wait here,\" said the Tang Monk.",
+    "“八戒，你在这里等着。”唐僧说道。"
+   ],
+   [
+    "He looked at his companions.",
+    "他看了看他的同伴们。"
+   ],
+   [
+    "\"I will speak to the women.",
+    "“我会和那些女性们谈谈。”"
+   ],
+   [
+    "You three might frighten them.\"",
+    "你们三个可能会把他们吓到。"
+   ],
+   [
+    "\"Frighten them?",
+    "“让他们害怕？"
+   ],
+   [
+    "Bajie echoed.",
+    "八戒应了一声。"
+   ],
+   [
+    "\"Yes,\" said the Tang Monk.",
+    "“是的，”唐僧说道。"
+   ],
+   [
+    "\"After all, Bajie, you're a large, talking pig.",
+    "“毕竟，八戒，你是一头会说话的大猪啊。”"
+   ],
+   [
+    "Wujing, you're big and purple.",
+    "武静，你又大又紫啊。"
+   ],
+   [
+    "And, Wukong, you're scary sometimes.\"",
+    "“而且，孙悟空，你有时候也挺吓人的。”"
+   ],
+   [
+    "The monkey shrugged.",
+    "猴子耸了耸肩。"
+   ],
+   [
+    "Wujing nodded.",
+    "武静点了点头。"
+   ],
+   [
+    "\"Fine,\" snapped Bajie.",
+    "“好吧，”八戒厉声说道。"
+   ],
+   [
+    "The Tang Monk opened the gate and went through.",
+    "唐僧打开了大门走了进去。"
+   ],
+   [
+    "He approached the women.",
+    "他走近了那些 women。"
+   ],
+   [
+    "\"Look!\" said one woman.",
+    "“看！”一位女士说道。"
+   ],
+   [
+    "\"We have a visitor.\"",
+    "“我们有一位访客。”"
+   ],
+   [
+    "\"He's a monk,\" said another woman.",
+    "“他是个和尚，”另一个女人说道。"
+   ],
+   [
+    "\"What can we do for you?\" asked the third.",
+    "“我们能为您提供什么帮助？”第三个人问道。"
+   ],
+   [
+    "\"Hello,\" said the Tang Monk.",
+    "“你好，”唐僧说道。"
+   ],
+   [
+    "\"I'm wondering if you could spare some food for my companions and me.\"",
+    "“我在想，您能否为我们和我的同伴们准备一些食物。”"
+   ],
+   [
+    "The three women smiled.",
+    "三个女人微笑了。"
+   ],
+   [
+    "\"Of course we can spare some food!\" said the first woman.",
+    "“我们当然可以拨出一些食物来！”第一个女人说道。"
+   ],
+   [
+    "\"We have plenty,\" said the second woman.",
+    "“我们有很多，”第二位女士说。"
+   ],
+   [
+    "\"Come inside our house,\" said the third.",
+    "“请进我们家吧，”第三个人说道。"
+   ],
+   [
+    "The three young women led the Tang Monk into their house.",
+    "三名年轻女子把唐僧领进了她们的房子。"
+   ],
+   [
+    "As soon as the monk entered, he became scared.",
+    "和尚一进来，他就害怕了。"
+   ],
+   [
+    "The interior of the house was dark and dreary.",
+    "房子的内部昏暗而阴沉。"
+   ],
+   [
+    "Dust covered everything, and cobwebs hung from the walls.",
+    "灰尘覆盖了一切，墙壁上挂满了蜘蛛网。"
+   ],
+   [
+    "\"Tell us, monk,\" said one woman.",
+    "“告诉我们吧，僧侣，”一位妇女说。"
+   ],
+   [
+    "\"Why are you walking through our forest today?\"",
+    "“你今天为什么要在我们的森林里穿行？”"
+   ],
+   [
+    "The Tang Monk looked around nervously.",
+    "唐僧紧张地环顾四周。"
+   ],
+   [
+    "\"I, um . . .",
+    "“我，呃……"
+   ],
+   [
+    "I'm going to the Western Paradise to—\" \"You're the Tang Monk!\" shrieked all three women.",
+    "“我要去西天……”  \n“你是唐僧！”三个女人同时尖叫起来。"
+   ],
+   [
+    "The Tang Monk took a step back.",
+    "唐僧后退了一步。"
+   ],
+   [
+    "\"You've . . . heard of me?\"",
+    "“你……听说过我？”"
+   ],
+   [
+    "\"Of course,\" said one woman.",
+    "“当然，”一位女士说道。"
+   ],
+   [
+    "All three women reached behind their heads.",
+    "这三位女性都把手伸到了自己的脑后。"
+   ],
+   [
+    "They began to pull out long strands of spider silk.",
+    "他们开始拔出长长的蜘蛛丝。"
+   ],
+   [
+    "Swiftly they moved toward the Tang Monk.",
+    "他们迅速朝唐僧走去。"
+   ],
+   [
+    "\"What's taking Master so long?\" asked Wukong.",
+    "“师傅怎么花了这么长时间？”悟空问道。"
+   ],
+   [
+    "The monk's companions were waiting outside in the road.",
+    "僧人的同伴们在外面路上等着。"
+   ],
+   [
+    "\"He's probably inside that house, enjoying a nice meal,\" said Bajie.",
+    "“他很可能就在那栋房子里，享用着一顿美餐，”八戒说。"
+   ],
+   [
+    "\"Meanwhile, we're out here, starving.\"",
+    "“与此同时，我们在这里挨饿。”"
+   ],
+   [
+    "\"The Tang Monk wouldn't do that, Bajie,\" said Wujing.",
+    "“唐僧才不会那么做呢，八戒。”悟空说道。"
+   ],
+   [
+    "Wukong looked worried.",
+    "悟空看起来很担忧。"
+   ],
+   [
+    "\"We'd better check on Master.\"",
+    "“我们最好去看看师傅的情况。”"
+   ],
+   [
+    "\"If there's food, I want to be there,\" said Bajie.",
+    "“如果有食物的话，我希望能去那里，”八戒说。"
+   ],
+   [
+    "\"I'll go with you.\"",
+    "“我会和你一起去。”"
+   ],
+   [
+    "The two of them went to the gate.",
+    "他们两个人一起去了大门那里。"
+   ],
+   [
+    "When they saw the house, they both gasped.",
+    "当他们看到那栋房子时，都倒抽了一口凉气。"
+   ],
+   [
+    "\"The house is covered in spiderwebs!\" cried the pig.",
+    "“房子上到处都是蜘蛛网！”猪喊道。"
+   ],
+   [
+    "Wukong kicked in the gate, and they rushed toward the house.",
+    "悟空一脚踢开了大门，他们冲向了房子。"
+   ],
+   [
+    "The monkey banged on the door.",
+    "猴子敲了敲门。"
+   ],
+   [
+    "\"Open up!\"",
+    "“打开！”"
+   ],
+   [
+    "The door flew open.",
+    "门被猛地推开了。"
+   ],
+   [
+    "The three women leaped out, shooting sticky webs at Wukong and Bajie.",
+    "这三个女人跳了出来，向悟空和八戒喷射粘性的蛛网。"
+   ],
+   [
+    "The pig waved his rake.",
+    "猪挥动它的耙子。"
+   ],
+   [
+    "Webs wrapped around it, and soon the weapon was stuck to his head.",
+    "网状物缠在了它上面，很快这件武器就粘在了他的头上。"
+   ],
+   [
+    "Bajie turned to run, but more webs flew toward him.",
+    "孙悟空转身想要逃跑，但更多的蜘蛛网向他飞来。"
+   ],
+   [
+    "They wrapped around his legs, and he fell to the ground.",
+    "这些东西缠住了他的腿，他便倒在了地上。"
+   ]
+  ]
+ },
+ "words": [
+  [
+   "shady",
+   "",
+   "成荫的，多荫的",
+   "I'm glad the road goes through this shady forest.",
+   "我很高兴这条路经过了这片茂密的森林。"
+  ],
+  [
+   "suspiciously",
+   "",
+   "怀疑地，猜疑地",
+   "Wukong looked around suspiciously.",
+   "悟空怀疑地环顾四周。"
+  ],
+  [
+   "flat",
+   "",
+   "平的，平坦的",
+   "Suddenly Bajie fell flat on his face.",
+   "突然，八戒脸朝下摔倒了。"
+  ],
+  [
+   "ahead",
+   "",
+   "在前，向前",
+   "Up ahead was a gate.",
+   "前方有一扇大门。"
+  ],
+  [
+   "wonder",
+   "",
+   "对……感到好奇，想知道",
+   "I wonder who lives here.",
+   "我想知道谁住在这里。"
+  ],
+  [
+   "laughter",
+   "",
+   "笑声，笑",
+   "I hear laughter.",
+   "我听到笑声。"
+  ],
+  [
+   "frighten",
+   "",
+   "使...受到惊吓",
+   "You three might frighten them.",
+   "你们三个可能会把他们吓到。"
+  ],
+  [
+   "scary",
+   "",
+   "可怕的",
+   "And, Wukong, you're scary sometimes.",
+   "还有，悟空，你有时真的挺吓人的。"
+  ],
+  [
+   "approach",
+   "",
+   "接近，靠近",
+   "He approached the women.",
+   "他走近了那些 women。"
+  ],
+  [
+   "visitor",
+   "",
+   "拜访者，客⼈",
+   "We have a visitor.",
+   "我们有一位访客。"
+  ],
+  [
+   "third",
+   "",
+   "第三个(⼈或物）",
+   "\"What can we do for you?\" asked the third.",
+   "“我们能为您提供什么帮助？”第三个人问道。"
+  ],
+  [
+   "plenty",
+   "",
+   "丰富，⼤量",
+   "We have plenty.",
+   "我们有很多。"
+  ],
+  [
+   "dreary",
+   "",
+   "沉闷的，阴森的",
+   "The interior of the house was dark and dreary.",
+   "房子的内部昏暗而阴沉。"
+  ],
+  [
+   "cobweb",
+   "",
+   "蜘蛛⽹",
+   "Dust covered everything, and cobwebs hung from the walls.",
+   "灰尘覆盖了一切，墙壁上挂满了蜘蛛网。"
+  ],
+  [
+   "nervously",
+   "",
+   "焦急地，神经质地",
+   "The Tang Monk looked around nervously.",
+   "唐僧紧张地环顾四周。"
+  ],
+  [
+   "silk",
+   "",
+   "丝，丝绸",
+   "They began to pull out long strands of spider silk.",
+   "他们开始拔出长长的蜘蛛丝。"
+  ],
+  [
+   "spider silk",
+   "",
+   "蜘蛛丝",
+   "They began to pull out long strands of spider silk.",
+   "他们开始拔出长长的蜘蛛丝。"
+  ],
+  [
+   "swiftly",
+   "",
+   "迅速地",
+   "Swiftly they moved toward the Tang Monk.",
+   "他们迅速朝唐僧走去。"
+  ],
+  [
+   "meanwhile",
+   "",
+   "同时，在...期间",
+   "Meanwhile, we're out here, starving.",
+   "与此同时，我们却在外面挨饿。"
+  ],
+  [
+   "spiderweb",
+   "",
+   "蜘蛛⽹",
+   "The house is covered in spiderwebs!",
+   "房子里到处都是蜘蛛网！"
+  ],
+  [
+   "sticky",
+   "",
+   "黏的",
+   "The three women leaped out, shooting sticky webs at Wukong and Bajie.",
+   "这三个女人跳了出来，向悟空和八戒喷射粘性的蛛网。"
+  ]
+ ]
+}

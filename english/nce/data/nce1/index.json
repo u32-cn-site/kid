@@ -1,0 +1,508 @@
+{
+    "lessons": [
+        {
+            "lesson": 1,
+            "title": [
+                "Excuse me!",
+                "对不起！"
+            ]
+        },
+        {
+            "lesson": 3,
+            "title": [
+                "Sorry, sir.",
+                "对不起，先生。"
+            ]
+        },
+        {
+            "lesson": 5,
+            "title": [
+                "Nice to meet you",
+                "很高兴见到你。"
+            ]
+        },
+        {
+            "lesson": 7,
+            "title": [
+                "Are you a teacher?",
+                "你是教师吗？"
+            ]
+        },
+        {
+            "lesson": 9,
+            "title": [
+                "How are you today?",
+                "今天好吗？"
+            ]
+        },
+        {
+            "lesson": 11,
+            "title": [
+                "Is this your shirt?",
+                "这是你的衬衫吗？"
+            ]
+        },
+        {
+            "lesson": 13,
+            "title": [
+                "A new dress",
+                "一件新连衣裙"
+            ]
+        },
+        {
+            "lesson": 15,
+            "title": [
+                "Your passports, please.",
+                "请出示你们的护照。"
+            ]
+        },
+        {
+            "lesson": 17,
+            "title": [
+                "How do you do?",
+                "你 好！"
+            ]
+        },
+        {
+            "lesson": 19,
+            "title": [
+                "Tired and thirsty",
+                "又累又渴"
+            ]
+        },
+        {
+            "lesson": 21,
+            "title": [
+                "Which book?",
+                "哪一本书？"
+            ]
+        },
+        {
+            "lesson": 23,
+            "title": [
+                "Which glasses?",
+                "哪几只杯子？"
+            ]
+        },
+        {
+            "lesson": 25,
+            "title": [
+                "Mrs. Smith's Kitchen",
+                "史密斯太太的厨房"
+            ]
+        },
+        {
+            "lesson": 27,
+            "title": [
+                "Mrs. Smith's living room",
+                "史密斯太太的客厅"
+            ]
+        },
+        {
+            "lesson": 29,
+            "title": [
+                "Come in, Amy.",
+                "进来，艾米。"
+            ]
+        },
+        {
+            "lesson": 31,
+            "title": [
+                "Where's Sally?",
+                "萨莉在哪里？"
+            ]
+        },
+        {
+            "lesson": 33,
+            "title": [
+                "A fine day",
+                "晴天"
+            ]
+        },
+        {
+            "lesson": 35,
+            "title": [
+                "Our village",
+                "我们的村庄"
+            ]
+        },
+        {
+            "lesson": 37,
+            "title": [
+                "Making a bookcase",
+                "做书架"
+            ]
+        },
+        {
+            "lesson": 39,
+            "title": [
+                "Don't drop it!",
+                "别摔了!"
+            ]
+        },
+        {
+            "lesson": 41,
+            "title": [
+                "Penny's bag",
+                "彭妮的提包"
+            ]
+        },
+        {
+            "lesson": 43,
+            "title": [
+                "Hurry up!",
+                "快点!"
+            ]
+        },
+        {
+            "lesson": 45,
+            "title": [
+                "The boss's letter",
+                "老板的信"
+            ]
+        },
+        {
+            "lesson": 47,
+            "title": [
+                "A cup of coffee",
+                "一杯咖啡"
+            ]
+        },
+        {
+            "lesson": 49,
+            "title": [
+                "At the butcher's",
+                "在肉店"
+            ]
+        },
+        {
+            "lesson": 51,
+            "title": [
+                "A pleasant climate",
+                "宜人的气候"
+            ]
+        },
+        {
+            "lesson": 53,
+            "title": [
+                "An interesting climate",
+                "有趣的气候"
+            ]
+        },
+        {
+            "lesson": 55,
+            "title": [
+                "The Sawyer family",
+                "索耶一家人"
+            ]
+        },
+        {
+            "lesson": 57,
+            "title": [
+                "An unusual day",
+                "很不平常的一天"
+            ]
+        },
+        {
+            "lesson": 59,
+            "title": [
+                "Is that all?",
+                "就这些吗？"
+            ]
+        },
+        {
+            "lesson": 61,
+            "title": [
+                "A bad cold",
+                "重感冒"
+            ]
+        },
+        {
+            "lesson": 63,
+            "title": [
+                "Thank you, doctor.",
+                "谢谢你，医生。"
+            ]
+        },
+        {
+            "lesson": 65,
+            "title": [
+                "Not a baby",
+                "不是一个孩子"
+            ]
+        },
+        {
+            "lesson": 67,
+            "title": [
+                "The weekend",
+                "周末"
+            ]
+        },
+        {
+            "lesson": 69,
+            "title": [
+                "The car race",
+                "汽车比赛"
+            ]
+        },
+        {
+            "lesson": 71,
+            "title": [
+                "He's awful!",
+                "他讨厌透了！"
+            ]
+        },
+        {
+            "lesson": 73,
+            "title": [
+                "The way to King Street ",
+                "到国王街的走法"
+            ]
+        },
+        {
+            "lesson": 75,
+            "title": [
+                "Uncomfortable shoes",
+                "不舒适的鞋子"
+            ]
+        },
+        {
+            "lesson": 77,
+            "title": [
+                "Terrible toothache",
+                "要命的牙痛"
+            ]
+        },
+        {
+            "lesson": 79,
+            "title": [
+                "Carol's shopping list",
+                "卡罗尔的购物单"
+            ]
+        },
+        {
+            "lesson": 81,
+            "title": [
+                "Roast beef and potatoes ",
+                "烤牛肉和土豆"
+            ]
+        },
+        {
+            "lesson": 83,
+            "title": [
+                "Going on holiday",
+                "度假"
+            ]
+        },
+        {
+            "lesson": 85,
+            "title": [
+                "Pairs in the spring",
+                "巴黎之春"
+            ]
+        },
+        {
+            "lesson": 87,
+            "title": [
+                "A car crash",
+                "车祸"
+            ]
+        },
+        {
+            "lesson": 89,
+            "title": [
+                "For sale",
+                "待售"
+            ]
+        },
+        {
+            "lesson": 91,
+            "title": [
+                "Poor Ian!",
+                "可怜的伊恩！"
+            ]
+        },
+        {
+            "lesson": 93,
+            "title": [
+                "Our new neighbour",
+                "我们的新邻居"
+            ]
+        },
+        {
+            "lesson": 95,
+            "title": [
+                "Tickets, please.",
+                "请把车票拿出来。"
+            ]
+        },
+        {
+            "lesson": 97,
+            "title": [
+                "A small blue case",
+                "一只蓝色的小箱子"
+            ]
+        },
+        {
+            "lesson": 99,
+            "title": [
+                "Owl!",
+                "啊哟！"
+            ]
+        },
+        {
+            "lesson": 101,
+            "title": [
+                "A card from Jimmy",
+                "吉米的明信片"
+            ]
+        },
+        {
+            "lesson": 103,
+            "title": [
+                "The French test",
+                "法语考试"
+            ]
+        },
+        {
+            "lesson": 105,
+            "title": [
+                "Full of mistakes",
+                "错误百出"
+            ]
+        },
+        {
+            "lesson": 107,
+            "title": [
+                "It's too small.",
+                "太小了。"
+            ]
+        },
+        {
+            "lesson": 109,
+            "title": [
+                "A good idea",
+                "好主意"
+            ]
+        },
+        {
+            "lesson": 111,
+            "title": [
+                "The most expensive model",
+                "最昂贵的型号"
+            ]
+        },
+        {
+            "lesson": 113,
+            "title": [
+                "Small change",
+                "零钱"
+            ]
+        },
+        {
+            "lesson": 115,
+            "title": [
+                "Knock, knock!",
+                "敲敲门！"
+            ]
+        },
+        {
+            "lesson": 117,
+            "title": [
+                "Tommy's breakfast",
+                "汤米的早餐"
+            ]
+        },
+        {
+            "lesson": 119,
+            "title": [
+                "A true story",
+                "一个真实的故事"
+            ]
+        },
+        {
+            "lesson": 121,
+            "title": [
+                "The man in a hat",
+                "戴帽子的男士"
+            ]
+        },
+        {
+            "lesson": 123,
+            "title": [
+                "A trip to Australia",
+                "澳大利亚之行"
+            ]
+        },
+        {
+            "lesson": 125,
+            "title": [
+                "Tea for two",
+                "两个人一起喝茶"
+            ]
+        },
+        {
+            "lesson": 127,
+            "title": [
+                "A famous actress",
+                "著名的女演员"
+            ]
+        },
+        {
+            "lesson": 129,
+            "title": [
+                "Seventy miles an hour",
+                "时速70英里"
+            ]
+        },
+        {
+            "lesson": 131,
+            "title": [
+                "Don't be so sure!",
+                "别那么肯定！"
+            ]
+        },
+        {
+            "lesson": 133,
+            "title": [
+                "Sensational news!",
+                "爆炸性新闻！"
+            ]
+        },
+        {
+            "lesson": 135,
+            "title": [
+                "The latest report",
+                "最新消息"
+            ]
+        },
+        {
+            "lesson": 137,
+            "title": [
+                "A pleasant dream",
+                "美好的梦"
+            ]
+        },
+        {
+            "lesson": 139,
+            "title": [
+                "Is that you, John?",
+                "是你吗，约翰？"
+            ]
+        },
+        {
+            "lesson": 141,
+            "title": [
+                "Sally's first train ride",
+                "萨莉第一交乘火车旅行"
+            ]
+        },
+        {
+            "lesson": 143,
+            "title": [
+                "A walk through the woods",
+                "林中散步"
+            ]
+        }
+    ]
+}

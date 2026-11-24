@@ -1,0 +1,169 @@
+{
+    "lesson": 12,
+    "title": [
+        "Two Sports Fans",
+        "两个体育迷"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Tony was having a rest in the sports centre when he met Stacy.",
+                "托尼在体育中心休息时遇到了史黛西。"
+            ],
+            [
+                "\"Stacy, you skate so well!",
+                "「史黛西，你滑冰真好！"
+            ],
+            [
+                "Are you good at skateboarding as well?\"",
+                "你也擅长滑板吗？」"
+            ],
+            [
+                "\"Thanks Tony, I'm into sports on rolls and boards, like skating, skateboarding, snowboarding and skiing.",
+                "「谢谢托尼，我喜欢轮滑和板类运动，比如滑冰、滑板、滑雪板和滑雪。"
+            ],
+            [
+                "But I like riding bicycles the most.\" Stacy said with a smile on her face.",
+                "但我最喜欢骑自行车。」史黛西带着微笑说。"
+            ],
+            [
+                "\"Wow.",
+                "「哇。"
+            ],
+            [
+                "For me, I'm a big fan of ball games.",
+                "对我来说，我是球类运动的狂热粉丝。"
+            ],
+            [
+                "Football, basketball and volleyball are the three most famous ball games in the world, but I'm more interested in some 'small balls'.\"",
+                "足球、篮球和排球是世界上最著名的三大球类运动，但我对一些「小球」运动更感兴趣。」"
+            ],
+            [
+                "\"Baseball, my favourite sport, is very popular in America and Japan.",
+                "「棒球，我最喜欢的运动，在美国和日本非常流行。"
+            ],
+            [
+                "Table tennis and badminton are popular in China.\"",
+                "乒乓球和羽毛球在中国很受欢迎。」"
+            ],
+            [
+                "\"And tennis is well known in the world!",
+                "「而且网球在世界上很有名！"
+            ],
+            [
+                "My mum is a successful tennis player and she won the first prize in one of the Olympic Games.",
+                "我妈妈是一位成功的网球运动员，她在其中一届奥运会上获得了一等奖。"
+            ],
+            [
+                "She gave me a racket.",
+                "她送了我一个球拍。"
+            ],
+            [
+                "But it's really hard for me to play tennis.\"",
+                "但对我来说，打网球真的很难。」"
+            ],
+            [
+                "\"Cricket, golf and ice hockey are also very popular.",
+                "「板球、高尔夫和冰球也很流行。"
+            ],
+            [
+                "You can try them.\"",
+                "你可以试试。」"
+            ],
+            [
+                "\"You are really a young expert in ball games, Tony.",
+                "「你真是个球类运动的年轻专家，托尼。"
+            ],
+            [
+                "But I'm afraid the cricket bat is too heavy to play long.",
+                "但恐怕板球球棒太重了，打不了太久。"
+            ],
+            [
+                "I can try golf and ice hockey.",
+                "我可以试试高尔夫和冰球。"
+            ],
+            [
+                "In addition, it's very important to prepare sports kit before we do sports, such as swimsuits for swimming, a pair of special shoes for climbing and a life jacket for sailing.\"",
+                "另外，在做运动前准备运动装备非常重要，比如游泳用的泳衣、登山用的专用鞋和帆船用的救生衣。」"
+            ],
+            [
+                "\"Right.",
+                "「没错。"
+            ],
+            [
+                "We also need litres of water and several kilos of chocolate in case of energy loss.\"",
+                "我们还需要几升水和几公斤巧克力，以防能量流失。」"
+            ],
+            [
+                "\"Kilos of chocolate?",
+                "「几公斤巧克力？"
+            ],
+            [
+                "Sure?",
+                "确定吗？"
+            ],
+            [
+                "Fifty grammes, that's enough.\"",
+                "五十克就够了。」"
+            ],
+            [
+                "\"Sorry, I'm also a big fan of chocolate.\" Tony and Stacy laughed happily.",
+                "「抱歉，我也是巧克力的大粉丝。」托尼和史黛西开心地笑了。"
+            ]
+        ]
+    },
+    "words": [
+        ["rest", "v. & n.", "休息"],
+        ["sports centre", "n.", "体育中心"],
+        ["skate", "v.", "滑冰；溜冰"],
+        ["skateboarding", "n.", "滑板运动"],
+        ["skating", "n.", "滑冰；溜冰"],
+        ["snowboarding", "n.", "滑雪板运动"],
+        ["skiing", "n.", "滑雪（运动）"],
+        ["ride", "v.", "骑，乘"],
+        ["ride", "n.", "（乘车或骑车的）短途旅程"],
+        ["bicycle", "n.", "自行车"],
+        ["basketball", "n.", "篮球"],
+        ["volleyball", "n.", "排球"],
+        ["baseball", "n.", "棒球"],
+        ["table tennis", "n.", "乒乓球（英式）"],
+        ["badminton", "n.", "羽毛球运动"],
+        ["tennis", "n.", "网球运动"],
+        ["well known", "adj.", "众所周知的；出名的"],
+        ["successful", "adj.", "成功的"],
+        ["prize", "n.", "奖；奖品"],
+        ["racket", "n.", "球拍"],
+        ["hard", "adj.", "困难的；努力的"],
+        ["cricket", "n.", "板球（运动）"],
+        ["golf", "n.", "高尔夫球运动"],
+        ["hockey", "n.", "曲棍球；冰球"],
+        ["young", "adj.", "年轻的；幼小的"],
+        ["bat", "n.", "球棒；球拍"],
+        ["heavy", "adj.", "重的；沉的"],
+        ["important", "adj.", "重要的；有重大影响的"],
+        ["kit", "n.", "全套衣服及装备；成套工具"],
+        ["swimsuit", "n.", "泳衣"],
+        ["climbing", "n.", "登山运动"],
+        ["sailing", "n.", "航行；帆船运动"],
+        ["litre", "n.", "升（英式）"],
+        ["kilo", "n.", "公斤；千克"],
+        ["gramme", "n.", "克（英式）"],
+        ["go skating", "", "去滑冰"],
+        ["go skiing", "", "去滑雪"],
+        ["ride a bicycle", "", "骑自行车"],
+        ["first prize", "", "一等奖"],
+        ["a cricket match", "", "板球比赛"],
+        ["ice hockey", "", "冰球运动"],
+        ["young football players", "", "年轻的足球运动员"],
+        ["a cricket bat", "", "板球球棒"],
+        ["sports kit", "", "运动用品"],
+        ["go climbing", "", "去登山"],
+        ["ping-pong", "n.", "乒乓球（美式）"],
+        ["bike", "n.", "自行车"],
+        ["His books are not well known", "", "他写的书不太有名。"],
+        ["be successful in", "", "在……方面成功"],
+        ["tennis player", "", "网球选手"],
+        ["tennis rackets", "", "网球拍"],
+        ["Do you go sailing often?", "", "你经常出海航行吗？"]
+    ]
+}

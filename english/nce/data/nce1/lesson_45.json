@@ -1,0 +1,115 @@
+{
+    "lesson": 45,
+    "title": [
+        "The boss's letter",
+        "老板的信"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Can you come here a minute please, Bob?",
+                "请你来一下好吗，鲍勃？"
+            ],
+            [
+                "Yes, sir?",
+                "什么事，先生？"
+            ],
+            [
+                "Where's Pamela?",
+                "帕梅拉在哪儿？"
+            ],
+            [
+                "She's next door.",
+                "她在隔壁。"
+            ],
+            [
+                "She's in her office, sir.",
+                "在她的办公室里，先生。"
+            ],
+            [
+                "Can she type this letter for me?",
+                "她能为我打一下这封信吗？"
+            ],
+            [
+                "Ask her please.",
+                "请问她。"
+            ],
+            [
+                "Yes, sir.",
+                "好的，先生。"
+            ],
+            [
+                "Can you type this letter for the boss please, Pamela?",
+                "请你把这封信给老板打一下可以吗，帕梅拉？"
+            ],
+            [
+                "Yes, of course I can.",
+                "可以，当然可以。"
+            ],
+            [
+                "Here you are.",
+                "给你这信。"
+            ],
+            [
+                "Thank you, Bob.",
+                "谢谢你，鲍勃。"
+            ],
+            [
+                "Bob!",
+                "鲍勃！"
+            ],
+            [
+                "Yes?",
+                "怎么了？"
+            ],
+            [
+                "What's the matter?",
+                "怎么回事？"
+            ],
+            [
+                "I can't type this letter.",
+                "我打不了这封信。"
+            ],
+            [
+                "I can't read it!",
+                "我看不懂这封信。"
+            ],
+            [
+                "The boss's handwriting is terrible!",
+                "老板的书写太糟糕了！"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "can",
+            "v.",
+            "能够"
+        ],
+        [
+            "boss",
+            "n.",
+            "老板，上司"
+        ],
+        [
+            "minute",
+            "n.",
+            "分（钟）"
+        ],
+        [
+            "ask",
+            "v.",
+            "请求，要求"
+        ],
+        [
+            "handwriting",
+            "n.",
+            "书写"
+        ],
+        [
+            "terrible",
+            "adj.",
+            "糟糕的，可怕的"
+        ]
+    ]
+}

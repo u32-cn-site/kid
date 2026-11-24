@@ -1,0 +1,419 @@
+{
+    "lesson": 2,
+    "title": [
+        "Emma's Birthday party",
+        "艾玛的生日派对"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Emma Haywood is a seventh-grade girl with blonde hair who lives in a small seaside town.",
+                "艾玛·海伍德是一个有着金发的七年级女孩，住在一个海边小镇。"
+            ],
+            [
+                "She is always friendly to others.",
+                "她总是对他人很友善。"
+            ],
+            [
+                "Years ago, she became interested in sailing.",
+                "几年前，她对帆船运动产生了兴趣。"
+            ],
+            [
+                "Afterwards, she was allowed to take part in a competition and won first prize.",
+                "后来，她被允许参加比赛并获得了一等奖。"
+            ],
+            [
+                "Last Saturday was Emma's 13th birthday.",
+                "上周六是艾玛的13岁生日。"
+            ],
+            [
+                "Her parents decided to hold a surprise party for Emma, who would be a teenager.",
+                "她的父母决定为将成为青少年的艾玛举办一个惊喜派对。"
+            ],
+            [
+                "They asked her best friends John and Harriet, who are also their neighbours, for help.",
+                "他们向她最好的朋友约翰和哈丽特求助，他们也是她的邻居。"
+            ],
+            [
+                "\"John, could you give Emma a call and ask her to go to the beach on Saturday morning?\" asked Mr. Haywood on the phone.",
+                "「约翰，你能给艾玛打个电话，让她周六早上去海滩吗？」海伍德先生在电话里问道。"
+            ],
+            [
+                "\"After she left the house, Harriet would come and help us with the cake and balloons.\"",
+                "「她离开家后，哈丽特会来帮我们做蛋糕和气球。」"
+            ],
+            [
+                "\"Certainly!\" John answered in an excited voice.",
+               "「当然可以！」约翰兴奋地回答。"
+            ],
+            [
+                "On that day, Emma came back home and she was so surprised and happy to hear all her family and friends shouting out \"Happy birthday!\" and singing a birthday song for her.",
+                "那天，艾玛回到家，听到所有家人和朋友高呼「生日快乐！」并为她唱生日歌，她既惊讶又开心。"
+            ],
+            [
+                "\"It's time for you to make a wish, my kid.\" Mrs. Haywood showed up with a chocolate cake and gently kissed her forehead.",
+                "「该许愿了，我的孩子。」海伍德夫人端着巧克力蛋糕出现，轻轻吻了吻她的额头。"
+            ],
+            [
+                "\"First thank you all for coming here.\" Emma looked at everyone with a smile.",
+                "「首先感谢大家来到这里。」艾玛微笑着看着大家。"
+            ],
+            [
+                "\"Now it's time for my wish.\"",
+                "「现在该我许愿了。」"
+            ],
+            [
+                "\"I hope my dream of being an Olympic champion will come true,\" thought Emma, with her eyes closed and hands folded.",
+               "「我希望成为奥运会冠军的梦想能够实现，」艾玛闭上眼睛，双手合十地想道。"
+            ],
+            [
+                "Then she blew out all the candles.",
+                "然后她吹灭了所有的蜡烛。"
+            ],
+            [
+                "Emma's parents and friends gave her many lovely gifts.",
+                "艾玛的父母和朋友给了她许多可爱的礼物。"
+            ],
+            [
+                "They enjoyed the food and played games together happily for the whole afternoon.",
+                "整个下午他们一起享用食物、玩游戏，非常开心。"
+            ],
+            [
+                "\"What an interesting day! It is my best birthday memory,\" wrote Emma in her diary.",
+                "「多么有趣的一天！这是我最美好的生日回忆，」艾玛在日记中写道。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "blonde",
+            "adj.",
+            "金发的"
+        ],
+        [
+            "always",
+            "adv.",
+            "总是；每次都是"
+        ],
+        [
+            "all the time",
+            "",
+            "一直"
+        ],
+        [
+            "friendly",
+            "adj.",
+            "友好的；亲切的"
+        ],
+        [
+            "a friendly smile",
+            "",
+            "亲切的微笑"
+        ],
+        [
+            "other",
+            "det.",
+            "另外；其他"
+        ],
+        [
+            "other",
+            "pron.",
+            "另外；其他"
+        ],
+        [
+            "each other",
+            "",
+            "互相，彼此"
+        ],
+        [
+            "ago",
+            "adv.",
+            "以前"
+        ],
+        [
+            "days ago",
+            "",
+            "几天前"
+        ],
+        [
+            "become",
+            "v.",
+            "成为；变得；变成"
+        ],
+        [
+            "become famous",
+            "",
+            "成名；扬名"
+        ],
+        [
+            "interested",
+            "adj.",
+            "感兴趣的"
+        ],
+        [
+            "Bob is interested in maths.",
+            "",
+            "鲍勃对数学很感兴趣。"
+        ],
+        [
+            "afterwards",
+            "adv.",
+            "以后；后来"
+        ],
+        [
+            "allow",
+            "v.",
+            "允许"
+        ],
+        [
+            "be allowed to do sth",
+            "",
+            "被允许做某事"
+        ],
+        [
+            "take",
+            "v.",
+            "拿；获得；采取；买；耗费"
+        ],
+        [
+            "take part in",
+            "",
+            "参与，参加"
+        ],
+        [
+            "take off",
+            "",
+            "起飞；脱下"
+        ],
+        [
+            "birthday",
+            "n.",
+            "生日，诞辰"
+        ],
+        [
+            "a birthday party",
+            "",
+            "生日派对"
+        ],
+        [
+            "decide",
+            "v.",
+            "决定；下决心"
+        ],
+        [
+            "I can't decide what to wear.",
+            "",
+            "我拿不定主意穿什么。"
+        ],
+        [
+            "who",
+            "pron.",
+            "（询问姓名、身份或职务）谁"
+        ],
+        [
+            "Who are you?",
+            "",
+            "你是谁？"
+        ],
+        [
+            "teenager",
+            "n.",
+            "（13至19岁之间的）青少年"
+        ],
+        [
+            "She is still a teenager.",
+            "",
+            "她依然是个青少年。"
+        ],
+        [
+            "neighbour",
+            "n.",
+            "邻居"
+        ],
+        [
+            "Our neighbour is very kind.",
+            "",
+            "我们的邻居非常友善。"
+        ],
+        [
+            "give somebody a call",
+            "",
+            "给某人打电话"
+        ],
+        [
+            "give somebody a ring",
+            "",
+            "给某人打电话"
+        ],
+        [
+            "after",
+            "adv.",
+            "后来，以后"
+        ],
+        [
+            "after",
+            "prep.",
+            "在……之后"
+        ],
+        [
+            "They lived happily ever after.",
+            "",
+            "从此以后他们过上了幸福的生活。"
+        ],
+        [
+            "balloon",
+            "n.",
+            "气球"
+        ],
+        [
+            "excited",
+            "adj.",
+            "兴奋的；激动的；活跃的"
+        ],
+        [
+            "excited kids",
+            "",
+            "激动的孩子们"
+        ],
+        [
+            "kid",
+            "n.",
+            "小孩"
+        ],
+        [
+            "kiss",
+            "n.",
+            "吻"
+        ],
+        [
+            "kiss",
+            "v.",
+            "吻"
+        ],
+        [
+            "Mum gave me a kiss.",
+            "",
+            "妈妈给了我一个吻。"
+        ],
+        [
+            "look at",
+            "",
+            "看"
+        ],
+        [
+            "Let's look at it again, shall we?",
+            "",
+            "我们再看一遍，好不好？"
+        ],
+        [
+            "lovely",
+            "adj.",
+            "可爱的；令人愉快的"
+        ],
+        [
+            "Jessica is a lovely girl.",
+            "",
+            "杰西卡是个可爱的女孩。"
+        ],
+        [
+            "gift",
+            "n.",
+            "礼物；天赋"
+        ],
+        [
+            "present",
+            "n.",
+            "礼物"
+        ],
+        [
+            "together",
+            "adv.",
+            "一起；同时"
+        ],
+        [
+            "We grew up together.",
+            "",
+            "我们是在一起长大的。"
+        ],
+        [
+            "happily",
+            "adv.",
+            "快乐地；高兴地"
+        ],
+        [
+            "whole",
+            "adj.",
+            "完整的"
+        ],
+        [
+            "whole",
+            "n.",
+            "整体；全部"
+        ],
+        [
+            "as a whole",
+            "",
+            "总体上"
+        ],
+        [
+            "interesting",
+            "adj.",
+            "有趣的；引起兴趣的"
+        ],
+        [
+            "He is an interesting guy.",
+            "",
+            "他是一个有趣的人。"
+        ],
+        [
+            "memory",
+            "n.",
+            "记忆，记忆力；回忆"
+        ],
+        [
+            "memories",
+            "n.",
+            "回忆"
+        ],
+        [
+            "good memories",
+            "",
+            "美好的记忆"
+        ],
+        [
+            "wish",
+            "n.",
+            "愿望"
+        ],
+        [
+            "wish",
+            "v.",
+            "希望；祝愿"
+        ],
+        [
+            "make a wish",
+            "",
+            "许愿"
+        ],
+        [
+            "champion",
+            "n.",
+            "冠军"
+        ],
+        [
+            "blow out",
+            "",
+            "吹灭"
+        ],
+        [
+            "candle",
+            "n.",
+            "蜡烛"
+        ],
+        [
+            "diary",
+            "n.",
+            "日记"
+        ]
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "lesson": 93,
+    "title": [
+        "Our new neighbour",
+        "我们的新邻居"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Nigel is our new next-door neighbour.",
+                "奈杰尔是我们新搬来的隔壁邻居。"
+            ],
+            [
+                "He's a pilot.",
+                "他是个飞行员。"
+            ],
+            [
+                "He was in the R.A.F.",
+                "他曾在皇家空军任职。"
+            ],
+            [
+                "He will fly to New York next month.",
+                "下个月他将飞往纽约。"
+            ],
+            [
+                "The month after next he'll fly to Tokyo.",
+                "再下个月他将飞往东京。"
+            ],
+            [
+                "At the moment, he's in Madrid.",
+                "现在他在马德里。"
+            ],
+            [
+                "He flew to Spain a week ago.",
+                "他是一星期以前飞到西班牙的。"
+            ],
+            [
+                "He'll return to London the week after next.",
+                "再下个星期他将返回伦敦。"
+            ],
+            [
+                "He's only forty-one years old.",
+                "他只有41岁。"
+            ],
+            [
+                "He has already been to nearly every country in the world.",
+                "但他却去过世界上几乎每一个国家。"
+            ],
+            [
+                "Nigel is a very lucky man.",
+                "奈杰尔是个很幸运的人。"
+            ],
+            [
+                "But his wife isn't very lucky.",
+                "但他的妻子运气不很好。"
+            ],
+            [
+                "She usually stays at home!",
+                "她总是呆在家里！"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "pilot",
+            "n.",
+            "飞行员"
+        ],
+        [
+            "return",
+            "v.",
+            "返回"
+        ],
+        [
+            "New York",
+            "n.",
+            "纽约"
+        ],
+        [
+            "Tokyo",
+            "n.",
+            "东京"
+        ],
+        [
+            "Madrid",
+            "n.",
+            "马德里"
+        ],
+        [
+            "fly",
+            "v.",
+            "飞行"
+        ],
+        [
+            "flew",
+            "v.",
+            "飞行（过去式）"
+        ],
+        [
+            "flown",
+            "v.",
+            "飞行（过去分词）"
+        ]
+    ]
+}

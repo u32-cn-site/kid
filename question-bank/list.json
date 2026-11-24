@@ -1,0 +1,5323 @@
+{
+  "title": "新概念英语题库",
+  "description": "U32练习场 - 新概念英语完美演练题集",
+  "lastUpdated": "2026-10-31",
+  "version": "3.0.0",
+  "basePath": "https://kid.u32.cn/data/question-bank/bank/",
+  "categories": [
+    {
+      "id": "ket",
+      "name": "剑桥KET综合教程",
+      "description": "Cambridge Complete Key for Schools 剑桥KET综合教程",
+      "series": [
+        {
+          "id": "ket-complete-knowledge",
+          "name": "ket-complete-knowledge",
+          "description": "剑桥KET综合教程 - 知识清单默写系列题集（14 套：Unit 1~14 词汇/语法/考点默写）",
+          "path": "ket/ket-complete-knowledge/",
+          "exams": [
+            {
+              "id": "unit-01",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-01.json",
+              "totalQuestions": 122,
+              "totalPoints": 122,
+              "lessonRange": "Unit 1",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 1"
+              ]
+            },
+            {
+              "id": "unit-02",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-02.json",
+              "totalQuestions": 119,
+              "totalPoints": 119,
+              "lessonRange": "Unit 2",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 2"
+              ]
+            },
+            {
+              "id": "unit-03",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-03.json",
+              "totalQuestions": 65,
+              "totalPoints": 65,
+              "lessonRange": "Unit 3",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 3"
+              ]
+            },
+            {
+              "id": "unit-04",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-04.json",
+              "totalQuestions": 64,
+              "totalPoints": 64,
+              "lessonRange": "Unit 4",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 4"
+              ]
+            },
+            {
+              "id": "unit-05",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-05.json",
+              "totalQuestions": 112,
+              "totalPoints": 112,
+              "lessonRange": "Unit 5",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 5"
+              ]
+            },
+            {
+              "id": "unit-06",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-06.json",
+              "totalQuestions": 93,
+              "totalPoints": 93,
+              "lessonRange": "Unit 6",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 6"
+              ]
+            },
+            {
+              "id": "unit-07",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-07.json",
+              "totalQuestions": 83,
+              "totalPoints": 83,
+              "lessonRange": "Unit 7",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 7"
+              ]
+            },
+            {
+              "id": "unit-08",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-08.json",
+              "totalQuestions": 95,
+              "totalPoints": 95,
+              "lessonRange": "Unit 8",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 8"
+              ]
+            },
+            {
+              "id": "unit-09",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-09.json",
+              "totalQuestions": 72,
+              "totalPoints": 72,
+              "lessonRange": "Unit 9",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 9"
+              ]
+            },
+            {
+              "id": "unit-10",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-10.json",
+              "totalQuestions": 111,
+              "totalPoints": 111,
+              "lessonRange": "Unit 10",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 10"
+              ]
+            },
+            {
+              "id": "unit-11",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-11.json",
+              "totalQuestions": 95,
+              "totalPoints": 95,
+              "lessonRange": "Unit 11",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 11"
+              ]
+            },
+            {
+              "id": "unit-12",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-12.json",
+              "totalQuestions": 83,
+              "totalPoints": 83,
+              "lessonRange": "Unit 12",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 12"
+              ]
+            },
+            {
+              "id": "unit-13",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-13.json",
+              "totalQuestions": 86,
+              "totalPoints": 86,
+              "lessonRange": "Unit 13",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 13"
+              ]
+            },
+            {
+              "id": "unit-14",
+              "title": "剑桥KET综合教程 · 知识清单",
+              "file": "unit-14.json",
+              "totalQuestions": 67,
+              "totalPoints": 67,
+              "lessonRange": "Unit 14",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 14"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ket-complete-sb",
+          "name": "学生用书",
+          "description": "剑桥KET综合教程 学生用书（for the revised exam from 2020）按单元",
+          "path": "ket/ket-complete-sb/",
+          "exams": [
+            {
+              "id": "unit-01",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-01.json",
+              "audio": [
+                "unit-01_attachments/track-02.mp3",
+                "unit-01_attachments/track-05.mp3",
+                "unit-01_attachments/track-03.mp3",
+                "unit-01_attachments/track-06.mp3",
+                "unit-01_attachments/track-07.mp3",
+                "unit-01_attachments/track-08.mp3",
+                "unit-01_attachments/track-09.mp3",
+                "unit-01_attachments/track-10.mp3"
+              ],
+              "totalQuestions": 51,
+              "totalPoints": 68,
+              "lessonRange": "Unit 1",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 1"
+              ]
+            },
+            {
+              "id": "unit-02",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-02.json",
+              "audio": [
+                "unit-02_attachments/track-11.mp3",
+                "unit-02_attachments/track-13.mp3",
+                "unit-02_attachments/track-15.mp3"
+              ],
+              "totalQuestions": 56,
+              "totalPoints": 69,
+              "lessonRange": "Unit 2",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 2"
+              ]
+            },
+            {
+              "id": "unit-03",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-03.json",
+              "audio": [
+                "unit-03_attachments/track-16.mp3",
+                "unit-03_attachments/track-19.mp3",
+                "unit-03_attachments/track-20.mp3",
+                "unit-03_attachments/track-21.mp3",
+                "unit-03_attachments/track-23.mp3"
+              ],
+              "totalQuestions": 56,
+              "totalPoints": 60,
+              "lessonRange": "Unit 3",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 3"
+              ]
+            },
+            {
+              "id": "unit-04",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-04.json",
+              "audio": [
+                "unit-04_attachments/track-24.mp3",
+                "unit-04_attachments/track-25.mp3",
+                "unit-04_attachments/track-26.mp3",
+                "unit-04_attachments/track-28.mp3",
+                "unit-04_attachments/track-29.mp3",
+                "unit-04_attachments/track-30.mp3"
+              ],
+              "totalQuestions": 71,
+              "totalPoints": 92,
+              "lessonRange": "Unit 4",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 4"
+              ]
+            },
+            {
+              "id": "unit-05",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-05.json",
+              "audio": [
+                "unit-05_attachments/track-31.mp3",
+                "unit-05_attachments/track-32.mp3",
+                "unit-05_attachments/track-33.mp3",
+                "unit-05_attachments/track-34.mp3",
+                "unit-05_attachments/track-35.mp3",
+                "unit-05_attachments/track-36.mp3",
+                "unit-05_attachments/track-37.mp3"
+              ],
+              "totalQuestions": 66,
+              "totalPoints": 87,
+              "lessonRange": "Unit 5",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 5"
+              ]
+            },
+            {
+              "id": "unit-06",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-06.json",
+              "audio": [
+                "unit-06_attachments/track-38.mp3",
+                "unit-06_attachments/track-39.mp3",
+                "unit-06_attachments/track-40.mp3",
+                "unit-06_attachments/track-41.mp3"
+              ],
+              "totalQuestions": 66,
+              "totalPoints": 79,
+              "lessonRange": "Unit 6",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 6"
+              ]
+            },
+            {
+              "id": "unit-07",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-07.json",
+              "audio": [
+                "unit-07_attachments/track-42.mp3",
+                "unit-07_attachments/track-44.mp3",
+                "unit-07_attachments/track-45.mp3",
+                "unit-07_attachments/track-46.mp3",
+                "unit-07_attachments/track-47.mp3",
+                "unit-07_attachments/track-48.mp3"
+              ],
+              "totalQuestions": 64,
+              "totalPoints": 86,
+              "lessonRange": "Unit 7",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 7"
+              ]
+            },
+            {
+              "id": "unit-08",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-08.json",
+              "audio": [
+                "unit-08_attachments/track-49.mp3",
+                "unit-08_attachments/track-50.mp3",
+                "unit-08_attachments/track-51.mp3",
+                "unit-08_attachments/track-52.mp3"
+              ],
+              "totalQuestions": 78,
+              "totalPoints": 78,
+              "lessonRange": "Unit 8",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 8"
+              ]
+            },
+            {
+              "id": "unit-09",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-09.json",
+              "audio": [
+                "unit-09_attachments/track-53.mp3",
+                "unit-09_attachments/track-54.mp3",
+                "unit-09_attachments/track-55.mp3",
+                "unit-09_attachments/track-56.mp3"
+              ],
+              "totalQuestions": 75,
+              "totalPoints": 84,
+              "lessonRange": "Unit 9",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 9"
+              ]
+            },
+            {
+              "id": "unit-10",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-10.json",
+              "audio": [
+                "unit-10_attachments/track-57.mp3",
+                "unit-10_attachments/track-58.mp3",
+                "unit-10_attachments/track-59.mp3",
+                "unit-10_attachments/track-60.mp3",
+                "unit-10_attachments/track-61.mp3",
+                "unit-10_attachments/track-62.mp3"
+              ],
+              "totalQuestions": 66,
+              "totalPoints": 70,
+              "lessonRange": "Unit 10",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 10"
+              ]
+            },
+            {
+              "id": "unit-11",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-11.json",
+              "audio": [
+                "unit-11_attachments/track-63.mp3",
+                "unit-11_attachments/track-64.mp3",
+                "unit-11_attachments/track-66.mp3",
+                "unit-11_attachments/track-67.mp3"
+              ],
+              "totalQuestions": 61,
+              "totalPoints": 70,
+              "lessonRange": "Unit 11",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 11"
+              ]
+            },
+            {
+              "id": "unit-12",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-12.json",
+              "audio": [
+                "unit-12_attachments/track-68.mp3",
+                "unit-12_attachments/track-69.mp3",
+                "unit-12_attachments/track-70.mp3",
+                "unit-12_attachments/track-72.mp3",
+                "unit-12_attachments/track-73.mp3",
+                "unit-12_attachments/track-74.mp3",
+                "unit-12_attachments/track-75.mp3"
+              ],
+              "totalQuestions": 69,
+              "totalPoints": 92,
+              "lessonRange": "Unit 12",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 12"
+              ]
+            },
+            {
+              "id": "unit-13",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-13.json",
+              "audio": [
+                "unit-13_attachments/track-76.mp3",
+                "unit-13_attachments/track-77.mp3",
+                "unit-13_attachments/track-78.mp3",
+                "unit-13_attachments/track-79.mp3",
+                "unit-13_attachments/track-80.mp3",
+                "unit-13_attachments/track-81.mp3"
+              ],
+              "totalQuestions": 59,
+              "totalPoints": 76,
+              "lessonRange": "Unit 13",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 13"
+              ]
+            },
+            {
+              "id": "unit-14",
+              "title": "剑桥KET综合教程 · 学生用书",
+              "file": "unit-14.json",
+              "audio": [
+                "unit-14_attachments/track-82.mp3",
+                "unit-14_attachments/track-85.mp3",
+                "unit-14_attachments/track-86.mp3",
+                "unit-14_attachments/track-87.mp3",
+                "unit-14_attachments/track-89.mp3"
+              ],
+              "totalQuestions": 82,
+              "totalPoints": 82,
+              "lessonRange": "Unit 14",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 14"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ket-complete-wb",
+          "name": "ket-complete-wb",
+          "description": "剑桥KET综合教程 - 练习册系列题集（14 套：Unit 1~14 课外练习）",
+          "path": "ket/ket-complete-wb/",
+          "exams": [
+            {
+              "id": "workbook-unit-01",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-01.json",
+              "audio": "workbook-unit-01_attachments/track-02.mp3",
+              "totalQuestions": 50,
+              "totalPoints": 54,
+              "lessonRange": "Unit 1",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 1"
+              ]
+            },
+            {
+              "id": "workbook-unit-02",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-02.json",
+              "audio": "workbook-unit-02_attachments/track-03.mp3",
+              "totalQuestions": 50,
+              "totalPoints": 54,
+              "lessonRange": "Unit 2",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 2"
+              ]
+            },
+            {
+              "id": "workbook-unit-03",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-03.json",
+              "audio": "workbook-unit-03_attachments/track-04.mp3",
+              "totalQuestions": 50,
+              "totalPoints": 50,
+              "lessonRange": "Unit 3",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 3"
+              ]
+            },
+            {
+              "id": "workbook-unit-04",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-04.json",
+              "audio": "workbook-unit-04_attachments/track-05.mp3",
+              "totalQuestions": 50,
+              "totalPoints": 54,
+              "lessonRange": "Unit 4",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 4"
+              ]
+            },
+            {
+              "id": "workbook-unit-05",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-05.json",
+              "audio": "workbook-unit-05_attachments/track-06.mp3",
+              "totalQuestions": 49,
+              "totalPoints": 53,
+              "lessonRange": "Unit 5",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 5"
+              ]
+            },
+            {
+              "id": "workbook-unit-06",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-06.json",
+              "audio": "workbook-unit-06_attachments/track-07.mp3",
+              "totalQuestions": 46,
+              "totalPoints": 46,
+              "lessonRange": "Unit 6",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 6"
+              ]
+            },
+            {
+              "id": "workbook-unit-07",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-07.json",
+              "audio": "workbook-unit-07_attachments/track-08.mp3",
+              "totalQuestions": 51,
+              "totalPoints": 55,
+              "lessonRange": "Unit 7",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 7"
+              ]
+            },
+            {
+              "id": "workbook-unit-08",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-08.json",
+              "audio": "workbook-unit-08_attachments/track-09.mp3",
+              "totalQuestions": 50,
+              "totalPoints": 54,
+              "lessonRange": "Unit 8",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 8"
+              ]
+            },
+            {
+              "id": "workbook-unit-09",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-09.json",
+              "audio": "workbook-unit-09_attachments/track-10.mp3",
+              "totalQuestions": 51,
+              "totalPoints": 59,
+              "lessonRange": "Unit 9",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 9"
+              ]
+            },
+            {
+              "id": "workbook-unit-10",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-10.json",
+              "audio": "workbook-unit-10_attachments/track-11.mp3",
+              "totalQuestions": 50,
+              "totalPoints": 50,
+              "lessonRange": "Unit 10",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 10"
+              ]
+            },
+            {
+              "id": "workbook-unit-11",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-11.json",
+              "audio": "workbook-unit-11_attachments/track-12.mp3",
+              "totalQuestions": 50,
+              "totalPoints": 58,
+              "lessonRange": "Unit 11",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 11"
+              ]
+            },
+            {
+              "id": "workbook-unit-12",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-12.json",
+              "audio": "workbook-unit-12_attachments/track-13.mp3",
+              "totalQuestions": 51,
+              "totalPoints": 55,
+              "lessonRange": "Unit 12",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 12"
+              ]
+            },
+            {
+              "id": "workbook-unit-13",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-13.json",
+              "audio": "workbook-unit-13_attachments/track-14.mp3",
+              "totalQuestions": 50,
+              "totalPoints": 54,
+              "lessonRange": "Unit 13",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 13"
+              ]
+            },
+            {
+              "id": "workbook-unit-14",
+              "title": "剑桥KET综合教程 · 练习册",
+              "file": "workbook-unit-14.json",
+              "audio": "workbook-unit-14_attachments/track-15.mp3",
+              "totalQuestions": 49,
+              "totalPoints": 49,
+              "lessonRange": "Unit 14",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Unit 14"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ket-trainer-1",
+          "name": "ket-trainer-1",
+          "description": "剑桥KET官方模考题精讲精练 1（A2 Key for Schools Trainer 1）系列题集（6 套：Test 1~6 全真模拟 + 训练）",
+          "path": "ket/ket-trainer-1/",
+          "exams": [
+            {
+              "id": "test-01",
+              "title": "剑桥KET官方模考题精讲精练 1",
+              "file": "test-01.json",
+              "audio": [
+                "test-01_attachments/track-03.mp3",
+                "test-01_attachments/track-05.mp3",
+                "test-01_attachments/track-06.mp3",
+                "test-01_attachments/track-07.mp3",
+                "test-01_attachments/track-08.mp3",
+                "test-01_attachments/track-09.mp3",
+                "test-01_attachments/track-10.mp3",
+                "test-01_attachments/track-11.mp3",
+                "test-01_attachments/track-12.mp3",
+                "test-01_attachments/track-13.mp3",
+                "test-01_attachments/track-14.mp3",
+                "test-01_attachments/track-17.mp3",
+                "test-01_attachments/track-18.mp3",
+                "test-01_attachments/track-19.mp3",
+                "test-01_attachments/track-26.mp3",
+                "test-01_attachments/track-27.mp3"
+              ],
+              "totalQuestions": 222,
+              "totalPoints": 325,
+              "lessonRange": "Reading and Writing Parts 1–7（Question 1–32）+ Listening Parts 1–5（Question 1–25）+ Speaking Parts 1–2",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Reading and Writing Parts 1–7（Question 1–32）+ Listening Parts 1–5（Question 1–25）+ Speaking Parts 1–2"
+              ]
+            },
+            {
+              "id": "test-02",
+              "title": "剑桥KET官方模考题精讲精练 1",
+              "file": "test-02.json",
+              "audio": [
+                "test-02_attachments/track-28.mp3",
+                "test-02_attachments/track-29.mp3",
+                "test-02_attachments/track-30.mp3",
+                "test-02_attachments/track-32.mp3",
+                "test-02_attachments/track-37.mp3",
+                "test-02_attachments/track-44.mp3",
+                "test-02_attachments/track-50.mp3",
+                "test-02_attachments/track-51.mp3",
+                "test-02_attachments/track-53.mp3",
+                "test-02_attachments/track-54.mp3"
+              ],
+              "totalQuestions": 255,
+              "totalPoints": 271,
+              "lessonRange": "Reading and Writing Parts 1–7、Listening Parts 1–5、Speaking Parts 1–2",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Reading and Writing Parts 1–7、Listening Parts 1–5、Speaking Parts 1–2"
+              ]
+            },
+            {
+              "id": "test-03",
+              "title": "剑桥KET官方模考题精讲精练 1",
+              "file": "test-03.json",
+              "audio": [
+                "test-03_attachments/track-55.mp3",
+                "test-03_attachments/track-56.mp3",
+                "test-03_attachments/track-57.mp3",
+                "test-03_attachments/track-58.mp3",
+                "test-03_attachments/track-59.mp3"
+              ],
+              "totalQuestions": 55,
+              "totalPoints": 75,
+              "lessonRange": "Reading and Writing Parts 1–7（Question 1–32）+ Listening Parts 1–5（Question 1–25）",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Reading and Writing Parts 1–7（Question 1–32）+ Listening Parts 1–5（Question 1–25）"
+              ]
+            },
+            {
+              "id": "test-04",
+              "title": "剑桥KET官方模考题精讲精练 1",
+              "file": "test-04.json",
+              "audio": [
+                "test-04_attachments/track-60.mp3",
+                "test-04_attachments/track-61.mp3",
+                "test-04_attachments/track-62.mp3",
+                "test-04_attachments/track-63.mp3",
+                "test-04_attachments/track-64.mp3"
+              ],
+              "totalQuestions": 55,
+              "totalPoints": 75,
+              "lessonRange": "Reading and Writing Parts 1–7（Question 1–32）+ Listening Parts 1–5（Question 1–25）",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Reading and Writing Parts 1–7（Question 1–32）+ Listening Parts 1–5（Question 1–25）"
+              ]
+            },
+            {
+              "id": "test-05",
+              "title": "剑桥KET官方模考题精讲精练 1",
+              "file": "test-05.json",
+              "audio": [
+                "test-05_attachments/track-65.mp3",
+                "test-05_attachments/track-66.mp3",
+                "test-05_attachments/track-67.mp3",
+                "test-05_attachments/track-68.mp3",
+                "test-05_attachments/track-69.mp3"
+              ],
+              "totalQuestions": 55,
+              "totalPoints": 75,
+              "lessonRange": "Reading and Writing Parts 1–7（Question 1–32）+ Listening Parts 1–5（Question 1–25）",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "Reading and Writing Parts 1–7（Question 1–32）+ Listening Parts 1–5（Question 1–25）"
+              ]
+            },
+            {
+              "id": "test-06",
+              "title": "剑桥KET官方模考题精讲精练 1",
+              "file": "test-06.json",
+              "audio": [
+                "test-06_attachments/track-70.mp3",
+                "test-06_attachments/track-71.mp3",
+                "test-06_attachments/track-72.mp3",
+                "test-06_attachments/track-73.mp3",
+                "test-06_attachments/track-74.mp3"
+              ],
+              "totalQuestions": 59,
+              "totalPoints": 75,
+              "lessonRange": "剑桥KET官方模考题精讲精练 1 — Practice Test 6",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "课内练习",
+                "剑桥KET官方模考题精讲精练 1 — Practice Test 6"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "数学",
+      "description": "2024年小升初重点中学招生真题·数学分类卷",
+      "series": [
+        {
+          "id": "xiaoshengchu-2024",
+          "name": "2024小升初数学分类卷",
+          "description": "2024年小升初重点中学招生真题·数学分类卷（专题 1~14：数论/数的运算/代数与方程）",
+          "path": "math/xiaoshengchu-2024/",
+          "exams": [
+            {
+              "id": "zhuanti-01",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-01.json",
+              "totalQuestions": 58,
+              "totalPoints": 58,
+              "lessonRange": "专题1",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题1"
+              ]
+            },
+            {
+              "id": "zhuanti-02",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-02.json",
+              "totalQuestions": 60,
+              "totalPoints": 76,
+              "lessonRange": "专题2",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题2"
+              ]
+            },
+            {
+              "id": "zhuanti-03",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-03.json",
+              "totalQuestions": 26,
+              "totalPoints": 34,
+              "lessonRange": "专题3",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题3"
+              ]
+            },
+            {
+              "id": "zhuanti-04",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-04.json",
+              "totalQuestions": 26,
+              "totalPoints": 78,
+              "lessonRange": "专题4",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题4"
+              ]
+            },
+            {
+              "id": "zhuanti-05",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-05.json",
+              "totalQuestions": 45,
+              "totalPoints": 65,
+              "lessonRange": "专题5",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题5"
+              ]
+            },
+            {
+              "id": "zhuanti-06",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-06.json",
+              "totalQuestions": 16,
+              "totalPoints": 16,
+              "lessonRange": "专题6",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题6"
+              ]
+            },
+            {
+              "id": "zhuanti-07",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-07.json",
+              "totalQuestions": 31,
+              "totalPoints": 31,
+              "lessonRange": "专题7",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题7"
+              ]
+            },
+            {
+              "id": "zhuanti-08",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-08.json",
+              "totalQuestions": 21,
+              "totalPoints": 21,
+              "lessonRange": "专题8",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题8"
+              ]
+            },
+            {
+              "id": "zhuanti-09",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-09.json",
+              "totalQuestions": 23,
+              "totalPoints": 23,
+              "lessonRange": "专题9",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题9"
+              ]
+            },
+            {
+              "id": "zhuanti-10",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-10.json",
+              "totalQuestions": 25,
+              "totalPoints": 25,
+              "lessonRange": "专题10",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题10"
+              ]
+            },
+            {
+              "id": "zhuanti-11",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-11.json",
+              "totalQuestions": 20,
+              "totalPoints": 28,
+              "lessonRange": "专题11",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题11"
+              ]
+            },
+            {
+              "id": "zhuanti-12",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-12.json",
+              "totalQuestions": 43,
+              "totalPoints": 43,
+              "lessonRange": "专题12",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题12"
+              ]
+            },
+            {
+              "id": "zhuanti-13",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-13.json",
+              "totalQuestions": 22,
+              "totalPoints": 26,
+              "lessonRange": "专题13",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题13"
+              ]
+            },
+            {
+              "id": "zhuanti-14",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-14.json",
+              "totalQuestions": 31,
+              "totalPoints": 71,
+              "lessonRange": "专题14",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题14"
+              ]
+            },
+            {
+              "id": "zhuanti-15",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-15.json",
+              "totalQuestions": 10,
+              "totalPoints": 18,
+              "lessonRange": "专题15",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题15"
+              ]
+            },
+            {
+              "id": "zhuanti-16",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-16.json",
+              "totalQuestions": 12,
+              "totalPoints": 20,
+              "lessonRange": "专题16",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题16"
+              ]
+            },
+            {
+              "id": "zhuanti-17",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-17.json",
+              "totalQuestions": 10,
+              "totalPoints": 26,
+              "lessonRange": "专题17",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题17"
+              ]
+            },
+            {
+              "id": "zhuanti-18",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-18.json",
+              "totalQuestions": 11,
+              "totalPoints": 11,
+              "lessonRange": "专题18",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题18"
+              ]
+            },
+            {
+              "id": "zhuanti-19",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-19.json",
+              "totalQuestions": 10,
+              "totalPoints": 22,
+              "lessonRange": "专题19",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题19"
+              ]
+            },
+            {
+              "id": "zhuanti-20",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-20.json",
+              "totalQuestions": 12,
+              "totalPoints": 28,
+              "lessonRange": "专题20",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题20"
+              ]
+            },
+            {
+              "id": "zhuanti-21",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-21.json",
+              "totalQuestions": 17,
+              "totalPoints": 33,
+              "lessonRange": "专题21",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题21"
+              ]
+            },
+            {
+              "id": "zhuanti-22",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-22.json",
+              "totalQuestions": 12,
+              "totalPoints": 12,
+              "lessonRange": "专题22",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题22"
+              ]
+            },
+            {
+              "id": "zhuanti-23",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-23.json",
+              "totalQuestions": 11,
+              "totalPoints": 23,
+              "lessonRange": "专题23",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题23"
+              ]
+            },
+            {
+              "id": "zhuanti-24",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-24.json",
+              "totalQuestions": 12,
+              "totalPoints": 16,
+              "lessonRange": "专题24",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题24"
+              ]
+            },
+            {
+              "id": "zhuanti-25",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-25.json",
+              "totalQuestions": 11,
+              "totalPoints": 15,
+              "lessonRange": "专题25",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题25"
+              ]
+            },
+            {
+              "id": "zhuanti-26",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-26.json",
+              "totalQuestions": 13,
+              "totalPoints": 25,
+              "lessonRange": "专题26",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题26"
+              ]
+            },
+            {
+              "id": "zhuanti-27",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-27.json",
+              "totalQuestions": 13,
+              "totalPoints": 41,
+              "lessonRange": "专题27",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题27"
+              ]
+            },
+            {
+              "id": "zhuanti-28",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-28.json",
+              "totalQuestions": 40,
+              "totalPoints": 52,
+              "lessonRange": "专题28",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题28"
+              ]
+            },
+            {
+              "id": "zhuanti-29",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-29.json",
+              "totalQuestions": 22,
+              "totalPoints": 26,
+              "lessonRange": "专题29",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题29"
+              ]
+            },
+            {
+              "id": "zhuanti-30",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-30.json",
+              "totalQuestions": 28,
+              "totalPoints": 32,
+              "lessonRange": "专题30",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题30"
+              ]
+            },
+            {
+              "id": "zhuanti-31",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-31.json",
+              "totalQuestions": 43,
+              "totalPoints": 51,
+              "lessonRange": "专题31",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题31"
+              ]
+            },
+            {
+              "id": "zhuanti-32",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-32.json",
+              "totalQuestions": 23,
+              "totalPoints": 23,
+              "lessonRange": "专题32",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题32"
+              ]
+            },
+            {
+              "id": "zhuanti-33",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-33.json",
+              "totalQuestions": 49,
+              "totalPoints": 89,
+              "lessonRange": "专题33",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题33"
+              ]
+            },
+            {
+              "id": "zhuanti-34",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-34.json",
+              "totalQuestions": 58,
+              "totalPoints": 146,
+              "lessonRange": "专题34",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题34"
+              ]
+            },
+            {
+              "id": "zhuanti-35",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-35.json",
+              "totalQuestions": 34,
+              "totalPoints": 118,
+              "lessonRange": "专题35",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题35"
+              ]
+            },
+            {
+              "id": "zhuanti-36",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-36.json",
+              "totalQuestions": 21,
+              "totalPoints": 33,
+              "lessonRange": "专题36",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题36"
+              ]
+            },
+            {
+              "id": "zhuanti-37",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-37.json",
+              "totalQuestions": 21,
+              "totalPoints": 45,
+              "lessonRange": "专题37",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题37"
+              ]
+            },
+            {
+              "id": "zhuanti-38",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-38.json",
+              "totalQuestions": 28,
+              "totalPoints": 64,
+              "lessonRange": "专题38",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题38"
+              ]
+            },
+            {
+              "id": "zhuanti-39",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-39.json",
+              "totalQuestions": 33,
+              "totalPoints": 58,
+              "lessonRange": "专题39",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题39"
+              ]
+            },
+            {
+              "id": "zhuanti-40",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-40.json",
+              "totalQuestions": 48,
+              "totalPoints": 160,
+              "lessonRange": "专题40",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题40"
+              ]
+            },
+            {
+              "id": "zhuanti-41",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-41.json",
+              "totalQuestions": 25,
+              "totalPoints": 105,
+              "lessonRange": "专题41",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题41"
+              ]
+            },
+            {
+              "id": "zhuanti-42",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-42.json",
+              "totalQuestions": 45,
+              "totalPoints": 117,
+              "lessonRange": "专题42",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题42"
+              ]
+            },
+            {
+              "id": "zhuanti-43",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-43.json",
+              "totalQuestions": 27,
+              "totalPoints": 47,
+              "lessonRange": "专题43",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题43"
+              ]
+            },
+            {
+              "id": "zhuanti-44",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-44.json",
+              "totalQuestions": 20,
+              "totalPoints": 24,
+              "lessonRange": "专题44",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题44"
+              ]
+            },
+            {
+              "id": "zhuanti-45",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-45.json",
+              "totalQuestions": 46,
+              "totalPoints": 154,
+              "lessonRange": "专题45",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题45"
+              ]
+            },
+            {
+              "id": "zhuanti-46",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-46.json",
+              "totalQuestions": 33,
+              "totalPoints": 33,
+              "lessonRange": "专题46",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题46"
+              ]
+            },
+            {
+              "id": "zhuanti-47",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-47.json",
+              "totalQuestions": 26,
+              "totalPoints": 62,
+              "lessonRange": "专题47",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题47"
+              ]
+            },
+            {
+              "id": "zhuanti-48",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-48.json",
+              "totalQuestions": 29,
+              "totalPoints": 81,
+              "lessonRange": "专题48",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题48"
+              ]
+            },
+            {
+              "id": "zhuanti-49",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-49.json",
+              "totalQuestions": 14,
+              "totalPoints": 38,
+              "lessonRange": "专题49",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题49"
+              ]
+            },
+            {
+              "id": "zhuanti-50",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-50.json",
+              "totalQuestions": 30,
+              "totalPoints": 78,
+              "lessonRange": "专题50",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题50"
+              ]
+            },
+            {
+              "id": "zhuanti-51",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-51.json",
+              "totalQuestions": 26,
+              "totalPoints": 26,
+              "lessonRange": "专题51",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题51"
+              ]
+            },
+            {
+              "id": "zhuanti-52",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-52.json",
+              "totalQuestions": 36,
+              "totalPoints": 80,
+              "lessonRange": "专题52",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题52"
+              ]
+            },
+            {
+              "id": "zhuanti-53",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-53.json",
+              "totalQuestions": 33,
+              "totalPoints": 85,
+              "lessonRange": "专题53",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题53"
+              ]
+            },
+            {
+              "id": "zhuanti-54",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-54.json",
+              "totalQuestions": 11,
+              "totalPoints": 39,
+              "lessonRange": "专题54",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题54"
+              ]
+            },
+            {
+              "id": "zhuanti-55",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-55.json",
+              "totalQuestions": 11,
+              "totalPoints": 43,
+              "lessonRange": "专题55",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题55"
+              ]
+            },
+            {
+              "id": "zhuanti-56",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-56.json",
+              "totalQuestions": 21,
+              "totalPoints": 73,
+              "lessonRange": "专题56",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题56"
+              ]
+            },
+            {
+              "id": "zhuanti-57",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-57.json",
+              "totalQuestions": 20,
+              "totalPoints": 72,
+              "lessonRange": "专题57",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题57"
+              ]
+            },
+            {
+              "id": "zhuanti-58",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-58.json",
+              "totalQuestions": 20,
+              "totalPoints": 68,
+              "lessonRange": "专题58",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题58"
+              ]
+            },
+            {
+              "id": "zhuanti-59",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-59.json",
+              "totalQuestions": 14,
+              "totalPoints": 34,
+              "lessonRange": "专题59",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题59"
+              ]
+            },
+            {
+              "id": "zhuanti-60",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-60.json",
+              "totalQuestions": 35,
+              "totalPoints": 119,
+              "lessonRange": "专题60",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题60"
+              ]
+            },
+            {
+              "id": "zhuanti-61",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-61.json",
+              "totalQuestions": 34,
+              "totalPoints": 118,
+              "lessonRange": "专题61",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题61"
+              ]
+            },
+            {
+              "id": "zhuanti-62",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-62.json",
+              "totalQuestions": 28,
+              "totalPoints": 76,
+              "lessonRange": "专题62",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题62"
+              ]
+            },
+            {
+              "id": "zhuanti-63",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-63.json",
+              "totalQuestions": 18,
+              "totalPoints": 66,
+              "lessonRange": "专题63",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题63"
+              ]
+            },
+            {
+              "id": "zhuanti-64",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-64.json",
+              "totalQuestions": 22,
+              "totalPoints": 78,
+              "lessonRange": "专题64",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题64"
+              ]
+            },
+            {
+              "id": "zhuanti-65",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-65.json",
+              "totalQuestions": 21,
+              "totalPoints": 69,
+              "lessonRange": "专题65",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题65"
+              ]
+            },
+            {
+              "id": "zhuanti-66",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-66.json",
+              "totalQuestions": 31,
+              "totalPoints": 63,
+              "lessonRange": "专题66",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题66"
+              ]
+            },
+            {
+              "id": "zhuanti-67",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-67.json",
+              "totalQuestions": 21,
+              "totalPoints": 37,
+              "lessonRange": "专题67",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题67"
+              ]
+            },
+            {
+              "id": "zhuanti-68",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-68.json",
+              "totalQuestions": 11,
+              "totalPoints": 43,
+              "lessonRange": "专题68",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题68"
+              ]
+            },
+            {
+              "id": "zhuanti-69",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-69.json",
+              "totalQuestions": 5,
+              "totalPoints": 13,
+              "lessonRange": "专题69",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题69"
+              ]
+            },
+            {
+              "id": "zhuanti-70",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-70.json",
+              "totalQuestions": 8,
+              "totalPoints": 12,
+              "lessonRange": "专题70",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题70"
+              ]
+            },
+            {
+              "id": "zhuanti-71",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-71.json",
+              "totalQuestions": 30,
+              "totalPoints": 78,
+              "lessonRange": "专题71",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题71"
+              ]
+            },
+            {
+              "id": "zhuanti-72",
+              "title": "2024年小升初数学真题 · 分类卷",
+              "file": "zhuanti-72.json",
+              "totalQuestions": 17,
+              "totalPoints": 61,
+              "lessonRange": "专题72",
+              "difficulty": "1.0",
+              "duration": "约40分钟",
+              "tags": [
+                "分类卷",
+                "专题72"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nce",
+      "name": "新概念英语",
+      "description": "New Concept English - 经典英语学习教材",
+      "series": [
+        {
+          "id": "nce1-perfect-practice",
+          "name": "第一册完美演练",
+          "description": "新概念英语第一册 - 完美演练系列题集（86 套：课内练习 72 + 阶段测试 12 + 期中 + 期末）",
+          "path": "nce/nce1-perfect-practice/",
+          "exams": [
+            {
+              "id": "lesson-001",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-001.json",
+              "audio": "lesson-001_attachments/lesson-001.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 1 ~ 2",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 1 ~ 2"
+              ]
+            },
+            {
+              "id": "lesson-003",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-003.json",
+              "audio": "lesson-003_attachments/lesson-003.mp3",
+              "totalQuestions": 72,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 3 ~ 4",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 3 ~ 4"
+              ]
+            },
+            {
+              "id": "lesson-005",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-005.json",
+              "audio": "lesson-005_attachments/lesson-005.mp3",
+              "totalQuestions": 66,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 5 ~ 6",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 5 ~ 6"
+              ]
+            },
+            {
+              "id": "lesson-007",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-007.json",
+              "audio": "lesson-007_attachments/lesson-007.mp3",
+              "totalQuestions": 76,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 7 ~ 8",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 7 ~ 8"
+              ]
+            },
+            {
+              "id": "lesson-009",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-009.json",
+              "audio": "lesson-009_attachments/lesson-009.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 9 ~ 10",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 9 ~ 10"
+              ]
+            },
+            {
+              "id": "lesson-011",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-011.json",
+              "audio": "lesson-011_attachments/lesson-011.mp3",
+              "totalQuestions": 66,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 11 ~ 12",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 11 ~ 12"
+              ]
+            },
+            {
+              "id": "stage-test-01",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "stage-test-01.json",
+              "audio": "stage-test-01_attachments/stage-test-01.mp3",
+              "totalQuestions": 76,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 1 ~ 12",
+              "difficulty": "1.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson1-12",
+                "听力",
+                "词汇",
+                "语法",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-013",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-013.json",
+              "audio": "lesson-013_attachments/lesson-013.mp3",
+              "totalQuestions": 67,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 13 ~ 14",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 13 ~ 14"
+              ]
+            },
+            {
+              "id": "lesson-015",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-015.json",
+              "audio": "lesson-015_attachments/lesson-015.mp3",
+              "totalQuestions": 64,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 15 ~ 16",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 15 ~ 16"
+              ]
+            },
+            {
+              "id": "lesson-017",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-017.json",
+              "audio": "lesson-017_attachments/lesson-017.mp3",
+              "totalQuestions": 74,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 17 ~ 18",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 17 ~ 18"
+              ]
+            },
+            {
+              "id": "lesson-019",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-019.json",
+              "audio": "lesson-019_attachments/lesson-019.mp3",
+              "totalQuestions": 69,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 19 ~ 20",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 19 ~ 20"
+              ]
+            },
+            {
+              "id": "lesson-021",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-021.json",
+              "audio": "lesson-021_attachments/lesson-021.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 21 ~ 22",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 21 ~ 22"
+              ]
+            },
+            {
+              "id": "lesson-023",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-023.json",
+              "audio": "lesson-023_attachments/lesson-023.mp3",
+              "totalQuestions": 66,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 23 ~ 24",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 23 ~ 24"
+              ]
+            },
+            {
+              "id": "stage-test-02",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "stage-test-02.json",
+              "audio": "stage-test-02_attachments/stage-test-02.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 13 ~ 24",
+              "difficulty": "1.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson13-24",
+                "听力",
+                "词汇",
+                "语法",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-025",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-025.json",
+              "audio": "lesson-025_attachments/lesson-025.mp3",
+              "totalQuestions": 69,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 25 ~ 26",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 25 ~ 26"
+              ]
+            },
+            {
+              "id": "lesson-027",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-027.json",
+              "audio": "lesson-027_attachments/lesson-027.mp3",
+              "totalQuestions": 67,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 27 ~ 28",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 27 ~ 28"
+              ]
+            },
+            {
+              "id": "lesson-029",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-029.json",
+              "audio": "lesson-029_attachments/lesson-029.mp3",
+              "totalQuestions": 67,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 29 ~ 30",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 29 ~ 30"
+              ]
+            },
+            {
+              "id": "lesson-031",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-031.json",
+              "audio": "lesson-031_attachments/lesson-031.mp3",
+              "totalQuestions": 74,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 31 ~ 32",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 31 ~ 32"
+              ]
+            },
+            {
+              "id": "lesson-033",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-033.json",
+              "audio": "lesson-033_attachments/lesson-033.mp3",
+              "totalQuestions": 72,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 33 ~ 34",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 33 ~ 34"
+              ]
+            },
+            {
+              "id": "lesson-035",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-035.json",
+              "audio": "lesson-035_attachments/lesson-035.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 35 ~ 36",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 35 ~ 36"
+              ]
+            },
+            {
+              "id": "stage-test-03",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "stage-test-03.json",
+              "audio": "stage-test-03_attachments/stage-test-03.mp3",
+              "totalQuestions": 76,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 25 ~ 36",
+              "difficulty": "2.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson25-36",
+                "听力",
+                "词汇",
+                "语法",
+                "完形",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-037",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-037.json",
+              "audio": "lesson-037_attachments/lesson-037.mp3",
+              "totalQuestions": 72,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 37 ~ 38",
+              "difficulty": "2.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 37 ~ 38"
+              ]
+            },
+            {
+              "id": "lesson-039",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-039.json",
+              "audio": "lesson-039_attachments/lesson-039.mp3",
+              "totalQuestions": 70,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 39 ~ 40",
+              "difficulty": "2.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 39 ~ 40"
+              ]
+            },
+            {
+              "id": "lesson-041",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-041.json",
+              "audio": "lesson-041_attachments/lesson-041.mp3",
+              "totalQuestions": 67,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 41 ~ 42",
+              "difficulty": "2.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 41 ~ 42"
+              ]
+            },
+            {
+              "id": "lesson-043",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-043.json",
+              "audio": "lesson-043_attachments/lesson-043.mp3",
+              "totalQuestions": 69,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 43 ~ 44",
+              "difficulty": "2.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 43 ~ 44"
+              ]
+            },
+            {
+              "id": "lesson-045",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-045.json",
+              "audio": "lesson-045_attachments/lesson-045.mp3",
+              "totalQuestions": 82,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 45 ~ 46",
+              "difficulty": "2.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 45 ~ 46"
+              ]
+            },
+            {
+              "id": "lesson-047",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-047.json",
+              "audio": "lesson-047_attachments/lesson-047.mp3",
+              "totalQuestions": 69,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 47 ~ 48",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 47 ~ 48"
+              ]
+            },
+            {
+              "id": "stage-test-04",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "stage-test-04.json",
+              "audio": "stage-test-04_attachments/stage-test-04.mp3",
+              "totalQuestions": 69,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 37 ~ 48",
+              "difficulty": "2.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson37-48",
+                "听力",
+                "词汇",
+                "语法",
+                "翻译",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-049",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-049.json",
+              "audio": "lesson-049_attachments/lesson-049.mp3",
+              "totalQuestions": 79,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 49 ~ 50",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 49 ~ 50"
+              ]
+            },
+            {
+              "id": "lesson-051",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-051.json",
+              "audio": "lesson-051_attachments/lesson-051.mp3",
+              "totalQuestions": 83,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 51 ~ 52",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 51 ~ 52"
+              ]
+            },
+            {
+              "id": "lesson-053",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-053.json",
+              "audio": "lesson-053_attachments/lesson-053.mp3",
+              "totalQuestions": 84,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 53 ~ 54",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 53 ~ 54"
+              ]
+            },
+            {
+              "id": "lesson-055",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-055.json",
+              "audio": "lesson-055_attachments/lesson-055.mp3",
+              "totalQuestions": 82,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 55 ~ 56",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 55 ~ 56"
+              ]
+            },
+            {
+              "id": "lesson-057",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-057.json",
+              "audio": "lesson-057_attachments/lesson-057.mp3",
+              "totalQuestions": 77,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 57 ~ 58",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 57 ~ 58"
+              ]
+            },
+            {
+              "id": "lesson-059",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-059.json",
+              "audio": "lesson-059_attachments/lesson-059.mp3",
+              "totalQuestions": 84,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 59 ~ 60",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 59 ~ 60"
+              ]
+            },
+            {
+              "id": "stage-test-05",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "stage-test-05.json",
+              "audio": "stage-test-05_attachments/stage-test-05.mp3",
+              "totalQuestions": 65,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 49 ~ 60",
+              "difficulty": "3.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson49-60",
+                "听力",
+                "词汇",
+                "语法",
+                "翻译",
+                "阅读"
+              ]
+            },
+            {
+              "id": "lesson-061",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-061.json",
+              "audio": "lesson-061_attachments/lesson-061.mp3",
+              "totalQuestions": 79,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 61 ~ 62",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 61 ~ 62"
+              ]
+            },
+            {
+              "id": "lesson-063",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-063.json",
+              "audio": "lesson-063_attachments/lesson-063.mp3",
+              "totalQuestions": 77,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 63 ~ 64",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 63 ~ 64"
+              ]
+            },
+            {
+              "id": "lesson-065",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-065.json",
+              "audio": "lesson-065_attachments/lesson-065.mp3",
+              "totalQuestions": 77,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 65 ~ 66",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 65 ~ 66"
+              ]
+            },
+            {
+              "id": "lesson-067",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-067.json",
+              "audio": "lesson-067_attachments/lesson-067.mp3",
+              "totalQuestions": 77,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 67 ~ 68",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 67 ~ 68"
+              ]
+            },
+            {
+              "id": "lesson-069",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-069.json",
+              "audio": "lesson-069_attachments/lesson-069.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 69 ~ 70",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 69 ~ 70"
+              ]
+            },
+            {
+              "id": "lesson-071",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-071.json",
+              "audio": "lesson-071_attachments/lesson-071.mp3",
+              "totalQuestions": 76,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 71 ~ 72",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 71 ~ 72"
+              ]
+            },
+            {
+              "id": "stage-test-06",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "stage-test-06.json",
+              "audio": "stage-test-06_attachments/stage-test-06.mp3",
+              "totalQuestions": 72,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 61 ~ 72",
+              "difficulty": "3.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson61-72",
+                "听力",
+                "词汇",
+                "语法",
+                "翻译",
+                "完形"
+              ]
+            },
+            {
+              "id": "midterm-test",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "midterm-test.json",
+              "audio": "midterm-test_attachments/midterm-test-01.mp3",
+              "totalQuestions": 66,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 1 ~ 72",
+              "difficulty": "3.5",
+              "duration": "90分钟",
+              "tags": [
+                "期中测试",
+                "综合",
+                "听力",
+                "词汇",
+                "语法",
+                "完形",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-073",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-073.json",
+              "audio": "lesson-073_attachments/lesson-073.mp3",
+              "totalQuestions": 72,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 73 ~ 74",
+              "difficulty": "3.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 73 ~ 74"
+              ]
+            },
+            {
+              "id": "lesson-075",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-075.json",
+              "audio": "lesson-075_attachments/lesson-075.mp3",
+              "totalQuestions": 66,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 75 ~ 76",
+              "difficulty": "3.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 75 ~ 76"
+              ]
+            },
+            {
+              "id": "lesson-077",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-077.json",
+              "audio": "lesson-077_attachments/lesson-077.mp3",
+              "totalQuestions": 66,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 77 ~ 78",
+              "difficulty": "3.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 77 ~ 78"
+              ]
+            },
+            {
+              "id": "lesson-079",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-079.json",
+              "audio": "lesson-079_attachments/lesson-079.mp3",
+              "totalQuestions": 76,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 79 ~ 80",
+              "difficulty": "3.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 79 ~ 80"
+              ]
+            },
+            {
+              "id": "lesson-081",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-081.json",
+              "audio": "lesson-081_attachments/lesson-081.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 81 ~ 82",
+              "difficulty": "3.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 81 ~ 82"
+              ]
+            },
+            {
+              "id": "lesson-083",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-083.json",
+              "audio": "lesson-083_attachments/lesson-083.mp3",
+              "totalQuestions": 73,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 83 ~ 84",
+              "difficulty": "3.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 83 ~ 84"
+              ]
+            },
+            {
+              "id": "stage-test-07",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "stage-test-07.json",
+              "audio": "stage-test-07_attachments/stage-test-07.mp3",
+              "totalQuestions": 60,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 73 ~ 84",
+              "difficulty": "4.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson73-84",
+                "听力",
+                "词汇",
+                "语法",
+                "完形"
+              ]
+            },
+            {
+              "id": "lesson-085",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-085.json",
+              "audio": "lesson-085_attachments/lesson-085.mp3",
+              "totalQuestions": 76,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 85 ~ 86",
+              "difficulty": "3.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 85 ~ 86"
+              ]
+            },
+            {
+              "id": "lesson-087",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-087.json",
+              "audio": "lesson-087_attachments/lesson-087.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 87 ~ 88",
+              "difficulty": "3.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 87 ~ 88"
+              ]
+            },
+            {
+              "id": "lesson-089",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-089.json",
+              "audio": "lesson-089_attachments/lesson-089.mp3",
+              "totalQuestions": 75,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 89 ~ 90",
+              "difficulty": "3.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 89 ~ 90"
+              ]
+            },
+            {
+              "id": "lesson-091",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-091.json",
+              "audio": "lesson-091_attachments/lesson-091.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 91 ~ 92",
+              "difficulty": "3.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 91 ~ 92"
+              ]
+            },
+            {
+              "id": "lesson-093",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-093.json",
+              "audio": "lesson-093_attachments/lesson-093.mp3",
+              "totalQuestions": 74,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 93 ~ 94",
+              "difficulty": "3.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 93 ~ 94"
+              ]
+            },
+            {
+              "id": "lesson-095",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-095.json",
+              "audio": "lesson-095_attachments/lesson-095.mp3",
+              "totalQuestions": 76,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 95 ~ 96",
+              "difficulty": "3.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 95 ~ 96"
+              ]
+            },
+            {
+              "id": "stage-test-08",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "stage-test-08.json",
+              "audio": "stage-test-08_attachments/stage-test-08.mp3",
+              "totalQuestions": 62,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 85 ~ 96",
+              "difficulty": "4.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson85-96",
+                "听力",
+                "词汇",
+                "语法",
+                "完形"
+              ]
+            },
+            {
+              "id": "lesson-097",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-097.json",
+              "audio": "lesson-097_attachments/lesson-097.mp3",
+              "totalQuestions": 82,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 97 ~ 98",
+              "difficulty": "3.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 97 ~ 98"
+              ]
+            },
+            {
+              "id": "lesson-099",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-099.json",
+              "audio": "lesson-099_attachments/lesson-099.mp3",
+              "totalQuestions": 77,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 99 ~ 100",
+              "difficulty": "3.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 99 ~ 100"
+              ]
+            },
+            {
+              "id": "lesson-101",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-101.json",
+              "audio": "lesson-101_attachments/lesson-101.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 101 ~ 102",
+              "difficulty": "3.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 101 ~ 102"
+              ]
+            },
+            {
+              "id": "lesson-103",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-103.json",
+              "audio": "lesson-103_attachments/lesson-103.mp3",
+              "totalQuestions": 76,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 103 ~ 104",
+              "difficulty": "3.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 103 ~ 104"
+              ]
+            },
+            {
+              "id": "lesson-105",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-105.json",
+              "audio": "lesson-105_attachments/lesson-105.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 105 ~ 106",
+              "difficulty": "3.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 105 ~ 106"
+              ]
+            },
+            {
+              "id": "lesson-107",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-107.json",
+              "audio": "lesson-107_attachments/lesson-107.mp3",
+              "totalQuestions": 72,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 107 ~ 108",
+              "difficulty": "3.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 107 ~ 108"
+              ]
+            },
+            {
+              "id": "stage-test-09",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "stage-test-09.json",
+              "audio": "stage-test-09_attachments/stage-test-09.mp3",
+              "totalQuestions": 60,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 97 ~ 108",
+              "difficulty": "4.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson97-108",
+                "听力",
+                "词汇",
+                "语法",
+                "阅读"
+              ]
+            },
+            {
+              "id": "lesson-109",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-109.json",
+              "audio": "lesson-109_attachments/lesson-109.mp3",
+              "totalQuestions": 75,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 109 ~ 110",
+              "difficulty": "3.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 109 ~ 110"
+              ]
+            },
+            {
+              "id": "lesson-111",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-111.json",
+              "audio": "lesson-111_attachments/lesson-111.mp3",
+              "totalQuestions": 75,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 111 ~ 112",
+              "difficulty": "4.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 111 ~ 112"
+              ]
+            },
+            {
+              "id": "lesson-113",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-113.json",
+              "audio": "lesson-113_attachments/lesson-113.mp3",
+              "totalQuestions": 77,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 113 ~ 114",
+              "difficulty": "4.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 113 ~ 114"
+              ]
+            },
+            {
+              "id": "lesson-115",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-115.json",
+              "audio": "lesson-115_attachments/lesson-115.mp3",
+              "totalQuestions": 79,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 115 ~ 116",
+              "difficulty": "4.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 115 ~ 116"
+              ]
+            },
+            {
+              "id": "lesson-117",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-117.json",
+              "audio": "lesson-117_attachments/lesson-117.mp3",
+              "totalQuestions": 76,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 117 ~ 118",
+              "difficulty": "4.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 117 ~ 118"
+              ]
+            },
+            {
+              "id": "lesson-119",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-119.json",
+              "audio": "lesson-119_attachments/lesson-119.mp3",
+              "totalQuestions": 82,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 119 ~ 120",
+              "difficulty": "4.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 119 ~ 120"
+              ]
+            },
+            {
+              "id": "stage-test-10",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "stage-test-10.json",
+              "audio": "stage-test-10_attachments/stage-test-10.mp3",
+              "totalQuestions": 56,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 109 ~ 120",
+              "difficulty": "4.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson109-120",
+                "听力",
+                "词汇",
+                "语法",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-121",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-121.json",
+              "audio": "lesson-121_attachments/lesson-121.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 121 ~ 122",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 121 ~ 122"
+              ]
+            },
+            {
+              "id": "lesson-123",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-123.json",
+              "audio": "lesson-123_attachments/lesson-123.mp3",
+              "totalQuestions": 81,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 123 ~ 124",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 123 ~ 124"
+              ]
+            },
+            {
+              "id": "lesson-125",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-125.json",
+              "audio": "lesson-125_attachments/lesson-125.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 125 ~ 126",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 125 ~ 126"
+              ]
+            },
+            {
+              "id": "lesson-127",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-127.json",
+              "audio": "lesson-127_attachments/lesson-127.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 127 ~ 128",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 127 ~ 128"
+              ]
+            },
+            {
+              "id": "lesson-129",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-129.json",
+              "audio": "lesson-129_attachments/lesson-129.mp3",
+              "totalQuestions": 75,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 129 ~ 130",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 129 ~ 130"
+              ]
+            },
+            {
+              "id": "lesson-131",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-131.json",
+              "audio": "lesson-131_attachments/lesson-131.mp3",
+              "totalQuestions": 73,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 131 ~ 132",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 131 ~ 132"
+              ]
+            },
+            {
+              "id": "stage-test-11",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "stage-test-11.json",
+              "audio": "stage-test-11_attachments/stage-test-11.mp3",
+              "totalQuestions": 67,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 121 ~ 132",
+              "difficulty": "4.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson121-132",
+                "听力",
+                "词汇",
+                "语法",
+                "完形"
+              ]
+            },
+            {
+              "id": "lesson-133",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-133.json",
+              "audio": "lesson-133_attachments/lesson-133.mp3",
+              "totalQuestions": 85,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 133 ~ 134",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 133 ~ 134"
+              ]
+            },
+            {
+              "id": "lesson-135",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-135.json",
+              "audio": "lesson-135_attachments/lesson-135.mp3",
+              "totalQuestions": 78,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 135 ~ 136",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 135 ~ 136"
+              ]
+            },
+            {
+              "id": "lesson-137",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-137.json",
+              "audio": "lesson-137_attachments/lesson-137.mp3",
+              "totalQuestions": 81,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 137 ~ 138",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 137 ~ 138"
+              ]
+            },
+            {
+              "id": "lesson-139",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-139.json",
+              "audio": "lesson-139_attachments/lesson-139.mp3",
+              "totalQuestions": 72,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 139 ~ 140",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 139 ~ 140"
+              ]
+            },
+            {
+              "id": "lesson-141",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-141.json",
+              "audio": "lesson-141_attachments/lesson-141.mp3",
+              "totalQuestions": 79,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 141 ~ 142",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 141 ~ 142"
+              ]
+            },
+            {
+              "id": "lesson-143",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "lesson-143.json",
+              "audio": "lesson-143_attachments/lesson-143.mp3",
+              "totalQuestions": 76,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 143 ~ 144",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 143 ~ 144"
+              ]
+            },
+            {
+              "id": "stage-test-12",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "stage-test-12.json",
+              "audio": "stage-test-12_attachments/stage-test-12.mp3",
+              "totalQuestions": 62,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 133 ~ 144",
+              "difficulty": "5.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson133-144",
+                "听力",
+                "词汇",
+                "语法",
+                "完形"
+              ]
+            },
+            {
+              "id": "final-exam",
+              "title": "新概念英语第一册 · 完美演练",
+              "file": "final-exam.json",
+              "audio": "final-exam_attachments/final-exam.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 120,
+              "lessonRange": "Lesson 73 ~ 144",
+              "difficulty": "5.0",
+              "duration": "90分钟",
+              "tags": [
+                "期末测试",
+                "综合",
+                "听力",
+                "词汇",
+                "语法",
+                "完形",
+                "阅读",
+                "写作"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nce2-perfect-practice",
+          "name": "第二册完美演练",
+          "description": "新概念英语第二册 - 完美演练系列题集（课内练习）",
+          "path": "nce/nce2-perfect-practice/",
+          "exams": [
+            {
+              "id": "lesson-001",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-001.json",
+              "audio": "lesson-001_attachments/lesson-001.mp3",
+              "totalQuestions": 54,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 1",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 1"
+              ]
+            },
+            {
+              "id": "lesson-002",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-002.json",
+              "audio": "lesson-002_attachments/lesson-002.mp3",
+              "totalQuestions": 54,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 2",
+              "difficulty": "1.1",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 2"
+              ]
+            },
+            {
+              "id": "lesson-003",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-003.json",
+              "audio": "lesson-003_attachments/lesson-003.mp3",
+              "totalQuestions": 67,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 3",
+              "difficulty": "1.2",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 3"
+              ]
+            },
+            {
+              "id": "lesson-004",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-004.json",
+              "audio": "lesson-004_attachments/lesson-004.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 101.5,
+              "lessonRange": "Lesson 4",
+              "difficulty": "1.3",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 4"
+              ]
+            },
+            {
+              "id": "stage-test-01",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-01.json",
+              "totalQuestions": 70,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 1 ~ 4",
+              "difficulty": "1.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson1-4",
+                "填空",
+                "选择",
+                "判断改错",
+                "句型转换",
+                "翻译",
+                "阅读"
+              ]
+            },
+            {
+              "id": "lesson-005",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-005.json",
+              "audio": "lesson-005_attachments/lesson-005.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 5",
+              "difficulty": "1.4",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 5"
+              ]
+            },
+            {
+              "id": "lesson-006",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-006.json",
+              "audio": "lesson-006_attachments/lesson-006.mp3",
+              "totalQuestions": 71,
+              "totalPoints": 85,
+              "lessonRange": "Lesson 6",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 6"
+              ]
+            },
+            {
+              "id": "lesson-007",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-007.json",
+              "audio": "lesson-007_attachments/lesson-007.mp3",
+              "totalQuestions": 66,
+              "totalPoints": 100.5,
+              "lessonRange": "Lesson 7",
+              "difficulty": "1.6",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 7"
+              ]
+            },
+            {
+              "id": "lesson-008",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-008.json",
+              "audio": "lesson-008_attachments/lesson-008.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 8",
+              "difficulty": "1.7",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 8"
+              ]
+            },
+            {
+              "id": "stage-test-02",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-02.json",
+              "totalQuestions": 62,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 5 ~ 8",
+              "difficulty": "1.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson5-8",
+                "填空",
+                "选择",
+                "判断改错",
+                "句型转换",
+                "翻译",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-009",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-009.json",
+              "audio": "lesson-009_attachments/lesson-009.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 9",
+              "difficulty": "1.8",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 9"
+              ]
+            },
+            {
+              "id": "lesson-010",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-010.json",
+              "audio": "lesson-010_attachments/lesson-010.mp3",
+              "totalQuestions": 53,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 10",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 10"
+              ]
+            },
+            {
+              "id": "lesson-011",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-011.json",
+              "audio": "lesson-011_attachments/lesson-011.mp3",
+              "totalQuestions": 64,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 11",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 11"
+              ]
+            },
+            {
+              "id": "lesson-012",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-012.json",
+              "audio": "lesson-012_attachments/lesson-012.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 105,
+              "lessonRange": "Lesson 12",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 12"
+              ]
+            },
+            {
+              "id": "stage-test-03",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-03.json",
+              "totalQuestions": 62,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 9 ~ 12",
+              "difficulty": "1.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson9-12",
+                "填空",
+                "选择",
+                "判断改错",
+                "句型转换",
+                "翻译",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-013",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-013.json",
+              "audio": "lesson-013_attachments/lesson-013.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 13",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 13"
+              ]
+            },
+            {
+              "id": "lesson-014",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-014.json",
+              "audio": "lesson-014_attachments/lesson-014.mp3",
+              "totalQuestions": 63,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 14",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 14"
+              ]
+            },
+            {
+              "id": "lesson-015",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-015.json",
+              "audio": "lesson-015_attachments/lesson-015.mp3",
+              "totalQuestions": 60,
+              "totalPoints": 104,
+              "lessonRange": "Lesson 15",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 15"
+              ]
+            },
+            {
+              "id": "lesson-016",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-016.json",
+              "audio": "lesson-016_attachments/lesson-016.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 16",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 16"
+              ]
+            },
+            {
+              "id": "stage-test-04",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-04.json",
+              "totalQuestions": 53,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 13 ~ 16",
+              "difficulty": "1.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson13-16",
+                "填空",
+                "选择",
+                "判断改错",
+                "翻译",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-017",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-017.json",
+              "audio": "lesson-017_attachments/lesson-017.mp3",
+              "totalQuestions": 53,
+              "totalPoints": 100.5,
+              "lessonRange": "Lesson 17",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 17"
+              ]
+            },
+            {
+              "id": "lesson-018",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-018.json",
+              "audio": "lesson-018_attachments/lesson-018.mp3",
+              "totalQuestions": 54,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 18",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 18"
+              ]
+            },
+            {
+              "id": "lesson-019",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-019.json",
+              "audio": "lesson-019_attachments/lesson-019.mp3",
+              "totalQuestions": 52,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 19",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 19"
+              ]
+            },
+            {
+              "id": "lesson-020",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-020.json",
+              "audio": "lesson-020_attachments/lesson-020.mp3",
+              "totalQuestions": 57,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 20",
+              "difficulty": "1.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 20"
+              ]
+            },
+            {
+              "id": "stage-test-05",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-05.json",
+              "totalQuestions": 74,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 17 ~ 20",
+              "difficulty": "1.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson17-20",
+                "填空",
+                "选择",
+                "判断改错",
+                "句型转换",
+                "翻译",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-021",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-021.json",
+              "audio": "lesson-021_attachments/lesson-021.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 110,
+              "lessonRange": "Lesson 21",
+              "difficulty": "1.7",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 21"
+              ]
+            },
+            {
+              "id": "lesson-022",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-022.json",
+              "audio": "lesson-022_attachments/lesson-022.mp3",
+              "totalQuestions": 56,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 22",
+              "difficulty": "1.7",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 22"
+              ]
+            },
+            {
+              "id": "lesson-023",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-023.json",
+              "audio": "lesson-023_attachments/lesson-023.mp3",
+              "totalQuestions": 52,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 23",
+              "difficulty": "1.8",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 23"
+              ]
+            },
+            {
+              "id": "lesson-024",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-024.json",
+              "audio": "lesson-024_attachments/lesson-024.mp3",
+              "totalQuestions": 51,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 24",
+              "difficulty": "1.8",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 24"
+              ]
+            },
+            {
+              "id": "stage-test-06",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-06.json",
+              "totalQuestions": 77,
+              "totalPoints": 101,
+              "lessonRange": "Lesson 21 ~ 24",
+              "difficulty": "1.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson21-24",
+                "填空",
+                "选择",
+                "判断改错",
+                "句型转换",
+                "翻译",
+                "阅读",
+                "写作",
+                "补全对话"
+              ]
+            },
+            {
+              "id": "midterm-test-01",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "midterm-test-01.json",
+              "totalQuestions": 64,
+              "totalPoints": 99.5,
+              "lessonRange": "Lesson 1 ~ 24",
+              "difficulty": "5.0",
+              "duration": "90分钟",
+              "tags": [
+                "期中测试",
+                "Lesson1-24",
+                "选择",
+                "填空",
+                "句型转换",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-025",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-025.json",
+              "audio": "lesson-025_attachments/lesson-025.mp3",
+              "totalQuestions": 46,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 25",
+              "difficulty": "1.9",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 25"
+              ]
+            },
+            {
+              "id": "lesson-026",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-026.json",
+              "audio": "lesson-026_attachments/lesson-026.mp3",
+              "totalQuestions": 51,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 26",
+              "difficulty": "1.6",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 26"
+              ]
+            },
+            {
+              "id": "lesson-027",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-027.json",
+              "audio": "lesson-027_attachments/lesson-027.mp3",
+              "totalQuestions": 46,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 27",
+              "difficulty": "1.6",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 27"
+              ]
+            },
+            {
+              "id": "lesson-028",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-028.json",
+              "audio": "lesson-028_attachments/lesson-028.mp3",
+              "totalQuestions": 51,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 28",
+              "difficulty": "1.7",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 28"
+              ]
+            },
+            {
+              "id": "stage-test-07",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-07.json",
+              "totalQuestions": 78,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 25 ~ 28",
+              "difficulty": "2.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson25-28",
+                "填空",
+                "选择",
+                "判断改错",
+                "句型转换",
+                "翻译",
+                "阅读",
+                "写作",
+                "补全对话"
+              ]
+            },
+            {
+              "id": "lesson-029",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-029.json",
+              "audio": "lesson-029_attachments/lesson-029.mp3",
+              "totalQuestions": 51,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 29",
+              "difficulty": "1.7",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 29"
+              ]
+            },
+            {
+              "id": "lesson-030",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-030.json",
+              "audio": "lesson-030_attachments/lesson-030.mp3",
+              "totalQuestions": 51,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 30",
+              "difficulty": "1.8",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 30"
+              ]
+            },
+            {
+              "id": "lesson-031",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-031.json",
+              "audio": "lesson-031_attachments/lesson-031.mp3",
+              "totalQuestions": 51,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 31",
+              "difficulty": "1.8",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 31"
+              ]
+            },
+            {
+              "id": "lesson-032",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-032.json",
+              "audio": "lesson-032_attachments/lesson-032.mp3",
+              "totalQuestions": 51,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 32",
+              "difficulty": "1.9",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 32"
+              ]
+            },
+            {
+              "id": "stage-test-08",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-08.json",
+              "totalQuestions": 76,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 29 ~ 32",
+              "difficulty": "2.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson29-32",
+                "填空",
+                "选择",
+                "判断改错",
+                "句型转换",
+                "翻译",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-033",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-033.json",
+              "audio": "lesson-033_attachments/lesson-033.mp3",
+              "totalQuestions": 51,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 33",
+              "difficulty": "2.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 33"
+              ]
+            },
+            {
+              "id": "lesson-034",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-034.json",
+              "audio": "lesson-034_attachments/lesson-034.mp3",
+              "totalQuestions": 52,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 34",
+              "difficulty": "2.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 34"
+              ]
+            },
+            {
+              "id": "lesson-035",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-035.json",
+              "audio": "lesson-035_attachments/lesson-035.mp3",
+              "totalQuestions": 52,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 35",
+              "difficulty": "2.1",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 35"
+              ]
+            },
+            {
+              "id": "lesson-036",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-036.json",
+              "audio": "lesson-036_attachments/lesson-036.mp3",
+              "totalQuestions": 52,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 36",
+              "difficulty": "2.1",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 36"
+              ]
+            },
+            {
+              "id": "stage-test-09",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-09.json",
+              "totalQuestions": 75,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 33 ~ 36",
+              "difficulty": "2.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson33-36",
+                "填空",
+                "选择",
+                "判断改错",
+                "句型转换",
+                "翻译",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-037",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-037.json",
+              "audio": "lesson-037_attachments/lesson-037.mp3",
+              "totalQuestions": 56,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 37",
+              "difficulty": "2.2",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 37"
+              ]
+            },
+            {
+              "id": "lesson-038",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-038.json",
+              "audio": "lesson-038_attachments/lesson-038.mp3",
+              "totalQuestions": 52,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 38",
+              "difficulty": "2.2",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 38"
+              ]
+            },
+            {
+              "id": "lesson-039",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-039.json",
+              "audio": "lesson-039_attachments/lesson-039.mp3",
+              "totalQuestions": 53,
+              "totalPoints": 110,
+              "lessonRange": "Lesson 39",
+              "difficulty": "2.3",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 39"
+              ]
+            },
+            {
+              "id": "lesson-040",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-040.json",
+              "audio": "lesson-040_attachments/lesson-040.mp3",
+              "totalQuestions": 46,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 40",
+              "difficulty": "2.3",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 40"
+              ]
+            },
+            {
+              "id": "stage-test-10",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-10.json",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 37 ~ 40",
+              "difficulty": "2.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson37-40",
+                "填空",
+                "选择",
+                "判断改错",
+                "翻译",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-041",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-041.json",
+              "audio": "lesson-041_attachments/lesson-041.mp3",
+              "totalQuestions": 65,
+              "totalPoints": 102,
+              "lessonRange": "Lesson 41",
+              "difficulty": "2.4",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 41"
+              ]
+            },
+            {
+              "id": "lesson-042",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-042.json",
+              "audio": "lesson-042_attachments/lesson-042.mp3",
+              "totalQuestions": 46,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 42",
+              "difficulty": "2.4",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 42"
+              ]
+            },
+            {
+              "id": "lesson-043",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-043.json",
+              "audio": "lesson-043_attachments/lesson-043.mp3",
+              "totalQuestions": 55,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 43",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 43"
+              ]
+            },
+            {
+              "id": "lesson-044",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-044.json",
+              "audio": "lesson-044_attachments/lesson-044.mp3",
+              "totalQuestions": 58,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 44",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 44"
+              ]
+            },
+            {
+              "id": "stage-test-11",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-11.json",
+              "totalQuestions": 76,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 41 ~ 44",
+              "difficulty": "2.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson41-44",
+                "填空",
+                "选择",
+                "判断改错",
+                "句型转换",
+                "翻译",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-045",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-045.json",
+              "audio": "lesson-045_attachments/lesson-045.mp3",
+              "totalQuestions": 42,
+              "totalPoints": 115,
+              "lessonRange": "Lesson 45",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 45"
+              ]
+            },
+            {
+              "id": "lesson-046",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-046.json",
+              "audio": "lesson-046_attachments/lesson-046.mp3",
+              "totalQuestions": 56,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 46",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 46"
+              ]
+            },
+            {
+              "id": "lesson-047",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-047.json",
+              "audio": "lesson-047_attachments/lesson-047.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 101,
+              "lessonRange": "Lesson 47",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 47"
+              ]
+            },
+            {
+              "id": "lesson-048",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-048.json",
+              "audio": "lesson-048_attachments/lesson-048.mp3",
+              "totalQuestions": 48,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 48",
+              "difficulty": "2.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 48"
+              ]
+            },
+            {
+              "id": "stage-test-12",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-12.json",
+              "totalQuestions": 70,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 45 ~ 48",
+              "difficulty": "2.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson45-48",
+                "填空",
+                "选择",
+                "判断改错",
+                "句型转换",
+                "翻译",
+                "阅读"
+              ]
+            },
+            {
+              "id": "midterm-test-02",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "midterm-test-02.json",
+              "totalQuestions": 81,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 25 ~ 48",
+              "difficulty": "5.0",
+              "duration": "90分钟",
+              "tags": [
+                "期中测试",
+                "Lesson25-48",
+                "选择",
+                "填空",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-049",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-049.json",
+              "audio": "lesson-049_attachments/lesson-049.mp3",
+              "totalQuestions": 56,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 49",
+              "difficulty": "3.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 49"
+              ]
+            },
+            {
+              "id": "lesson-050",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-050.json",
+              "audio": "lesson-050_attachments/lesson-050.mp3",
+              "totalQuestions": 55,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 50",
+              "difficulty": "3.1",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 50"
+              ]
+            },
+            {
+              "id": "lesson-051",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-051.json",
+              "audio": "lesson-051_attachments/lesson-051.mp3",
+              "totalQuestions": 65,
+              "totalPoints": 100.5,
+              "lessonRange": "Lesson 51",
+              "difficulty": "3.1",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 51"
+              ]
+            },
+            {
+              "id": "lesson-052",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-052.json",
+              "audio": "lesson-052_attachments/lesson-052.mp3",
+              "totalQuestions": 66,
+              "totalPoints": 100.5,
+              "lessonRange": "Lesson 52",
+              "difficulty": "3.2",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 52"
+              ]
+            },
+            {
+              "id": "stage-test-13",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-13.json",
+              "totalQuestions": 90,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 49 ~ 52",
+              "difficulty": "3.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson49-52",
+                "填空",
+                "选择",
+                "判断改错",
+                "句型转换",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-053",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-053.json",
+              "audio": "lesson-053_attachments/lesson-053.mp3",
+              "totalQuestions": 67,
+              "totalPoints": 101,
+              "lessonRange": "Lesson 53",
+              "difficulty": "3.2",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 53"
+              ]
+            },
+            {
+              "id": "lesson-054",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-054.json",
+              "audio": "lesson-054_attachments/lesson-054.mp3",
+              "totalQuestions": 69,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 54",
+              "difficulty": "3.3",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 54"
+              ]
+            },
+            {
+              "id": "lesson-055",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-055.json",
+              "audio": "lesson-055_attachments/lesson-055.mp3",
+              "totalQuestions": 62,
+              "totalPoints": 101.5,
+              "lessonRange": "Lesson 55",
+              "difficulty": "3.3",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 55"
+              ]
+            },
+            {
+              "id": "lesson-056",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-056.json",
+              "audio": "lesson-056_attachments/lesson-056.mp3",
+              "totalQuestions": 64,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 56",
+              "difficulty": "3.4",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 56"
+              ]
+            },
+            {
+              "id": "stage-test-14",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-14.json",
+              "totalQuestions": 86,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 53 ~ 56",
+              "difficulty": "3.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson53-56",
+                "填空",
+                "选择",
+                "翻译",
+                "判断改错",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-057",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-057.json",
+              "audio": "lesson-057_attachments/lesson-057.mp3",
+              "totalQuestions": 60,
+              "totalPoints": 105.5,
+              "lessonRange": "Lesson 57",
+              "difficulty": "3.4",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 57"
+              ]
+            },
+            {
+              "id": "lesson-058",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-058.json",
+              "audio": "lesson-058_attachments/lesson-058.mp3",
+              "totalQuestions": 60,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 58",
+              "difficulty": "3.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 58"
+              ]
+            },
+            {
+              "id": "lesson-059",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-059.json",
+              "audio": "lesson-059_attachments/lesson-059.mp3",
+              "totalQuestions": 55,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 59",
+              "difficulty": "3.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 59"
+              ]
+            },
+            {
+              "id": "lesson-060",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-060.json",
+              "audio": "lesson-060_attachments/lesson-060.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 60",
+              "difficulty": "3.6",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 60"
+              ]
+            },
+            {
+              "id": "stage-test-15",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-15.json",
+              "totalQuestions": 86,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 57 ~ 60",
+              "difficulty": "3.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson57-60",
+                "填空",
+                "选择",
+                "翻译",
+                "判断改错",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-061",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-061.json",
+              "audio": "lesson-061_attachments/lesson-061.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 61",
+              "difficulty": "3.6",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 61"
+              ]
+            },
+            {
+              "id": "lesson-062",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-062.json",
+              "audio": "lesson-062_attachments/lesson-062.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 62",
+              "difficulty": "3.7",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 62"
+              ]
+            },
+            {
+              "id": "lesson-063",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-063.json",
+              "audio": "lesson-063_attachments/lesson-063.mp3",
+              "totalQuestions": 53,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 63",
+              "difficulty": "3.7",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 63"
+              ]
+            },
+            {
+              "id": "lesson-064",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-064.json",
+              "audio": "lesson-064_attachments/lesson-064.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 64",
+              "difficulty": "3.8",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 64"
+              ]
+            },
+            {
+              "id": "stage-test-16",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-16.json",
+              "totalQuestions": 58,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 61 ~ 64",
+              "difficulty": "3.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson61-64",
+                "选择",
+                "填空",
+                "阅读"
+              ]
+            },
+            {
+              "id": "lesson-065",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-065.json",
+              "audio": "lesson-065_attachments/lesson-065.mp3",
+              "totalQuestions": 60,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 65",
+              "difficulty": "3.8",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 65"
+              ]
+            },
+            {
+              "id": "lesson-066",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-066.json",
+              "audio": "lesson-066_attachments/lesson-066.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 66",
+              "difficulty": "3.9",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 66"
+              ]
+            },
+            {
+              "id": "lesson-067",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-067.json",
+              "audio": "lesson-067_attachments/lesson-067.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 67",
+              "difficulty": "3.9",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 67"
+              ]
+            },
+            {
+              "id": "lesson-068",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-068.json",
+              "audio": "lesson-068_attachments/lesson-068.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 68",
+              "difficulty": "4.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 68"
+              ]
+            },
+            {
+              "id": "stage-test-17",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-17.json",
+              "totalQuestions": 55,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 65 ~ 68",
+              "difficulty": "3.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson65-68",
+                "选择",
+                "填空",
+                "阅读"
+              ]
+            },
+            {
+              "id": "lesson-069",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-069.json",
+              "audio": "lesson-069_attachments/lesson-069.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 69",
+              "difficulty": "4.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 69"
+              ]
+            },
+            {
+              "id": "lesson-070",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-070.json",
+              "audio": "lesson-070_attachments/lesson-070.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 70",
+              "difficulty": "4.1",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 70"
+              ]
+            },
+            {
+              "id": "lesson-071",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-071.json",
+              "audio": "lesson-071_attachments/lesson-071.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 71",
+              "difficulty": "4.1",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 71"
+              ]
+            },
+            {
+              "id": "lesson-072",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-072.json",
+              "audio": "lesson-072_attachments/lesson-072.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 72",
+              "difficulty": "4.2",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 72"
+              ]
+            },
+            {
+              "id": "stage-test-18",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-18.json",
+              "totalQuestions": 56,
+              "totalPoints": 101,
+              "lessonRange": "Lesson 69 ~ 72",
+              "difficulty": "3.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson69-72",
+                "选择",
+                "填空",
+                "阅读"
+              ]
+            },
+            {
+              "id": "midterm-test-03",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "midterm-test-03.json",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 49 ~ 72",
+              "difficulty": "5.0",
+              "duration": "90分钟",
+              "tags": [
+                "期中测试",
+                "Lesson49-72",
+                "翻译",
+                "选择",
+                "补全对话",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-073",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-073.json",
+              "audio": "lesson-073_attachments/lesson-073.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 73",
+              "difficulty": "4.2",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 73"
+              ]
+            },
+            {
+              "id": "lesson-074",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-074.json",
+              "audio": "lesson-074_attachments/lesson-074.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 74",
+              "difficulty": "4.3",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 74"
+              ]
+            },
+            {
+              "id": "lesson-075",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-075.json",
+              "audio": "lesson-075_attachments/lesson-075.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 75",
+              "difficulty": "4.3",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 75"
+              ]
+            },
+            {
+              "id": "lesson-076",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-076.json",
+              "audio": "lesson-076_attachments/lesson-076.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 76",
+              "difficulty": "4.4",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 76"
+              ]
+            },
+            {
+              "id": "stage-test-19",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-19.json",
+              "totalQuestions": 54,
+              "totalPoints": 100.5,
+              "lessonRange": "Lesson 73 ~ 76",
+              "difficulty": "4.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson73-76",
+                "选择",
+                "填空",
+                "阅读"
+              ]
+            },
+            {
+              "id": "lesson-077",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-077.json",
+              "audio": "lesson-077_attachments/lesson-077.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 77",
+              "difficulty": "4.4",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 77"
+              ]
+            },
+            {
+              "id": "lesson-078",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-078.json",
+              "audio": "lesson-078_attachments/lesson-078.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 78",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 78"
+              ]
+            },
+            {
+              "id": "lesson-079",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-079.json",
+              "audio": "lesson-079_attachments/lesson-079.mp3",
+              "totalQuestions": 62,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 79",
+              "difficulty": "4.5",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 79"
+              ]
+            },
+            {
+              "id": "lesson-080",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-080.json",
+              "audio": "lesson-080_attachments/lesson-080.mp3",
+              "totalQuestions": 57,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 80",
+              "difficulty": "4.6",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 80"
+              ]
+            },
+            {
+              "id": "stage-test-20",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-20.json",
+              "totalQuestions": 54,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 77 ~ 80",
+              "difficulty": "4.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson77-80",
+                "选择",
+                "填空",
+                "阅读"
+              ]
+            },
+            {
+              "id": "lesson-081",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-081.json",
+              "audio": "lesson-081_attachments/lesson-081.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 81",
+              "difficulty": "4.6",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 81"
+              ]
+            },
+            {
+              "id": "lesson-082",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-082.json",
+              "audio": "lesson-082_attachments/lesson-082.mp3",
+              "totalQuestions": 53,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 82",
+              "difficulty": "4.7",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 82"
+              ]
+            },
+            {
+              "id": "lesson-083",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-083.json",
+              "audio": "lesson-083_attachments/lesson-083.mp3",
+              "totalQuestions": 53,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 83",
+              "difficulty": "4.7",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 83"
+              ]
+            },
+            {
+              "id": "lesson-084",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-084.json",
+              "audio": "lesson-084_attachments/lesson-084.mp3",
+              "totalQuestions": 58,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 84",
+              "difficulty": "4.8",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 84"
+              ]
+            },
+            {
+              "id": "stage-test-21",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-21.json",
+              "totalQuestions": 46,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 81 ~ 84",
+              "difficulty": "4.0",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson81-84",
+                "选择",
+                "填空",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-085",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-085.json",
+              "audio": "lesson-085_attachments/lesson-085.mp3",
+              "totalQuestions": 59,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 85",
+              "difficulty": "4.8",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 85"
+              ]
+            },
+            {
+              "id": "lesson-086",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-086.json",
+              "audio": "lesson-086_attachments/lesson-086.mp3",
+              "totalQuestions": 62,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 86",
+              "difficulty": "4.9",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 86"
+              ]
+            },
+            {
+              "id": "lesson-087",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-087.json",
+              "audio": "lesson-087_attachments/lesson-087.mp3",
+              "totalQuestions": 63,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 87",
+              "difficulty": "4.9",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 87"
+              ]
+            },
+            {
+              "id": "lesson-088",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-088.json",
+              "audio": "lesson-088_attachments/lesson-088.mp3",
+              "totalQuestions": 58,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 88",
+              "difficulty": "5.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 88"
+              ]
+            },
+            {
+              "id": "stage-test-22",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-22.json",
+              "totalQuestions": 46,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 85 ~ 88",
+              "difficulty": "4.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson85-88",
+                "选择",
+                "填空",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-089",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-089.json",
+              "audio": "lesson-089_attachments/lesson-089.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 89",
+              "difficulty": "5.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 89"
+              ]
+            },
+            {
+              "id": "lesson-090",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-090.json",
+              "audio": "lesson-090_attachments/lesson-090.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 90",
+              "difficulty": "5.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 90"
+              ]
+            },
+            {
+              "id": "lesson-091",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-091.json",
+              "audio": "lesson-091_attachments/lesson-091.mp3",
+              "totalQuestions": 61,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 91",
+              "difficulty": "5.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 91"
+              ]
+            },
+            {
+              "id": "lesson-092",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-092.json",
+              "audio": "lesson-092_attachments/lesson-092.mp3",
+              "totalQuestions": 56,
+              "totalPoints": 101.5,
+              "lessonRange": "Lesson 92",
+              "difficulty": "5.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 92"
+              ]
+            },
+            {
+              "id": "stage-test-23",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-23.json",
+              "totalQuestions": 46,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 89 ~ 92",
+              "difficulty": "4.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson89-92",
+                "选择",
+                "填空",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "lesson-093",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-093.json",
+              "audio": "lesson-093_attachments/lesson-093.mp3",
+              "totalQuestions": 58,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 93",
+              "difficulty": "5.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 93"
+              ]
+            },
+            {
+              "id": "lesson-094",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-094.json",
+              "audio": "lesson-094_attachments/lesson-094.mp3",
+              "totalQuestions": 63,
+              "totalPoints": 101,
+              "lessonRange": "Lesson 94",
+              "difficulty": "5.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 94"
+              ]
+            },
+            {
+              "id": "lesson-095",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-095.json",
+              "audio": "lesson-095_attachments/lesson-095.mp3",
+              "totalQuestions": 53,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 95",
+              "difficulty": "5.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 95"
+              ]
+            },
+            {
+              "id": "lesson-096",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "lesson-096.json",
+              "audio": "lesson-096_attachments/lesson-096.mp3",
+              "totalQuestions": 56,
+              "totalPoints": 85,
+              "lessonRange": "Lesson 96",
+              "difficulty": "5.0",
+              "duration": "约30分钟",
+              "tags": [
+                "课内练习",
+                "Lesson 96"
+              ]
+            },
+            {
+              "id": "stage-test-24",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "stage-test-24.json",
+              "totalQuestions": 51,
+              "totalPoints": 100,
+              "lessonRange": "Lesson 93 ~ 96",
+              "difficulty": "4.5",
+              "duration": "60分钟",
+              "tags": [
+                "阶段测试",
+                "Lesson93-96",
+                "选择",
+                "填空",
+                "阅读",
+                "写作"
+              ]
+            },
+            {
+              "id": "final-exam",
+              "title": "新概念英语第二册 · 完美演练",
+              "file": "final-exam.json",
+              "totalQuestions": 93,
+              "totalPoints": 101,
+              "lessonRange": "Lesson 73 ~ 96",
+              "difficulty": "1.0",
+              "duration": "90分钟",
+              "tags": [
+                "期末测试",
+                "Lesson73-96",
+                "选择",
+                "填空",
+                "句型转换",
+                "阅读",
+                "写作"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "misc",
+      "name": "综合题库",
+      "description": "诗词竞赛等综合类题集",
+      "series": [
+        {
+          "id": "poetry-contest",
+          "name": "诗词竞赛",
+          "description": "小学诗词知识竞赛：必答题（文学常识单选）+ 抢答题（诗句接龙填空）",
+          "path": "misc/poetry-contest/",
+          "exams": [
+            {
+              "id": "poetry-contest-01",
+              "title": "诗词竞赛 · 必答题（文学常识 60 题）",
+              "file": "poetry-contest-01.json",
+              "totalQuestions": 60,
+              "totalPoints": 600,
+              "lessonRange": "古诗词文学常识 + 《西游记》名著常识",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "竞赛",
+                "必答题 · 文学常识"
+              ]
+            },
+            {
+              "id": "poetry-contest-02",
+              "title": "诗词竞赛 · 抢答题（诗句接龙 60 题）",
+              "file": "poetry-contest-02.json",
+              "totalQuestions": 60,
+              "totalPoints": 60,
+              "lessonRange": "古诗 / 三字经 / 弟子规 诗句接龙",
+              "difficulty": "1.0",
+              "duration": "约30分钟",
+              "tags": [
+                "竞赛",
+                "抢答题 · 诗句接龙"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

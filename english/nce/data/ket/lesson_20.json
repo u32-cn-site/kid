@@ -1,0 +1,420 @@
+{
+    "lesson": 20,
+    "title": [
+        "Let's go camping!",
+        "我们去露营吧！"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Monday 30 June",
+                "6月30日，星期一"
+            ],
+            [
+                "Elyse: Good evening!",
+                "伊莉斯：晚上好！"
+            ],
+            [
+                "How're you guys doing tonight?",
+                "你们今晚过得怎么样？"
+            ],
+            [
+                "Anna: I'm very good.",
+                "安娜：我非常好。"
+            ],
+            [
+                "I just finished my homework.",
+                "我刚做完作业。"
+            ],
+            [
+                "Bradley: Me too.",
+                "布拉德利：我也是。"
+            ],
+            [
+                "How about you?",
+                "你呢？"
+            ],
+            [
+                "Elyse: I'm checking my weekly schedule...I'm afraid that I can't go on Friday around midday as we planned before.",
+                "伊莉斯：我正在查看我的周计划表……恐怕我不能像我们之前计划的那样周五中午左右去了。"
+            ],
+            [
+                "I forgot that day I have to see a doctor in the afternoon.",
+                "我忘了那天下午我得去看医生。"
+            ],
+            [
+                "Can we leave on Saturday morning?",
+                "我们能周六早上出发吗？"
+            ],
+            [
+                "Bradley: Is it possible that you'll visit the doctor before that day?",
+                "布拉德利：你有可能在那天之前去看医生吗？"
+            ],
+            [
+                "The weather forecast shows it will be cloudy and foggy on Saturday.",
+                "天气预报显示周六会多云有雾。"
+            ],
+            [
+                "We won't be able to see the beautiful full moon and the stars if we arrive one day later.",
+                "如果我们晚一天到，就看不到美丽的满月和星星了。"
+            ],
+            [
+                "Elyse: Maybe visiting a doctor can be next week.",
+                "伊莉斯：也许看医生可以安排在下周。"
+            ],
+            [
+                "I'll confirm it by Wednesday!",
+                "我会在周三之前确认！"
+            ],
+            [
+                "Tuesday 1 July",
+                "7月1日，星期二"
+            ],
+            [
+                "Elyse: I have changed the time to visit the doctor so we can leave at noon on Friday!",
+                "伊莉斯：我已经改了看医生的时间，这样我们周五中午就可以出发了！"
+            ],
+            [
+                "I will drop by the grocery store on Thursday after class.",
+                "我周四下课后会顺便去杂货店。"
+            ],
+            [
+                "Anna: Cool!",
+                "安娜：太棒了！"
+            ],
+            [
+                "I'll go with you.",
+                "我和你一起去。"
+            ],
+            [
+                "I've got everything ready except for the food and drinks.",
+                "除了食物和饮料，我都准备好了。"
+            ],
+            [
+                "Bradley: Great!",
+                "布拉德利：太好了！"
+            ],
+            [
+                "There's still enough space in my backpack so we can get much food.",
+                "我的背包里还有足够的空间，所以我们可以买很多食物。"
+            ],
+            [
+                "Sunday 6 July",
+                "7月6日，星期日"
+            ],
+            [
+                "Anna: The trip was fantastic!",
+                "安娜：这次旅行太棒了！"
+            ],
+            [
+                "Can you guys send pictures of us in the mountain forest and by the Silver Lake?",
+                "你们能把我们在山林里和银湖边的照片发过来吗？"
+            ],
+            [
+                "Also the ones on the grass field!",
+                "还有在草地上的那些！"
+            ],
+            [
+                "I want to share those great moments on my social media.",
+                "我想在我的社交媒体上分享这些美好的时刻。"
+            ],
+            [
+                "Bradley: Sure!",
+                "布拉德利：当然！"
+            ],
+            [
+                "It must be one of my favourite camping trips.",
+                "这肯定是我最喜欢的露营旅行之一。"
+            ],
+            [
+                "We're so lucky that the clouds and fog were blown away.",
+                "我们太幸运了，云雾都被吹散了。"
+            ],
+            [
+                "Elyse: It's always nice to be in nature, especially with you guys!",
+                "伊莉斯：置身大自然总是很美好，尤其是和你们在一起！"
+            ],
+            [
+                "Maybe we should plan an island trip next time!",
+                "也许下次我们应该计划一次岛屿之旅！"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "Monday",
+            "n.",
+            "星期一"
+        ],
+        [
+            "evening",
+            "n.",
+            "晚上；傍晚"
+        ],
+        [
+            "in the evening",
+            "",
+            "在晚上"
+        ],
+        [
+            "tonight",
+            "adv.",
+            "在今晚，在今夜"
+        ],
+        [
+            "weekly",
+            "adj.",
+            "每周的"
+        ],
+        [
+            "weekly meetings",
+            "",
+            "周会"
+        ],
+        [
+            "Friday",
+            "n.",
+            "星期五"
+        ],
+        [
+            "Friday evening",
+            "",
+            "星期五晚上"
+        ],
+        [
+            "midday",
+            "n.",
+            "中午，正午"
+        ],
+        [
+            "at midday",
+            "",
+            "在中午"
+        ],
+        [
+            "before",
+            "prep.",
+            "在……之前"
+        ],
+        [
+            "before",
+            "adv.",
+            "以前"
+        ],
+        [
+            "before",
+            "conj.",
+            "在……以前"
+        ],
+        [
+            "the day before yesterday",
+            "",
+            "前天"
+        ],
+        [
+            "Saturday",
+            "n.",
+            "星期六"
+        ],
+        [
+            "morning",
+            "n.",
+            "早晨；上午"
+        ],
+        [
+            "in the morning",
+            "",
+            "在早晨"
+        ],
+        [
+            "cloudy",
+            "adj.",
+            "多云的"
+        ],
+        [
+            "a grey, cloudy day",
+            "",
+            "灰暗多云的一天"
+        ],
+        [
+            "foggy",
+            "adj.",
+            "有雾的"
+        ],
+        [
+            "a foggy road",
+            "",
+            "雾茫茫的道路"
+        ],
+        [
+            "moon",
+            "n.",
+            "月亮；月球"
+        ],
+        [
+            "star",
+            "n.",
+            "星；明星"
+        ],
+        [
+            "camped out under the stars",
+            "",
+            "我们露天宿营"
+        ],
+        [
+            "weekday",
+            "n.",
+            "工作日"
+        ],
+        [
+            "on a weekday",
+            "",
+            "在工作日"
+        ],
+        [
+            "Wednesday",
+            "n.",
+            "星期三"
+        ],
+        [
+            "Tuesday",
+            "n.",
+            "星期二"
+        ],
+        [
+            "noon",
+            "n.",
+            "中午；正午"
+        ],
+        [
+            "at noon",
+            "",
+            "在中午"
+        ],
+        [
+            "Thursday",
+            "n.",
+            "星期四"
+        ],
+        [
+            "except",
+            "prep.",
+            "除……之外"
+        ],
+        [
+            "except",
+            "conj.",
+            "除了"
+        ],
+        [
+            "space",
+            "n.",
+            "空间；太空"
+        ],
+        [
+            "make space for",
+            "",
+            "为……腾地方"
+        ],
+        [
+            "Sunday",
+            "n.",
+            "星期日"
+        ],
+        [
+            "mountain",
+            "n.",
+            "高山"
+        ],
+        [
+            "climb a mountain",
+            "",
+            "爬山"
+        ],
+        [
+            "forest",
+            "n.",
+            "森林"
+        ],
+        [
+            "a forest fire",
+            "",
+            "森林火灾"
+        ],
+        [
+            "silver",
+            "adj.",
+            "银色的"
+        ],
+        [
+            "silver",
+            "n.",
+            "银"
+        ],
+        [
+            "silver hair",
+            "",
+            "银发"
+        ],
+        [
+            "lake",
+            "n.",
+            "湖"
+        ],
+        [
+            "grass",
+            "n.",
+            "草；草地"
+        ],
+        [
+            "on the grass",
+            "",
+            "在草地上"
+        ],
+        [
+            "field",
+            "n.",
+            "田地；领域"
+        ],
+        [
+            "a field of wheat",
+            "",
+            "一片麦田"
+        ],
+        [
+            "moment",
+            "n.",
+            "片刻；瞬间"
+        ],
+        [
+            "must",
+            "v.",
+            "必须；一定"
+        ],
+        [
+            "cloud",
+            "n.",
+            "云；云朵"
+        ],
+        [
+            "fog",
+            "n.",
+            "雾"
+        ],
+        [
+            "nature",
+            "n.",
+            "自然"
+        ],
+        [
+            "the beauties of nature",
+            "",
+            "自然界中美好的事物"
+        ],
+        [
+            "island",
+            "n.",
+            "岛"
+        ]
+    ]
+}

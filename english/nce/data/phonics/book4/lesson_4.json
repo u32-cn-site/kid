@@ -1,0 +1,31 @@
+{
+    "lesson": 4,
+    "title": ["Unit 4", "第4单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["shell", "", "贝壳"],
+        ["I found a pretty shell.", "", "我找到一个漂亮的贝壳。"],
+        ["fish", "", "鱼"],
+        ["The fish swims in water.", "", "鱼儿在水里游泳。"],
+        ["ship", "", "船"],
+        ["The ship sails on the sea.", "", "船在海上航行。"],
+        ["brush", "", "刷子"],
+        ["I brush my teeth.", "", "我刷牙。"],
+        ["chick", "", "小鸡"],
+        ["The chick says \"peep\".", "", "小鸡「叽叽」叫。"],
+        ["lunch", "", "午餐"],
+        ["I eat lunch at school.", "", "我在学校吃午餐。"],
+        ["watch", "", "手表"],
+        ["My watch tells time.", "", "我的手表显示时间。"],
+        ["catch", "", "抓住"],
+        ["I catch the ball.", "", "我接住球。"],
+        ["phone", "", "电话"],
+        ["I talk on the phone.", "", "我打电话。"],
+        ["dolphin", "", "海豚"],
+        ["The dolphin jumps high.", "", "海豚跳得很高。"],
+        ["whale", "", "鲸鱼"],
+        ["The whale is very big.", "", "鲸鱼非常大。"],
+        ["white", "", "白色"],
+        ["Snow is white.", "", "雪是白色的。"]
+    ]
+}

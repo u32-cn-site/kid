@@ -1,0 +1,400 @@
+{
+    "lesson": 26,
+    "title": [
+        "Eric's Travel Journal (2)",
+        "埃里克的旅行日志（2）"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "17th July 2019",
+                "2019年7月17日"
+            ],
+            [
+                "Today is the third day of our journey.",
+                "今天是我们旅程的第三天。"
+            ],
+            [
+                "Yesterday we went on a city tour.",
+                "昨天我们进行了城市游览。"
+            ],
+            [
+                "The tour guide was very nice.",
+                "导游非常好。"
+            ],
+            [
+                "She took us around the old town and showed us some landmarks, including the city hall, the central station, the harbour, and some beautiful old churches.",
+                "她带我们游览了老城区，给我们展示了一些地标，包括市政厅、中央车站、港口以及一些漂亮的古老教堂。"
+            ],
+            [
+                "We came back to the guest-house after dinner.",
+                "晚饭后我们回到了宾馆。"
+            ],
+            [
+                "Mum couldn't find her purse in the room.",
+                "妈妈在房间里找不到她的钱包了。"
+            ],
+            [
+                "She was very worried because if her ID card and driving licence were stolen, she would get in trouble.",
+                "她非常担心，因为如果她的身份证和驾照被偷了，她会有麻烦。"
+            ],
+            [
+                "She called the local restaurant we had been to and luckily, a waiter found it.",
+                "她给我们去过的当地餐馆打了电话，幸运的是，一个服务员找到了它。"
+            ],
+            [
+                "She hurried to return to the restaurant and got it back.",
+                "她赶紧回到餐馆把它拿了回来。"
+            ],
+            [
+                "Mum said there're always more good than bad in the world.",
+                "妈妈说世界上总是好事比坏事多。"
+            ],
+            [
+                "What an experience!",
+                "真是一次难忘的经历！"
+            ],
+            [
+                "Today we visited a zoo and an aquarium(水族馆).",
+                "今天我们参观了一个动物园和一个水族馆。"
+            ],
+            [
+                "We saw many animals.",
+                "我们看到了许多动物。"
+            ],
+            [
+                "My favourite is the elephant and Jenny's favourite is the dolphin.",
+                "我最喜欢的是大象，珍妮最喜欢的是海豚。"
+            ],
+            [
+                "Jenny was quite surprised to know dolphins are whales, but I already learned about it in my science class.",
+                "珍妮很惊讶地知道海豚是鲸类，但我在科学课上已经学过了。"
+            ],
+            [
+                "We had a good time there and we didn't leave until six.",
+                "我们在那里玩得很开心，直到六点才离开。"
+            ],
+            [
+                "Tomorrow we will spend all day driving to a national park.",
+                "明天我们将花一整天开车去一个国家公园。"
+            ],
+            [
+                "It's far away from the city but the view of nature is great.",
+                "它离城市很远，但自然风光很棒。"
+            ],
+            [
+                "We will go camping at a campsite in the forest.",
+                "我们将在森林里的露营地露营。"
+            ],
+            [
+                "Dad told us that we might see wild animals on the motorway!",
+                "爸爸告诉我们在高速公路上可能会看到野生动物！"
+            ],
+            [
+                "He also promised that he would tell us stories about the brave explorers who discovered the land.",
+                "他还承诺会给我们讲那些发现这片土地的勇敢探险家的故事。"
+            ],
+            [
+                "I hope we can arrive before the sun goes down—I don't want to miss the beautiful sunset!",
+                "我希望我们能在太阳下山前到达——我不想错过美丽的日落！"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "yesterday",
+            "n. & adv.",
+            "昨天"
+        ],
+        [
+            "tour",
+            "n.",
+            "旅游，旅行"
+        ],
+        [
+            "tour guide",
+            "",
+            "导游"
+        ],
+        [
+            "station",
+            "n.",
+            "车站；站"
+        ],
+        [
+            "railway station",
+            "",
+            "火车站"
+        ],
+        [
+            "harbour",
+            "n.",
+            "海港，港口"
+        ],
+        [
+            "The town has a small natural harbour.",
+            "",
+            "这座城镇有一个小型的天然港口。"
+        ],
+        [
+            "come",
+            "v.",
+            "来；来到"
+        ],
+        [
+            "come back",
+            "",
+            "回来；返回"
+        ],
+        [
+            "ID card",
+            "",
+            "身份证"
+        ],
+        [
+            "identity card/identification card",
+            "",
+            "身份证"
+        ],
+        [
+            "drive",
+            "v.",
+            "驾驶；开车"
+        ],
+        [
+            "drive",
+            "n.",
+            "驱车旅行；驾车路程"
+        ],
+        [
+            "Let's go for a drive.",
+            "",
+            "咱们开车去兜风吧。"
+        ],
+        [
+            "licence",
+            "n.",
+            "许可证；执照"
+        ],
+        [
+            "a driving licence",
+            "",
+            "驾驶执照"
+        ],
+        [
+            "steal",
+            "v.",
+            "偷；窃取（过去式 stole；过去分词 stolen）"
+        ],
+        [
+            "My wallet was stolen.",
+            "",
+            "我的钱包被偷了。"
+        ],
+        [
+            "trouble",
+            "n.",
+            "麻烦；困难；故障"
+        ],
+        [
+            "get in trouble",
+            "",
+            "陷入困境；惹上麻烦"
+        ],
+        [
+            "local",
+            "adj.",
+            "当地的；本地的"
+        ],
+        [
+            "hurry",
+            "v.",
+            "仓促；匆忙，急忙"
+        ],
+        [
+            "The kids hurried to open their presents.",
+            "",
+            "孩子们急忙打开了礼物。"
+        ],
+        [
+            "return",
+            "n. & v.",
+            "返回；退还"
+        ],
+        [
+            "I waited a long time for him to return.",
+            "",
+            "我等他回来等了很长时间。"
+        ],
+        [
+            "experience",
+            "n.",
+            "经验；经历；体验"
+        ],
+        [
+            "We all learn by experience.",
+            "",
+            "我们都从经验中学习。"
+        ],
+        [
+            "visit",
+            "v. & n.",
+            "访问，参观"
+        ],
+        [
+            "pay a visit",
+            "",
+            "进行访问"
+        ],
+        [
+            "zoo",
+            "n.",
+            "动物园"
+        ],
+        [
+            "animal",
+            "n.",
+            "动物"
+        ],
+        [
+            "elephant",
+            "n.",
+            "象"
+        ],
+        [
+            "a baby elephant",
+            "",
+            "幼象"
+        ],
+        [
+            "dolphin",
+            "n.",
+            "海豚"
+        ],
+        [
+            "whale",
+            "n.",
+            "鲸"
+        ],
+        [
+            "a blue whale",
+            "",
+            "蓝鲸"
+        ],
+        [
+            "already",
+            "adv.",
+            "已经，早已"
+        ],
+        [
+            "I'm already late.",
+            "",
+            "我已经迟到了。"
+        ],
+        [
+            "leave",
+            "v.",
+            "离开；留下（过去式/过去分词 left）"
+        ],
+        [
+            "I left my bags in the car.",
+            "",
+            "我把包留在车里了。"
+        ],
+        [
+            "until",
+            "prep.",
+            "直到……为止"
+        ],
+        [
+            "Until 2004, she lived in Canada.",
+            "",
+            "直到2004年，她一直住在加拿大。"
+        ],
+        [
+            "far",
+            "adj.",
+            "远的；久远的"
+        ],
+        [
+            "away",
+            "adv.",
+            "离开"
+        ],
+        [
+            "be far away from",
+            "",
+            "离……很远"
+        ],
+        [
+            "camp",
+            "v.",
+            "露营；扎营"
+        ],
+        [
+            "They go camping every year.",
+            "",
+            "他们每年去野营。"
+        ],
+        [
+            "campsite",
+            "n.",
+            "野营地"
+        ],
+        [
+            "campsite",
+            "",
+            "camp（露营）+site（地点）"
+        ],
+        [
+            "wild",
+            "adj.",
+            "野生的"
+        ],
+        [
+            "wild animals",
+            "",
+            "野生动物"
+        ],
+        [
+            "motorway",
+            "n.",
+            "高速公路"
+        ],
+        [
+            "motorway",
+            "",
+            "motorway一般用于英式英语中，美式英语中一般使用highway。"
+        ],
+        [
+            "motorway",
+            "",
+            "motor（汽车）+way（道路）"
+        ],
+        [
+            "brave",
+            "adj.",
+            "勇敢的，无畏的"
+        ],
+        [
+            "Be brave!",
+            "",
+            "勇敢一些！"
+        ],
+        [
+            "explorer",
+            "n.",
+            "探险者"
+        ],
+        [
+            "miss",
+            "v.",
+            "错过；思念"
+        ],
+        [
+            "If I don't leave now I'll miss my plane.",
+            "",
+            "现在不走，我就赶不上飞机了。"
+        ]
+    ]
+}

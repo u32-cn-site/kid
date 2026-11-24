@@ -1,0 +1,533 @@
+{
+ "lesson": 96,
+ "title": [
+  "Wind and Fog",
+  "风与雾"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "\"I hope we reach the Western Paradise soon,\" said the Tang Monk.",
+    "“我希望我们能尽快到达西天乐园，”唐僧说道。"
+   ],
+   [
+    "\"This journey has been very dangerous.\"",
+    "“这段旅程非常危险。”"
+   ],
+   [
+    "Bajie nodded.",
+    "Bajie点了点头。"
+   ],
+   [
+    "\"Those three demons tried to pickle me!\"",
+    "“那三个恶魔试图陷害我！”"
+   ],
+   [
+    "Everybody laughed, even Bajie.",
+    "所有人都笑了，就连八戒也不例外。"
+   ],
+   [
+    "\"Wukong, what happened to those demons?\" asked Wujing.",
+    "“悟空，那些恶魔发生了什么事？”武静问道。"
+   ],
+   [
+    "\"Buddha took them away,\" said Wukong.",
+    "“佛祖把它们拿走了，”悟空说道。"
+   ],
+   [
+    "\"I'm sure they were punished.\"",
+    "“我确信他们受到了惩罚。”"
+   ],
+   [
+    "\"Thank you again for saving us,\" said the Tang Monk.",
+    "“再次感谢你们救了我们，”唐僧说道。"
+   ],
+   [
+    "Wukong waved his hand.",
+    "孙悟空挥了挥手。"
+   ],
+   [
+    "\"It was nothing, Master.",
+    "“没什么，大师。”"
+   ],
+   [
+    "Buddha did most of the work.\"",
+    "“大部分工作都是佛祖完成的。”"
+   ],
+   [
+    "The group felt a strong wind blow down from the mountains up ahead.",
+    "小组感觉到一阵强劲的风从前方山上吹下来。"
+   ],
+   [
+    "A dark fog filled the sky and then disappeared.",
+    "一片浓重的雾气弥漫了天空，随后又消失了。"
+   ],
+   [
+    "The Tang Monk was nervous.",
+    "唐僧很紧张。"
+   ],
+   [
+    "\"Wh-what caused that wind and fog?\"",
+    "“那股风和雾到底是什么原因造成的？”"
+   ],
+   [
+    "\"Relax, Master,\" said Wukong.",
+    "“放松点，师父，”悟空说道。"
+   ],
+   [
+    "\"I'm sure it was something harmless—maybe some small demons.",
+    "“我肯定那只是些无害的东西——也许是一些小恶魔而已。”"
+   ],
+   [
+    "I'll go check.\"",
+    "我去看看。“"
+   ],
+   [
+    "The monkey walked up the road and around a bend.",
+    "猴子沿着道路走去，然后绕过了一个弯道。"
+   ],
+   [
+    "He heard laughter and looked up.",
+    "他听到笑声，便抬起头来。"
+   ],
+   [
+    "High above the road, a fat monster was sitting on the edge of a cliff.",
+    "在公路的高处，一个肥胖的怪物正坐在悬崖的边缘。"
+   ],
+   [
+    "Several little demons sat next to the monster.",
+    "几个小恶魔坐在那只怪物旁边。"
+   ],
+   [
+    "Wukong flew up to get a closer look.",
+    "孙悟空飞上去仔细看了看。"
+   ],
+   [
+    "The fat monster appeared to be concentrating.",
+    "那个胖怪物看起来正在集中注意力。"
+   ],
+   [
+    "Suddenly . . .",
+    "突然……"
+   ],
+   [
+    "\"Braap!",
+    "“布拉普！”"
+   ],
+   [
+    "A burp as loud as thunder blew down the mountain.",
+    "一声响如雷鸣的打嗝声从山顶传了下来。"
+   ],
+   [
+    "The demons giggled and laughed.",
+    "那些恶魔们发出咯咯的笑声。"
+   ],
+   [
+    "\"That was your best burp yet!\" cried one demon.",
+    "“那是你至今最厉害的打嗝！”一个恶魔喊道。"
+   ],
+   [
+    "The monster patted his belly.",
+    "怪物拍了拍自己的肚子。"
+   ],
+   [
+    "\"Yes, I'm proud of that one.\"",
+    "“是的，我为那件事感到骄傲。”"
+   ],
+   [
+    "\"Show us the fog again!\" said another demon.",
+    "“再给我们看看那团雾吧！”另一个恶魔说道。"
+   ],
+   [
+    "\"Coming right up!\" said the monster.",
+    "“马上就到！”怪兽说道。"
+   ],
+   [
+    "He covered one nostril with a finger, closed his eyes, and blew hard.",
+    "他用手指堵住一个鼻孔，闭上眼睛，然后用力吹气。"
+   ],
+   [
+    "Dark fog poured out of his other nostril.",
+    "黑暗的雾气从他的另一个鼻孔中喷了出来。"
+   ],
+   [
+    "The demons clapped and cheered.",
+    "恶魔们拍手欢呼。"
+   ],
+   [
+    "The monster smiled and then . . .",
+    "怪物笑了笑，然后……"
+   ],
+   [
+    "\"Braap!",
+    "“布拉普！”"
+   ],
+   [
+    "More wind blew down the mountain.",
+    "更多的风吹下了山。"
+   ],
+   [
+    "There was a roar of laughter.",
+    "一阵哄堂大笑声传来。"
+   ],
+   [
+    "One demon nearly fell off the cliff.",
+    "有一个恶魔差点从悬崖上掉下去。"
+   ],
+   [
+    "Wukong shook his head.",
+    "孙悟空摇了摇头。"
+   ],
+   [
+    "\"I'm not worried about these demons,\" he said to himself.",
+    "“我不担心这些恶魔，”他自言自语道。"
+   ],
+   [
+    "\"They're disgusting but not dangerous.",
+    "“它们很恶心，但并不危险。”"
+   ],
+   [
+    "The monkey smiled.",
+    "猴子笑了。"
+   ],
+   [
+    "\"It does give me an idea though . . .\"",
+    "“不过这确实给了我一个思路……”"
+   ],
+   [
+    "Wukong returned to his companions, who were waiting alongside the road.",
+    "孙悟空回到了他的同伴们身边，他们正站在路旁等候。"
+   ],
+   [
+    "\"Did you see any demons?\" asked Wujing.",
+    "“你看到什么恶魔了吗？”武静问道。"
+   ],
+   [
+    "Wukong shook his head.",
+    "孙悟空摇了摇头。"
+   ],
+   [
+    "\"The road is safe.\"",
+    "“这条路很安全。”"
+   ],
+   [
+    "Then the monkey pulled Bajie aside.",
+    "然后猴子把八戒拉到一边。"
+   ],
+   [
+    "\"Bajie,\" he whispered.",
+    "“八戒，”他轻声说道。"
+   ],
+   [
+    "\"There's a village up ahead.",
+    "“前面有一个村庄。”"
+   ],
+   [
+    "The people there are preparing a huge feast.",
+    "那里的人们正在准备一场盛大的盛宴。"
+   ],
+   [
+    "I saw vegetables, noodles, tofu, steamed buns, and all sorts of delicious food.",
+    "我看到了蔬菜、面条、豆腐、馒头，以及各种各样美味的食物。"
+   ],
+   [
+    "I thought maybe you'd like to go before us and start eating.\"",
+    "我想也许你可以先我们一步去开始吃饭。"
+   ],
+   [
+    "Bajie licked his lips.",
+    "八戒舔了舔嘴唇。"
+   ],
+   [
+    "\"Thank you for thinking of me, Wukong.",
+    "“谢谢你想着我，悟空。”"
+   ],
+   [
+    "I am rather hungry right now.",
+    "我现在有点饿了。"
+   ],
+   [
+    "The pig turned to the Tang Monk.",
+    "猪转向了唐僧。"
+   ],
+   [
+    "\"Master, I think I should go ahead and check the mountain too.",
+    "“大师，我认为我也应该去检查一下那座山。”"
+   ],
+   [
+    "I trust Wukong, of course.",
+    "我当然信任悟空。"
+   ],
+   [
+    "But we must protect you, and I'd like to be extra safe.\"",
+    "但我们必须保护你，而且我希望更加确保安全。"
+   ],
+   [
+    "The Tang Monk smiled.",
+    "唐僧笑了。"
+   ],
+   [
+    "\"I'm impressed, Bajie.",
+    "“我印象深刻，八戒。”"
+   ],
+   [
+    "Thank you for doing extra work.\"",
+    "“感谢你额外的努力。”"
+   ],
+   [
+    "Bajie winked at Wukong and then headed up the road.",
+    "白Jake向悟空眨了眨眼，然后沿着道路向前走去。"
+   ],
+   [
+    "\"Braap!",
+    "“布拉普！”"
+   ],
+   [
+    "The monster burped again, and another wind blew.",
+    "怪物又打了个嗝，接着又一阵风刮了过来。"
+   ],
+   [
+    "Then he blew more fog from one nostril.",
+    "然后他从一个鼻孔中喷出了更多的雾气。"
+   ],
+   [
+    "The demons laughed hysterically.",
+    "恶魔们歇斯底里地大笑起来。"
+   ],
+   [
+    "Suddenly there was a loud rumbling sound, and everyone was silent.",
+    "突然传来一阵巨大的轰隆声，所有人都安静了下来。"
+   ],
+   [
+    "The monster patted his big belly.",
+    "怪物拍了拍他的大肚子。"
+   ],
+   [
+    "\"I'm hungry.\"",
+    "“我饿了。”"
+   ],
+   [
+    "The demons looked at one another.",
+    "恶魔们相互对视。"
+   ],
+   [
+    "\"I'm hungry too,\" said one.",
+    "“我也很饿，”一个人说道。"
+   ],
+   [
+    "\"It's probably time for lunch,\" said another.",
+    "“可能是吃午饭的时间了，”另一个人说道。"
+   ],
+   [
+    "The monster stood up.",
+    "怪物站了起来。"
+   ],
+   [
+    "\"Let's go down to the road and find some people to eat!\"",
+    "“我们下到马路上去找一些人一起吃饭吧！”"
+   ],
+   [
+    "The demons cheered and followed the monster down the mountain.",
+    "恶魔们欢呼着，跟着那个怪物下了山。"
+   ],
+   [
+    "When they got to the road, they made themselves look like people.",
+    "当他们来到公路上时，他们努力让自己看起来像个正常的人。"
+   ],
+   [
+    "The monster chuckled.",
+    "怪物轻声笑了起来。"
+   ],
+   [
+    "\"The next time someone comes along this road, it's lunchtime!\"",
+    "“下次再有人从这条路上经过，就到午饭时间了！”"
+   ],
+   [
+    "For a few moments, they waited.",
+    "他们等待了片刻。"
+   ],
+   [
+    "Then a large pig came around the bend.",
+    "然后，一头大猪从拐角处跑了出来。"
+   ],
+   [
+    "\"Hello!\" said Bajie, smiling.",
+    "“你好！”八戒笑着说。"
+   ],
+   [
+    "\"I'm here for the feast!\"",
+    "“我来这里是为了参加这场盛宴！”"
+   ]
+  ]
+ },
+ "words": [
+  [
+   "fog",
+   "",
+   "雾",
+   "A dark fog filled the sky and then disappeared.",
+   "一片浓重的雾气弥漫了天空，随后又消失了。"
+  ],
+  [
+   "dangerous",
+   "",
+   "危险的",
+   "This journey has been very dangerous.",
+   "这段旅程非常危险。"
+  ],
+  [
+   "even",
+   "",
+   "甚⾄",
+   "Everybody laughed, even Bajie.",
+   "所有人都笑了，就连八戒也不例外。"
+  ],
+  [
+   "punish",
+   "",
+   "惩罚，处罚",
+   "I'm sure they were punished.",
+   "我确信他们受到了惩罚。"
+  ],
+  [
+   "save",
+   "",
+   "救(命)",
+   "Thank you again for saving us.",
+   "再次感谢您救了我们。"
+  ],
+  [
+   "nervous",
+   "",
+   "紧张不安的",
+   "The Tang Monk was nervous.",
+   "唐僧很紧张。"
+  ],
+  [
+   "cause",
+   "",
+   "导致，使发⽣，引起",
+   "Wh-what caused that wind and fog?",
+   "是什么导致了那种大风和雾气？"
+  ],
+  [
+   "relax",
+   "",
+   "放松，缓和(紧张)",
+   "\" Relax, Master,\" said Wukong.",
+   "“放松点，大师，”悟空说道。"
+  ],
+  [
+   "edge",
+   "",
+   "边缘",
+   "High above the road, a fat monster was sitting on the edge of a cliff.",
+   "在公路的高处，一个肥胖的怪物正坐在悬崖的边缘。"
+  ],
+  [
+   "cliff",
+   "",
+   "悬崖，绝壁",
+   "High above the road, a fat monster was sitting on the edge of a cliff.",
+   "在公路的高处，一个肥胖的怪物正坐在悬崖的边缘。"
+  ],
+  [
+   "concentrate",
+   "",
+   "集中",
+   "The fat monster appeared to be concentrating.",
+   "那个胖怪物看起来正在集中注意力。"
+  ],
+  [
+   "burp",
+   "",
+   "打嗝",
+   "A burp as loud as thunder blew down the mountain.",
+   "一声响如雷鸣的打嗝声从山顶传了下来。"
+  ],
+  [
+   "thunder",
+   "",
+   "雷",
+   "A burp as loud as thunder blew down the mountain.",
+   "一声响如雷鸣的打嗝声从山顶传了下来。"
+  ],
+  [
+   "giggle",
+   "",
+   "咯咯地笑",
+   "The demons giggled and laughed.",
+   "那些恶魔们发出咯咯的笑声。"
+  ],
+  [
+   "pat",
+   "",
+   "轻拍，抚拍",
+   "The monster patted his belly.",
+   "怪物拍了拍自己的肚子。"
+  ],
+  [
+   "belly",
+   "",
+   "腹部，肚⼦",
+   "The monster patted his belly.",
+   "怪物拍了拍自己的肚子。"
+  ],
+  [
+   "proud",
+   "",
+   "骄傲的，⾃豪的",
+   "Yes, I'm proud of that one.",
+   "是的，我为那件事感到骄傲。"
+  ],
+  [
+   "fell off",
+   "",
+   "落下",
+   "One demon nearly fell off the cliff.",
+   "有一个恶魔差点从悬崖上掉下去。"
+  ],
+  [
+   "disgusting",
+   "",
+   "令⼈厌恶的，⾮常讨厌的",
+   "They're disgusting but not dangerous.",
+   "它们很恶心，但并不危险。"
+  ],
+  [
+   "alongside",
+   "",
+   "在旁边",
+   "Wukong returned to his companions, who were waiting alongside the road.",
+   "孙悟空回到了他的同伴们身边，他们正站在路旁等候。"
+  ],
+  [
+   "feast",
+   "",
+   "盛宴，筵席",
+   "The people there are preparing a huge feast.",
+   "那里的人们正在准备一场盛大的盛宴。"
+  ],
+  [
+   "trust",
+   "",
+   "信赖，信任",
+   "I trust Wukong, of course.",
+   "我当然信任悟空。"
+  ],
+  [
+   "impressed",
+   "",
+   "印象深刻的，深受感动的",
+   "I'm impressed, Bajie.",
+   "我印象深刻，猪八戒。"
+  ],
+  [
+   "hysterically",
+   "",
+   "失去理性地，不正常兴奋地",
+   "The demons laughed hysterically.",
+   "恶魔们歇斯底里地大笑起来。"
+  ]
+ ]
+}

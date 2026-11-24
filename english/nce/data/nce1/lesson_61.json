@@ -1,0 +1,133 @@
+{
+    "lesson": 61,
+    "title": [
+        "A bad cold",
+        "重感冒"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Where's Jimmy?",
+                "吉米在哪儿？"
+            ],
+            [
+                "He's in bed.",
+                "他躺在床上。"
+            ],
+            [
+                "What's the matter with him?",
+                "他怎么啦？"
+            ],
+            [
+                "He feels ill.",
+                "他觉得不舒服。"
+            ],
+            [
+                "He looks ill.",
+                "他看上去是病了。"
+            ],
+            [
+                "We must call the doctor.",
+                "我们得去请医生。"
+            ],
+            [
+                "Yes, we must.",
+                "是的，一定得请。"
+            ],
+            [
+                "Can you remember the doctor's telephone number?",
+                "你记得医生的电话号码吗？"
+            ],
+            [
+                "Yes. It's 09754.",
+                "记得。是09754。"
+            ],
+            [
+                "Open your mouth, Jimmy. Show me your tongue. Say, 'Ah'.",
+                "把嘴张开，吉米。让我们看看你的舌头。说「啊——」"
+            ],
+            [
+                "What's the matter with him, doctor?",
+                "他得了什么病，医生？"
+            ],
+            [
+                "He has a bad cold, Mr. Williams, so he must stay in bed for a week.",
+                "他得了重感冒，威廉斯先生，因此他必须卧床一周。"
+            ],
+            [
+                "That's good news for Jimmy.",
+                "对吉米来说，这可是个好消息。"
+            ],
+            [
+                "Good news? Why?",
+                "好消息？为什么？"
+            ],
+            [
+                "Because he doesn't like school!",
+                "因为他不喜欢上学。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "feel",
+            "v.",
+            "感觉"
+        ],
+        [
+            "look",
+            "v.",
+            "看（起来）"
+        ],
+        [
+            "must",
+            "v.",
+            "必须"
+        ],
+        [
+            "call",
+            "v.",
+            "叫，请"
+        ],
+        [
+            "doctor",
+            "n.",
+            "医生"
+        ],
+        [
+            "telephone",
+            "n.",
+            "电话"
+        ],
+        [
+            "remember",
+            "v.",
+            "记得，记住"
+        ],
+        [
+            "mouth",
+            "n.",
+            "嘴"
+        ],
+        [
+            "tongue",
+            "n.",
+            "舌头"
+        ],
+        [
+            "bad",
+            "adj.",
+            "坏的，严重的"
+        ],
+        [
+            "cold",
+            "n.",
+            "感冒"
+        ],
+        [
+            "news",
+            "n.",
+            "消息"
+        ]
+    ]
+}

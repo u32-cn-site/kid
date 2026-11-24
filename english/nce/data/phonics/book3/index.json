@@ -1,0 +1,67 @@
+{
+    "lessons": [
+        {
+            "lesson": 1,
+            "title": [
+                "Unit 1: Long a (a_e, ame, ake, ate, ave)",
+                "第一单元：长元音a"
+            ]
+        },
+        {
+            "lesson": 2,
+            "title": [
+                "Unit 2: Long i (i_e, ime, ike, ive, ine)",
+                "第二单元：长元音i"
+            ]
+        },
+        {
+            "lesson": 3,
+            "title": [
+                "Unit 3: Long o (o_e) & Long u (u_e)",
+                "第三单元：长元音o和u"
+            ]
+        },
+        {
+            "lesson": 4,
+            "title": [
+                "Unit 4: Long a (ai, ay)",
+                "第四单元：长元音a (ai, ay)"
+            ]
+        },
+        {
+            "lesson": 5,
+            "title": [
+                "Unit 5: Long e (ee, ea, y, ey)",
+                "第五单元：长元音e"
+            ]
+        },
+        {
+            "lesson": 6,
+            "title": [
+                "Unit 6: Long i (igh, ie, y)",
+                "第六单元：长元音i"
+            ]
+        },
+        {
+            "lesson": 7,
+            "title": [
+                "Unit 7: Long o (oa, ow)",
+                "第七单元：长元音o"
+            ]
+        },
+        {
+            "lesson": 8,
+            "title": [
+                "Unit 8: Long u (ue, ui, ew, oo)",
+                "第八单元：长元音u"
+            ]
+        },
+        {
+            "lesson": 9,
+            "title": [
+                "Review & Story Words",
+                "复习与故事词汇"
+            ]
+        }
+    ]
+}

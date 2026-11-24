@@ -1,0 +1,31 @@
+{
+    "lesson": 5,
+    "title": ["Unit 5", "第5单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["this", "", "这个"],
+        ["This is my book.", "", "这是我的书。"],
+        ["that", "", "那个"],
+        ["That is your pencil.", "", "那是你的铅笔。"],
+        ["mother", "", "母亲"],
+        ["My mother loves me.", "", "我妈妈爱我。"],
+        ["father", "", "父亲"],
+        ["My father is tall.", "", "我爸爸很高。"],
+        ["three", "", "三"],
+        ["I have three apples.", "", "我有三个苹果。"],
+        ["teeth", "", "牙齿"],
+        ["I brush my teeth.", "", "我刷牙。"],
+        ["think", "", "思考"],
+        ["I think about my homework.", "", "我在想我的作业。"],
+        ["bath", "", "洗澡"],
+        ["I take a bath.", "", "我洗澡。"],
+        ["duck", "", "鸭子"],
+        ["The duck swims in the pond.", "", "鸭子在池塘里游泳。"],
+        ["rocket", "", "火箭"],
+        ["The rocket flies to space.", "", "火箭飞向太空。"],
+        ["queen", "", "女王"],
+        ["The queen wears a crown.", "", "女王戴着王冠。"],
+        ["quilt", "", "被子"],
+        ["My quilt keeps me warm.", "", "我的被子让我暖和。"]
+    ]
+}

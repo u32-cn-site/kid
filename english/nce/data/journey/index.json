@@ -1,0 +1,760 @@
+{
+ "lessons": [
+  {
+   "lesson": 1,
+   "title": [
+    "The Monkey",
+    "猴子"
+   ]
+  },
+  {
+   "lesson": 2,
+   "title": [
+    "The Waterfall Cave",
+    "瀑布洞"
+   ]
+  },
+  {
+   "lesson": 3,
+   "title": [
+    "Subodhi",
+    "苏博迪"
+   ]
+  },
+  {
+   "lesson": 4,
+   "title": [
+    "Secret Formulas",
+    "秘传配方"
+   ]
+  },
+  {
+   "lesson": 5,
+   "title": [
+    "The Demon of Chaos",
+    "混沌恶魔"
+   ]
+  },
+  {
+   "lesson": 6,
+   "title": [
+    "The Dragon King",
+    "龙王"
+   ]
+  },
+  {
+   "lesson": 7,
+   "title": [
+    "The Land of Darkness",
+    "黑暗之地"
+   ]
+  },
+  {
+   "lesson": 8,
+   "title": [
+    "A Job in Heaven",
+    "一份理想的工作；天堂般的工作"
+   ]
+  },
+  {
+   "lesson": 9,
+   "title": [
+    "The Peach Garden",
+    "桃花园"
+   ]
+  },
+  {
+   "lesson": 10,
+   "title": [
+    "The Powerful Sage",
+    "强大的贤者"
+   ]
+  },
+  {
+   "lesson": 11,
+   "title": [
+    "Trouble in Heaven",
+    "天堂有难"
+   ]
+  },
+  {
+   "lesson": 12,
+   "title": [
+    "The Bet",
+    "这个赌注"
+   ]
+  },
+  {
+   "lesson": 13,
+   "title": [
+    "The True Scriptures",
+    "真正的经典；圣典"
+   ]
+  },
+  {
+   "lesson": 14,
+   "title": [
+    "A Promise to Protect",
+    "一份保护承诺"
+   ]
+  },
+  {
+   "lesson": 15,
+   "title": [
+    "Tea with a Dragon",
+    "与龙共饮的茶"
+   ]
+  },
+  {
+   "lesson": 16,
+   "title": [
+    "Wukong Gets Tricked",
+    "悟空中计了"
+   ]
+  },
+  {
+   "lesson": 17,
+   "title": [
+    "The Dragon in the River",
+    "河中的龙"
+   ]
+  },
+  {
+   "lesson": 18,
+   "title": [
+    "The Robe",
+    "长袍"
+   ]
+  },
+  {
+   "lesson": 19,
+   "title": [
+    "An Evil Plan",
+    "一个邪恶的计划"
+   ]
+  },
+  {
+   "lesson": 20,
+   "title": [
+    "The Black Bear Spirit",
+    "黑熊精灵"
+   ]
+  },
+  {
+   "lesson": 21,
+   "title": [
+    "The Monster's Friend",
+    "怪物之友"
+   ]
+  },
+  {
+   "lesson": 22,
+   "title": [
+    "A Very Strange Pill",
+    "一颗非常奇怪的药丸"
+   ]
+  },
+  {
+   "lesson": 23,
+   "title": [
+    "Great Protectors",
+    "伟大的守护者们"
+   ]
+  },
+  {
+   "lesson": 24,
+   "title": [
+    "The Great King Yellow Wind",
+    "伟大的大黄风之王"
+   ]
+  },
+  {
+   "lesson": 25,
+   "title": [
+    "Powerful Wind Magic",
+    "强大的风魔法"
+   ]
+  },
+  {
+   "lesson": 26,
+   "title": [
+    "The Monster in the River",
+    "河里的怪物"
+   ]
+  },
+  {
+   "lesson": 27,
+   "title": [
+    "The Ginseng Fruit",
+    "人参果"
+   ]
+  },
+  {
+   "lesson": 28,
+   "title": [
+    "Wukong Leaves His Body",
+    "悟空离体"
+   ]
+  },
+  {
+   "lesson": 29,
+   "title": [
+    "The Magic Sleeve",
+    "神奇袖子"
+   ]
+  },
+  {
+   "lesson": 30,
+   "title": [
+    "The Frying Pan",
+    "The Frying Pan（中文名称可根据语境灵活选择，例如“煎锅”或“祸不单行”等）"
+   ]
+  },
+  {
+   "lesson": 31,
+   "title": [
+    "Guanyin's Vase",
+    "观音花瓶"
+   ]
+  },
+  {
+   "lesson": 32,
+   "title": [
+    "Lady Whitebone",
+    "白骨夫人"
+   ]
+  },
+  {
+   "lesson": 33,
+   "title": [
+    "Bajie Takes a Nap",
+    "八戒小睡一下"
+   ]
+  },
+  {
+   "lesson": 34,
+   "title": [
+    "Tricked by the Princess",
+    "被公主骗了"
+   ]
+  },
+  {
+   "lesson": 35,
+   "title": [
+    "A Visit to the King",
+    "拜访国王"
+   ]
+  },
+  {
+   "lesson": 36,
+   "title": [
+    "Tricked Again",
+    "又一次被骗了"
+   ]
+  },
+  {
+   "lesson": 37,
+   "title": [
+    "Missing from Heaven",
+    "天国之缺"
+   ]
+  },
+  {
+   "lesson": 38,
+   "title": [
+    "Bajie Tries to Sleep",
+    "八戒试图睡觉"
+   ]
+  },
+  {
+   "lesson": 39,
+   "title": [
+    "The Injured Monk",
+    "受伤的僧侣"
+   ]
+  },
+  {
+   "lesson": 40,
+   "title": [
+    "The Magic Gourd",
+    "魔法葫芦"
+   ]
+  },
+  {
+   "lesson": 41,
+   "title": [
+    "A Trade",
+    "一项交易；一笔买卖"
+   ]
+  },
+  {
+   "lesson": 42,
+   "title": [
+    "Sun Kongwu",
+    "孙孔武"
+   ]
+  },
+  {
+   "lesson": 43,
+   "title": [
+    "A Visit from Laozi",
+    "老子的到访"
+   ]
+  },
+  {
+   "lesson": 44,
+   "title": [
+    "The King's Ghost",
+    "国王的幽灵"
+   ]
+  },
+  {
+   "lesson": 45,
+   "title": [
+    "The Treasure in the Well",
+    "井中的宝藏"
+   ]
+  },
+  {
+   "lesson": 46,
+   "title": [
+    "One Thousand Pills",
+    "一千丸药"
+   ]
+  },
+  {
+   "lesson": 47,
+   "title": [
+    "Two Tang Monks",
+    "两位唐朝僧人"
+   ]
+  },
+  {
+   "lesson": 48,
+   "title": [
+    "The Scared Boy",
+    "那个害怕的男孩"
+   ]
+  },
+  {
+   "lesson": 49,
+   "title": [
+    "Red Boy",
+    "红男孩"
+   ]
+  },
+  {
+   "lesson": 50,
+   "title": [
+    "Magic Fire",
+    "魔法之火"
+   ]
+  },
+  {
+   "lesson": 51,
+   "title": [
+    "Guanyin Becomes Angry",
+    "观音发怒了"
+   ]
+  },
+  {
+   "lesson": 52,
+   "title": [
+    "An Ocean from a Vase",
+    "来自花瓶的海洋"
+   ]
+  },
+  {
+   "lesson": 53,
+   "title": [
+    "The Man in the Canoe",
+    "独木舟上的男人"
+   ]
+  },
+  {
+   "lesson": 54,
+   "title": [
+    "The River God",
+    "河神"
+   ]
+  },
+  {
+   "lesson": 55,
+   "title": [
+    "The Monks and the Cart",
+    "僧侣与马车"
+   ]
+  },
+  {
+   "lesson": 56,
+   "title": [
+    "The Tiger Immortal",
+    "虎仙"
+   ]
+  },
+  {
+   "lesson": 57,
+   "title": [
+    "A Guessing Game",
+    "猜谜游戏"
+   ]
+  },
+  {
+   "lesson": 58,
+   "title": [
+    "The Meditation Contest",
+    "冥想比赛"
+   ]
+  },
+  {
+   "lesson": 59,
+   "title": [
+    "Scared Villagers",
+    "受惊的村民们"
+   ]
+  },
+  {
+   "lesson": 60,
+   "title": [
+    "Snow!",
+    "下雪了！"
+   ]
+  },
+  {
+   "lesson": 61,
+   "title": [
+    "The Demon under the Ice",
+    "冰封之下的恶魔"
+   ]
+  },
+  {
+   "lesson": 62,
+   "title": [
+    "The Goldfish in the Basket",
+    "篮子里的金鱼"
+   ]
+  },
+  {
+   "lesson": 63,
+   "title": [
+    "A Question for Buddha",
+    "给佛陀的一个问题"
+   ]
+  },
+  {
+   "lesson": 64,
+   "title": [
+    "Magnificent Silk Vests",
+    "豪华丝绸背心"
+   ]
+  },
+  {
+   "lesson": 65,
+   "title": [
+    "The Metal Ring",
+    "金属戒指"
+   ]
+  },
+  {
+   "lesson": 66,
+   "title": [
+    "Help from Heaven",
+    "天助自助；幸運降临"
+   ]
+  },
+  {
+   "lesson": 67,
+   "title": [
+    "The Master Thief",
+    "大盗"
+   ]
+  },
+  {
+   "lesson": 68,
+   "title": [
+    "The Woman in the Crowd",
+    "人群中的女人"
+   ]
+  },
+  {
+   "lesson": 69,
+   "title": [
+    "The Stabbing Pain",
+    "刺痛感"
+   ]
+  },
+  {
+   "lesson": 70,
+   "title": [
+    "The Star Lord",
+    "星爵"
+   ]
+  },
+  {
+   "lesson": 71,
+   "title": [
+    "Money",
+    "钱；货币"
+   ]
+  },
+  {
+   "lesson": 72,
+   "title": [
+    "A Surprise at the Fruit and Flower Mountain",
+    "果蔬山的一大惊喜"
+   ]
+  },
+  {
+   "lesson": 73,
+   "title": [
+    "Two Wukongs",
+    "两个悟空"
+   ]
+  },
+  {
+   "lesson": 74,
+   "title": [
+    "Curious Ear",
+    "好奇的耳朵（指善于倾听或探听事情的人）"
+   ]
+  },
+  {
+   "lesson": 75,
+   "title": [
+    "Battle of the Wukongs",
+    "悟空之战"
+   ]
+  },
+  {
+   "lesson": 76,
+   "title": [
+    "The Iron Immortal",
+    "铁仙"
+   ]
+  },
+  {
+   "lesson": 77,
+   "title": [
+    "The Magic Fan",
+    "魔法扇"
+   ]
+  },
+  {
+   "lesson": 78,
+   "title": [
+    "Tricked Again and Again",
+    "一次又一次地上当"
+   ]
+  },
+  {
+   "lesson": 79,
+   "title": [
+    "The Mountain of Flames",
+    "火焰之山"
+   ]
+  },
+  {
+   "lesson": 80,
+   "title": [
+    "The Small Thunderclap Monastery",
+    "小雷厉盖寺"
+   ]
+  },
+  {
+   "lesson": 81,
+   "title": [
+    "Help from a Dragon",
+    "来自龙的帮助"
+   ]
+  },
+  {
+   "lesson": 82,
+   "title": [
+    "The Magic Cloth",
+    "魔法布料"
+   ]
+  },
+  {
+   "lesson": 83,
+   "title": [
+    "The Melon Field",
+    "瓜田"
+   ]
+  },
+  {
+   "lesson": 84,
+   "title": [
+    "The Sad King",
+    "悲伤的国王"
+   ]
+  },
+  {
+   "lesson": 85,
+   "title": [
+    "Fire, Smoke, and Sand",
+    "火焰、烟雾与沙尘"
+   ]
+  },
+  {
+   "lesson": 86,
+   "title": [
+    "Magic Bells",
+    "魔力铃铛"
+   ]
+  },
+  {
+   "lesson": 87,
+   "title": [
+    "The Three Young Women",
+    "三个年轻女子"
+   ]
+  },
+  {
+   "lesson": 88,
+   "title": [
+    "The Priest's Plan",
+    "牧师的计划"
+   ]
+  },
+  {
+   "lesson": 89,
+   "title": [
+    "Many Eyes",
+    "众人皆目（指许多人在关注或监视某事）"
+   ]
+  },
+  {
+   "lesson": 90,
+   "title": [
+    "The Demons' Plan",
+    "恶魔的计划"
+   ]
+  },
+  {
+   "lesson": 91,
+   "title": [
+    "The Demon Officers",
+    "恶魔军官们"
+   ]
+  },
+  {
+   "lesson": 92,
+   "title": [
+    "The Lion Demon",
+    "狮魔"
+   ]
+  },
+  {
+   "lesson": 93,
+   "title": [
+    "A Problem for the Lion Demon",
+    "狮子恶魔的一个难题"
+   ]
+  },
+  {
+   "lesson": 94,
+   "title": [
+    "The Elephant Demon",
+    "大象恶魔"
+   ]
+  },
+  {
+   "lesson": 95,
+   "title": [
+    "The Raptor Demon",
+    "迅猛龙恶魔"
+   ]
+  },
+  {
+   "lesson": 96,
+   "title": [
+    "Wind and Fog",
+    "风与雾"
+   ]
+  },
+  {
+   "lesson": 97,
+   "title": [
+    "Bajie and the Monster",
+    "八戒与怪兽"
+   ]
+  },
+  {
+   "lesson": 98,
+   "title": [
+    "Three Fights",
+    "三场战斗"
+   ]
+  },
+  {
+   "lesson": 99,
+   "title": [
+    "Squire Kou's Vow",
+    "寇乡绅的誓言"
+   ]
+  },
+  {
+   "lesson": 100,
+   "title": [
+    "A Terrible Robbery",
+    "一起可怕的抢劫案"
+   ]
+  },
+  {
+   "lesson": 101,
+   "title": [
+    "Arrested!",
+    "被逮捕了！"
+   ]
+  },
+  {
+   "lesson": 102,
+   "title": [
+    "The Prisoners Are Released",
+    "囚犯们被释放了"
+   ]
+  },
+  {
+   "lesson": 103,
+   "title": [
+    "The Land of the West",
+    "西部之国"
+   ]
+  },
+  {
+   "lesson": 104,
+   "title": [
+    "The Tang Monk and the River",
+    "唐僧与河流"
+   ]
+  },
+  {
+   "lesson": 105,
+   "title": [
+    "The Thunderclap Monastery",
+    "雷霆打击修道院"
+   ]
+  },
+  {
+   "lesson": 106,
+   "title": [
+    "The Question",
+    "这个问题"
+   ]
+  },
+  {
+   "lesson": 107,
+   "title": [
+    "Nothing Is Perfect",
+    "没有什么是完美的。"
+   ]
+  },
+  {
+   "lesson": 108,
+   "title": [
+    "Rewards",
+    "奖励；酬劳"
+   ]
+  }
+ ]
+}

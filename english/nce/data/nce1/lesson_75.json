@@ -1,0 +1,108 @@
+{
+    "lesson": 75,
+    "title": [
+        "Uncomfortable shoes",
+        "不舒适的鞋子"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Do you have any shoes like these?",
+                "像这样的鞋子你们有吗？"
+            ],
+            [
+                "What size?",
+                "什么尺码的？"
+            ],
+            [
+                "Size five.",
+                "5号的。"
+            ],
+            [
+                "I'm sorry. We don't have any.",
+                "对不起，我们没有。"
+            ],
+            [
+                "But my sister bought this pair last month.",
+                "但是，我姐姐上个月买到了这样的一双。"
+            ],
+            [
+                "Did she buy them here?",
+                "她是在这儿买的吗？"
+            ],
+            [
+                "No, she bought them in the U.S.",
+                "不。她是在美国买的。"
+            ],
+            [
+                "We had some shoes like those a month ago, but we don't have any now.",
+                "一个月前我们有这样的鞋。但是现在没有了。"
+            ],
+            [
+                "Can you get a pair for me, please?",
+                "您能为我找一双吗？"
+            ],
+            [
+                "I'm afraid that I can't.",
+                "恐怕不行。"
+            ],
+            [
+                "They were in fashion last year and the year before last.",
+                "这鞋在去年和前年时兴。"
+            ],
+            [
+                "But they're not in fashion this year.",
+                "而今年已不流行了。"
+            ],
+            [
+                "These shoes are in fashion now.",
+                "现在流行的是这种鞋子。"
+            ],
+            [
+                "They look very uncomfortable.",
+                "这种鞋子看上去很不舒适。"
+            ],
+            [
+                "They are very uncomfortable. But women always wear uncomfortable shoes!",
+                "的确很不舒适。可是女人们总是穿不舒适的鞋子！"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "ago",
+            "adv.",
+            "以前"
+        ],
+        [
+            "buy",
+            "v.",
+            "买"
+        ],
+        [
+            "bought",
+            "v.",
+            "买（过去式/过去分词）"
+        ],
+        [
+            "pair",
+            "n.",
+            "双，对"
+        ],
+        [
+            "fashion",
+            "n.",
+            "（服装的）流行式样"
+        ],
+        [
+            "uncomfortable",
+            "adj.",
+            "不舒服的"
+        ],
+        [
+            "wear",
+            "v.",
+            "穿着"
+        ]
+    ]
+}

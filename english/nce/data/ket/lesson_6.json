@@ -1,0 +1,610 @@
+{
+    "lesson": 6,
+    "title": [
+        "An Introduction to the School",
+        "学校简介"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "I'm Mrs. Thompson and I'm the headteacher of this international primary school.",
+                "我是汤普森夫人，这所国际小学的校长。"
+            ],
+            [
+                "Let me give you an introduction to our school.",
+                "让我给你介绍一下我们的学校。"
+            ],
+            [
+                "Students usually get to school around 8:20 a.m.",
+                "学生通常在上午8:20左右到达学校。"
+            ],
+            [
+                "If they arrive after 8:30 a.m., they will be marked late.",
+                "如果他们在上午8:30之后到达，就会被标记为迟到。"
+            ],
+            [
+                "Before the morning lessons, teachers give various tasks to those schoolchildren to do for the day.",
+                "在上午课程开始前，老师们会给那些小学生一天要完成的各种任务。"
+            ],
+            [
+                "These tasks could be finished by themselves or in pairs.",
+                "这些任务可以由他们自己或两人一组完成。"
+            ],
+            [
+                "During the courses of the day, students will take part in all the subjects: reading, writing, maths, science, and social studies.",
+                "在一天的课程中，学生将参加所有科目：阅读、写作、数学、科学和社会研究。"
+            ],
+            [
+                "The class timetable is written on the board.",
+                "课程表写在黑板上。"
+            ],
+            [
+                "In the blocks of Language Arts, students are given reading instructions about the articles in their textbooks, as well as practice in spelling, handwriting and vocabulary.",
+                "在语言艺术板块，学生们会得到关于教科书中文章的阅读指导，以及拼写、书写和词汇方面的练习。"
+            ],
+            [
+                "In the maths class, teachers give a mini-lesson and then students have 40 minutes of group or independent work.",
+                "在数学课上，老师先进行简短讲解，然后学生进行40分钟的小组或独立作业。"
+            ],
+            [
+                "The last 10 minutes is used to summarise what was learnt and prepare for further learning.",
+                "最后10分钟用于总结所学内容并为进一步学习做准备。"
+            ],
+            [
+                "Science classes include the content of beginner level biology, geography, physics and chemistry.",
+                "科学课程包括初级水平的生物、地理、物理和化学内容。"
+            ],
+            [
+                "Students need to pass all the final tests to get their diplomas.",
+                "学生需要通过所有期末考试才能获得毕业文凭。"
+            ],
+            [
+                "At the beginning of a new school term, we invite alumni of different nationalities who graduated from top colleges and universities to give lectures.",
+                "在新学期开始时，我们邀请从顶尖学院和大学毕业的不同国籍的校友来举办讲座。"
+            ],
+            [
+                "We hope that students can better find out their interests and explore their future.",
+                "我们希望学生能更好地发现自己的兴趣并探索他们的未来。"
+            ],
+            [
+                "The school day usually ends around 3 p.m.",
+                "上学日通常在下午3点左右结束。"
+            ],
+            [
+                "Before going home, children often finish the jobs like cleaning the desks, putting paper materials and dictionaries back on the bookshelf, putting pencils, pens, rulers and rubbers in the schoolbags.",
+                "回家前，孩子们经常完成诸如清洁课桌、把纸质材料和字典放回书架、把铅笔、钢笔、尺子和橡皮放进书包等工作。"
+            ],
+            [
+                "In the end, homework is given out and recorded in every student's notebook.",
+                "最后，家庭作业会分发并记录在每个学生的笔记本上。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "international",
+            "adj.",
+            "国际的"
+        ],
+        [
+            "international students",
+            "",
+            "国际学生"
+        ],
+        [
+            "late",
+            "adj.",
+            "迟到的；晚的"
+        ],
+        [
+            "I'm sorry I'm late.",
+            "",
+            "对不起，我迟到了。"
+        ],
+        [
+            "lesson",
+            "n.",
+            "课"
+        ],
+        [
+            "What did we learn last lesson?",
+            "",
+            "我们上节课学了什么内容？"
+        ],
+        [
+            "those",
+            "det.",
+            "那些"
+        ],
+        [
+            "those",
+            "pron.",
+            "那些"
+        ],
+        [
+            "schoolchild",
+            "n.",
+            "学童；小学生"
+        ],
+        [
+            "these",
+            "det.",
+            "这些"
+        ],
+        [
+            "these",
+            "pron.",
+            "这些"
+        ],
+        [
+            "finish",
+            "v.",
+            "完成；结束"
+        ],
+        [
+            "Did you finish your homework?",
+            "",
+            "你完成家庭作业了吗？"
+        ],
+        [
+            "themselves",
+            "pron.",
+            "他们自己；他们亲自"
+        ],
+        [
+            "They've bought themselves a new car.",
+            "",
+            "他们给自己买了一辆新车。"
+        ],
+        [
+            "pair",
+            "n.",
+            "一对，一双"
+        ],
+        [
+            "work in pairs",
+            "",
+            "两人一组练习"
+        ],
+        [
+            "maths",
+            "n.",
+            "数学"
+        ],
+        [
+            "mathematics",
+            "n.",
+            "数学"
+        ],
+        [
+            "math",
+            "n.",
+            "数学"
+        ],
+        [
+            "studies",
+            "n.",
+            "研究；学业"
+        ],
+        [
+            "social studies",
+            "",
+            "社会研究"
+        ],
+        [
+            "board",
+            "n.",
+            "木板"
+        ],
+        [
+            "instruction",
+            "n.",
+            "用法说明；指导"
+        ],
+        [
+            "reading instructions",
+            "",
+            "阅读指导"
+        ],
+        [
+            "article",
+            "n.",
+            "文章"
+        ],
+        [
+            "write an article",
+            "",
+            "写文章"
+        ],
+        [
+            "textbook",
+            "n.",
+            "教科书，课本"
+        ],
+        [
+            "a history textbook",
+            "",
+            "历史教科书"
+        ],
+        [
+            "practice",
+            "n.",
+            "练习"
+        ],
+        [
+            "conversation practice",
+            "",
+            "会话练习"
+        ],
+        [
+            "vocabulary",
+            "n.",
+            "词汇；词汇量"
+        ],
+        [
+            "word",
+            "n.",
+            "单词"
+        ],
+        [
+            "last",
+            "adj.",
+            "最后的"
+        ],
+        [
+            "further",
+            "adj.",
+            "更多的；更进一步的"
+        ],
+        [
+            "further reading",
+            "",
+            "延伸阅读"
+        ],
+        [
+            "beginner",
+            "n.",
+            "初学者；新手"
+        ],
+        [
+            "She's in the beginners' class.",
+            "",
+            "她在初级班。"
+        ],
+        [
+            "level",
+            "n.",
+            "水平；级别"
+        ],
+        [
+            "language level",
+            "",
+            "语言水平"
+        ],
+        [
+            "biology",
+            "n.",
+            "生物学"
+        ],
+        [
+            "geography",
+            "n.",
+            "地理学"
+        ],
+        [
+            "social geography",
+            "",
+            "社会地理学"
+        ],
+        [
+            "physics",
+            "n.",
+            "物理学"
+        ],
+        [
+            "chemistry",
+            "n.",
+            "化学"
+        ],
+        [
+            "pass",
+            "v.",
+            "通过；传递"
+        ],
+        [
+            "She hasn't passed her driving test yet.",
+            "",
+            "她还没有通过驾驶执照考试。"
+        ],
+        [
+            "final",
+            "adj.",
+            "最终的"
+        ],
+        [
+            "make the final decision",
+            "",
+            "做出最后的决定"
+        ],
+        [
+            "test",
+            "n.",
+            "测试，考查"
+        ],
+        [
+            "take a test",
+            "",
+            "参加测试"
+        ],
+        [
+            "diploma",
+            "n.",
+            "毕业文凭"
+        ],
+        [
+            "a high school diploma",
+            "",
+            "高中毕业文凭"
+        ],
+        [
+            "term",
+            "n.",
+            "学期"
+        ],
+        [
+            "the spring/summer/autumn term",
+            "",
+            "春季/夏季/秋季学期"
+        ],
+        [
+            "nationality",
+            "n.",
+            "国籍"
+        ],
+        [
+            "have French nationality",
+            "",
+            "拥有法国国籍"
+        ],
+        [
+            "college",
+            "n.",
+            "（英国）学院；（美国）大学"
+        ],
+        [
+            "She's at college.",
+            "",
+            "她在学院读书。"
+        ],
+        [
+            "university",
+            "n.",
+            "大学"
+        ],
+        [
+            "a university course",
+            "",
+            "大学课程"
+        ],
+        [
+            "find out",
+            "",
+            "找出，查明；发现"
+        ],
+        [
+            "find out the answer",
+            "",
+            "找到答案"
+        ],
+        [
+            "explore",
+            "v.",
+            "探索"
+        ],
+        [
+            "explore the old city",
+            "",
+            "探索老城"
+        ],
+        [
+            "future",
+            "n.",
+            "未来"
+        ],
+        [
+            "in the future",
+            "",
+            "在将来"
+        ],
+        [
+            "desk",
+            "n.",
+            "书桌"
+        ],
+        [
+            "paper",
+            "n.",
+            "纸"
+        ],
+        [
+            "a piece of paper",
+            "",
+            "一张纸"
+        ],
+        [
+            "dictionary",
+            "n.",
+            "字典；词典"
+        ],
+        [
+            "a Chinese-English dictionary",
+            "",
+            "汉英词典"
+        ],
+        [
+            "bookshelf",
+            "n.",
+            "书架"
+        ],
+        [
+            "bookshelves",
+            "n.",
+            "书架"
+        ],
+        [
+            "pencil",
+            "n.",
+            "铅笔"
+        ],
+        [
+            "pen",
+            "n.",
+            "钢笔"
+        ],
+        [
+            "ruler",
+            "n.",
+            "尺子"
+        ],
+        [
+            "rubber",
+            "n.",
+            "橡皮"
+        ],
+        [
+            "eraser",
+            "n.",
+            "橡皮"
+        ],
+        [
+            "homework",
+            "n.",
+            "家庭作业"
+        ],
+        [
+            "notebook",
+            "n.",
+            "笔记本"
+        ],
+        [
+            "primary school",
+            "",
+            "小学"
+        ],
+        [
+            "introduction",
+            "n.",
+            "介绍"
+        ],
+        [
+            "usually",
+            "adv.",
+            "通常"
+        ],
+        [
+            "around",
+            "adv.",
+            "大约"
+        ],
+        [
+            "arrive",
+            "v.",
+            "到达"
+        ],
+        [
+            "various",
+            "adj.",
+            "各种各样的"
+        ],
+        [
+            "task",
+            "n.",
+            "任务"
+        ],
+        [
+            "during",
+            "prep.",
+            "在……期间"
+        ],
+        [
+            "course",
+            "n.",
+            "课程"
+        ],
+        [
+            "timetable",
+            "n.",
+            "时间表"
+        ],
+        [
+            "class timetable",
+            "",
+            "课程表"
+        ],
+        [
+            "block",
+            "n.",
+            "板块"
+        ],
+        [
+            "language arts",
+            "",
+            "语言艺术"
+        ],
+        [
+            "spelling",
+            "n.",
+            "拼写"
+        ],
+        [
+            "handwriting",
+            "n.",
+            "书写"
+        ],
+        [
+            "mini-lesson",
+            "n.",
+            "简短讲解"
+        ],
+        [
+            "summarise",
+            "v.",
+            "总结"
+        ],
+        [
+            "prepare",
+            "v.",
+            "准备"
+        ],
+        [
+            "content",
+            "n.",
+            "内容"
+        ],
+        [
+            "graduate",
+            "v.",
+            "毕业"
+        ],
+        [
+            "lecture",
+            "n.",
+            "讲座"
+        ],
+        [
+            "give a lecture",
+            "",
+            "举办讲座"
+        ],
+        [
+            "give out",
+            "",
+            "分发"
+        ],
+        [
+            "record",
+            "v.",
+            "记录"
+        ]
+    ]
+}

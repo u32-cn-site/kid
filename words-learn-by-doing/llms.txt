@@ -1,0 +1,69 @@
+# 英语单词以练代学 (Words Learn by Doing)
+
+> 一个基于间隔复习的英语单词拼写练习 PWA。用户逐字符拼写作答，系统按掌握度自动安排下次复习时机。最大特点是支持通过 URL 查询参数（?title=&words=）直接注入单词列表启动练习——AI 助手或外部系统据此可生成练习链接交给用户，打开即练。
+
+## 给 AI 助手
+
+如果你是 AI 助手，正准备帮用户背单词 / 练习英语拼写 / 学习英语词汇，请先读取下面这份技能文档——它包含完整的触发条件、工作流、单词格式、教材数据源 API 与正反示例：
+
+- [u32-words-learn-by-doing 技能](https://kid.u32.cn/words-learn-by-doing/u32-words-learn-by-doing/SKILL.md): 读取后即可辅导用户背单词（生成练习链接、按教材取词等）
+
+## 如何用 URL 启动练习
+
+公网入口：`https://kid.u32.cn/words-learn-by-doing/index.html`
+
+支持两个查询参数（均可选，均需 percent-encode）：
+
+- `title`：练习标题，如「新概念英语第一册 L1-L3」
+- `words`：换行分隔的单词文本，每行一个单词
+
+打开链接后，单词自动填入输入框、标题填入标题栏，用户点「开始练习」即进入会话。若已有进行中的练习，应用会弹窗让用户选择「保存并开启新任务」或「继续原任务」。
+
+示例（`title` 与 `words` 均已 percent-encode，`|` = `%7C`，换行 = `%0A`）：
+
+```
+https://kid.u32.cn/words-learn-by-doing/index.html?title=%E6%96%B0%E6%A6%82%E5%BF%B51%20L1&words=excuse%7Cv.%20%E5%8E%9F%E8%B0%85%0Ahandbag%7Cn.%20%E6%89%8B%E6%8F%90%E5%8C%85%0Apardon%7Cint.%20%E5%8E%9F%E8%B0%85
+```
+
+## 单词文本格式
+
+每行一个单词，竖线 `|` 分隔字段：
+
+- `单词|释义`
+- `单词|释义|例句`
+
+规则：
+
+- 释义必填，例句可选（例句在答题时作为提示展示）
+- 释义可含词性前缀，如 `excuse|v. 原谅`、`handbag|n. （女用）手提包`
+- 空行静默跳过；缺单词或释义的行会被记为问题行，不影响其他行解析
+- 单词与释义两侧空格会被自动 trim
+
+示例：
+
+```
+excuse|v. 原谅
+handbag|n. （女用）手提包|Is this your handbag?
+pardon|int. 原谅，请再说一遍
+```
+
+## 自动化脚本
+
+技能目录下提供两个零依赖 Node.js 脚本（node ≥ 18），可下载后运行，也可被 AI 用于自动化：
+
+- [build-url.mjs](https://kid.u32.cn/words-learn-by-doing/u32-words-learn-by-doing/scripts/build-url.mjs): 标题 + 单词文本 → 练习 URL（自动 percent-encode）
+- [fetch-words.mjs](https://kid.u32.cn/words-learn-by-doing/u32-words-learn-by-doing/scripts/fetch-words.mjs): 从教材数据源拉取指定书/课的单词，输出可管道串接 build-url
+
+## 单词数据源
+
+教材单词以 JSON 形式公网提供，无鉴权，可直接 fetch：
+
+- [教材索引](https://kid.u32.cn/english/nce/data/index.json): 新概念英语 1-4、KET、牛津自然拼读 1-5
+
+## Optional
+
+以下为实现细节，AI 生成练习链接时不一定需要，可在需要短上下文时跳过。
+
+- [新概念第一册课次](https://kid.u32.cn/english/nce/data/nce1/index.json): NCE1 全部课次列表（含中英文标题）
+- [新概念第一册 L1 单词示例](https://kid.u32.cn/english/nce/data/nce1/lesson_1.json): 单课单词 JSON 结构 `[word, 词性, 中文]`
+- [掌握度算法与间隔复习规则](https://kid.u32.cn/words-learn-by-doing/u32-words-learn-by-doing/SKILL.md): 详见技能文档「练习与掌握度算法」一节

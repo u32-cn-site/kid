@@ -1,0 +1,492 @@
+{
+    "lesson": 15,
+    "title": [
+        "A Campus Walking Tour (1)",
+        "校园徒步参观（一）"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Good morning!",
+                "早上好！"
+            ],
+            [
+                "Thank you for attending the Open Day.",
+                "感谢你们参加开放日。"
+            ],
+            [
+                "My name is Thomas and I'm your guide.",
+                "我叫托马斯，是你们的导游。"
+            ],
+            [
+                "I'll show you around the university today.",
+                "今天我带你们参观这所大学。"
+            ],
+            [
+                "There're many visitors on campus, so please just follow me and don't get lost in the crowd.",
+                "校园里有很多参观者，所以请跟着我，不要在人群中走散。"
+            ],
+            [
+                "We're now at the south entrance.",
+                "我们现在在南门。"
+            ],
+            [
+                "This is where the tour begins.",
+                "这是参观开始的地方。"
+            ],
+            [
+                "Walk along East Street for about two minutes and turn right at Albert Way, and then we can see the building of the business school at the corner of the roads.",
+                "沿着东街走大约两分钟，在阿尔伯特路右转，然后我们就能在道路拐角处看到商学院的大楼。"
+            ],
+            [
+                "It was newly built last year and it's a beautiful building.",
+                "这是去年新建的，是一栋美丽的大楼。"
+            ],
+            [
+                "The statue in front of the building is a famous economist who graduated from this school.",
+                "大楼前的雕像是一位从这所学校毕业的著名经济学家。"
+            ],
+            [
+                "Facing north, we can see the building of social science departments on the left-hand side, the engineering school on the right-hand side, and the medical school in between.",
+                "面向北方，我们可以看到左边是社会科学系的大楼，右边是工程学院，中间是医学院。"
+            ],
+            [
+                "Behind the three buildings, there is a museum which is operated by the university.",
+                "在这三栋楼后面，有一座由大学运营的博物馆。"
+            ],
+            [
+                "All the exhibitions are free for students.",
+                "所有展览对学生免费。"
+            ],
+            [
+                "On the opposite side of the road, there is a big car park which is also open to the public.",
+                "在马路对面，有一个向公众开放的大型停车场。"
+            ],
+            [
+                "Keep walking straight and then cross the bridge.",
+                "继续直走，然后过桥。"
+            ],
+            [
+                "The tall building on your left is the library.",
+                "你左侧的高楼是图书馆。"
+            ],
+            [
+                "Its entrance is on the first floor.",
+                "它的入口在一楼。"
+            ],
+            [
+                "There's a cafeteria downstairs where students can have lunch.",
+                "楼下有一个食堂，学生们可以在那里吃午饭。"
+            ],
+            [
+                "I'm sorry that we cannot go inside because students need a quiet reading environment, but we can have a look at the map beside the lifts.",
+                "很抱歉我们不能进去，因为学生需要安静的阅读环境，但我们可以看看电梯旁边的地图。"
+            ],
+            [
+                "The space for group work and self-learning are all upstairs.",
+                "小组学习和自学的空间都在楼上。"
+            ],
+            [
+                "Looking out of the west windows, you can see a football stadium and a playground.",
+                "从西边的窗户向外看，你可以看到一个足球场和一个操场。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "guide",
+            "n.",
+            "指南；导游"
+        ],
+        [
+            "a tour guide",
+            "",
+            "导游"
+        ],
+        [
+            "around",
+            "adv.",
+            "四周；周围"
+        ],
+        [
+            "around",
+            "prep.",
+            "围绕"
+        ],
+        [
+            "crowd",
+            "n.",
+            "人群"
+        ],
+        [
+            "south",
+            "n.",
+            "南方"
+        ],
+        [
+            "south",
+            "adj.",
+            "南方的"
+        ],
+        [
+            "south",
+            "adv.",
+            "朝南"
+        ],
+        [
+            "entrance",
+            "n.",
+            "入口；大门"
+        ],
+        [
+            "the front/back/side entrance of the house",
+            "",
+            "房子的前门/后门/侧门"
+        ],
+        [
+            "where",
+            "adv.",
+            "在哪里"
+        ],
+        [
+            "walk",
+            "v.",
+            "走，步行；散步"
+        ],
+        [
+            "walk around the streets",
+            "",
+            "在大街上闲逛"
+        ],
+        [
+            "along",
+            "prep.",
+            "沿着；顺着"
+        ],
+        [
+            "east",
+            "n.",
+            "东方"
+        ],
+        [
+            "east",
+            "adj.",
+            "东方的"
+        ],
+        [
+            "east",
+            "adv.",
+            "朝东"
+        ],
+        [
+            "a town to the east of Chicago",
+            "",
+            "芝加哥以东的一个城镇"
+        ],
+        [
+            "street",
+            "n.",
+            "街道"
+        ],
+        [
+            "right",
+            "adj.",
+            "正确的；右边的"
+        ],
+        [
+            "right",
+            "n.",
+            "正确；右边"
+        ],
+        [
+            "building",
+            "n.",
+            "建筑；建筑物"
+        ],
+        [
+            "historic buildings",
+            "",
+            "有历史意义的建筑物"
+        ],
+        [
+            "corner",
+            "n.",
+            "角落；拐角处"
+        ],
+        [
+            "road",
+            "n.",
+            "公路，马路；道路"
+        ],
+        [
+            "a country road",
+            "",
+            "乡村道路"
+        ],
+        [
+            "build",
+            "v.",
+            "建立；建筑（过去式/过去分词 built）"
+        ],
+        [
+            "a house built of stone",
+            "",
+            "用石头建造的房子"
+        ],
+        [
+            "beautiful",
+            "adj.",
+            "美丽的"
+        ],
+        [
+            "front",
+            "n.",
+            "前面；正面"
+        ],
+        [
+            "in front of",
+            "",
+            "在……前面"
+        ],
+        [
+            "north",
+            "n.",
+            "北方"
+        ],
+        [
+            "north",
+            "adj.",
+            "北方的"
+        ],
+        [
+            "north",
+            "adv.",
+            "朝北"
+        ],
+        [
+            "left-hand",
+            "adj.",
+            "左手的；左边的"
+        ],
+        [
+            "the left-hand side of the street",
+            "",
+            "街道的左侧"
+        ],
+        [
+            "right-hand",
+            "adj.",
+            "右手的；右边的"
+        ],
+        [
+            "a right-hand glove",
+            "",
+            "右手的手套"
+        ],
+        [
+            "side",
+            "n.",
+            "侧面；一侧"
+        ],
+        [
+            "between",
+            "prep.",
+            "在……之间"
+        ],
+        [
+            "between two trees",
+            "",
+            "在两棵树之间"
+        ],
+        [
+            "behind",
+            "adv. & prep.",
+            "在……后面"
+        ],
+        [
+            "museum",
+            "n.",
+            "博物馆"
+        ],
+        [
+            "a science museum",
+            "",
+            "科学博物馆"
+        ],
+        [
+            "opposite",
+            "prep.",
+            "在……对面"
+        ],
+        [
+            "big",
+            "adj.",
+            "大的"
+        ],
+        [
+            "car park",
+            "n.",
+            "停车场（英式）"
+        ],
+        [
+            "parking lot",
+            "n.",
+            "停车场（美式）"
+        ],
+        [
+            "straight",
+            "adj.",
+            "直的"
+        ],
+        [
+            "straight",
+            "adv.",
+            "笔直地"
+        ],
+        [
+            "cross",
+            "v.",
+            "穿越；越过"
+        ],
+        [
+            "bridge",
+            "n.",
+            "桥"
+        ],
+        [
+            "cross the bridge",
+            "",
+            "过桥"
+        ],
+        [
+            "tall",
+            "adj.",
+            "高的（比较级 taller；最高级 tallest）"
+        ],
+        [
+            "the tallest building in the world",
+            "",
+            "世界上最高的建筑物"
+        ],
+        [
+            "left",
+            "adj.",
+            "左边的"
+        ],
+        [
+            "left",
+            "n.",
+            "左边"
+        ],
+        [
+            "the left side",
+            "",
+            "左边"
+        ],
+        [
+            "library",
+            "n.",
+            "图书馆"
+        ],
+        [
+            "a public library",
+            "",
+            "公共图书馆"
+        ],
+        [
+            "downstairs",
+            "adv.",
+            "在楼下"
+        ],
+        [
+            "inside",
+            "adv. & prep.",
+            "在……里面"
+        ],
+        [
+            "quiet",
+            "adj.",
+            "安静的"
+        ],
+        [
+            "a quiet street",
+            "",
+            "寂静的街道"
+        ],
+        [
+            "map",
+            "n.",
+            "地图"
+        ],
+        [
+            "read a map",
+            "",
+            "查看地图"
+        ],
+        [
+            "beside",
+            "prep.",
+            "在旁边"
+        ],
+        [
+            "lift",
+            "n.",
+            "电梯（英式）"
+        ],
+        [
+            "elevator",
+            "n.",
+            "电梯（美式）"
+        ],
+        [
+            "upstairs",
+            "adv.",
+            "在楼上"
+        ],
+        [
+            "out",
+            "adv.",
+            "（从……里）出来"
+        ],
+        [
+            "look out of the window",
+            "",
+            "向窗外看"
+        ],
+        [
+            "west",
+            "n.",
+            "西方"
+        ],
+        [
+            "west",
+            "adj.",
+            "西方的"
+        ],
+        [
+            "west",
+            "adv.",
+            "朝西"
+        ],
+        [
+            "a west wind",
+            "",
+            "西风"
+        ],
+        [
+            "stadium",
+            "n.",
+            "体育场；运动场"
+        ],
+        [
+            "a football stadium",
+            "",
+            "足球场"
+        ],
+        [
+            "playground",
+            "n.",
+            "游戏场；操场"
+        ]
+    ]
+}

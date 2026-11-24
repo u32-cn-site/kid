@@ -1,0 +1,499 @@
+{
+    "lesson": 23,
+    "title": [
+        "It Really Hurts!",
+        "真的很疼！"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "An ambulance arrived at the health centre.",
+                "一辆救护车到达了健康中心。"
+            ],
+            [
+                "Denis' parents and nurses carried him out of the ambulance.",
+                "丹尼斯的父母和护士把他从救护车上抬了下来。"
+            ],
+            [
+                "\"Doctor, please save my boy.",
+                "「医生，请救救我的孩子。"
+            ],
+            [
+                "He's in danger now!\" His mum cried.",
+                "他现在有危险！」他的妈妈哭喊道。"
+            ],
+            [
+                "\"What's the problem?",
+                "「怎么了？"
+            ],
+            [
+                "Could you tell me what happened to your son?",
+                "你能告诉我你儿子发生了什么事吗？"
+            ],
+            [
+                "Is it an accident or something happened inside his body?\"",
+                "是意外还是身体内部出了问题？」"
+            ],
+            [
+                "\"He first went to the gym and then played football with his friends outdoors.",
+                "「他先去了健身房，然后和朋友们在户外踢足球。"
+            ],
+            [
+                "He was hit badly by the flying football and fell down crying 'I have a horrible stomach ache!'\"",
+                "他被飞来的足球重重地击中，摔倒在地，哭着说『我肚子疼得厉害！』」"
+            ],
+            [
+                "\"OK, I see.",
+                "「好的，我明白了。"
+            ],
+            [
+                "First of all, I'll do some body check.",
+                "首先，我会做一些身体检查。"
+            ],
+            [
+                "Body temperature is normal.",
+                "体温正常。"
+            ],
+            [
+                "Brain and neck are fine.",
+                "大脑和颈部没问题。"
+            ],
+            [
+                "There's no obvious blood in the stomach.",
+                "胃里没有明显的出血。"
+            ],
+            [
+                "I think the strong hit caused his stomach a lot of pain.",
+                "我认为强烈的撞击导致他的胃很疼。"
+            ],
+            [
+                "I'll give him a prescription(处方).",
+                "我会给他开个处方。"
+            ],
+            [
+                "You take him the tablets from the chemist's to relieve his pain and clean the stomach as well.",
+                "你去药店给他拿药来缓解疼痛，同时也清理一下胃。"
+            ],
+            [
+                "You should make an appointment in two days to see if he needs any other special treatment.\"",
+                "你应该在两天后预约，看看他是否需要其他特殊治疗。」"
+            ],
+            [
+                "\"Thank you so much, Doctor.",
+                "「非常感谢，医生。"
+            ],
+            [
+                "We'll look after him carefully in the two days.\" His mum was relieved, and then turned her head to Denis, \"Can you hear me, my boy?\"",
+                "我们会在这两天好好照顾他的。」他的妈妈松了一口气，然后转头对丹尼斯说：「孩子，你能听到我说话吗？」"
+            ],
+            [
+                "\"Yes, Mum.\" Denis opened his mouth weakly.",
+                "「是的，妈妈。」丹尼斯虚弱地张开嘴。"
+            ],
+            [
+                "\"Oh, my boy.",
+                "「哦，我的孩子。"
+            ],
+            [
+                "You are finally awake,\" said his mum excitedly and threw her arms around his neck.",
+                "你终于醒了，」他的妈妈兴奋地说，然后搂住他的脖子。"
+            ],
+            [
+                "\"We are all frightened and only hope the hit won't be bad for your stomach and you will be healthy.\"",
+                "「我们都很害怕，只希望这次撞击不会对你的胃造成不好的影响，希望你能健康。」"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "hurt",
+            "v.",
+            "伤害，受伤（过去式/过去分词 hurt）"
+        ],
+        [
+            "ambulance",
+            "n.",
+            "救护车"
+        ],
+        [
+            "health",
+            "n.",
+            "健康，卫生"
+        ],
+        [
+            "mental health",
+            "",
+            "心理健康"
+        ],
+        [
+            "danger",
+            "n.",
+            "危险"
+        ],
+        [
+            "in danger",
+            "",
+            "处于危险中"
+        ],
+        [
+            "Smoking is a serious danger to health.",
+            "",
+            "吸烟严重危害健康。"
+        ],
+        [
+            "cry",
+            "v.",
+            "哭；喊叫"
+        ],
+        [
+            "It's all right.",
+            "",
+            "不要紧，别哭了。"
+        ],
+        [
+            "problem",
+            "n.",
+            "问题，麻烦"
+        ],
+        [
+            "health problems",
+            "",
+            "健康问题"
+        ],
+        [
+            "accident",
+            "n.",
+            "事故；意外"
+        ],
+        [
+            "a car accident",
+            "",
+            "车祸"
+        ],
+        [
+            "something",
+            "pron.",
+            "某事，某物"
+        ],
+        [
+            "something",
+            "",
+            "some（某些）+thing（事物）"
+        ],
+        [
+            "body",
+            "n.",
+            "身体；主体"
+        ],
+        [
+            "gym",
+            "n.",
+            "健身房；体育馆"
+        ],
+        [
+            "gym",
+            "",
+            "gym是gymnasium的缩写形式。"
+        ],
+        [
+            "outdoors",
+            "adv.",
+            "在户外（形容词outdoor户外的）"
+        ],
+        [
+            "It was warm enough to be outdoors all afternoon.",
+            "",
+            "天气暖洋洋的，整个下午都可以待在户外。"
+        ],
+        [
+            "hit",
+            "v.",
+            "击，打；碰撞"
+        ],
+        [
+            "I was hit by a falling stone.",
+            "",
+            "我被一块坠落的石头击中了。"
+        ],
+        [
+            "badly",
+            "adv.",
+            "严重地；差（比较级worse；最高级worst）"
+        ],
+        [
+            "badly hurt",
+            "",
+            "伤害严重"
+        ],
+        [
+            "sing badly",
+            "",
+            "唱得不好"
+        ],
+        [
+            "fall",
+            "v. & n.",
+            "落下；跌倒（过去式fell；过去分词fallen）"
+        ],
+        [
+            "fall down",
+            "",
+            "跌倒；落下"
+        ],
+        [
+            "horrible",
+            "adj.",
+            "讨厌的；糟透的"
+        ],
+        [
+            "a horrible man",
+            "",
+            "讨厌的人"
+        ],
+        [
+            "The coffee tastes horrible.",
+            "",
+            "这种咖啡难喝极了。"
+        ],
+        [
+            "stomach ache",
+            "",
+            "胃痛；腹痛"
+        ],
+        [
+            "see",
+            "v.",
+            "看见；理解"
+        ],
+        [
+            "—It opens like this.",
+            "",
+            "——这样就打开了。"
+        ],
+        [
+            "—Oh，I see.",
+            "",
+            "——哦，我明白了。"
+        ],
+        [
+            "first of all",
+            "",
+            "首先"
+        ],
+        [
+            "temperature",
+            "n.",
+            "温度；体温"
+        ],
+        [
+            "high temperature",
+            "",
+            "高温"
+        ],
+        [
+            "brain",
+            "n.",
+            "大脑，头脑"
+        ],
+        [
+            "brain storm",
+            "",
+            "头脑风暴"
+        ],
+        [
+            "neck",
+            "n.",
+            "脖子"
+        ],
+        [
+            "blood",
+            "n.",
+            "血"
+        ],
+        [
+            "give blood",
+            "",
+            "献血"
+        ],
+        [
+            "stomach",
+            "n.",
+            "胃；腹部"
+        ],
+        [
+            "stomach pains",
+            "",
+            "肚子疼"
+        ],
+        [
+            "pain",
+            "n.",
+            "疼痛；痛苦"
+        ],
+        [
+            "No pains, no gains.",
+            "",
+            "不劳无获。"
+        ],
+        [
+            "tablet",
+            "n.",
+            "药片"
+        ],
+        [
+            "pill",
+            "n.",
+            "药丸；药片"
+        ],
+        [
+            "vitamin tablets",
+            "",
+            "维生素片"
+        ],
+        [
+            "chemist's",
+            "n.",
+            "药房（英式）"
+        ],
+        [
+            "drugstore/pharmacy",
+            "n.",
+            "药房（美式）"
+        ],
+        [
+            "clean",
+            "v.",
+            "打扫，使干净"
+        ],
+        [
+            "clean",
+            "adj.",
+            "干净的"
+        ],
+        [
+            "Have you cleaned your teeth?",
+            "",
+            "你刷过牙了吗？"
+        ],
+        [
+            "as well",
+            "",
+            "也，同样"
+        ],
+        [
+            "as well as",
+            "",
+            "和……一样"
+        ],
+        [
+            "appointment",
+            "n.",
+            "预约，约定"
+        ],
+        [
+            "make an appointment",
+            "",
+            "预约"
+        ],
+        [
+            "if",
+            "conj.",
+            "如果；是否"
+        ],
+        [
+            "whether",
+            "conj.",
+            "是否"
+        ],
+        [
+            "any",
+            "det. & pron.",
+            "任何"
+        ],
+        [
+            "special",
+            "adj.",
+            "特殊的"
+        ],
+        [
+            "She has a special way of smiling.",
+            "",
+            "她微笑的样子有些特别。"
+        ],
+        [
+            "look after",
+            "",
+            "照顾"
+        ],
+        [
+            "take care of",
+            "",
+            "照顾"
+        ],
+        [
+            "I love looking after the children.",
+            "",
+            "我喜欢照顾孩子们。"
+        ],
+        [
+            "head",
+            "n.",
+            "头；前端"
+        ],
+        [
+            "hear",
+            "v.",
+            "听见（过去式/过去分词heard）"
+        ],
+        [
+            "mouth",
+            "n.",
+            "嘴；口"
+        ],
+        [
+            "arm",
+            "n.",
+            "手臂；胳膊"
+        ],
+        [
+            "arm in arm",
+            "",
+            "臂挽着臂"
+        ],
+        [
+            "frightened",
+            "adj.",
+            "受惊的；害怕的"
+        ],
+        [
+            "What are you frightened of?",
+            "",
+            "你怕什么？"
+        ],
+        [
+            "bad",
+            "adj.",
+            "坏的；不善于（比较级worse；最高级worst）"
+        ],
+        [
+            "be bad for",
+            "",
+            "对……不利；对……有害"
+        ],
+        [
+            "be bad at",
+            "",
+            "不擅长……"
+        ],
+        [
+            "healthy",
+            "adj.",
+            "健康的，有益健康的"
+        ],
+        [
+            "stay healthy",
+            "",
+            "保持健康"
+        ]
+    ]
+}

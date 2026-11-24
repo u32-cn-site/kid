@@ -1,0 +1,300 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "QuestionSet",
+  "description": "练习题集合",
+  "type": "object",
+  "required": ["title", "questions"],
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "题集标题"
+    },
+    "description": {
+      "type": "string",
+      "description": "题集描述"
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Question"
+      }
+    }
+  },
+  "definitions": {
+    "RichContent": {
+      "description": "富文本内容，纯文本或HTML",
+      "oneOf": [
+        {
+          "type": "string"
+        },
+        {
+          "$ref": "#/definitions/HtmlContent"
+        }
+      ]
+    },
+    "HtmlContent": {
+      "type": "object",
+      "required": ["type", "innerHTML"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "html"
+        },
+        "innerHTML": {
+          "type": "string"
+        }
+      }
+    },
+    "QuestionStatus": {
+      "type": "string",
+      "enum": ["pending", "correct", "wrong", "skipped"]
+    },
+    "SingleAttempt": {
+      "type": "object",
+      "description": "单选题一次作答",
+      "required": ["selected", "correct", "startTime", "endTime"],
+      "properties": {
+        "selected": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "选中的选项索引"
+        },
+        "correct": {
+          "type": "boolean"
+        },
+        "startTime": {
+          "type": "number",
+          "description": "题目展示时间戳(ms)"
+        },
+        "endTime": {
+          "type": "number",
+          "description": "答题提交时间戳(ms)"
+        }
+      }
+    },
+    "MultipleAttempt": {
+      "type": "object",
+      "description": "多选题一次作答",
+      "required": ["selected", "correct", "startTime", "endTime"],
+      "properties": {
+        "selected": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "description": "选中的选项索引数组"
+        },
+        "correct": {
+          "type": "boolean"
+        },
+        "startTime": {
+          "type": "number",
+          "description": "题目展示时间戳(ms)"
+        },
+        "endTime": {
+          "type": "number",
+          "description": "答题提交时间戳(ms)"
+        }
+      }
+    },
+    "FillAttempt": {
+      "type": "object",
+      "description": "填空题一次作答",
+      "required": ["input", "correct", "startTime", "endTime"],
+      "properties": {
+        "input": {
+          "type": "string",
+          "description": "用户输入内容"
+        },
+        "correct": {
+          "type": "boolean"
+        },
+        "startTime": {
+          "type": "number",
+          "description": "题目展示时间戳(ms)"
+        },
+        "endTime": {
+          "type": "number",
+          "description": "答题提交时间戳(ms)"
+        }
+      }
+    },
+    "SingleQuestionRecord": {
+      "type": "object",
+      "required": ["status", "attempts", "attemptHistory"],
+      "properties": {
+        "status": {
+          "$ref": "#/definitions/QuestionStatus"
+        },
+        "attempts": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "作答次数"
+        },
+        "attemptHistory": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SingleAttempt"
+          }
+        },
+        "skipReason": {
+          "type": "string",
+          "description": "跳过原因"
+        }
+      }
+    },
+    "MultipleQuestionRecord": {
+      "type": "object",
+      "required": ["status", "attempts", "attemptHistory"],
+      "properties": {
+        "status": {
+          "$ref": "#/definitions/QuestionStatus"
+        },
+        "attempts": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "作答次数"
+        },
+        "attemptHistory": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/MultipleAttempt"
+          }
+        },
+        "skipReason": {
+          "type": "string",
+          "description": "跳过原因"
+        }
+      }
+    },
+    "FillQuestionRecord": {
+      "type": "object",
+      "required": ["status", "attempts", "attemptHistory"],
+      "properties": {
+        "status": {
+          "$ref": "#/definitions/QuestionStatus"
+        },
+        "attempts": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "作答次数"
+        },
+        "attemptHistory": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/FillAttempt"
+          }
+        },
+        "skipReason": {
+          "type": "string",
+          "description": "跳过原因"
+        }
+      }
+    },
+    "Question": {
+      "description": "题目（单选/多选/填空）",
+      "oneOf": [
+        {
+          "$ref": "#/definitions/SingleChoiceQuestion"
+        },
+        {
+          "$ref": "#/definitions/MultipleChoiceQuestion"
+        },
+        {
+          "$ref": "#/definitions/FillBlankQuestion"
+        }
+      ]
+    },
+    "SingleChoiceQuestion": {
+      "type": "object",
+      "required": ["type", "content", "options", "answer"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "single"
+        },
+        "content": {
+          "$ref": "#/definitions/RichContent"
+        },
+        "hint": {
+          "$ref": "#/definitions/RichContent"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/RichContent"
+          }
+        },
+        "answer": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "正确选项的索引"
+        },
+        "record": {
+          "$ref": "#/definitions/SingleQuestionRecord"
+        }
+      }
+    },
+    "MultipleChoiceQuestion": {
+      "type": "object",
+      "required": ["type", "content", "options", "answer"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "multiple"
+        },
+        "content": {
+          "$ref": "#/definitions/RichContent"
+        },
+        "hint": {
+          "$ref": "#/definitions/RichContent"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/RichContent"
+          }
+        },
+        "answer": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "description": "正确选项的索引数组"
+        },
+        "record": {
+          "$ref": "#/definitions/MultipleQuestionRecord"
+        }
+      }
+    },
+    "FillBlankQuestion": {
+      "type": "object",
+      "required": ["type", "content", "answer"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "fill"
+        },
+        "content": {
+          "$ref": "#/definitions/RichContent"
+        },
+        "hint": {
+          "$ref": "#/definitions/RichContent"
+        },
+        "answer": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1,
+          "description": "多个可接受答案"
+        },
+        "record": {
+          "$ref": "#/definitions/FillQuestionRecord"
+        }
+      }
+    }
+  }
+}

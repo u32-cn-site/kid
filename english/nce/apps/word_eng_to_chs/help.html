@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新概念英语单词英译中训练 - 帮助</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background-color: #f5f5f5;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #0066cc;
+            padding-bottom: 10px;
+        }
+        h2 {
+            font-size: 18px;
+            color: #333;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            border-left: 4px solid #0066cc;
+            padding-left: 12px;
+        }
+        p {
+            color: #555;
+            margin-bottom: 10px;
+        }
+        ul, ol {
+            color: #555;
+            margin-left: 25px;
+            margin-bottom: 15px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        kbd {
+            background-color: #f5f5f5;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 2px 6px;
+            font-family: "Courier New", monospace;
+            font-size: 14px;
+            color: #333;
+        }
+        .highlight {
+            color: #0066cc;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>新概念英语单词英译中训练</h1>
+        
+        <h2>功能概述</h2>
+        <p>基于新概念英语教材的英文到中文单词翻译训练工具，支持多册教材切换和进度保存。</p>
+        
+        <h2>键盘操作</h2>
+        
+        <h3>单词导航</h3>
+        <ul>
+            <li><kbd>↑</kbd> - 上一个单词</li>
+            <li><kbd>↓</kbd> - 下一个单词</li>
+            <li><kbd>滚轮向上</kbd> - 上一个单词</li>
+            <li><kbd>滚轮向下</kbd> - 下一个单词</li>
+        </ul>
+        
+        <h3>课程导航</h3>
+        <ul>
+            <li><kbd>←</kbd> - 上一课</li>
+            <li><kbd>→</kbd> - 下一课</li>
+            <li><kbd>Ctrl + ←</kbd> - 上一册</li>
+            <li><kbd>Ctrl + →</kbd> - 下一册</li>
+        </ul>
+        
+        <h3>显示控制</h3>
+        <ul>
+            <li><kbd>空格键</kbd> - 切换显示/隐藏中文释义</li>
+            <li><kbd>鼠标左键按住</kbd> - 临时显示中文释义</li>
+            <li><kbd>鼠标左键松开</kbd> - 隐藏中文释义</li>
+        </ul>
+        
+        <h2>数据源</h2>
+        <ul>
+            <li>从 <code>../../data/index.json</code> 加载教材列表</li>
+            <li>从 <code>../../data/nceX/lesson_Y.json</code> 的 <code>words</code> 字段加载单词内容</li>
+        </ul>
+        
+        <h2>状态保存</h2>
+        <ul>
+            <li>自动保存当前进度到本地存储</li>
+            <li>包括：教材、课程、单词位置、显示状态</li>
+            <li>下次访问时自动恢复上次进度</li>
+        </ul>
+        
+        <h2>界面说明</h2>
+        <ul>
+            <li><strong>顶部</strong>：显示当前教材、课程、标题和进度</li>
+            <li><strong>主区域</strong>：
+                <ul>
+                    <li>上方：英文单词（大字体，遮盖模式）</li>
+                    <li>下方：中文释义（蓝色，遮盖模式）</li>
+                </ul>
+            </li>
+        </ul>
+        
+        <h2>使用技巧</h2>
+        <ol>
+            <li><strong>快速预览</strong>：按住鼠标左键临时查看中文释义</li>
+            <li><strong>连续练习</strong>：使用方向键或滚轮快速切换单词</li>
+            <li><strong>跨教材学习</strong>：Ctrl+方向键快速切换教材</li>
+            <li><strong>进度追踪</strong>：系统自动保存，关闭浏览器后仍保留进度</li>
+        </ol>
+    </div>
+</body>
+</html>

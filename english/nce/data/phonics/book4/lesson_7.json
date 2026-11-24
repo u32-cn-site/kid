@@ -1,0 +1,31 @@
+{
+    "lesson": 7,
+    "title": ["Unit 7", "第7单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["skunk", "", "臭鼬"],
+        ["The skunk smells bad.", "", "臭鼬很难闻。"],
+        ["desk", "", "书桌"],
+        ["I put my books on the desk.", "", "我把书放在书桌上。"],
+        ["scale", "", "秤/刻度"],
+        ["We weigh food on a scale.", "", "我们用秤称食物。"],
+        ["school", "", "学校"],
+        ["I go to school.", "", "我去上学。"],
+        ["spray", "", "喷雾"],
+        ["I spray water on plants.", "", "我给植物喷水。"],
+        ["spring", "", "春天/弹簧"],
+        ["Flowers bloom in spring.", "", "春天花朵盛开。"],
+        ["string", "", "绳子"],
+        ["I tie the box with string.", "", "我用绳子绑盒子。"],
+        ["strong", "", "强壮的"],
+        ["My dad is strong.", "", "我爸爸很强壮。"],
+        ["splash", "", "溅水"],
+        ["I splash in the pool.", "", "我在泳池里溅水。"],
+        ["splint", "", "夹板"],
+        ["The doctor uses a splint.", "", "医生使用夹板。"],
+        ["squid", "", "鱿鱼"],
+        ["The squid has eight arms.", "", "鱿鱼有八条腿。"],
+        ["square", "", "正方形/广场"],
+        ["The box is square.", "", "盒子是正方形的。"]
+    ]
+}

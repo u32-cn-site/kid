@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" ry="112" fill="#2f6b5e"/>
+  <g fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 书本（在下方） -->
+    <path d="M96 200 Q160 184 256 232 Q352 184 416 200 L416 380 Q352 364 256 408 Q160 364 96 380 Z" fill="none"/>
+    <line x1="256" y1="232" x2="256" y2="408"/>
+    <!-- 铅笔（斜搭在书上，从左上到右下） -->
+    <g transform="rotate(35 256 256)">
+      <rect x="120" y="240" width="200" height="32" rx="4" fill="#2f6b5e"/>
+      <path d="M320 240 L364 256 L320 272 Z" fill="#ffffff" stroke="none"/>
+      <line x1="320" y1="256" x2="352" y2="256" stroke-width="10"/>
+      <rect x="92" y="240" width="28" height="32" rx="4" fill="#ffffff" stroke="none"/>
+    </g>
+  </g>
+</svg>

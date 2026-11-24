@@ -1,0 +1,31 @@
+{
+    "lesson": 1,
+    "title": ["Unit 1", "第1单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["black", "", "黑色"],
+        ["The cat is black.", "", "这只猫是黑色的。"],
+        ["blanket", "", "毯子"],
+        ["I have a soft blanket.", "", "我有一条柔软的毯子。"],
+        ["clock", "", "时钟"],
+        ["The clock says 3 o'clock.", "", "时钟显示3点。"],
+        ["club", "", "俱乐部"],
+        ["I go to art club.", "", "我参加美术俱乐部。"],
+        ["broom", "", "扫帚"],
+        ["Mom sweeps with a broom.", "", "妈妈用扫帚扫地。"],
+        ["bride", "", "新娘"],
+        ["The bride is beautiful.", "", "新娘很漂亮。"],
+        ["crab", "", "螃蟹"],
+        ["The crab walks sideways.", "", "螃蟹横着走路。"],
+        ["crocodile", "", "鳄鱼"],
+        ["The crocodile has sharp teeth.", "", "鳄鱼有锋利的牙齿。"],
+        ["fly", "", "苍蝇"],
+        ["A fly is on the food.", "", "一只苍蝇停在食物上。"],
+        ["flag", "", "旗帜"],
+        ["We wave the flag.", "", "我们挥舞旗帜。"],
+        ["globe", "", "地球仪"],
+        ["I see China on the globe.", "", "我在地球仪上看到中国。"],
+        ["glass", "", "玻璃/杯子"],
+        ["I drink milk from a glass.", "", "我用玻璃杯喝牛奶。"]
+    ]
+}

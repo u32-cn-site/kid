@@ -1,0 +1,196 @@
+{
+    "lesson": 10,
+    "title": [
+        "Aria's Daily Vlog (2)",
+        "阿莉亚的日常Vlog（2）"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Hi, this is Aria!",
+                "嗨，我是阿莉亚！"
+            ],
+            [
+                "Welcome back to my channel!",
+                "欢迎回到我的频道！"
+            ],
+            [
+                "It's lunchtime now.",
+                "现在是午餐时间。"
+            ],
+            [
+                "Tommy and I are on the way to a restaurant on an empty stomach.",
+                "汤米和我正空着肚子在去餐厅的路上。"
+            ],
+            [
+                "We thought that we would order some fast food like pizza or burger because we were really hungry.",
+                "我们原以为会点一些快餐比如比萨或汉堡，因为我们真的饿了。"
+            ],
+            [
+                "But we eventually decided to have some healthy food.",
+                "但我们最终决定吃一些健康的食物。"
+            ],
+            [
+                "Now we are sitting at a restaurant.",
+                "现在我们正坐在餐厅里。"
+            ],
+            [
+                "The waiter just brought us two glasses of mineral water and the lunch menu.",
+                "服务员刚刚给我们端来了两杯矿泉水和午餐菜单。"
+            ],
+            [
+                "For starters, we decide to try their famous fish soup and egg salad.",
+                "作为前菜，我们决定尝试他们著名的鱼汤和鸡蛋沙拉。"
+            ],
+            [
+                "For main courses, I would like to have a steak which goes with chips and fried mushrooms while Tommy wants a Sunday roast.",
+                "作为主菜，我想要牛排配薯条和炸蘑菇，而汤米想要星期天烤肉。"
+            ],
+            [
+                "Have you heard of Sunday roast?",
+                "你听说过星期天烤肉吗？"
+            ],
+            [
+                "Here it is.",
+                "这就是。"
+            ],
+            [
+                "As you see, it's a traditional British main meal.",
+                "如你所见，这是一道传统的英式主餐。"
+            ],
+            [
+                "It is usually served with roast meat and boiled potatoes.",
+                "它通常搭配烤肉和水煮土豆供应。"
+            ],
+            [
+                "You can choose from chicken, lamb, pork or beef along with different kinds of sauces.",
+                "您可以选择鸡肉、羊肉、猪肉或牛肉，搭配不同种类的酱汁。"
+            ],
+            [
+                "Vegetables such as carrots, beans and broccoli can also be part of the dish.",
+                "蔬菜如胡萝卜、豆类和西兰花也可以成为这道菜的一部分。"
+            ],
+            [
+                "Yum, it tastes really good!",
+                "嗯，味道真好！"
+            ],
+            [
+                "It's already half past two.",
+                "已经两点半了。"
+            ],
+            [
+                "And we just bought two cups of coffee at our favourite cafe.",
+                "我们刚刚在我们最喜欢的咖啡馆买了两杯咖啡。"
+            ],
+            [
+                "I think we have eaten too much and we are too full now.",
+                "我想我们吃得太多了，现在太饱了。"
+            ],
+            [
+                "We decide to have a walk and drop by the supermarket to get some stuff for tonight's supper and tomorrow's breakfast.",
+                "我们决定去散散步，顺便去超市买一些今晚晚餐和明天早餐的东西。"
+            ],
+            [
+                "We finally get back home!",
+                "我们终于回到家了！"
+            ],
+            [
+                "We get some bread and sausages to make sandwiches, some jam, and a large bottle of milk.",
+                "我们买了一些面包和香肠做三明治，一些果酱，还有一大瓶牛奶。"
+            ],
+            [
+                "Thank you for watching!",
+                "感谢观看！"
+            ],
+            [
+                "Please leave a comment below and hope to see you soon!",
+                "请在下方留言，希望很快见到您！"
+            ]
+        ]
+    },
+    "words": [
+        ["lunchtime", "n.", "午餐时间"],
+        ["empty", "adj.", "空的"],
+        ["order", "v.", "点餐"],
+        ["order", "n.", "点菜"],
+        ["fast food", "n.", "速食，快餐"],
+        ["pizza", "n.", "比萨饼"],
+        ["burger", "n.", "汉堡包"],
+        ["hungry", "adj.", "饥饿的"],
+        ["food", "n.", "食物"],
+        ["waiter", "n.", "服务员"],
+        ["water", "n.", "水"],
+        ["lunch", "n.", "午餐"],
+        ["menu", "n.", "菜单"],
+        ["fish", "n.", "鱼；鱼肉"],
+        ["soup", "n.", "汤"],
+        ["egg", "n.", "蛋；鸡蛋"],
+        ["salad", "n.", "沙拉"],
+        ["main course", "n.", "主菜；主要课程"],
+        ["steak", "n.", "牛排；肉排"],
+        ["chip", "n.", "炸薯条（英式）"],
+        ["mushroom", "n.", "蘑菇"],
+        ["roast", "adj.", "（食物）烤过的"],
+        ["roast", "v.", "烘，烤（肉等）"],
+        ["meal", "n.", "一顿饭；（一顿所吃的）食物"],
+        ["serve", "v.", "提供，供应"],
+        ["meat", "n.", "（供食用的）肉"],
+        ["boil", "v.", "煮沸；用沸水煮"],
+        ["potato", "n.", "土豆；马铃薯"],
+        ["sauce", "n.", "酱；调味汁"],
+        ["bean", "n.", "豆"],
+        ["dish", "n.", "盘；（一道）菜"],
+        ["coffee", "n.", "咖啡"],
+        ["cafe", "n.", "咖啡馆；小餐馆"],
+        ["much", "adv.", "非常，很"],
+        ["much", "det. & pron.", "大量，多少"],
+        ["stuff", "n.", "东西"],
+        ["supper", "n.", "晚餐；晚饭"],
+        ["breakfast", "n.", "早餐；早饭"],
+        ["bread", "n.", "面包"],
+        ["sausage", "n.", "香肠"],
+        ["sandwich", "n.", "三明治"],
+        ["jam", "n.", "果酱"],
+        ["bottle", "n.", "瓶子；一瓶（的量）"],
+        ["milk", "n.", "牛奶"],
+        ["during lunchtime", "", "在午餐时间"],
+        ["fill an empty stomach", "", "填饱肚子"],
+        ["a fast food shop", "", "快餐店"],
+        ["food and drink", "", "饮食"],
+        ["mineral water", "", "矿泉水"],
+        ["look at the menu", "", "看菜单"],
+        ["a bowl of soup", "", "一碗汤"],
+        ["a boiled egg", "", "煮鸡蛋"],
+        ["fruit salad", "", "水果沙拉"],
+        ["pork steak", "", "猪排"],
+        ["fish and chips", "", "炸鱼薯条"],
+        ["cream of mushroom soup", "", "奶油蘑菇汤"],
+        ["roast chicken", "", "烧鸡"],
+        ["roast a chicken", "", "烤一只鸡"],
+        ["a piece of meat", "", "一块肉"],
+        ["boiled potatoes", "", "水煮土豆"],
+        ["tomato sauce", "", "番茄酱"],
+        ["a cold dish", "", "凉菜"],
+        ["a water bottle", "", "水瓶"],
+        ["a bottle of water", "", "一瓶水"],
+        ["a bottle of milk", "", "一瓶牛奶"],
+        ["bread and butter", "", "面包和黄油"],
+        ["beef/pork sausages", "", "牛肉/猪肉香肠"],
+        ["a cheese sandwich", "", "奶酪三明治"],
+        ["strawberry jam", "", "草莓酱"],
+        ["I ordered a beer and a sandwich", "", "我点了一杯啤酒和一份三明治。"],
+        ["I'm really hungry", "", "我确实饿了。"],
+        ["What shall we have for lunch?", "", "我们午餐吃什么？"],
+        ["After the main course, would you like some dessert?", "", "吃完主菜后，您想来点甜点吗？"],
+        ["How would you like your steak done?", "", "您的牛排要煎到几成熟？"],
+        ["Enjoy your meal", "", "请用餐。"],
+        ["Breakfast is served between 7 and 10 a.m.", "", "早餐供应时间是7点到10点。"],
+        ["Would you like some coffee?", "", "你想喝点咖啡吗？"],
+        ["You worry too much. You are too concerned", "", "你担心得太多了。"],
+        ["How much is it?", "", "这东西多少钱？"],
+        ["Where's all my stuff?", "", "我的那些东西在哪儿？"],
+        ["We'll have an early supper tonight", "", "今天我们要早点吃晚饭。"],
+        ["What's for breakfast?", "", "早餐吃什么？"],
+        ["French fries", "n.", "炸薯条（美式）"]
+    ]
+}

@@ -1,0 +1,498 @@
+{
+ "lesson": 76,
+ "title": [
+  "The Iron Immortal",
+  "铁仙"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "Wukong was once again traveling west with the Tang Monk.",
+    "悟空又一次与唐僧一起前往西域。"
+   ],
+   [
+    "\"Master,\" said Wukong.",
+    "“师父，”悟空说道。"
+   ],
+   [
+    "\"While I was at Mount Potalaka, I thought a lot.",
+    "“我在波塔拉卡山的时候想了很多。”"
+   ],
+   [
+    "I realize now that it's wrong to harm people.",
+    "我现在意识到伤害别人是不对的。"
+   ],
+   [
+    "I won't ever do it again.\"",
+    "“我再也不会那么做了。”"
+   ],
+   [
+    "\"I'm glad, Wukong,\" said the Tang Monk.",
+    "“我很高兴，悟空，”唐僧说。"
+   ],
+   [
+    "\"Can we please slow down?",
+    "“我们能减速一点吗？”"
+   ],
+   [
+    "Bajie moaned.",
+    "八戒呻吟了一声。"
+   ],
+   [
+    "\"I'm tired and it's hot!\"",
+    "“我累了，而且天气很热！”"
+   ],
+   [
+    "Wukong laughed.",
+    "孙悟空笑了。"
+   ],
+   [
+    "\"Not much has changed since I left.",
+    "“自从我离开后，这里没有太大变化。”"
+   ],
+   [
+    "Bajie still complains all the time!\"",
+    "八戒还是老是一直在抱怨！”"
+   ],
+   [
+    "Wujing wiped his brow.",
+    "吴劲擦了擦额头。"
+   ],
+   [
+    "\"It is hot.",
+    "“天气很热。”"
+   ],
+   [
+    "Maybe we should take a break.\"",
+    "“也许我们应该休息一下。”"
+   ],
+   [
+    "\"Yes,\" said the Tang Monk.",
+    "“是的，”唐僧说道。"
+   ],
+   [
+    "\"But I don't understand why it's so hot.",
+    "“但是我不明白为什么这里这么热。”"
+   ],
+   [
+    "It's not summer.\"",
+    "“现在还不是夏天。”"
+   ],
+   [
+    "The travelers soon reached a village.",
+    "旅行者们很快就到达了一个村庄。"
+   ],
+   [
+    "An old man offered to take them in for the night.",
+    "一位老人提出让他们在自家过夜。"
+   ],
+   [
+    "Later that evening they were all eating dinner.",
+    "那天晚些时候，他们都在吃晚餐。"
+   ],
+   [
+    "\"Is it always so hot here?\" asked Bajie.",
+    "“这里总是这么热吗？”八戒问道。"
+   ],
+   [
+    "The man nodded.",
+    "那个男人点了点头。"
+   ],
+   [
+    "\"The Mountain of Flames is near here.",
+    "“火焰之山就在附近。”"
+   ],
+   [
+    "It's always burning.\"",
+    "“它总是处于燃烧状态。”"
+   ],
+   [
+    "\"Well, I'll be happy when we continue on our journey,\" said the pig.",
+    "“嗯，等我们继续我们的旅程时，我就开心了。”猪说道。"
+   ],
+   [
+    "\"Then we can get away from this heat.\"",
+    "“那样我们就可以摆脱这种炎热了。”"
+   ],
+   [
+    "\"Where are you going?\" asked the man.",
+    "“你要去哪里？”男人问道。"
+   ],
+   [
+    "\"We're going to the Western Paradise,\" said the Tang Monk.",
+    "“我们要去西方极乐世界，”唐僧说道。"
+   ],
+   [
+    "The man frowned.",
+    "那个男人皱起了眉头。"
+   ],
+   [
+    "\"You can't travel west from here.\"",
+    "“从这里你不能向西旅行。”"
+   ],
+   [
+    "Everyone stopped eating and looked at the old man.",
+    "所有人都停下了吃饭，看着那位老人。"
+   ],
+   [
+    "\"Why not?\" asked the Tang Monk.",
+    "“为什么不呢？”唐僧问道。"
+   ],
+   [
+    "\"The Mountain of Flames is to the west,\" said the man.",
+    "“火焰之山在西方，”那个人说。"
+   ],
+   [
+    "\"It's impossible to pass.\"",
+    "“这是不可能通过的。”"
+   ],
+   [
+    "\"We'll go around it,\" said the Tang Monk.",
+    "“我们绕道而行吧，”唐僧说道。"
+   ],
+   [
+    "The old man shook his head.",
+    "老人摇了摇头。"
+   ],
+   [
+    "\"All the land around the mountain is covered in flames.",
+    "“山周围的整个地区都燃烧着火焰。”"
+   ],
+   [
+    "The land stretches far to the north and the south.",
+    "这片土地向北和向南延伸得很远。"
+   ],
+   [
+    "It's impossible to go around.\"",
+    "“这里到处都是障碍物，根本无法通行。”"
+   ],
+   [
+    "\"Then we must wait for a strong rainstorm,\" said Bajie.",
+    "“那我们就得等一场大雨了。”八戒说。"
+   ],
+   [
+    "\"That will put out the flames.\"",
+    "“那会扑灭火焰的。”"
+   ],
+   [
+    "\"No,\" said the man.",
+    "“不，”那个男人说。"
+   ],
+   [
+    "\"The flames are magical.",
+    "“火焰真是太神奇了。”"
+   ],
+   [
+    "There is just one spirit who can put them out.\"",
+    "只有一种精神能够扑灭它们。”"
+   ],
+   [
+    "\"Who?\" asked Wujing.",
+    "“谁？”武静问道。"
+   ],
+   [
+    "\"She's called the Iron Immortal,\" said the man.",
+    "“她被称为‘铁仙子’，”那个男人说道。"
+   ],
+   [
+    "\"She has a special fan that can put out the flames.",
+    "“她有一个特别的风扇，可以扑灭火焰。”"
+   ],
+   [
+    "It's made from a plantain leaf.\"",
+    "它是用芭蕉叶制成的。"
+   ],
+   [
+    "Wukong stood up.",
+    "悟空站了起来。"
+   ],
+   [
+    "\"Where does the Iron Immortal live?",
+    "“铁仙住在哪儿？”"
+   ],
+   [
+    "I'll demand that she put out the flames.\"",
+    "“我会要求她扑灭火焰。”"
+   ],
+   [
+    "She won't listen to you,\" said the man.",
+    "“她根本不会听你的，”那个男人说道。"
+   ],
+   [
+    "\"She is very powerful.\"",
+    "“她非常强大。”"
+   ],
+   [
+    "Wukong folded his arms in front of his chest.",
+    "孙悟空双臂交叉在胸前。"
+   ],
+   [
+    "\"I am as powerful as a god.",
+    "“我拥有如同神明般强大的力量。”"
+   ],
+   [
+    "Just tell me where she lives.\"",
+    "“只要告诉我她住在哪里就行。”"
+   ],
+   [
+    "The old man told Wukong where the Iron Immortal lived.",
+    "老人告诉悟空铁仙人的住处在哪里。"
+   ],
+   [
+    "The monkey leaped into the air.",
+    "猴子跳到了空中。"
+   ],
+   [
+    "The man gasped.",
+    "那个男人倒吸了一口气。"
+   ],
+   [
+    "\"He's a spirit!\"",
+    "“他是个精灵！”"
+   ],
+   [
+    "Wukong was soon on the Iron Immortal's mountain.",
+    "悟空很快就来到了铁仙人的山上。"
+   ],
+   [
+    "He found a cave door and knocked.",
+    "他发现了一扇洞穴门，然后敲了敲门。"
+   ],
+   [
+    "\"Open up!\" he demanded.",
+    "“打开！”他大声要求道。"
+   ],
+   [
+    "The door flew open, and a tall woman appeared.",
+    "门突然被推开，一个高个子女人出现在了门口。"
+   ],
+   [
+    "She held a large fan.",
+    "她拿着一把大扇子。"
+   ],
+   [
+    "\"Who are you?\" she asked.",
+    "“你是谁？”她问道。"
+   ],
+   [
+    "\"I am Sun Wukong.",
+    "“我是孙悟空。”"
+   ],
+   [
+    "I need to borrow your fan.",
+    "我需要借你的扇子用一下。"
+   ],
+   [
+    "\"Sun Wukong?",
+    "“孙悟空？”"
+   ],
+   [
+    "Ugh!\" cried the Iron Immortal.",
+    "“啊！”铁仙人大叫道。"
+   ],
+   [
+    "\"You are my worst enemy!\"",
+    "“你是我最大的敌人！”"
+   ],
+   [
+    "Wukong was confused.",
+    "悟空感到很困惑。"
+   ],
+   [
+    "\"I am?",
+    "“我是？”"
+   ],
+   [
+    "Why?\"",
+    "“为什么？”"
+   ],
+   [
+    "The Iron Immortal glared at the monkey.",
+    "铁仙怒视着那只猴子。"
+   ],
+   [
+    "\"My husband is the Bull Demon King, who used to be your friend.",
+    "“我的丈夫是牛魔王，他曾经是你的朋友。”"
+   ],
+   [
+    "And our son is Red Boy.",
+    "我们的儿子叫红男孩。"
+   ],
+   [
+    "Because of you, Red Boy is a prisoner of the bodhisattva Guanyin!\"",
+    "因为你的缘故，红孩儿成了观音菩萨的“俘虏”！"
+   ],
+   [
+    "Wukong laughed.",
+    "孙悟空笑了。"
+   ],
+   [
+    "\"Red Boy isn't a prisoner.",
+    "“红男孩不是囚犯。”"
+   ],
+   [
+    "He is Guanyin's student.",
+    "他是观音菩萨的学生。"
+   ],
+   [
+    "He isn't evil anymore.\"",
+    "他不再邪恶了。“"
+   ],
+   [
+    "The Iron Immortal shrieked.",
+    "铁仙人发出了尖叫。"
+   ],
+   [
+    "\"That's even worse!\"",
+    "“那更糟糕了！”"
+   ],
+   [
+    "Wukong sighed.",
+    "悟空叹了口气。"
+   ],
+   [
+    "\"Can I please just borrow your fan for a little while?\"",
+    "“请问我可以借你的风扇用一会儿吗？”"
+   ],
+   [
+    "\"No!\" said the woman.",
+    "“不要！”女人说道。"
+   ],
+   [
+    "\"Well then, can I speak with the Bull Demon King?\" asked the monkey.",
+    "“那么，我能的和牛魔王谈谈吗？”猴子问道。"
+   ],
+   [
+    "\"He's at a banquet,\" said the Iron Immortal.",
+    "“他正在参加一个宴会，”铁仙说道。"
+   ],
+   [
+    "\"Now leave!\"",
+    "“现在离开！”"
+   ],
+   [
+    "Wukong grew angry.",
+    "悟空生气了。"
+   ],
+   [
+    "\"I'm not leaving until I borrow your—\" Whoosh!",
+    "“在我借到你——之前，我是不会离开的。” 嘿！"
+   ],
+   [
+    "The Iron Immortal waved the fan.",
+    "铁仙挥动着手中的扇子。"
+   ],
+   [
+    "A furious wind blew, and Wukong was gone!",
+    "一阵狂风 blew，悟空消失了！"
+   ]
+  ]
+ },
+ "words": [
+  [
+   "immortal",
+   "",
+   "神，不朽的⼈物",
+   "She's called the Iron Immortal.",
+   "她被称为“铁仙”。"
+  ],
+  [
+   "once again",
+   "",
+   "再⼀次",
+   "Wukong was once again traveling west with the Tang Monk.",
+   "悟空又一次与唐僧一起前往西域。"
+  ],
+  [
+   "wipe",
+   "",
+   "擦",
+   "Wujing wiped his brow.",
+   "吴劲擦了擦额头。"
+  ],
+  [
+   "brow",
+   "",
+   "额头",
+   "Wujing wiped his brow.",
+   "吴劲擦了擦额头。"
+  ],
+  [
+   "get away",
+   "",
+   "逃脱，离开",
+   "Then we can get away from this heat.",
+   "那么我们就可以摆脱这种炎热了。"
+  ],
+  [
+   "impossible",
+   "",
+   "不可能的，做不到的",
+   "It's impossible to pass.",
+   "这是不可能通过的。"
+  ],
+  [
+   "rainstorm",
+   "",
+   "暴风⾬",
+   "Then we must wait for a strong rainstorm.",
+   "那么我们就必须等待一场大雨了。"
+  ],
+  [
+   "magical",
+   "",
+   "魔术的，魔法的",
+   "The flames are magical.",
+   "火焰真是太奇妙了。"
+  ],
+  [
+   "spirit",
+   "",
+   "精灵，妖精",
+   "There is just one spirit who can put them out.",
+   "只有一种力量能够扑灭它们。"
+  ],
+  [
+   "borrow",
+   "",
+   "借，借⼊",
+   "I need to borrow your fan.",
+   "我需要借你的扇子用一下。"
+  ],
+  [
+   "worst",
+   "",
+   "最坏的，最差的 (bad-worse-worst)",
+   "You are my worst enemy!",
+   "你是我最大的敌人！"
+  ],
+  [
+   "enemy",
+   "",
+   "敌⼈",
+   "You are my worst enemy!",
+   "你是我最大的敌人！"
+  ],
+  [
+   "confused",
+   "",
+   "混乱的，困惑的",
+   "Wukong was confused.",
+   "悟空感到很困惑。"
+  ],
+  [
+   "prisoner",
+   "",
+   "囚犯，犯⼈",
+   "Because of you, Red Boy is a prisoner of the bodhisattva Guanyin!",
+   "因为你，红男孩成了观音菩萨的俘虏！"
+  ],
+  [
+   "banquet",
+   "",
+   "宴会，盛宴",
+   "He's at a banquet.",
+   "他正在参加一个宴会。"
+  ]
+ ]
+}

@@ -1,0 +1,31 @@
+{
+    "lesson": 6,
+    "title": ["Unit 6", "第6单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["king", "", "国王"],
+        ["The king rules the country.", "", "国王统治国家。"],
+        ["long", "", "长的"],
+        ["The snake is long.", "", "蛇很长。"],
+        ["bank", "", "银行"],
+        ["We save money in the bank.", "", "我们在银行存钱。"],
+        ["pink", "", "粉色"],
+        ["My dress is pink.", "", "我的连衣裙是粉色的。"],
+        ["wind", "", "风"],
+        ["The wind blows my hair.", "", "风吹动我的头发。"],
+        ["hand", "", "手"],
+        ["I write with my hand.", "", "我用手写字。"],
+        ["tent", "", "帐篷"],
+        ["We sleep in a tent.", "", "我们在帐篷里睡觉。"],
+        ["paint", "", "绘画/颜料"],
+        ["I paint a picture.", "", "我画一幅画。"],
+        ["belt", "", "腰带"],
+        ["I wear a belt.", "", "我系腰带。"],
+        ["adult", "", "成年人"],
+        ["My parents are adults.", "", "我的父母是成年人。"],
+        ["lamp", "", "灯"],
+        ["The lamp gives light.", "", "灯提供光亮。"],
+        ["camp", "", "露营"],
+        ["We go camping.", "", "我们去露营。"]
+    ]
+}

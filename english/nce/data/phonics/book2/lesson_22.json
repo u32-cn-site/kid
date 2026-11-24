@@ -1,0 +1,42 @@
+{
+    "lesson": 22,
+    "title": [
+        "Letter W",
+        "字母W"
+    ],
+    "content": {
+        "sentences": []
+    },
+    "words": [
+        [
+            "wet",
+            "adj.",
+            "湿的"
+        ],
+        [
+            "My hair is wet after swimming.",
+            "",
+            "游泳后我的头发湿了。"
+        ],
+        [
+            "wig",
+            "n.",
+            "假发"
+        ],
+        [
+            "The clown wears a funny wig.",
+            "",
+            "小丑戴着滑稽的假发。"
+        ],
+        [
+            "win",
+            "v.",
+            "赢"
+        ],
+        [
+            "I want to win the game.",
+            "",
+            "我想赢得比赛。"
+        ]
+    ]
+}

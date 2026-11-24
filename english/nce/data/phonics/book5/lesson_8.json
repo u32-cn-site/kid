@@ -1,0 +1,31 @@
+{
+    "lesson": 8,
+    "title": ["Unit 8", "第八单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["picture", "n.", "图片"],
+        ["I draw a picture.", "", "我画一幅画。"],
+        ["nature", "n.", "自然"],
+        ["We learn about nature.", "", "我们学习自然知识。"],
+        ["treasure", "n.", "宝藏"],
+        ["Pirates look for treasure.", "", "海盗寻找宝藏。"],
+        ["measure", "v.", "测量"],
+        ["I measure the length.", "", "我测量长度。"],
+        ["station", "n.", "车站"],
+        ["We wait at the station.", "", "我们在车站等候。"],
+        ["competition", "n.", "比赛"],
+        ["I join a competition.", "", "我参加比赛。"],
+        ["television", "n.", "电视"],
+        ["I watch television.", "", "我看电视。"],
+        ["excursion", "n.", "远足"],
+        ["We go on an excursion.", "", "我们去远足。"],
+        ["famous", "adj.", "著名的"],
+        ["He is a famous singer.", "", "他是著名歌手。"],
+        ["dangerous", "adj.", "危险的"],
+        ["Fire is dangerous.", "", "火很危险。"],
+        ["beautiful", "adj.", "美丽的"],
+        ["The flower is beautiful.", "", "花很美丽。"],
+        ["helpful", "adj.", "有帮助的"],
+        ["My friend is helpful.", "", "我的朋友乐于助人。"]
+    ]
+}

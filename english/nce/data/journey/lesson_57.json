@@ -1,0 +1,347 @@
+{
+ "lesson": 57,
+ "title": [
+  "A Guessing Game",
+  "猜谜游戏"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "\"Don't make any rain yet,\" Wukong repeated.",
+    "“先别闹事了，”悟空重复说道。"
+   ],
+   [
+    "\"But we must,\" said the Old Woman of the Wind.",
+    "“但我们必须如此，”风之老妇人说。"
+   ],
+   [
+    "\"Someone on Earth just prayed for it.\"",
+    "地球上肯定有人为此祈祷过。"
+   ],
+   [
+    "\"And the Jade Emperor heard the prayers,\" added the Dragon King of the Eastern Sea.",
+    "“玉帝听到了这些祈祷声，”东海龙王补充道。"
+   ],
+   [
+    "\"The person who recited the prayers is bad,\" said Wukong.",
+    "“那个念经的人很坏，”悟空说。"
+   ],
+   [
+    "\"He's the Tiger Immortal, and he plans to make the Tang Monk a slave.\"",
+    "“他是‘虎仙’，他打算把唐僧变成奴隶。”"
+   ],
+   [
+    "The Dragon King looked concerned.",
+    "Dragon King 看起来很担忧。"
+   ],
+   [
+    "\"That's terrible.",
+    "“那太糟糕了。”"
+   ],
+   [
+    "We all want the Tang Monk to reach the Western Paradise.\"",
+    "我们都希望唐僧能到达西方极乐世界。"
+   ],
+   [
+    "\"But we must obey the Jade Emperor's orders,\" said the woman.",
+    "“但我们必须服从玉帝的命令，”女人说道。"
+   ],
+   [
+    "\"Just wait a moment,\" said the monkey.",
+    "“稍等一下，”猴子说。"
+   ],
+   [
+    "\"I'll go back down to the ground now.",
+    "“我现在要重新回到地面了。”"
+   ],
+   [
+    "When I raise my iron bar, you can make it rain.\"",
+    "“当我举起我的铁棒时，你就能让天下降雨。”"
+   ],
+   [
+    "The woman and the Dragon King agreed to wait a moment.",
+    "那个女人和龙王同意稍等片刻。"
+   ],
+   [
+    "Wukong returned to his body.",
+    "悟空回到了自己的身体里。"
+   ],
+   [
+    "The sky cleared, and the Tiger Immortal shook with anger.",
+    "天空放晴了，老虎仙人愤怒得浑身颤抖。"
+   ],
+   [
+    "\"Why didn't my spell work?\" he cried.",
+    "“为什么我的咒语没起作用？”他哭喊道。"
+   ],
+   [
+    "Bajie laughed at him.",
+    "八戒嘲笑了他。"
+   ],
+   [
+    "\"Some rain!",
+    "“哎呀，真下雨了！"
+   ],
+   [
+    "You couldn't even summon one drop!\"",
+    "你甚至连一滴都召唤不出来！"
+   ],
+   [
+    "\"I'll try again,\" said the Tiger Immortal.",
+    "“我再试一次吧，”虎仙说道。"
+   ],
+   [
+    "\"No, you won't,\" said Wukong.",
+    "“不，你不会的，”悟空说道。"
+   ],
+   [
+    "\"You had a chance to summon rain, and you obviously can't.",
+    "“你本来有机会召唤雨水，但显然你做不到。”"
+   ],
+   [
+    "Now it's my turn.\"",
+    "现在轮到我了。”"
+   ],
+   [
+    "The monkey raised his iron bar into the air.",
+    "猴子将他的铁棒举到了空中。"
+   ],
+   [
+    "Instantly clouds moved back in, and thunder boomed.",
+    "瞬间，乌云又聚了过来，雷声也随之轰鸣起来。"
+   ],
+   [
+    "Rain began to pour down.",
+    "雨开始倾盆而下。"
+   ],
+   [
+    "The crowd cheered.",
+    "人群欢呼起来。"
+   ],
+   [
+    "The Tang Monk sighed.",
+    "唐僧叹了口气。"
+   ],
+   [
+    "\"Wonderful!",
+    "“太棒了！”"
+   ],
+   [
+    "Now all the Buddhist monks will be free.",
+    "现在所有的佛教僧侣都将获得自由。"
+   ],
+   [
+    "And we can continue our journey.\"",
+    "“然后我们可以继续我们的旅程。”"
+   ],
+   [
+    "The Tiger Immortal stomped over to Wukong.",
+    "虎仙大步走上前去，朝悟空走去。"
+   ],
+   [
+    "\"I want another contest!\"",
+    "“我想要另一场比赛！”"
+   ],
+   [
+    "Wukong laughed.",
+    "孙悟空笑了。"
+   ],
+   [
+    "\"Why would you want another contest?",
+    "“你为什么还想举办另一场比赛呢？”"
+   ],
+   [
+    "You'll only lose again.\"",
+    "“你只会再次失败。”"
+   ],
+   [
+    "The Tiger Immortal ignored the monkey's question.",
+    "老虎仙人没有理会猴子的问题。"
+   ],
+   [
+    "\"I challenge the Tang Monk to a guessing game.\"",
+    "“我向唐僧发起一个猜谜游戏。”"
+   ],
+   [
+    "The Tang Monk's mouth fell open.",
+    "唐僧的嘴巴大张着。"
+   ],
+   [
+    "\"But—\" \"We accept your challenge,\" said the monkey with a smile.",
+    "“但是——”  \n“我们接受你的挑战，”猴子微笑着说。"
+   ],
+   [
+    "\"Good,\" said the Tiger Immortal.",
+    "“很好，”虎仙人说道。"
+   ],
+   [
+    "\"I will be right back.",
+    "“我马上就回来。”"
+   ],
+   [
+    "He walked away.",
+    "他走开了。"
+   ],
+   [
+    "\"Wukong, why did you agree to this contest?\" asked the Tang Monk.",
+    "“悟空，你为什么要同意参加这场比赛呢？”唐僧问道。"
+   ],
+   [
+    "\"I won't win.\"",
+    "“我赢不了。”"
+   ],
+   [
+    "\"Don't worry, Master,\" said the monkey.",
+    "“别担心，主人，”猴子说。"
+   ],
+   [
+    "\"I'll help you.\"",
+    "“我会帮助你的。”"
+   ],
+   [
+    "The Tiger Immortal soon came back with a small box.",
+    "虎仙很快就拿着一个小盒子回来了。"
+   ],
+   [
+    "\"If you can guess what's in this box, I will let you all go free.\"",
+    "“如果你们能猜出这个盒子里有什么，我就放你们所有人自由。”"
+   ],
+   [
+    "As the Tang Monk stared at the box, Wukong plucked a hair.",
+    "当唐僧盯着那个盒子看的时候，悟空拔了一根自己的头发。"
+   ],
+   [
+    "Using his magic, he made the hair look like himself.",
+    "他运用自己的魔法，让那头头发看起来就像是他的本来的样子。"
+   ],
+   [
+    "Then he made himself tiny and squeezed through a crack in the box.",
+    "然后他把自己的身体缩得非常小，从箱子的一个裂缝里挤了进去。"
+   ],
+   [
+    "Inside the box was a ripe peach.",
+    "盒子里有一个熟透的桃子。"
+   ],
+   [
+    "Quickly he ate the peach, leaving only the pit.",
+    "他很快吃掉了桃子，只剩下核。"
+   ],
+   [
+    "A moment later he was standing next to the Tang Monk again.",
+    "过了一会儿，他又不站在唐僧旁边了。"
+   ],
+   [
+    "Wukong leaned toward the monk and whispered, \"It's a peach pit.\"",
+    "悟空凑近和尚低声说：“这是一个桃核。”"
+   ],
+   [
+    "\"Are you sure?\" whispered the monk.",
+    "“你确定吗？”僧侣低声问道。"
+   ],
+   [
+    "\"How do you know?\"",
+    "“你怎么知道的？”"
+   ],
+   [
+    "\"Stop talking to each other!\" said the Tiger Immortal.",
+    "“停止互相说话！”虎仙说道。"
+   ],
+   [
+    "\"What's in the box?\"",
+    "“盒子里有什么？”"
+   ],
+   [
+    "\"I think it's a peach pit,\" said the monk nervously.",
+    "“我觉得那是个桃核，”僧人紧张地说道。"
+   ],
+   [
+    "\"Ha!\" said the Tiger Immortal.",
+    "“哈！”虎仙说道。"
+   ],
+   [
+    "\"You're wrong, Monk.",
+    "“你错了，蒙克。”"
+   ],
+   [
+    "It's not just a peach pit.",
+    "这可不仅仅是一个桃核而已。"
+   ],
+   [
+    "It's a whole peach.",
+    "这可真是个不错的家伙（或东西）。"
+   ],
+   [
+    "I'll show you.\"",
+    "“我给你们看。”"
+   ],
+   [
+    "The Tiger Immortal opened the box and showed it to everyone.",
+    "虎仙打开了盒子，然后拿给大家看。"
+   ],
+   [
+    "\"See?\"",
+    "“看到了吗？”"
+   ],
+   [
+    "The Tang Monk smiled.",
+    "唐僧笑了。"
+   ],
+   [
+    "\"I was right!",
+    "“我刚刚说得对！”"
+   ],
+   [
+    "It is a peach pit.\"",
+    "“这是一个桃核。”"
+   ],
+   [
+    "\"What?\" cried the Tiger Immortal.",
+    "“什么？”虎仙惊叫道。"
+   ],
+   [
+    "He looked in the box and gasped.",
+    "他往箱子里看了看，然后倒吸了一口凉气。"
+   ],
+   [
+    "\"Who ate the peach?\"",
+    "“谁吃了那个桃子？”"
+   ],
+   [
+    "Wukong laughed.",
+    "孙悟空笑了。"
+   ],
+   [
+    "\"The Tang Monk guessed correctly!\"",
+    "“唐僧猜对了！”"
+   ],
+   [
+    "\"I guess we can leave now,\" said Wujing.",
+    "“我想我们现在可以离开了，”武静说。"
+   ],
+   [
+    "\"Yes, but we should eat some dinner first,\" said Bajie.",
+    "“是的，但我们应该先吃点晚饭，”八戒说。"
+   ],
+   [
+    "\"All this talk about peaches has made me hungry.\"",
+    "“所有这些关于桃子的讨论让我饿了。”"
+   ],
+   [
+    "Wukong looked at the Tiger Immortal.",
+    "悟空看着虎仙。"
+   ],
+   [
+    "\"You will set the Buddhist monks free now, right?\"",
+    "“你现在会把那些佛教僧侣释放出来，对吧？”"
+   ],
+   [
+    "The Tiger Immortal glared at the monkey.",
+    "虎仙人瞪着那只猴子。"
+   ],
+   [
+    "\"I challenge you to another contest!\"",
+    "“我邀请你参加另一场比赛！”"
+   ]
+  ]
+ }
+}

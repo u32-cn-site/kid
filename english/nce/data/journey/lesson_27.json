@@ -1,0 +1,467 @@
+{
+ "lesson": 27,
+ "title": [
+  "The Ginseng Fruit",
+  "人参果"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "The Tang Monk trembled with fear.",
+    "唐僧吓得浑身发抖。"
+   ],
+   [
+    "The animals showed their fangs.",
+    "动物们露出了它们的尖牙。"
+   ],
+   [
+    "\"Master!\" cried Wukong.",
+    "“师父！”悟空喊道。"
+   ],
+   [
+    "The monkey was running fast.",
+    "那只猴子跑得很快。"
+   ],
+   [
+    "He swung his iron bar, and the animals ran back into the forest.",
+    "他挥动着铁棍，那些动物纷纷跑回了森林里。"
+   ],
+   [
+    "Wukong smiled.",
+    "悟空笑了。"
+   ],
+   [
+    "\"Sorry for making the horse run, Master.",
+    "“对不起让马跑了起来，主人。”"
+   ],
+   [
+    "I thought it would be funny.\"",
+    "“我觉得这会很有趣。”"
+   ],
+   [
+    "The Tang Monk frowned.",
+    "唐僧皱了皱眉头。"
+   ],
+   [
+    "\"It wasn't funny at all!",
+    "“这一点都不好笑！”"
+   ],
+   [
+    "Those beasts were going to attack me!\"",
+    "那些怪物本来要攻击我的！"
+   ],
+   [
+    "\"Nonsense,\" said Wukong.",
+    "“胡说八道，”孙悟空说道。"
+   ],
+   [
+    "\"You never have to fear any wild animals.",
+    "“你永远不必害怕任何野生动物。”"
+   ],
+   [
+    "You have three powerful companions.\"",
+    "你有三位强大的伙伴。”"
+   ],
+   [
+    "Bajie and Wujing soon caught up to them.",
+    "八戒和悟空很快就赶上了他们。"
+   ],
+   [
+    "They all continued along the road.",
+    "他们所有人都继续沿着这条路前行。"
+   ],
+   [
+    "The Tang Monk pointed to a building up ahead.",
+    "唐僧指向前方的一栋建筑。"
+   ],
+   [
+    "\"That looks like a Daoist abbey.\"",
+    "“那看起来像是一座道观。”"
+   ],
+   [
+    "\"I'm sure the abbey's priests will let us rest for a while,\" said Wujing.",
+    "“我相信修道院的牧师们会允许我们休息一会儿的，”五净说道。"
+   ],
+   [
+    "When they reached the abbey, Bajie knocked on the door.",
+    "当他们到达修道院时，八戒敲了敲门。"
+   ],
+   [
+    "Two priests opened it.",
+    "两名神父打开了它。"
+   ],
+   [
+    "\"I'm here with the Tang Monk,\" said the pig.",
+    "“我和唐僧一起来的，”猪说道。"
+   ],
+   [
+    "\"May we come in?\"",
+    "“我们可以进来吗？”"
+   ],
+   [
+    "The priests looked at the Tang Monk.",
+    "牧师们看着唐僧。"
+   ],
+   [
+    "\"Our master told us about you,\" said one of them.",
+    "“我们的主人告诉了我们关于你的情况，”其中一个人说道。"
+   ],
+   [
+    "\"He said you would travel past our abbey someday.",
+    "他说你总有一天会经过我们的修道院。”"
+   ],
+   [
+    "Please, come in.\"",
+    "“请进来。”"
+   ],
+   [
+    "\"Who is your master?\" asked the Tang Monk.",
+    "“你的主人是谁？”唐僧问道。"
+   ],
+   [
+    "\"How did he know about me?\"",
+    "“他是怎么知道我的情况的？”"
+   ],
+   [
+    "\"Our master is the Great Immortal,\" said the first priest.",
+    "“我们的主人是伟大的仙人，”第一位祭司说道。"
+   ],
+   [
+    "\"He is very wise and powerful.\"",
+    "“他非常聪明且富有力量。”"
+   ],
+   [
+    "Wukong laughed.",
+    "孙悟空笑了。"
+   ],
+   [
+    "\"I've never heard of him.",
+    "“我从来没听说过他。”"
+   ],
+   [
+    "I doubt he's very powerful.\"",
+    "我怀疑他并没有很强的实力。"
+   ],
+   [
+    "The Tang Monk scowled.",
+    "唐僧皱起了眉头。"
+   ],
+   [
+    "\"Show some respect, Wukong,\" he whispered.",
+    "“有点礼貌吧，悟空。”他轻声说道。"
+   ],
+   [
+    "The priests looked annoyed.",
+    "神父们看起来很恼火。"
+   ],
+   [
+    "\"Our master is visiting friends in Heaven right now.",
+    "“我们的主人现在正在天堂拜访他的朋友们。”"
+   ],
+   [
+    "If he wasn't powerful, he wouldn't be able to do that.\"",
+    "如果他没有什么权力或影响力，他就无法做到那样的事情。"
+   ],
+   [
+    "Wukong shrugged.",
+    "悟空耸了耸肩。"
+   ],
+   [
+    "\"I used to live in Heaven.",
+    "“我曾经住在天堂。”"
+   ],
+   [
+    "The place isn't that great.\"",
+    "这个地方并不是那么好。"
+   ],
+   [
+    "\"Wukong,\" said the Tang Monk.",
+    "“悟空。” 唐僧说道。"
+   ],
+   [
+    "\"Please go outside and tend the horse.\"",
+    "“请到外面去照顾那匹马。”"
+   ],
+   [
+    "Wukong went back outside.",
+    "悟空又回到了外面。"
+   ],
+   [
+    "Wujing went out to get the bags.",
+    "吴静出去拿包了。"
+   ],
+   [
+    "\"May I use the kitchen?\" asked Bajie.",
+    "“我能使用厨房吗？”八戒问道。"
+   ],
+   [
+    "\"I want to cook some food for the Tang Monk.\"",
+    "“我想为唐僧煮一些食物。”"
+   ],
+   [
+    "\"It's through that door,\" said one priest.",
+    "“从那扇门进去，”一位神父说道。"
+   ],
+   [
+    "He pointed to a door in the back of the room.",
+    "他指向房间后面的一扇门。"
+   ],
+   [
+    "Bajie went into the kitchen while the Tang Monk talked to the priests.",
+    "八戒走进厨房，而唐僧正在与僧侣们交谈。"
+   ],
+   [
+    "\"There's a ginseng tree behind the abbey,\" said one priest.",
+    "“修道院后面有一棵人参树，”一位牧师说道。"
+   ],
+   [
+    "\"Its fruit takes ten thousand years to become ripe.",
+    "“它的果实需要一万年的时间才能成熟。”"
+   ],
+   [
+    "According to legend, one bite of the fruit will make you live forever.",
+    "根据传说，吃下一口这种果实就能让你长生不老。"
+   ],
+   [
+    "Would you like one?\"",
+    "“你想要一个吗？”"
+   ],
+   [
+    "\"A fruit like that is a true treasure,\" said the Tang Monk.",
+    "“那样的水果真是珍宝啊，”唐僧说道。"
+   ],
+   [
+    "\"Will your master be upset if I eat it?\"",
+    "“如果我吃了这个，你的主人会不高兴吗？”"
+   ],
+   [
+    "\"Our master said we could give you one,\" said the other priest.",
+    "“我们的主人说我们可以给你一个，”另一位牧师说道。"
+   ],
+   [
+    "\"We'll go and cut one down.\"",
+    "“我们去砍一棵下来吧。”"
+   ],
+   [
+    "The two priests went outside.",
+    "两位牧师走到了外面。"
+   ],
+   [
+    "A moment later they came back in with a tray.",
+    "过了一会儿，他们拿着一个托盘重新走了进来。"
+   ],
+   [
+    "The Tang Monk screamed.",
+    "唐僧尖叫起来。"
+   ],
+   [
+    "On the tray lay a tiny sleeping baby.",
+    "托盘上放着一个正在睡觉的小婴儿。"
+   ],
+   [
+    "\"I can't eat that,\" cried the monk.",
+    "“我不能吃那个，”僧侣喊道。"
+   ],
+   [
+    "\"It—it's a baby!\"",
+    "“这……这是个婴儿！”"
+   ],
+   [
+    "\"It's not a baby,\" said one priest.",
+    "“这并不是个婴儿，”一位神父说道。"
+   ],
+   [
+    "\"It's a ginseng fruit.",
+    "“这是一种人参果实。”"
+   ],
+   [
+    "It only looks like a baby to you because you're a mortal.\"",
+    "在你看来它只像一个婴儿，因为你只是个凡人罢了。"
+   ],
+   [
+    "\"Please take it away!\" cried the Tang Monk.",
+    "“请把它拿走！”唐僧喊道。"
+   ],
+   [
+    "The priests tried to convince him that the fruit wasn't a baby.",
+    "牧师们试图说服他，那颗果实并不是一个婴儿。"
+   ],
+   [
+    "But the monk just shook his head.",
+    "但是僧侣只是摇了摇头。"
+   ],
+   [
+    "The priests took the ginseng fruit out of the room and into a hallway.",
+    "祭司们把人参果实从房间里拿了出来，放到了走廊里。"
+   ],
+   [
+    "\"We shouldn't waste this fruit,\" said one priest.",
+    "“我们不应该浪费这些水果，”一位神父说。"
+   ],
+   [
+    "\"No,\" said the other.",
+    "“不，”另一个人说。"
+   ],
+   [
+    "\"It is too delicious and valuable.",
+    "“它太美味了，而且非常珍贵。”"
+   ],
+   [
+    "Let's eat it ourselves.\"",
+    "“那我们就自己把它吃掉吧。”"
+   ],
+   [
+    "The two priests shared the ginseng fruit.",
+    "两位神父一起分享了人参果实。"
+   ],
+   [
+    "Bajie was in the kitchen nearby.",
+    "八戒在旁边的厨房里。"
+   ],
+   [
+    "He had heard everything they'd said.",
+    "他已经听到了他们所说的一切。"
+   ],
+   [
+    "His stomach growled.",
+    "他的肚子咕咕叫了起来。"
+   ],
+   [
+    "\"That fruit sounds wonderful,\" said Bajie to himself.",
+    "“那种水果听起来非常美妙，”八戒自言自语道。"
+   ],
+   [
+    "\"I want some too!\"",
+    "“我也想要一些！”"
+   ]
+  ]
+ },
+ "words": [
+  [
+   "funny",
+   "",
+   "好笑的，滑稽的",
+   "I thought it would be funny.",
+   "我觉得这会很好笑。"
+  ],
+  [
+   "frown",
+   "",
+   "皱眉",
+   "The Tang Monk frowned.",
+   "唐僧皱了皱眉头。"
+  ],
+  [
+   "beast",
+   "",
+   "兽，野兽",
+   "Those beasts were going to attack me!",
+   "那些野兽本来是要攻击我的！"
+  ],
+  [
+   "wild",
+   "",
+   "野⽣的",
+   "You never have to fear any wild animals.",
+   "你永远不必害怕任何野生动物。"
+  ],
+  [
+   "catch up to",
+   "",
+   "赶上",
+   "Bajie and Wujing soon caught up to them.",
+   "八戒和悟空很快就赶上了他们。"
+  ],
+  [
+   "ahead",
+   "",
+   "在前，向前",
+   "The Tang Monk pointed to a building up ahead.",
+   "唐僧指向前方的一栋建筑。"
+  ],
+  [
+   "Daoist",
+   "",
+   "道教的",
+   "That looks like a Daoist abbey.",
+   "那看起来像是一座道观。"
+  ],
+  [
+   "rest",
+   "",
+   "休息",
+   "I'm sure the abbey's priests will let us rest for a while.",
+   "我相信修道院的牧师们会允许我们休息一会儿。"
+  ],
+  [
+   "someday",
+   "",
+   "将来有⼀天",
+   "He said you would travel past our abbey someday.",
+   "他说有一天你会经过我们的修道院。"
+  ],
+  [
+   "immortal",
+   "",
+   "神，不朽的⼈物",
+   "Our master is the Great Immortal.",
+   "我们的师父是大仙。"
+  ],
+  [
+   "doubt",
+   "",
+   "怀疑，带着疑问",
+   "I doubt he's very powerful.",
+   "我怀疑他并没有那么大的权力。"
+  ],
+  [
+   "respect",
+   "",
+   "尊敬，尊重",
+   "Show some respect, Wukong.",
+   "放尊重点吧，悟空。"
+  ],
+  [
+   "annoyed",
+   "",
+   "恼怒的，⽓恼的",
+   "The priests looked annoyed.",
+   "神父们看起来很恼火。"
+  ],
+  [
+   "legend",
+   "",
+   "传说",
+   "According to legend, one bite of the fruit will make you live forever.",
+   "根据传说，吃下一口这种果实就能让你长生不老。"
+  ],
+  [
+   "mortal",
+   "",
+   "凡⼈",
+   "It only looks like a baby to you because you're a mortal.",
+   "在你看来它只是个婴儿，因为你是凡人而已。"
+  ],
+  [
+   "convince",
+   "",
+   "说服，使信服",
+   "The priests tried to convince him that the fruit wasn't a baby.",
+   "牧师们试图说服他，那颗果实并不是一个婴儿。"
+  ],
+  [
+   "waste",
+   "",
+   "浪费",
+   "We shouldn't waste this fruit.",
+   "我们不应该浪费这些水果。"
+  ],
+  [
+   "delicious",
+   "",
+   "美味的，可⼜的",
+   "It is too delicious and valuable.",
+   "它太美味、太有价值了。"
+  ]
+ ]
+}

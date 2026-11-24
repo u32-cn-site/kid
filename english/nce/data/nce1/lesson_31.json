@@ -1,0 +1,119 @@
+{
+    "lesson": 31,
+    "title": [
+        "Where's Sally?",
+        "萨莉在哪里？"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Where's Sally, Jack?",
+                "杰克，萨莉在哪儿？"
+            ],
+            [
+                "She's in the garden, Jean.",
+                "她在花园里，琼。"
+            ],
+            [
+                "What's she doing?",
+                "她在干什么？"
+            ],
+            [
+                "She's sitting under the tree.",
+                "她正在树荫下坐着。"
+            ],
+            [
+                "Is Tim in the garden, too?",
+                "蒂姆也在花园里吗？"
+            ],
+            [
+                "Yes, he is.",
+                "是的，他也在花园里。"
+            ],
+            [
+                "He's climbing the tree.",
+                "他正在爬树。"
+            ],
+            [
+                "I beg your pardon?",
+                "你说什么？"
+            ],
+            [
+                "Who's climbing the tree?",
+                "谁在爬树？"
+            ],
+            [
+                "Tim is.",
+                "蒂姆在爬树。"
+            ],
+            [
+                "What about the dog?",
+                "那么狗呢？"
+            ],
+            [
+                "The dog's in the garden, too.",
+                "狗也在花园里。"
+            ],
+            [
+                "It's running across the grass.",
+                "它正在草地上跑。"
+            ],
+            [
+                "It's running after a cat.",
+                "在追一只猫。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "garden",
+            "n.",
+            "花园"
+        ],
+        [
+            "under",
+            "prep.",
+            "在……这下"
+        ],
+        [
+            "tree",
+            "n.",
+            "树"
+        ],
+        [
+            "climb",
+            "v.",
+            "爬，攀登"
+        ],
+        [
+            "who",
+            "pron.",
+            "谁"
+        ],
+        [
+            "run",
+            "v.",
+            "跑"
+        ],
+        [
+            "grass",
+            "n.",
+            "草，草地"
+        ],
+        [
+            "after",
+            "prep.",
+            "在……之后"
+        ],
+        [
+            "across",
+            "prep.",
+            "横过，穿过"
+        ],
+        [
+            "cat",
+            "n.",
+            "猫"
+        ]
+    ]
+}

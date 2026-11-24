@@ -1,0 +1,116 @@
+{
+    "lesson": 43,
+    "title": [
+        "Hurry up!",
+        "快点！"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Can you make the tea, Sam?",
+                "你会沏茶吗，萨姆？"
+            ],
+            [
+                "Yes, of course I can, Penny.",
+                "会的，我当然会，彭妮。"
+            ],
+            [
+                "Is there any water in this kettle?",
+                "这水壶里有水吗？"
+            ],
+            [
+                "Yes, there is.",
+                "有水。"
+            ],
+            [
+                "Where's the tea?",
+                "茶叶在哪儿？"
+            ],
+            [
+                "It's over there, behind the teapot.",
+                "就在那儿，茶壶后面。"
+            ],
+            [
+                "Can you see it?",
+                "你看见了吗？"
+            ],
+            [
+                "I can see the teapot, but I can't see the tea.",
+                "茶壶我看见了，但茶叶没看到。"
+            ],
+            [
+                "There it is!",
+                "那不是么！"
+            ],
+            [
+                "It's in front of you!",
+                "就在你眼前。"
+            ],
+            [
+                "Ah yes, I can see it now.",
+                "噢，是啊，我现在看到了。"
+            ],
+            [
+                "Where are the cups?",
+                "茶杯在哪儿呢？"
+            ],
+            [
+                "There are some in the cupboard.",
+                "碗橱里有几只。"
+            ],
+            [
+                "Can you find them?",
+                "你找得到吗？"
+            ],
+            [
+                "Yes. Here they are.",
+                "找得到。就在这儿呢。"
+            ],
+            [
+                "Hurry up, Sam!",
+                "快，萨姆。"
+            ],
+            [
+                "The kettle's boiling!",
+                "水开了！"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "of course",
+            "",
+            "当然"
+        ],
+        [
+            "kettle",
+            "n.",
+            "水壶"
+        ],
+        [
+            "behind",
+            "prep.",
+            "在……后面"
+        ],
+        [
+            "teapot",
+            "n.",
+            "茶壶"
+        ],
+        [
+            "now",
+            "adv.",
+            "现在，此刻"
+        ],
+        [
+            "find",
+            "v.",
+            "找到"
+        ],
+        [
+            "boil",
+            "v.",
+            "沸腾，开"
+        ]
+    ]
+}

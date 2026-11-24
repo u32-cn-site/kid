@@ -1,0 +1,1002 @@
+{
+    "lesson": 1,
+    "title": [
+        "Book 1",
+        "第一册"
+    ],
+    "content": {
+        "sentences": []
+    },
+    "words": [
+        [
+            "apple",
+            "n.",
+            "苹果"
+        ],
+        [
+            "I like apples",
+            "",
+            "我喜欢苹果"
+        ],
+        [
+            "ant",
+            "n.",
+            "蚂蚁"
+        ],
+        [
+            "I see an ant",
+            "",
+            "我看见一只蚂蚁"
+        ],
+        [
+            "alligator",
+            "n.",
+            "短吻鳄"
+        ],
+        [
+            "The alligator is big",
+            "",
+            "短吻鳄很大"
+        ],
+        [
+            "bar",
+            "n.",
+            "条、棒"
+        ],
+        [
+            "I have a candy bar",
+            "",
+            "我有一根糖果棒"
+        ],
+        [
+            "bird",
+            "n.",
+            "鸟"
+        ],
+        [
+            "The bird can fly",
+            "",
+            "鸟会飞"
+        ],
+        [
+            "bed",
+            "n.",
+            "床"
+        ],
+        [
+            "I sleep on my bed",
+            "",
+            "我在床上睡觉"
+        ],
+        [
+            "banana",
+            "n.",
+            "香蕉"
+        ],
+        [
+            "I eat a banana",
+            "",
+            "我吃香蕉"
+        ],
+        [
+            "cat",
+            "n.",
+            "猫"
+        ],
+        [
+            "The cat says meow",
+            "",
+            "猫喵喵叫"
+        ],
+        [
+            "cup",
+            "n.",
+            "杯子"
+        ],
+        [
+            "I drink from a cup",
+            "",
+            "我用杯子喝水"
+        ],
+        [
+            "car",
+            "n.",
+            "汽车"
+        ],
+        [
+            "Dad drives a car",
+            "",
+            "爸爸开汽车"
+        ],
+        [
+            "computer",
+            "n.",
+            "计算机"
+        ],
+        [
+            "I play on the computer",
+            "",
+            "我在电脑上玩"
+        ],
+        [
+            "dog",
+            "n.",
+            "狗"
+        ],
+        [
+            "The dog is happy",
+            "",
+            "狗狗很开心"
+        ],
+        [
+            "desk",
+            "n.",
+            "书桌"
+        ],
+        [
+            "I do homework at my desk",
+            "",
+            "我在书桌上写作业"
+        ],
+        [
+            "doll",
+            "n.",
+            "玩偶"
+        ],
+        [
+            "My doll is pretty",
+            "",
+            "我的玩偶很漂亮"
+        ],
+        [
+            "duck",
+            "n.",
+            "鸭子"
+        ],
+        [
+            "The duck swims",
+            "",
+            "鸭子在游泳"
+        ],
+        [
+            "eel",
+            "n.",
+            "鳗鱼"
+        ],
+        [
+            "The eel is long",
+            "",
+            "鳗鱼很长"
+        ],
+        [
+            "elbow",
+            "n.",
+            "肘部"
+        ],
+        [
+            "I hurt my elbow",
+            "",
+            "我伤到了肘部"
+        ],
+        [
+            "envelope",
+            "n.",
+            "信封"
+        ],
+        [
+            "I put a letter in the envelope",
+            "",
+            "我把信放进信封"
+        ],
+        [
+            "elephant",
+            "n.",
+            "大象"
+        ],
+        [
+            "The elephant is big",
+            "",
+            "大象很大"
+        ],
+        [
+            "fish",
+            "n.",
+            "鱼"
+        ],
+        [
+            "The fish swims",
+            "",
+            "鱼儿在游泳"
+        ],
+        [
+            "fan",
+            "n.",
+            "风扇"
+        ],
+        [
+            "The fan is cool",
+            "",
+            "风扇很凉快"
+        ],
+        [
+            "farm",
+            "n.",
+            "农场"
+        ],
+        [
+            "There are animals on the farm",
+            "",
+            "农场上有动物"
+        ],
+        [
+            "fork",
+            "n.",
+            "叉子"
+        ],
+        [
+            "I eat with a fork",
+            "",
+            "我用叉子吃饭"
+        ],
+        [
+            "horse",
+            "n.",
+            "马"
+        ],
+        [
+            "The horse runs fast",
+            "",
+            "马跑得很快"
+        ],
+        [
+            "hat",
+            "n.",
+            "帽子"
+        ],
+        [
+            "I wear a hat",
+            "",
+            "我戴着帽子"
+        ],
+        [
+            "house",
+            "n.",
+            "房子"
+        ],
+        [
+            "I live in a house",
+            "",
+            "我住在房子里"
+        ],
+        [
+            "hot dog",
+            "n.",
+            "热狗"
+        ],
+        [
+            "I like hot dogs",
+            "",
+            "我喜欢热狗"
+        ],
+        [
+            "girl",
+            "n.",
+            "女孩"
+        ],
+        [
+            "The girl is happy",
+            "",
+            "女孩很开心"
+        ],
+        [
+            "gift",
+            "n.",
+            "礼物"
+        ],
+        [
+            "I get a gift",
+            "",
+            "我收到礼物"
+        ],
+        [
+            "go",
+            "v.",
+            "去"
+        ],
+        [
+            "I go to school",
+            "",
+            "我去上学"
+        ],
+        [
+            "ink",
+            "n.",
+            "墨水"
+        ],
+        [
+            "The ink is black",
+            "",
+            "墨水是黑色的"
+        ],
+        [
+            "igloo",
+            "n.",
+            "冰屋"
+        ],
+        [
+            "The igloo is cold",
+            "",
+            "冰屋很冷"
+        ],
+        [
+            "iguana",
+            "n.",
+            "鬣蜥"
+        ],
+        [
+            "The iguana is green",
+            "",
+            "鬣蜥是绿色的"
+        ],
+        [
+            "jet",
+            "n.",
+            "喷气式飞机"
+        ],
+        [
+            "The jet is fast",
+            "",
+            "喷气式飞机很快"
+        ],
+        [
+            "jam",
+            "n.",
+            "果酱"
+        ],
+        [
+            "I eat jam on bread",
+            "",
+            "我在面包上涂果酱"
+        ],
+        [
+            "juice",
+            "n.",
+            "果汁"
+        ],
+        [
+            "I drink apple juice",
+            "",
+            "我喝苹果汁"
+        ],
+        [
+            "jacket",
+            "n.",
+            "夹克衫"
+        ],
+        [
+            "I wear a jacket",
+            "",
+            "我穿夹克衫"
+        ],
+        [
+            "kangaroo",
+            "n.",
+            "袋鼠"
+        ],
+        [
+            "The kangaroo jumps",
+            "",
+            "袋鼠在跳跃"
+        ],
+        [
+            "key",
+            "n.",
+            "钥匙"
+        ],
+        [
+            "I open the door with a key",
+            "",
+            "我用钥匙开门"
+        ],
+        [
+            "king",
+            "n.",
+            "国王"
+        ],
+        [
+            "The king wears a crown",
+            "",
+            "国王戴着王冠"
+        ],
+        [
+            "kite",
+            "n.",
+            "风筝"
+        ],
+        [
+            "I fly a kite",
+            "",
+            "我放风筝"
+        ],
+        [
+            "lion",
+            "n.",
+            "狮子"
+        ],
+        [
+            "The lion roars",
+            "",
+            "狮子在吼叫"
+        ],
+        [
+            "lamp",
+            "n.",
+            "灯"
+        ],
+        [
+            "The lamp is bright",
+            "",
+            "灯很亮"
+        ],
+        [
+            "leaf",
+            "n.",
+            "叶子"
+        ],
+        [
+            "The leaf is green",
+            "",
+            "叶子是绿色的"
+        ],
+        [
+            "lemon",
+            "n.",
+            "柠檬"
+        ],
+        [
+            "The lemon is sour",
+            "",
+            "柠檬很酸"
+        ],
+        [
+            "monkey",
+            "n.",
+            "猴子"
+        ],
+        [
+            "The monkey climbs",
+            "",
+            "猴子在爬树"
+        ],
+        [
+            "milk",
+            "n.",
+            "牛奶"
+        ],
+        [
+            "I drink milk",
+            "",
+            "我喝牛奶"
+        ],
+        [
+            "money",
+            "n.",
+            "钱"
+        ],
+        [
+            "I save money",
+            "",
+            "我存钱"
+        ],
+        [
+            "mouse",
+            "n.",
+            "老鼠"
+        ],
+        [
+            "The mouse is small",
+            "",
+            "老鼠很小"
+        ],
+        [
+            "octopus",
+            "n.",
+            "章鱼"
+        ],
+        [
+            "The octopus has eight legs",
+            "",
+            "章鱼有八条腿"
+        ],
+        [
+            "ox",
+            "n.",
+            "公牛"
+        ],
+        [
+            "The ox is strong",
+            "",
+            "公牛很强壮"
+        ],
+        [
+            "olive",
+            "n.",
+            "橄榄"
+        ],
+        [
+            "The olive is green",
+            "",
+            "橄榄是绿色的"
+        ],
+        [
+            "ostrich",
+            "n.",
+            "鸵鸟"
+        ],
+        [
+            "The ostrich runs fast",
+            "",
+            "鸵鸟跑得很快"
+        ],
+        [
+            "nut",
+            "n.",
+            "坚果"
+        ],
+        [
+            "The squirrel eats a nut",
+            "",
+            "松鼠吃坚果"
+        ],
+        [
+            "net",
+            "n.",
+            "网"
+        ],
+        [
+            "I catch fish with a net",
+            "",
+            "我用网捕鱼"
+        ],
+        [
+            "nest",
+            "n.",
+            "巢"
+        ],
+        [
+            "The bird has a nest",
+            "",
+            "鸟儿有巢"
+        ],
+        [
+            "nose",
+            "n.",
+            "鼻子"
+        ],
+        [
+            "I smell with my nose",
+            "",
+            "我用鼻子闻气味"
+        ],
+        [
+            "pen",
+            "n.",
+            "钢笔"
+        ],
+        [
+            "I write with a pen",
+            "",
+            "我用钢笔写字"
+        ],
+        [
+            "panda",
+            "n.",
+            "熊猫"
+        ],
+        [
+            "The panda eats bamboo",
+            "",
+            "熊猫吃竹子"
+        ],
+        [
+            "pineapple",
+            "n.",
+            "菠萝"
+        ],
+        [
+            "The pineapple is sweet",
+            "",
+            "菠萝很甜"
+        ],
+        [
+            "queen",
+            "n.",
+            "女王"
+        ],
+        [
+            "The queen is kind",
+            "",
+            "女王很善良"
+        ],
+        [
+            "quiz",
+            "n.",
+            "小测验"
+        ],
+        [
+            "I take a quiz",
+            "",
+            "我参加小测验"
+        ],
+        [
+            "quilt",
+            "n.",
+            "被子"
+        ],
+        [
+            "The quilt is warm",
+            "",
+            "被子很暖和"
+        ],
+        [
+            "question",
+            "n.",
+            "问题"
+        ],
+        [
+            "I ask a question",
+            "",
+            "我问问题"
+        ],
+        [
+            "rabbit",
+            "n.",
+            "兔子"
+        ],
+        [
+            "The rabbit hops",
+            "",
+            "兔子在跳"
+        ],
+        [
+            "rose",
+            "n.",
+            "玫瑰"
+        ],
+        [
+            "The rose is red",
+            "",
+            "玫瑰是红色的"
+        ],
+        [
+            "rice",
+            "n.",
+            "米饭"
+        ],
+        [
+            "I eat rice",
+            "",
+            "我吃米饭"
+        ],
+        [
+            "robot",
+            "n.",
+            "机器人"
+        ],
+        [
+            "The robot walks",
+            "",
+            "机器人走路"
+        ],
+        [
+            "seal",
+            "n.",
+            "海豹"
+        ],
+        [
+            "The seal swims",
+            "",
+            "海豹游泳"
+        ],
+        [
+            "sun",
+            "n.",
+            "太阳"
+        ],
+        [
+            "The sun is bright",
+            "",
+            "太阳很明亮"
+        ],
+        [
+            "soap",
+            "n.",
+            "肥皂"
+        ],
+        [
+            "I wash with soap",
+            "",
+            "我用肥皂洗手"
+        ],
+        [
+            "socks",
+            "n.",
+            "袜子"
+        ],
+        [
+            "I wear socks",
+            "",
+            "我穿袜子"
+        ],
+        [
+            "turtle",
+            "n.",
+            "乌龟"
+        ],
+        [
+            "The turtle is slow",
+            "",
+            "乌龟很慢"
+        ],
+        [
+            "tent",
+            "n.",
+            "帐篷"
+        ],
+        [
+            "I sleep in a tent",
+            "",
+            "我在帐篷里睡觉"
+        ],
+        [
+            "tiger",
+            "n.",
+            "老虎"
+        ],
+        [
+            "The tiger roars",
+            "",
+            "老虎吼叫"
+        ],
+        [
+            "teacher",
+            "n.",
+            "老师"
+        ],
+        [
+            "The teacher teaches",
+            "",
+            "老师教书"
+        ],
+        [
+            "umbrella",
+            "n.",
+            "雨伞"
+        ],
+        [
+            "I use an umbrella",
+            "",
+            "我用雨伞"
+        ],
+        [
+            "uncle",
+            "n.",
+            "叔叔"
+        ],
+        [
+            "My uncle is tall",
+            "",
+            "我叔叔很高"
+        ],
+        [
+            "umpire",
+            "n.",
+            "裁判"
+        ],
+        [
+            "The umpire is fair",
+            "",
+            "裁判很公平"
+        ],
+        [
+            "van",
+            "n.",
+            "厢式货车"
+        ],
+        [
+            "The van is big",
+            "",
+            "厢式货车很大"
+        ],
+        [
+            "vet",
+            "n.",
+            "兽医"
+        ],
+        [
+            "The vet helps animals",
+            "",
+            "兽医帮助动物"
+        ],
+        [
+            "vest",
+            "n.",
+            "背心"
+        ],
+        [
+            "I wear a vest",
+            "",
+            "我穿背心"
+        ],
+        [
+            "violin",
+            "n.",
+            "小提琴"
+        ],
+        [
+            "I play the violin",
+            "",
+            "我拉小提琴"
+        ],
+        [
+            "wolf",
+            "n.",
+            "狼"
+        ],
+        [
+            "The wolf howls",
+            "",
+            "狼嚎叫"
+        ],
+        [
+            "web",
+            "n.",
+            "网"
+        ],
+        [
+            "The spider spins a web",
+            "",
+            "蜘蛛织网"
+        ],
+        [
+            "water",
+            "n.",
+            "水"
+        ],
+        [
+            "I drink water",
+            "",
+            "我喝水"
+        ],
+        [
+            "watch",
+            "n.",
+            "手表"
+        ],
+        [
+            "I wear a watch",
+            "",
+            "我戴手表"
+        ],
+        [
+            "yo-yo",
+            "n.",
+            "溜溜球"
+        ],
+        [
+            "I play with a yo-yo",
+            "",
+            "我玩溜溜球"
+        ],
+        [
+            "yak",
+            "n.",
+            "牦牛"
+        ],
+        [
+            "The yak is furry",
+            "",
+            "牦牛毛茸茸的"
+        ],
+        [
+            "yogurt",
+            "n.",
+            "酸奶"
+        ],
+        [
+            "I eat yogurt",
+            "",
+            "我吃酸奶"
+        ],
+        [
+            "yacht",
+            "n.",
+            "游艇"
+        ],
+        [
+            "The yacht sails",
+            "",
+            "游艇航行"
+        ],
+        [
+            "fox",
+            "n.",
+            "狐狸"
+        ],
+        [
+            "The fox is clever",
+            "",
+            "狐狸很聪明"
+        ],
+        [
+            "box",
+            "n.",
+            "盒子"
+        ],
+        [
+            "I put toys in the box",
+            "",
+            "我把玩具放进盒子"
+        ],
+        [
+            "six",
+            "num.",
+            "六"
+        ],
+        [
+            "I have six apples",
+            "",
+            "我有六个苹果"
+        ],
+        [
+            "wax",
+            "n.",
+            "蜡"
+        ],
+        [
+            "The candle is made of wax",
+            "",
+            "蜡烛是蜡做的"
+        ],
+        [
+            "zipper",
+            "n.",
+            "拉链"
+        ],
+        [
+            "I zip up my jacket",
+            "",
+            "我拉上夹克拉链"
+        ],
+        [
+            "zero",
+            "num.",
+            "零"
+        ],
+        [
+            "I have zero candies",
+            "",
+            "我有零颗糖果"
+        ],
+        [
+            "zoo",
+            "n.",
+            "动物园"
+        ],
+        [
+            "I go to the zoo",
+            "",
+            "我去动物园"
+        ],
+        [
+            "zebra",
+            "n.",
+            "斑马"
+        ],
+        [
+            "The zebra has stripes",
+            "",
+            "斑马有条纹"
+        ]
+    ]
+}

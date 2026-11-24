@@ -1,0 +1,449 @@
+{
+    "lesson": 16,
+    "title": [
+        "A Campus Walking Tour (2)",
+        "校园徒步参观（二）"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Going across Edward Road, we arrive at the Student Union (SU).",
+                "穿过爱德华路，我们到达了学生会（SU）。"
+            ],
+            [
+                "There's a grocery store, a bank, and a bookshop on the ground floor.",
+                "一楼有一家杂货店、一家银行和一家书店。"
+            ],
+            [
+                "The restaurant on the first floor is popular among students where they can have a drink outside at the balcony and enjoy the pretty view of the campus.",
+                "一楼的餐厅很受学生欢迎，他们可以在外面阳台喝点东西，欣赏校园的美丽景色。"
+            ],
+            [
+                "Close to the SU, there's a large public square.",
+                "靠近学生会，有一个大型公共广场。"
+            ],
+            [
+                "It's sometimes crowded and noisy in the middle of the term when there are live campus sports events.",
+                "学期中有时会有校园体育赛事直播，这时会拥挤嘈杂。"
+            ],
+            [
+                "Walking through the square, you can see a grand building with a shining top.",
+                "穿过广场，你可以看到一栋顶部闪闪发光的宏伟建筑。"
+            ],
+            [
+                "Are you surprised that this is the largest art centre in the country?",
+                "这是全国最大的艺术中心，你感到惊讶吗？"
+            ],
+            [
+                "It contains two cinemas, two theatres, and a gallery.",
+                "它包含两个电影院、两个剧院和一个画廊。"
+            ],
+            [
+                "Now I'm going to show you the on-campus flats.",
+                "现在我要带你们看看校内公寓。"
+            ],
+            [
+                "There're nearly 1,000 rooms across four blocks.",
+                "四栋楼有近1000个房间。"
+            ],
+            [
+                "You can also live in hotels in the city centre, which is a few kilometres away.",
+                "你也可以住在市中心的酒店，距离这里几公里。"
+            ],
+            [
+                "There're many bus stations, and students can take buses to and from campus in all directions.",
+                "有很多公交车站，学生可以乘坐公交车往返校园，通往各个方向。"
+            ],
+            [
+                "We'll build the underground next year.",
+                "我们明年将修建地铁。"
+            ],
+            [
+                "In their spare time, students can visit close-by towns and villages with long histories.",
+                "在业余时间，学生可以参观附近历史悠久的城镇和村庄。"
+            ],
+            [
+                "There's a famous castle built in the 11th century which is not far away from here.",
+                "有一座建于11世纪的著名城堡，距离这里不远。"
+            ],
+            [
+                "The nearest railway station is only 800 metres away and the capital city is just an hour's train ride.",
+                "最近的火车站只有800米远，到首都坐火车只需要一小时。"
+            ],
+            [
+                "Within 20 minutes' drive, you can arrive at the airport.",
+                "开车20分钟内就能到达机场。"
+            ],
+            [
+                "By the way, there're two supermarkets, a department store, a hospital and a police station nearby so it is very convenient and safe to live here.",
+                "顺便说一下，附近有两家超市、一家百货商店、一家医院和一家警察局，所以在这里生活非常方便和安全。"
+            ],
+            [
+                "It is a great place for students to enjoy their university life in the busy city and peaceful countryside.",
+                "对于学生来说，这是一个在繁忙城市和宁静乡村享受大学生活的好地方。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "across",
+            "adv. & prep.",
+            "穿过；在……对面"
+        ],
+        [
+            "grocery store",
+            "n.",
+            "杂货店"
+        ],
+        [
+            "bank",
+            "n.",
+            "银行"
+        ],
+        [
+            "bookshop",
+            "n.",
+            "书店（英式）"
+        ],
+        [
+            "bookstore",
+            "n.",
+            "书店（美式）"
+        ],
+        [
+            "restaurant",
+            "n.",
+            "餐馆"
+        ],
+        [
+            "a Chinese restaurant",
+            "",
+            "中餐厅"
+        ],
+        [
+            "outside",
+            "adv. & prep.",
+            "在外面；在……外面"
+        ],
+        [
+            "pretty",
+            "adj.",
+            "漂亮的"
+        ],
+        [
+            "view",
+            "n.",
+            "意见；风景"
+        ],
+        [
+            "a pretty sea view",
+            "",
+            "漂亮的海景"
+        ],
+        [
+            "close to",
+            "",
+            "接近；靠近"
+        ],
+        [
+            "close to the beaches",
+            "",
+            "靠近海滩"
+        ],
+        [
+            "large",
+            "adj.",
+            "大的"
+        ],
+        [
+            "a large house",
+            "",
+            "大房子"
+        ],
+        [
+            "square",
+            "n.",
+            "广场；正方形"
+        ],
+        [
+            "crowded",
+            "adj.",
+            "拥挤的"
+        ],
+        [
+            "crowded streets",
+            "",
+            "拥挤的街道"
+        ],
+        [
+            "noisy",
+            "adj.",
+            "嘈杂的；喧闹的"
+        ],
+        [
+            "quiet",
+            "adj.",
+            "安静的"
+        ],
+        [
+            "middle",
+            "n.",
+            "中间"
+        ],
+        [
+            "middle",
+            "adj.",
+            "中间的"
+        ],
+        [
+            "through",
+            "adv. & prep.",
+            "穿过"
+        ],
+        [
+            "top",
+            "n.",
+            "顶端"
+        ],
+        [
+            "surprised",
+            "adj.",
+            "感到惊讶的，出人意料的"
+        ],
+        [
+            "country",
+            "n.",
+            "国家；农村"
+        ],
+        [
+            "European countries",
+            "",
+            "欧洲国家"
+        ],
+        [
+            "cinema",
+            "n.",
+            "电影院"
+        ],
+        [
+            "the local cinema",
+            "",
+            "当地的电影院"
+        ],
+        [
+            "go to the cinema",
+            "",
+            "（去电影院）看电影"
+        ],
+        [
+            "movie theatre",
+            "n.",
+            "电影院（美式）"
+        ],
+        [
+            "theatre",
+            "n.",
+            "戏院；剧场"
+        ],
+        [
+            "Broadway theatres",
+            "",
+            "百老汇剧院"
+        ],
+        [
+            "theater",
+            "n.",
+            "戏院；剧场（美式拼写）"
+        ],
+        [
+            "flat",
+            "n.",
+            "公寓（英式）"
+        ],
+        [
+            "apartment",
+            "n.",
+            "公寓（美式）"
+        ],
+        [
+            "nearly",
+            "adv.",
+            "差不多，几乎"
+        ],
+        [
+            "block",
+            "n.",
+            "大楼；一栋楼房"
+        ],
+        [
+            "an office block",
+            "",
+            "办公大楼"
+        ],
+        [
+            "hotel",
+            "n.",
+            "旅馆"
+        ],
+        [
+            "a five-star hotel",
+            "",
+            "五星级宾馆"
+        ],
+        [
+            "city",
+            "n.",
+            "城市，都市"
+        ],
+        [
+            "the city centre",
+            "",
+            "市中心"
+        ],
+        [
+            "centre",
+            "n.",
+            "中心"
+        ],
+        [
+            "in the centre of",
+            "",
+            "在……中心"
+        ],
+        [
+            "kilometre",
+            "n.",
+            "公里；千米"
+        ],
+        [
+            "kilometer",
+            "n.",
+            "公里；千米（美式拼写）"
+        ],
+        [
+            "bus station",
+            "n.",
+            "公交车站（英式）"
+        ],
+        [
+            "bus stop",
+            "n.",
+            "公交车站（美式）"
+        ],
+        [
+            "direction",
+            "n.",
+            "方向"
+        ],
+        [
+            "underground",
+            "n.",
+            "地铁（英式）"
+        ],
+        [
+            "underground stations",
+            "",
+            "地铁站"
+        ],
+        [
+            "subway",
+            "n.",
+            "地铁（美式）"
+        ],
+        [
+            "town",
+            "n.",
+            "镇；城镇"
+        ],
+        [
+            "village",
+            "n.",
+            "村庄"
+        ],
+        [
+            "a mountain village",
+            "",
+            "山村"
+        ],
+        [
+            "castle",
+            "n.",
+            "城堡"
+        ],
+        [
+            "railway station",
+            "n.",
+            "火车站"
+        ],
+        [
+            "metre",
+            "n.",
+            "米"
+        ],
+        [
+            "capital",
+            "n.",
+            "首都"
+        ],
+        [
+            "airport",
+            "n.",
+            "机场"
+        ],
+        [
+            "the international airport",
+            "",
+            "国际机场"
+        ],
+        [
+            "supermarket",
+            "n.",
+            "超市"
+        ],
+        [
+            "department store",
+            "n.",
+            "百货公司；百货商店"
+        ],
+        [
+            "hospital",
+            "n.",
+            "医院"
+        ],
+        [
+            "police station",
+            "n.",
+            "警察局；派出所"
+        ],
+        [
+            "safe",
+            "adj.",
+            "安全的"
+        ],
+        [
+            "dangerous",
+            "adj.",
+            "危险的"
+        ],
+        [
+            "great",
+            "adj.",
+            "极大的；极好的"
+        ],
+        [
+            "place",
+            "n.",
+            "地方；地点"
+        ],
+        [
+            "countryside",
+            "n.",
+            "乡村"
+        ],
+        [
+            "in the countryside",
+            "",
+            "在乡村"
+        ]
+    ]
+}

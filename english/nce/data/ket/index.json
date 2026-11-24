@@ -1,0 +1,116 @@
+{
+    "lessons": [
+        {
+            "lesson": 1,
+            "title": ["Judy", "朱迪"]
+        },
+        {
+            "lesson": 2,
+            "title": ["Emma's Birthday party", "艾玛的生日派对"]
+        },
+        {
+            "lesson": 3,
+            "title": ["Evan's Home Tour (1)", "埃文的家参观(1)"]
+        },
+        {
+            "lesson": 4,
+            "title": ["Evan's Home Tour (2)", "埃文的家参观(2)"]
+        },
+        {
+            "lesson": 5,
+            "title": ["Ethan's First Day at the New School", "伊森在新学校的第一天"]
+        },
+        {
+            "lesson": 6,
+            "title": ["An Introduction to the School", "学校介绍"]
+        },
+        {
+            "lesson": 7,
+            "title": ["Let's Go Shopping for Clothes!", "我们去买衣服吧！"]
+        },
+        {
+            "lesson": 8,
+            "title": ["Welcome to the Central Shopping Centre", "欢迎来到中央购物中心"]
+        },
+        {
+            "lesson": 9,
+            "title": ["Aria's Daily Vlog (1)", "阿里娅的日常视频博客(1)"]
+        },
+        {
+            "lesson": 10,
+            "title": ["Aria's Daily Vlog (2)", "阿里娅的日常视频博客(2)"]
+        },
+        {
+            "lesson": 11,
+            "title": ["A Football Match", "一场足球赛"]
+        },
+        {
+            "lesson": 12,
+            "title": ["Two Sports Fans", "两个体育迷"]
+        },
+        {
+            "lesson": 13,
+            "title": ["Hobbies Make Our Life Interesting", "爱好让我们的生活有趣"]
+        },
+        {
+            "lesson": 14,
+            "title": ["What Is Your Future Career?", "你未来的职业是什么？"]
+        },
+        {
+            "lesson": 15,
+            "title": ["A Campus Walking Tour (1)", "校园步行参观(1)"]
+        },
+        {
+            "lesson": 16,
+            "title": ["A Campus Walking Tour (2)", "校园步行参观(2)"]
+        },
+        {
+            "lesson": 17,
+            "title": ["IT Changes Our Lives", "信息技术改变我们的生活"]
+        },
+        {
+            "lesson": 18,
+            "title": ["How To Be A Vlogger?", "如何成为一名视频博主？"]
+        },
+        {
+            "lesson": 19,
+            "title": ["The Weather in Beijing", "北京的天气"]
+        },
+        {
+            "lesson": 20,
+            "title": ["Let's go camping!", "我们去露营吧！"]
+        },
+        {
+            "lesson": 21,
+            "title": ["What Shall We Do This Weekend?", "我们这个周末做什么？"]
+        },
+        {
+            "lesson": 22,
+            "title": ["Why Not Choose This Film?", "为什么不选择这部电影？"]
+        },
+        {
+            "lesson": 23,
+            "title": ["It Really Hurts!", "真疼！"]
+        },
+        {
+            "lesson": 24,
+            "title": ["How to Keep Healthy", "如何保持健康"]
+        },
+        {
+            "lesson": 25,
+            "title": ["Eric's Travel Journal (1)", "埃里克的旅行日记(1)"]
+        },
+        {
+            "lesson": 26,
+            "title": ["Eric's Travel Journal (2)", "埃里克的旅行日记(2)"]
+        },
+        {
+            "lesson": 27,
+            "title": ["How to Communicate Better?", "如何更好地交流？"]
+        },
+        {
+            "lesson": 28,
+            "title": ["Professor Miller's Advice on Friendship", "米勒教授关于友谊的建议"]
+        }
+    ]
+}

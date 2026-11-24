@@ -1,0 +1,31 @@
+{
+    "lesson": 5,
+    "title": ["Unit 5", "第五单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["acorn", "n.", "橡子"],
+        ["The squirrel eats an acorn.", "", "松鼠吃橡子。"],
+        ["baby", "n.", "婴儿"],
+        ["The baby is sleeping.", "", "婴儿在睡觉。"],
+        ["elevator", "n.", "电梯"],
+        ["We take the elevator.", "", "我们乘电梯。"],
+        ["lady", "n.", "女士"],
+        ["The lady is kind.", "", "女士很友善。"],
+        ["he", "pron.", "他"],
+        ["He is my friend.", "", "他是我的朋友。"],
+        ["she", "pron.", "她"],
+        ["She is happy.", "", "她很高兴。"],
+        ["tiger", "n.", "老虎"],
+        ["The tiger roars.", "", "老虎吼叫。"],
+        ["child", "n.", "孩子"],
+        ["The child plays.", "", "孩子在玩耍。"],
+        ["cold", "adj.", "寒冷的"],
+        ["It is cold today.", "", "今天很冷。"],
+        ["hotel", "n.", "酒店"],
+        ["We stay at a hotel.", "", "我们住在酒店。"],
+        ["uniform", "n.", "制服"],
+        ["I wear a uniform to school.", "", "我穿校服上学。"],
+        ["music", "n.", "音乐"],
+        ["I listen to music.", "", "我听音乐。"]
+    ]
+}

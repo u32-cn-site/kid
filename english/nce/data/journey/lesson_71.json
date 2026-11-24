@@ -1,0 +1,418 @@
+{
+ "lesson": 71,
+ "title": [
+  "Money",
+  "钱；货币"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "\"I'm hungry,\" Bajie moaned.",
+    "“我饿了，”八戒抱怨道。"
+   ],
+   [
+    "His stomach grumbled loudly.",
+    "他的肚子大声地咕咕叫了起来。"
+   ],
+   [
+    "\"Can we stop walking?\"",
+    "“我们能别走了吗？”"
+   ],
+   [
+    "\"We'll stop for lunch soon,\" said the Tang Monk.",
+    "“我们很快就会停下来吃午饭，”唐僧说道。"
+   ],
+   [
+    "\"The weather is nice, and the road is smooth.",
+    "“天气很好，路面也很平坦。”"
+   ],
+   [
+    "I want to keep moving.",
+    "我想继续前进。"
+   ],
+   [
+    "I'm eager to reach the Western Paradise.\"",
+    "我渴望到达西方天堂。"
+   ],
+   [
+    "Wukong laughed.",
+    "孙悟空笑了。"
+   ],
+   [
+    "\"Master, I don't know why you're still going there.",
+    "“主人，我不知道您为什么还要去那里。”"
+   ],
+   [
+    "You should have married that scorpion spirit instead!\"",
+    "你当初真应该嫁给那个“蝎子般的女人”才对！"
+   ],
+   [
+    "The Tang Monk frowned.",
+    "唐僧皱了皱眉头。"
+   ],
+   [
+    "\"That's not funny, Wukong.\"",
+    "“那可不好笑，悟空。”"
+   ],
+   [
+    "\"I agree with Wukong,\" said Bajie.",
+    "“我同意悟空的观点，”八戒说。"
+   ],
+   [
+    "\"I would have gladly married her.\"",
+    "“我本来很乐意娶她的。”"
+   ],
+   [
+    "Wujing raised an eyebrow.",
+    "吴静挑了挑眉毛。"
+   ],
+   [
+    "\"I doubt she would have married you.\"",
+    "“我怀疑她会不会嫁给你。”"
+   ],
+   [
+    "\"Why not?",
+    "“为什么不呢？”"
+   ],
+   [
+    "Bajie puffed out his chest.",
+    "八戒挺起了胸膛。"
+   ],
+   [
+    "\"I'm very handsome!\"",
+    "“我很帅！”"
+   ],
+   [
+    "Everybody laughed, including Bajie.",
+    "大家都笑了，包括八戒。"
+   ],
+   [
+    "They had continued for another hour when the pig complained again.",
+    "他们又持续了一个小时，这时猪又开始抱怨了。"
+   ],
+   [
+    "\"My legs are tired,\" he said.",
+    "“我的腿很累，”他说。"
+   ],
+   [
+    "\"We'll stop at the next village,\" said the Tang Monk.",
+    "“我们会在下一个村庄停下来，”唐僧说。"
+   ],
+   [
+    "Bajie sighed.",
+    "八戒叹了口气。"
+   ],
+   [
+    "\"I hope we reach the next village soon.\"",
+    "“我希望我们能尽快到达下一个村庄。”"
+   ],
+   [
+    "\"I know how we can get there soon,\" said Wukong with a laugh.",
+    "“我知道我们怎么才能尽快到达那里，”悟空笑着说。"
+   ],
+   [
+    "The monkey smacked the horse, which shot forward.",
+    "猴子拍了拍马，结果马突然向前冲了起来。"
+   ],
+   [
+    "\"Wukong!\" cried the Tang Monk, hanging on tightly.",
+    "“悟空！”唐僧大叫着，紧紧抓住不放。"
+   ],
+   [
+    "When the horse finally stopped running, the monk was far ahead of his companions.",
+    "当马终于停下来不再奔跑时，僧人已经远远领先于他的同伴们。"
+   ],
+   [
+    "A group of nasty-looking men stood in front of him.",
+    "一群长相丑陋的男子站在他面前。"
+   ],
+   [
+    "\"Give us all your money!\" said a man with an ax.",
+    "“把你们所有的钱都交给我们！”一个拿着斧头的人说道。"
+   ],
+   [
+    "The Tang Monk shook with fear.",
+    "唐僧吓得浑身发抖。"
+   ],
+   [
+    "Wukong was already running over.",
+    "孙悟空已经跑过来了。"
+   ],
+   [
+    "\"Don't you dare harm my master!\" shouted the monkey.",
+    "“你敢伤害我的主人吗！”猴子大声喊道。"
+   ],
+   [
+    "\"Who are you?\" asked the man.",
+    "“你是谁？”那个男人问道。"
+   ],
+   [
+    "\"My name is Sun Wukong.\"",
+    "“我的名字是孙悟空。”"
+   ],
+   [
+    "\"Give me your money, Sun Wukong,\" said the man.",
+    "“把你的钱给我，孙悟空，”那个人说道。"
+   ],
+   [
+    "\"I don't have much money,\" said the monkey.",
+    "“我没有多少钱，”猴子说。"
+   ],
+   [
+    "\"You'd better give me yours.\"",
+    "“你最好把你的给我。”"
+   ],
+   [
+    "The man's face turned red.",
+    "那个男人的脸变得通红。"
+   ],
+   [
+    "\"I'm not going to give you money!\"",
+    "“我不会给你钱的！”"
+   ],
+   [
+    "\"Let's make a bet then,\" said Wukong.",
+    "“那我们就来打个赌吧，”悟空说。"
+   ],
+   [
+    "He pulled out his iron bar, which quickly grew to the height of a person.",
+    "他拔出了他的铁棍，那铁棍迅速长到了一个人的高度。"
+   ],
+   [
+    "The men looked nervous.",
+    "那些男人看起来很紧张。"
+   ],
+   [
+    "The monkey stood the bar on the ground.",
+    "猴子把棍子放在地上。"
+   ],
+   [
+    "\"If you can pick this up, we'll give you all of our money.\"",
+    "“如果你能懂这意思，我们就把所有的钱都给你。”"
+   ],
+   [
+    "\"You're a fool,\" said the man with an ax.",
+    "“你是个傻瓜，”那个拿着斧头的男人说道。"
+   ],
+   [
+    "\"I'm sure I can pick that bar up.\"",
+    "“我肯定能把那个杠子举起来。”"
+   ],
+   [
+    "\"Go ahead and try,\" said Wukong.",
+    "“去试吧，”悟空说。"
+   ],
+   [
+    "The man put down the ax.",
+    "那个男人放下了斧头。"
+   ],
+   [
+    "He grasped the bar with his hands and tried to lift it.",
+    "他用双手抓住横杆，试图把它抬起来。"
+   ],
+   [
+    "\"It's heavier than it looks,\" said the man.",
+    "“它比看起来要重，”那个男人说。"
+   ],
+   [
+    "He tried to lift the bar again.",
+    "他再次尝试举起那根杠铃。"
+   ],
+   [
+    "Sweat poured down his red face.",
+    "汗水从他涨红的脸上流淌下来。"
+   ],
+   [
+    "But the bar didn't budge.",
+    "但是那根杆子纹丝不动。"
+   ],
+   [
+    "\"Now it's my turn!\" said Wukong.",
+    "“现在轮到我了！”悟空说道。"
+   ],
+   [
+    "He lifted the bar over his head and twirled it around.",
+    "他把杠铃举过头顶，然后转了几圈。"
+   ],
+   [
+    "His eyes flashed with anger.",
+    "他的眼中闪烁着愤怒的光芒。"
+   ],
+   [
+    "He got ready to strike the man.",
+    "他准备动手击打那个人。"
+   ],
+   [
+    "\"Wukong, don't!\" shouted the Tang Monk.",
+    "“悟空，别这样！”唐僧大喊道。"
+   ],
+   [
+    "The man took a step back.",
+    "那个人后退了一步。"
+   ],
+   [
+    "Suddenly the bar dropped from Wukong's hands.",
+    "突然，金箍棒从悟空的手中掉了下来。"
+   ],
+   [
+    "\"Aargh!\" cried the monkey, holding his head.",
+    "“啊！”猴子叫着，捂住了自己的头。"
+   ],
+   [
+    "He fell to his knees as the Tang Monk quietly recited the Tight Headband spell.",
+    "当唐僧轻声念出“紧箍咒”时，他跪了下来。"
+   ],
+   [
+    "The robbers glanced at one another and then ran away.",
+    "强盗们互相瞥了一眼，然后逃走了。"
+   ],
+   [
+    "When the monk stopped reciting the spell, Wukong was furious.",
+    "当僧人停止念咒语时，悟空顿时暴怒了。"
+   ],
+   [
+    "\"Why did you do that?\" he cried.",
+    "“你为什么要那么做？”他喊道。"
+   ],
+   [
+    "\"They were going to—\" \"You must not hurt people!\" commanded the monk.",
+    "“他们正要去……”  \n“你绝不能伤害别人！”僧人命令道。"
+   ],
+   [
+    "\"I destroy demons all the time,\" said the monkey.",
+    "“我总是能打败那些恶魔，”猴子说。"
+   ],
+   [
+    "\"It's fine to hurt demons.",
+    "“伤害恶魔是没关系的。”"
+   ],
+   [
+    "But you must not hurt people.",
+    "但是你绝不能伤害他人。"
+   ],
+   [
+    "\"The monk sighed.",
+    "“僧人叹了口气。”"
+   ],
+   [
+    "\"You're still evil, Wukong.",
+    "“你仍然是个邪恶的家伙，悟空。”"
+   ],
+   [
+    "I can't bring you to the Western Paradise.",
+    "我无法带你去西方极乐世界。"
+   ],
+   [
+    "You must leave.\"",
+    "“你必须离开。”"
+   ],
+   [
+    "\"But you need me, Master!",
+    "“但是您需要我，主人！”"
+   ],
+   [
+    "Wukong insisted.",
+    "孙悟空坚持说。"
+   ],
+   [
+    "\"I refuse to leave.\"",
+    "“我拒绝离开。”"
+   ],
+   [
+    "\"Go!\" said the Tang Monk.",
+    "“走吧！”唐僧说道。"
+   ],
+   [
+    "\"Or I'll recite the Tight Headband spell until your head explodes!\"",
+    "“不然我就一直念‘紧绷头带’的咒语，直到你的脑袋炸开！”"
+   ],
+   [
+    "Wukong could see that the monk wasn't going to change his mind.",
+    "悟空看出那位僧人根本不会改变主意。"
+   ],
+   [
+    "With tears in his eyes, the monkey leaped into the air and was gone.",
+    "猴儿眼里噙着泪水，跳向空中，然后消失不见了。"
+   ]
+  ]
+ },
+ "words": [
+  [
+   "nasty",
+   "",
+   "恶意的，难相处的",
+   "A group of nasty -looking men stood in front of him.",
+   "一群长相凶狠的男人站在他面前。"
+  ],
+  [
+   "dare",
+   "",
+   "敢，敢于",
+   "Don't you dare harm my master!",
+   "你敢伤害我的主人吗！"
+  ],
+  [
+   "make a bet",
+   "",
+   "打赌",
+   "Let's make a bet then.",
+   "那我们就来打个赌吧。"
+  ],
+  [
+   "budge",
+   "",
+   "推动，移动",
+   "But the bar didn't budge.",
+   "但是那根杆子纹丝不动。"
+  ],
+  [
+   "twirl",
+   "",
+   "快速旋转，快速转动",
+   "He lifted the bar over his head and twirled it around.",
+   "他把杠铃举过头顶，然后转了几圈。"
+  ],
+  [
+   "fell to one's knees",
+   "",
+   "屈膝，跪下(fall to one's knees-fell to one's knees)",
+   "He fell to his knees as the Tang Monk quietly recited the Tight Headband spell.",
+   "当唐僧轻声念出“紧箍咒”时，他跪了下来。"
+  ],
+  [
+   "command",
+   "",
+   "命令",
+   "\"You must not hurt people!\" commanded the monk.",
+   "“你们绝不能伤害别人！”僧侣命令道。"
+  ],
+  [
+   "evil",
+   "",
+   "邪恶的，坏的",
+   "You're still evil, Wukong.",
+   "你还是那么邪恶，悟空。"
+  ],
+  [
+   "insist",
+   "",
+   "坚持要求，主张",
+   "Wukong insisted.",
+   "孙悟空坚持说。"
+  ],
+  [
+   "refuse",
+   "",
+   "拒绝",
+   "I refuse to leave.",
+   "我拒绝离开。"
+  ],
+  [
+   "explode",
+   "",
+   "爆发，爆炸",
+   "I'll recite the Tight Headband spell until your head explodes!",
+   "我会不断念诵“Tight Headband”这个咒语，直到你的脑袋爆炸！"
+  ]
+ ]
+}

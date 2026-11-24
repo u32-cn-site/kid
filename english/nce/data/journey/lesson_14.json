@@ -1,0 +1,491 @@
+{
+ "lesson": 14,
+ "title": [
+  "A Promise to Protect",
+  "一份保护承诺"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "The Tang Monk trembled with fear.",
+    "唐僧吓得浑身发抖。"
+   ],
+   [
+    "The angry voice spoke again.",
+    "那个愤怒的声音再次响起。"
+   ],
+   [
+    "\"Who is walking on my mountain?\"",
+    "“谁在我的山上行走？”"
+   ],
+   [
+    "\"Ahh!\" cried the Tang Monk.",
+    "“啊！”唐僧叫道。"
+   ],
+   [
+    "He fell off his horse and tumbled down the mountain.",
+    "他从马上摔了下来，然后滚下了山。"
+   ],
+   [
+    "At the bottom he saw a crack between the rocks.",
+    "在底部，他看到岩石之间有一条裂缝。"
+   ],
+   [
+    "The monk looked in and saw a moss-covered monkey peering out at him.",
+    "僧侣往里面看，看到一只长满苔藓的猴子正朝他窥视。"
+   ],
+   [
+    "\"My name is Sun Wukong,\" said the monkey.",
+    "“我的名字叫孙悟空，”猴子说道。"
+   ],
+   [
+    "\"I am king of the Fruit and Flower Mountain.\"",
+    "“我是花果山的国王。”"
+   ],
+   [
+    "\"Why are you in there?\" asked the Tang Monk.",
+    "“你怎么会在里面？”唐僧问道。"
+   ],
+   [
+    "He stood up.",
+    "他站了起来。"
+   ],
+   [
+    "\"Buddha put me here,\" said Wukong.",
+    "“是佛祖让我来到这里的，”悟空说道。"
+   ],
+   [
+    "\"I am being punished for causing trouble in Heaven.",
+    "“我因为在天界惹麻烦而受到惩罚。”"
+   ],
+   [
+    "Who are you?\"",
+    "“你是谁？”"
+   ],
+   [
+    "\"I'm just a monk,\" said the Tang Monk.",
+    "“我只不过是个和尚罢了，”唐僧说道。"
+   ],
+   [
+    "\"I'm going to the Western Paradise to get scriptures from Buddha.\"",
+    "“我要去西方极乐世界向佛陀取经。”"
+   ],
+   [
+    "Wukong gasped.",
+    "悟空倒吸了一口气。"
+   ],
+   [
+    "\"You're the Tang Monk!\" he cried.",
+    "“你就是唐僧！”他喊道。"
+   ],
+   [
+    "\"I'm supposed to go with you!\"",
+    "“我应该跟你一起去！”"
+   ],
+   [
+    "The Tang Monk took a step back.",
+    "唐僧后退了一步。"
+   ],
+   [
+    "Was this strange monkey telling the truth?",
+    "这只奇怪的猴子说的是实话吗？"
+   ],
+   [
+    "\"The bodhisattva Guanyin visited me,\" Wukong went on.",
+    "“观世音菩萨来看我了，”悟空接着说道。"
+   ],
+   [
+    "\"She said I'd be set free if I promise to protect you on the journey.",
+    "她说，如果我答应在旅途中保护你，就能获得自由。”"
+   ],
+   [
+    "Set me free, and I'll go with you to the West.\"",
+    "“释放我，我会和你一起去西方。”"
+   ],
+   [
+    "The Tang Monk relaxed.",
+    "唐僧放松了下来。"
+   ],
+   [
+    "He looked at the rocks.",
+    "他看着那些岩石。"
+   ],
+   [
+    "\"How can I free you?\"",
+    "“我怎样才能救你出来？”"
+   ],
+   [
+    "\"There's a small piece of paper on top of this mountain,\" said Wukong.",
+    "“这座山顶上有一小张纸，”孙悟空说道。"
+   ],
+   [
+    "\"You must remove it.\"",
+    "“你必须把它移除。”"
+   ],
+   [
+    "The Tang Monk went back up the mountain.",
+    "唐僧重新回到了山上。"
+   ],
+   [
+    "He pushed aside shrubs and brambles and pulled himself over large boulders.",
+    "他拨开灌木和荆棘，然后翻过那些巨大的岩石。"
+   ],
+   [
+    "Finally he reached the mountain's peak.",
+    "终于，他登上了山顶。"
+   ],
+   [
+    "The monk picked up the paper.",
+    "僧人拿起了那张纸。"
+   ],
+   [
+    "Right away a breeze swept it from his hand.",
+    "立刻，一阵风吹走了它，从他手中飘走了。"
+   ],
+   [
+    "The paper floated up and then disappeared among the clouds.",
+    "那张纸飘了起来，然后消失在云层中了。"
+   ],
+   [
+    "The monk hurried back down the mountain.",
+    "僧人匆匆下山去了。"
+   ],
+   [
+    "\"The paper floated away,\" he said to the monkey.",
+    "“那张纸飘走了，”他对猴子说道。"
+   ],
+   [
+    "\"It returned to Buddha,\" said Wukong.",
+    "“它回到了佛陀那里，”悟空说道。"
+   ],
+   [
+    "\"Now step back.\"",
+    "“现在退后一步。”"
+   ],
+   [
+    "The Tang Monk took a step back.",
+    "唐僧后退了一步。"
+   ],
+   [
+    "\"Go farther,\" said Wukong.",
+    "“再往前走吧，”悟空说道。"
+   ],
+   [
+    "The monk took another step back.",
+    "僧人又后退了一步。"
+   ],
+   [
+    "\"Go farther,\" said Wukong again.",
+    "“再往前走，”悟空再次说道。"
+   ],
+   [
+    "The Tang Monk went far from the mountain.",
+    "唐僧离开了那座山，走了很远。"
+   ],
+   [
+    "He gasped as the entire mountain rose into the air.",
+    "当整座山被抛向空中时，他惊得倒吸了一口凉气。"
+   ],
+   [
+    "Wukong stood under the mountain, holding it up with his hands.",
+    "孙悟空站在山下，用双手扶住那座山。"
+   ],
+   [
+    "He jumped out, and the mountain crashed down behind him.",
+    "他跳了出去，山在他身后崩塌了。"
+   ],
+   [
+    "Wukong grabbed the Tang Monk's hands.",
+    "悟空抓住了唐僧的手。"
+   ],
+   [
+    "\"Thank you, Master!",
+    "“谢谢您，大师！”"
+   ],
+   [
+    "I will help you reach the Western Paradise.\"",
+    "“我会帮助你抵达西方天堂。”"
+   ],
+   [
+    "The Tang Monk rode the horse as Wukong walked.",
+    "唐僧骑在马上，而悟空则步行。"
+   ],
+   [
+    "The monkey told the monk about himself.",
+    "猴子向僧人讲述了自己的事情。"
+   ],
+   [
+    "\"The Jade Emperor's entire army couldn't defeat me.",
+    "“玉帝的整个军队都没能打败我。”"
+   ],
+   [
+    "He laughed.",
+    "他笑了。"
+   ],
+   [
+    "\"So I said I should be in charge of Heaven.\"",
+    "“所以我就说我应该掌管天堂。”"
+   ],
+   [
+    "\"What powers do you have?\" asked the Tang Monk.",
+    "“你拥有哪些神通？”唐僧问道。"
+   ],
+   [
+    "\"I can become other animals,\" said Wukong.",
+    "“我可以变成其他动物，”悟空说道。"
+   ],
+   [
+    "\"Watch this!\"",
+    "“看这个！”"
+   ],
+   [
+    "He quickly changed into a tiger.",
+    "他迅速变成了一只老虎。"
+   ],
+   [
+    "The Tang Monk gulped.",
+    "唐僧咽了口口水。"
+   ],
+   [
+    "Wukong changed into a snake, a vulture, and then back into himself.",
+    "悟空先变成了一条蛇，接着又变成了一只秃鹫，最后又变回了原来的样子。"
+   ],
+   [
+    "\"And that's not all,\" he said.",
+    "“而且这还不是全部，”他说。"
+   ],
+   [
+    "\"I can grow big!",
+    "“我可以长得很大！”"
+   ],
+   [
+    "The monkey's body grew so big that his head reached the clouds.",
+    "这只猴子的身体长得非常巨大，以至于它的头都快碰到云层了。"
+   ],
+   [
+    "\"And I can become tiny!\" said Wukong.",
+    "“而且我还可以变得非常小！”悟空说道。"
+   ],
+   [
+    "He shrank to the size of a bee and hopped onto the monk's head.",
+    "他缩小到蜜蜂的大小，然后跳到了那个僧人的头上。"
+   ],
+   [
+    "\"I can do more!\" said Wukong.",
+    "“我还能做得更多！”悟空说道。"
+   ],
+   [
+    "He changed back to his normal size.",
+    "他又变回了正常大小。"
+   ],
+   [
+    "His iron bar appeared from his ear.",
+    "他的铁棍从耳朵里伸了出来。"
+   ],
+   [
+    "The monkey spun it around and then struck a huge boulder.",
+    "猴子把它转圈挥动，然后击中了一块巨大的巨石。"
+   ],
+   [
+    "Smash!",
+    "太棒了！"
+   ],
+   [
+    "The boulder exploded into tiny pieces.",
+    "那块巨石爆炸成了无数小碎片。"
+   ],
+   [
+    "The Tang Monk watched in horror.",
+    "唐僧惊恐地观看着。"
+   ],
+   [
+    "Wukong laughed.",
+    "孙悟空笑了。"
+   ],
+   [
+    "\"Don't look so scared, Master.",
+    "“别看起来这么害怕，主人。”"
+   ],
+   [
+    "I'm protecting you!\"",
+    "“我在保护你！”"
+   ],
+   [
+    "The two traveled farther until they saw a group of men blocking the road.",
+    "两人继续前行，直到看到一群人挡住了道路。"
+   ],
+   [
+    "The men looked rough and mean.",
+    "那些男人看起来粗野而凶恶。"
+   ],
+   [
+    "They all had weapons.",
+    "他们所有人都有武器。"
+   ],
+   [
+    "One man stepped forward and waved a sword.",
+    "有一个人走上前，挥舞着一把剑。"
+   ],
+   [
+    "\"Give us your money, or you'll be sorry!\"",
+    "“把你的钱给我们，否则你会后悔的！”"
+   ]
+  ]
+ },
+ "words": [
+  [
+   "punish",
+   "",
+   "惩罚，处罚",
+   "I am being punished for causing trouble in Heaven.",
+   "我因为在天界惹麻烦而受到惩罚。"
+  ],
+  [
+   "set free",
+   "",
+   "放...⾃由，释放",
+   "She said I'd be set free if I promise to protect you on the journey.",
+   "她说，如果我承诺在旅途中保护你，我就会被释放。"
+  ],
+  [
+   "relax",
+   "",
+   "放松，缓和(紧张)",
+   "The Tang Monk relaxed.",
+   "唐僧放松了下来。"
+  ],
+  [
+   "push aside",
+   "",
+   "把…推到⼀边去",
+   "He pushed aside shrubs and brambles and pulled himself over large boulders.",
+   "他拨开灌木和荆棘，然后翻过那些巨大的岩石。"
+  ],
+  [
+   "shrub",
+   "",
+   "矮树，灌⽊(底部有许多树枝，⾼度低的树种)",
+   "He pushed aside shrubs and brambles and pulled himself over large boulders.",
+   "他拨开灌木和荆棘，然后翻过那些巨大的岩石。"
+  ],
+  [
+   "bramble",
+   "",
+   "有刺灌⽊",
+   "He pushed aside shrubs and brambles and pulled himself over large boulders.",
+   "他拨开灌木和荆棘，然后翻过那些巨大的岩石。"
+  ],
+  [
+   "boulder",
+   "",
+   "卵⽯，⼤圆⽯",
+   "He pushed aside shrubs and brambles and pulled himself over large boulders.",
+   "他拨开灌木和荆棘，然后翻过那些巨大的岩石。"
+  ],
+  [
+   "peak",
+   "",
+   "顶端，最⾼点",
+   "Finally he reached the mountain's peak.",
+   "终于，他登上了山顶。"
+  ],
+  [
+   "breeze",
+   "",
+   "微风，和风",
+   "Right away a breeze swept it from his hand.",
+   "立刻，一阵风吹走了它，从他手中飘走了。"
+  ],
+  [
+   "disappear",
+   "",
+   "消失",
+   "The paper floated up and then disappeared among the clouds.",
+   "那张纸飘了起来，然后消失在云层中了。"
+  ],
+  [
+   "army",
+   "",
+   "军队，陆军",
+   "The Jade Emperor's entire army couldn't defeat me.",
+   "玉帝的全部军队都无法打败我。"
+  ],
+  [
+   "defeat",
+   "",
+   "战胜，击败",
+   "The Jade Emperor's entire army couldn't defeat me.",
+   "玉帝的全部军队都无法打败我。"
+  ],
+  [
+   "charge",
+   "",
+   "责任",
+   "So I said I should be in charge of Heaven.",
+   "所以我说我应该掌管天界。"
+  ],
+  [
+   "vulture",
+   "",
+   "秃鹰(吃动物⼫体的猛禽)",
+   "Wukong changed into a snake, a vulture, and then back into himself.",
+   "悟空先变成了一条蛇，接着又变成了一只秃鹫，最后又变回了原来的样子。"
+  ],
+  [
+   "tiny",
+   "",
+   "极⼩的，微⼩的",
+   "And I can become tiny!",
+   "而且我还能变得很小！"
+  ],
+  [
+   "shrank",
+   "",
+   "收缩，缩短 (shrink-shrank/shrunk)",
+   "He shrank to the size of a bee and hopped onto the monk's head.",
+   "他缩小到蜜蜂的大小，然后跳到了那个僧人的头上。"
+  ],
+  [
+   "normal",
+   "",
+   "正常的",
+   "He changed back to his normal size.",
+   "他又变回了正常大小。"
+  ],
+  [
+   "struck",
+   "",
+   "打，打击 (strike-struck)",
+   "The monkey spun it around and then struck a huge boulder.",
+   "猴子把它转圈挥动，然后击中了一块巨大的巨石。"
+  ],
+  [
+   "explode",
+   "",
+   "爆发，爆炸",
+   "The boulder exploded into tiny pieces.",
+   "那块巨石爆炸成了无数小碎片。"
+  ],
+  [
+   "horror",
+   "",
+   "恐惧，害怕",
+   "The Tang Monk watched in horror.",
+   "唐僧惊恐地观看着。"
+  ],
+  [
+   "mean",
+   "",
+   "坏⼼的，卑鄙的",
+   "The men looked rough and mean.",
+   "那些男人看起来粗野而凶恶。"
+  ],
+  [
+   "weapon",
+   "",
+   "武器，兵器",
+   "They all had weapons.",
+   "他们所有人都有武器。"
+  ]
+ ]
+}

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新概念英语中译英训练 - 帮助</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background-color: #f5f5f5;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #0066cc;
+            padding-bottom: 10px;
+        }
+        h2 {
+            font-size: 18px;
+            color: #333;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            border-left: 4px solid #0066cc;
+            padding-left: 12px;
+        }
+        p {
+            color: #555;
+            margin-bottom: 10px;
+        }
+        ul, ol {
+            color: #555;
+            margin-left: 25px;
+            margin-bottom: 15px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        kbd {
+            background-color: #f5f5f5;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 2px 6px;
+            font-family: "Courier New", monospace;
+            font-size: 14px;
+            color: #333;
+        }
+        .highlight {
+            color: #0066cc;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>新概念英语中译英训练 - 随机模式</h1>
+        
+        <h2>功能概述</h2>
+        <p>基于新概念英语教材的中文到英文翻译训练工具，<span class="highlight">随机模式</span>允许您选择多篇课文，随机抽取句子进行练习，适合复习和综合训练。</p>
+        
+        <h2>主要特点</h2>
+        <ul>
+            <li><span class="highlight">自由选择课文</span>：点击左上角「选择课文」按钮，勾选想要练习的课文</li>
+            <li><span class="highlight">随机顺序</span>：选中的课文句子会打乱顺序随机出现</li>
+            <li><span class="highlight">记忆选择</span>：选择的课文会保存到本地，下次自动加载</li>
+        </ul>
+        
+        <h2>键盘操作</h2>
+        
+        <h3>句子导航</h3>
+        <ul>
+            <li><kbd>↑</kbd> - 上一句</li>
+            <li><kbd>↓</kbd> - 下一句</li>
+            <li><kbd>滚轮向上</kbd> - 上一句</li>
+            <li><kbd>滚轮向下</kbd> - 下一句</li>
+        </ul>
+        
+        <h3>显示控制</h3>
+        <ul>
+            <li><kbd>空格键</kbd> - 切换英文显示/隐藏</li>
+            <li><kbd>鼠标左键按住</kbd> - 临时显示英文</li>
+            <li><kbd>鼠标左键松开</kbd> - 隐藏英文</li>
+        </ul>
+        
+        <h2>使用步骤</h2>
+        <ol>
+            <li>点击左上角的<span class="highlight">「选择课文」</span>按钮</li>
+            <li>在弹出的窗口中勾选要练习的课文（可多选）</li>
+            <li>点击<span class="highlight">「确定」</span>保存选择</li>
+            <li>开始练习，按空格键查看英文答案</li>
+        </ol>
+        
+        <h2>数据源</h2>
+        <ul>
+            <li>从 <code>../../data/index.json</code> 加载教材列表</li>
+            <li>从 <code>../../data/nceX/lesson_Y.json</code> 加载具体课程内容</li>
+        </ul>
+        
+        <h2>状态保存</h2>
+        <ul>
+            <li><span class="highlight">课文选择</span>：保存到本地存储，下次打开自动加载</li>
+            <li><span class="highlight">当前进度</span>：自动保存当前句子位置</li>
+        </ul>
+        
+        <h2>界面说明</h2>
+        <ul>
+            <li><strong>顶部</strong>：显示「选择课文」按钮、当前进度</li>
+            <li><strong>主区域</strong>：
+                <ul>
+                    <li>上方：中文句子（大字体）</li>
+                    <li>下方：英文句子（蓝色，需手动显示）</li>
+                </ul>
+            </li>
+        </ul>
+        
+        <h2>使用技巧</h2>
+        <ol>
+            <li><strong>复习模式</strong>：选择已学习的多篇课文，随机练习加深记忆</li>
+            <li><strong>难点突破</strong>：选择有问题的课文，反复练习</li>
+            <li><strong>快速预览</strong>：按住鼠标左键临时查看英文</li>
+            <li><strong>连续练习</strong>：使用方向键或滚轮快速切换句子</li>
+        </ol>
+    </div>
+</body>
+</html>

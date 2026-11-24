@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新概念英语学习</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Merriweather:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-color: #f5f1e8;
+            --paper-color: #faf8f3;
+            --text-primary: #2c1810;
+            --text-secondary: #5a4a42;
+            --accent-primary: #c9a227;
+            --accent-secondary: #8b4513;
+            --border-color: #d4c5b5;
+            --shadow-color: rgba(44, 24, 16, 0.08);
+        }
+
+        body {
+            font-family: 'Merriweather', Georgia, 'Times New Roman', serif;
+            background-color: var(--bg-color);
+            background-image: 
+                url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23d4c5b5' fill-opacity='0.15'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 40px 20px;
+            color: var(--text-primary);
+        }
+
+        .container {
+            max-width: 900px;
+            width: 100%;
+            background: var(--paper-color);
+            padding: 50px 40px;
+            position: relative;
+        }
+
+        .container::before {
+            content: '';
+            position: absolute;
+            top: 8px;
+            left: 8px;
+            right: 8px;
+            bottom: 8px;
+            border: 2px solid var(--border-color);
+            pointer-events: none;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 45px;
+            position: relative;
+        }
+
+        .header::after {
+            content: '';
+            display: block;
+            width: 80px;
+            height: 3px;
+            background: var(--accent-primary);
+            margin: 20px auto 0;
+        }
+
+        h1 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 2.8em;
+            font-weight: 700;
+            letter-spacing: 0.05em;
+            color: var(--text-primary);
+            margin-bottom: 12px;
+        }
+
+        .subtitle {
+            font-family: 'Merriweather', serif;
+            font-size: 1.1em;
+            font-style: italic;
+            color: var(--text-secondary);
+            font-weight: 300;
+        }
+
+        .apps-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 24px;
+        }
+
+        .app-card {
+            background: var(--paper-color);
+            border: 1px solid var(--border-color);
+            padding: 32px 24px;
+            text-decoration: none;
+            color: var(--text-primary);
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 
+                0 1px 3px var(--shadow-color),
+                0 1px 2px var(--shadow-color);
+        }
+
+        .app-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: var(--accent-primary);
+            transform: scaleX(0);
+            transform-origin: left;
+            transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .app-card:nth-child(2)::before {
+            background: var(--accent-secondary);
+        }
+
+        .app-card:nth-child(3)::before {
+            background: #4a6741;
+        }
+
+        .app-card:nth-child(4)::before {
+            background: #2c5566;
+        }
+
+        .app-card:nth-child(5)::before {
+            background: #8b6914;
+        }
+
+        .app-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 
+                0 10px 30px var(--shadow-color),
+                0 4px 8px var(--shadow-color);
+        }
+
+        .app-card:hover::before {
+            transform: scaleX(1);
+        }
+
+        .app-icon {
+            font-size: 2.5em;
+            margin-bottom: 16px;
+            transition: transform 0.3s ease;
+        }
+
+        .app-card:hover .app-icon {
+            transform: scale(1.1);
+        }
+
+        .app-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.4em;
+            font-weight: 600;
+            margin-bottom: 8px;
+            letter-spacing: 0.03em;
+        }
+
+        .app-description {
+            font-size: 0.9em;
+            color: var(--text-secondary);
+            text-align: center;
+            line-height: 1.5;
+            font-weight: 300;
+        }
+
+        .decorative-corner {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            border: 2px solid var(--accent-primary);
+            opacity: 0.6;
+        }
+
+        .decorative-corner.top-left {
+            top: 15px;
+            left: 15px;
+            border-right: none;
+            border-bottom: none;
+        }
+
+        .decorative-corner.bottom-right {
+            bottom: 15px;
+            right: 15px;
+            border-left: none;
+            border-top: none;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 35px 25px;
+            }
+
+            h1 {
+                font-size: 2.2em;
+            }
+
+            .apps-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .app-card {
+                padding: 28px 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="decorative-corner top-left"></div>
+        <div class="decorative-corner bottom-right"></div>
+        
+        <header class="header">
+            <h1>新概念英语</h1>
+            <p class="subtitle">选择练习模式，开始你的语言之旅</p>
+        </header>
+        
+        <nav class="apps-grid">
+            <a href="./apps/chs_to_eng/index.html" class="app-card">
+                <div class="app-icon">🏯 → 🏛️</div>
+                <div class="app-title">中译英</div>
+                <div class="app-description">从中文到英文的翻译练习</div>
+            </a>
+            
+            <a href="./apps/chs_to_eng2/index.html" class="app-card">
+                <div class="app-icon">📜 → 📚</div>
+                <div class="app-title">中译英 II</div>
+                <div class="app-description">中译英进阶练习模式</div>
+            </a>
+            
+            <a href="./apps/eng_to_chs/index.html" class="app-card">
+                <div class="app-icon">🏛️ → 🏯</div>
+                <div class="app-title">英译中</div>
+                <div class="app-description">从英文到中文的翻译练习</div>
+            </a>
+            
+            <a href="./apps/eng_to_chs2/index.html" class="app-card">
+                <div class="app-icon">📚 → 📜</div>
+                <div class="app-title">英译中 II</div>
+                <div class="app-description">英译中进阶练习模式</div>
+            </a>
+            
+            <a href="./apps/word_chs_to_eng/index.html" class="app-card">
+                <div class="app-icon">🔤 → 📖</div>
+                <div class="app-title">单词中译英</div>
+                <div class="app-description">从中文释义到英文单词的练习</div>
+            </a>
+            
+            <a href="./apps/word_chs_to_eng2/index.html" class="app-card">
+                <div class="app-icon">🔤 📜 → 📚</div>
+                <div class="app-title">单词中译英 II</div>
+                <div class="app-description">单词中译英进阶练习模式</div>
+            </a>
+            
+            <a href="./apps/word_eng_to_chs/index.html" class="app-card">
+                <div class="app-icon">📖 → 🔤</div>
+                <div class="app-title">单词英译中</div>
+                <div class="app-description">从英文单词到中文释义的练习</div>
+            </a>
+            
+            <a href="./apps/word_eng_to_chs2/index.html" class="app-card">
+                <div class="app-icon">📚 → 📜 🔤</div>
+                <div class="app-title">单词英译中 II</div>
+                <div class="app-description">单词英译中进阶练习模式</div>
+            </a>
+            
+            <a href="./apps/word_written_quiz/index.html" class="app-card">
+                <div class="app-icon">✏️ 🔤</div>
+                <div class="app-title">单词默写</div>
+                <div class="app-description">听音默写单词测试练习</div>
+            </a>
+
+            <a href="./apps/sentence_written_quiz/index.html" class="app-card">
+                <div class="app-icon">✏️ 📝</div>
+                <div class="app-title">句子默写</div>
+                <div class="app-description">听音默写句子测试练习</div>
+            </a>
+        </nav>
+    </div>
+</body>
+</html>

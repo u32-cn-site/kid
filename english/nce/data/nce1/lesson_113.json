@@ -1,0 +1,143 @@
+{
+    "lesson": 113,
+    "title": [
+        "Small change",
+        "零钱"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Fares, please!",
+                "请买票！"
+            ],
+            [
+                "Trafalgar Square, please.",
+                "请买一张到特拉法加广场的票。"
+            ],
+            [
+                "I'm sorry, sir.",
+                "对不起，先生。"
+            ],
+            [
+                "I can't change a ten-pound note.",
+                "我找不开10英镑的钞票。"
+            ],
+            [
+                "Haven't you got any small change?",
+                "您没有零钱吗？"
+            ],
+            [
+                "I've got no small change, I am afraid.",
+                "恐怕我没有零钱。"
+            ],
+            [
+                "I'll ask some of the passengers.",
+                "我来问问其他乘客。"
+            ],
+            [
+                "Have you any small change, sir?",
+                "先生，您有零钱吗？"
+            ],
+            [
+                "I'm sorry. I've got none.",
+                "对不起，我没有。"
+            ],
+            [
+                "I haven't got any either.",
+                "我也没有。"
+            ],
+            [
+                "Can you change this ten-pound note, madam?",
+                "夫人，您能把这10英镑的钞票换开吗？"
+            ],
+            [
+                "I'm afraid I can't.",
+                "恐怕不能。"
+            ],
+            [
+                "Neither can I.",
+                "我也不能。"
+            ],
+            [
+                "I'm very sorry, sir.",
+                "非常抱歉，先生。"
+            ],
+            [
+                "You must get off the bus.",
+                "您必须下车。"
+            ],
+            [
+                "None of our passengers can change this note.",
+                "我们的乘客中没人能换开这张钞票。"
+            ],
+            [
+                "They're all millionaires!",
+                "他们都是百万富翁！"
+            ],
+            [
+                "Except us.",
+                "我们俩除外。"
+            ],
+            [
+                "I've got some small change.",
+                "我有零钱。"
+            ],
+            [
+                "So have I.",
+                "我也有。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "conductor",
+            "n.",
+            "售票员"
+        ],
+        [
+            "fare",
+            "n.",
+            "车费, 车票"
+        ],
+        [
+            "change",
+            "v.",
+            "兑换（钱）"
+        ],
+        [
+            "note",
+            "n.",
+            "纸币"
+        ],
+        [
+            "passenger",
+            "n.",
+            "乘客"
+        ],
+        [
+            "none",
+            "pron.",
+            "没有任何东西"
+        ],
+        [
+            "neither",
+            "adv.",
+            "也不"
+        ],
+        [
+            "get off",
+            "",
+            "下车"
+        ],
+        [
+            "tramp",
+            "n.",
+            "流浪汉"
+        ],
+        [
+            "except",
+            "prep.",
+            "除……外"
+        ]
+    ]
+}

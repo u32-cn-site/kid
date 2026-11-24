@@ -1,0 +1,29 @@
+{
+  "title": "填空题 - 多答案示例",
+  "questions": [
+    {
+      "type": "fill",
+      "content": "100 - 37 = ___",
+      "answer": ["63"]
+    },
+    {
+      "type": "fill",
+      "content": "一年有___个月",
+      "hint": "想想日历",
+      "answer": ["12", "十二"]
+    },
+    {
+      "type": "fill",
+      "content": {"type": "html", "innerHTML": "<p>周长公式：C = <s>___</s> × 直径</p>"},
+      "answer": ["π", "pi", "PI", "3.14", "圆周率"],
+      "record": {
+        "status": "correct",
+        "attempts": 2,
+        "attemptHistory": [
+          {"input": "3.14159", "correct": false, "startTime": 1714000100000, "endTime": 1714000108000},
+          {"input": "π", "correct": true, "startTime": 1714000110000, "endTime": 1714000115000}
+        ]
+      }
+    }
+  ]
+}

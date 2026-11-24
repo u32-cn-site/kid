@@ -1,0 +1,435 @@
+{
+    "lesson": 21,
+    "title": [
+        "What Shall We Do This Weekend?",
+        "这个周末我们做什么？"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Weekend is coming.",
+                "周末要到了。"
+            ],
+            [
+                "Billy had spent a boring week, so he wanted to invite his friend Jack to do something interesting over the weekend.",
+                "比利度过了无聊的一周，所以他想邀请他的朋友杰克在周末做些有趣的事。"
+            ],
+            [
+                "He gave a call to Jack.",
+                "他给杰克打了个电话。"
+            ],
+            [
+                "\"Hi! Jack!",
+                "「嗨！杰克！"
+            ],
+            [
+                "It's Billy.",
+                "我是比利。"
+            ],
+            [
+                "Are you doing anything over the weekend?",
+                "你周末有什么安排吗？"
+            ],
+            [
+                "Shall we go out to do something interesting?\" asked Billy.",
+                "我们出去做点有趣的事好吗？」比利问道。"
+            ],
+            [
+                "Jack received Billy's phone call happily and said, \"Thanks for your invitation!",
+                "杰克高兴地接到了比利的电话，说：「谢谢你的邀请！"
+            ],
+            [
+                "I would prefer to go out than do nothing at home.",
+                "我宁愿出去也不愿在家无所事事。"
+            ],
+            [
+                "Do you have any ideas?\"",
+                "你有什么主意吗？」"
+            ],
+            [
+                "Billy thought a moment and said, \"What about watching a film?",
+                "比利想了一会儿说：「看电影怎么样？"
+            ],
+            [
+                "There are many new awesome films coming out in the cinema.",
+                "电影院有很多很棒的新电影上映。"
+            ],
+            [
+                "I can't wait to watch them.",
+                "我迫不及待想看了。"
+            ],
+            [
+                "Let's go to the cinema tomorrow.\"",
+                "我们明天去电影院吧。」"
+            ],
+            [
+                "\"OK.\" answered Jack and added, \"In addition, perhaps we can go skating after watching a film, I suppose.",
+                "「好的。」杰克回答道，并补充说：「另外，我想也许我们看完电影可以去滑冰。"
+            ],
+            [
+                "Skating is wonderful in summertime, right?\"",
+                "夏天滑冰很棒，对吧？」"
+            ],
+            [
+                "Billy is not good at skating, so he answered, \"I really hope that I can enjoy it, but I'm worried about my skills.\"",
+                "比利不擅长滑冰，所以他回答说：「我真的希望我能喜欢，但我担心我的技术。」"
+            ],
+            [
+                "\"OK, never mind,\" said Jack and he offered another idea, \"Guess what, there will be a popular music party held by a musician at 7 p.m.",
+                "「好吧，没关系，」杰克说，他又提出了另一个主意，「你猜怎么着，晚上7点有一个音乐家举办的流行音乐派对。"
+            ],
+            [
+                "I suggest going there to enjoy the music after watching a film.\"",
+                "我建议看完电影后去那里享受音乐。」"
+            ],
+            [
+                "\"Oh, that's perfect.",
+                "「哦，那太好了。"
+            ],
+            [
+                "But I'm afraid we cannot go back too late.\" Billy spoke out his worry.",
+                "但我担心我们不能回去太晚。」比利说出了他的担忧。"
+            ],
+            [
+                "\"It won't.",
+                "「不会的。"
+            ],
+            [
+                "Just two hours.",
+                "就两个小时。"
+            ],
+            [
+                "We'd better carefully choose our favourite one from different films before going to the cinema,\" said Jack.",
+                "我们去电影院之前最好从不同的电影中仔细挑选出我们最喜欢的一部，」杰克说。"
+            ],
+            [
+                "\"Alright.\" Billy is good at riding and he added, \"I will pick you up at 3 p.m. with my small scooter.",
+                "「好的。」比利擅长骑车，他补充说：「我下午3点骑我的小滑板车去接你。"
+            ],
+            [
+                "By the way, don't forget to bring an umbrella because it will be rainy tomorrow.\"",
+                "顺便说一下，别忘了带伞，因为明天会下雨。」"
+            ],
+            [
+                "\"OK.",
+                "「好的。"
+            ],
+            [
+                "See you later!\" Jack said and hung up the telephone.",
+                "回头见！」杰克说完挂了电话。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "weekend",
+            "n.",
+            "周末"
+        ],
+        [
+            "boring",
+            "adj.",
+            "无聊的"
+        ],
+        [
+            "a boring book",
+            "",
+            "无聊的书"
+        ],
+        [
+            "week",
+            "n.",
+            "星期；一周"
+        ],
+        [
+            "want",
+            "v.",
+            "想要"
+        ],
+        [
+            "invite",
+            "v.",
+            "邀请"
+        ],
+        [
+            "shall",
+            "v.",
+            "可以；将要"
+        ],
+        [
+            "go out",
+            "",
+            "出去"
+        ],
+        [
+            "receive",
+            "v.",
+            "收到"
+        ],
+        [
+            "invitation",
+            "n.",
+            "邀请"
+        ],
+        [
+            "an invitation to the party",
+            "",
+            "参加晚会的请柬"
+        ],
+        [
+            "prefer",
+            "v.",
+            "更喜欢"
+        ],
+        [
+            "would prefer",
+            "",
+            "宁愿；更喜欢"
+        ],
+        [
+            "nothing",
+            "pron.",
+            "没有什么；无关紧要的事"
+        ],
+        [
+            "idea",
+            "n.",
+            "想法，主意"
+        ],
+        [
+            "what about",
+            "",
+            "怎么样"
+        ],
+        [
+            "how about",
+            "",
+            "怎么样"
+        ],
+        [
+            "film",
+            "n.",
+            "电影"
+        ],
+        [
+            "watch a film",
+            "",
+            "看电影"
+        ],
+        [
+            "new",
+            "adj.",
+            "新的"
+        ],
+        [
+            "awesome",
+            "adj.",
+            "极好的；令人惊叹的"
+        ],
+        [
+            "wait",
+            "v.",
+            "等待"
+        ],
+        [
+            "Wait for me!",
+            "",
+            "等等我！"
+        ],
+        [
+            "tomorrow",
+            "n.",
+            "明天"
+        ],
+        [
+            "perhaps",
+            "adv.",
+            "也许，或许"
+        ],
+        [
+            "suppose",
+            "v.",
+            "认为"
+        ],
+        [
+            "wonderful",
+            "adj.",
+            "极好的"
+        ],
+        [
+            "would",
+            "v.",
+            "将要（will的过去式）；想要"
+        ],
+        [
+            "really",
+            "adv.",
+            "真正地，真实地"
+        ],
+        [
+            "hope",
+            "v.",
+            "希望"
+        ],
+        [
+            "enjoy",
+            "v.",
+            "享受；喜爱"
+        ],
+        [
+            "enjoy doing sth",
+            "",
+            "喜欢做某事"
+        ],
+        [
+            "worried",
+            "adj.",
+            "担心的；担忧的"
+        ],
+        [
+            "be worried about",
+            "",
+            "担心……"
+        ],
+        [
+            "mind",
+            "v.",
+            "介意"
+        ],
+        [
+            "mind",
+            "n.",
+            "头脑"
+        ],
+        [
+            "never mind",
+            "",
+            "没关系"
+        ],
+        [
+            "guess",
+            "v.",
+            "猜测"
+        ],
+        [
+            "Guess what?",
+            "",
+            "你猜怎么回事？"
+        ],
+        [
+            "popular",
+            "adj.",
+            "受欢迎的；流行的"
+        ],
+        [
+            "party",
+            "n.",
+            "聚会；派对"
+        ],
+        [
+            "a birthday party",
+            "",
+            "生日聚会"
+        ],
+        [
+            "suggest",
+            "v.",
+            "建议"
+        ],
+        [
+            "suggest doing sth",
+            "",
+            "建议做某事"
+        ],
+        [
+            "perfect",
+            "adj.",
+            "完美的"
+        ],
+        [
+            "afraid",
+            "adj.",
+            "害怕的，担心的"
+        ],
+        [
+            "be afraid of",
+            "",
+            "害怕；担心"
+        ],
+        [
+            "worry",
+            "v. & n.",
+            "担心；担忧"
+        ],
+        [
+            "Don't worry about me.",
+            "",
+            "别为我担心。"
+        ],
+        [
+            "carefully",
+            "adv.",
+            "仔细地；认真地"
+        ],
+        [
+            "careful",
+            "adj.",
+            "小心的；谨慎的"
+        ],
+        [
+            "different",
+            "adj.",
+            "不同的"
+        ],
+        [
+            "be different from",
+            "",
+            "与……不同"
+        ],
+        [
+            "pick up",
+            "",
+            "（开车）接；拾起"
+        ],
+        [
+            "I'll pick you up at five.",
+            "",
+            "我5点开车来接你。"
+        ],
+        [
+            "scooter",
+            "n.",
+            "小型摩托车"
+        ],
+        [
+            "by the way",
+            "",
+            "顺便说一下"
+        ],
+        [
+            "bring",
+            "v.",
+            "拿来，带来"
+        ],
+        [
+            "bring sth for sb = bring sb sth",
+            "",
+            "给某人带来某物"
+        ],
+        [
+            "because",
+            "conj.",
+            "因为"
+        ],
+        [
+            "later",
+            "adv.",
+            "以后，后来"
+        ],
+        [
+            "See you later.",
+            "",
+            "回头见。"
+        ]
+    ]
+}

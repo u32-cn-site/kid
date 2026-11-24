@@ -1,0 +1,265 @@
+:root{
+  --paper:#f7f1e6;
+  --paper-card:#fffdf8;
+  --ink:#2c2620;
+  --ink-soft:#6b6157;
+  --accent:#9a3b2e;        /* 朱砂 */
+  --accent-soft:#c8604f;
+  --blue:#2f6db3;          /* 主操作蓝 */
+  --line:#e4d9c6;
+  --shadow:0 2px 10px rgba(80,60,30,.10);
+  --shadow-lift:0 5px 18px rgba(80,60,30,.16);
+  --radius:14px;
+  --radius-s:8px;          /* 统一小圆角制：句块/按钮 */
+  --kai:'LXGW WenKai Screen','Kaiti SC','STKaiti','KaiTi','楷体','楷体_GB2312','Noto Serif SC',serif;
+  /* 选中态/遮挡专用 token（消除组件裸色值） */
+  --active-bg:rgba(154,59,46,.08);   /* 选中态朱砂浅底 */
+  --mask-sand:rgba(234,228,215,.94); /* 遮挡磨砂底 */
+  --mask-line:rgba(178,166,143,.6);  /* 遮挡描边 */
+  --peek-bg:#fff7df;                 /* 偷看高亮底 */
+  --peek-line:#e0cf9a;               /* 偷看高亮描边 */
+  --frame-line:rgba(154,59,46,.13);  /* 卡片裱装内线 */
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+html,body{margin:0;padding:0;}
+body{
+  font-family:"Noto Serif SC","Songti SC","STSong","SimSun",serif;
+  background:var(--paper);
+  color:var(--ink);
+  line-height:1.7;
+  padding-bottom:env(safe-area-inset-bottom);
+}
+/* 宣纸噪点肌理（内联 SVG，零外部资源） */
+body::before{
+  content:"";position:fixed;inset:0;z-index:0;pointer-events:none;
+  opacity:.04;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+header,nav,.toolbar,main,.app-footer{position:relative;z-index:1;}
+button{font-family:inherit;cursor:pointer;}
+button,.chip,.poem-clause{touch-action:manipulation;}
+:focus-visible{outline:2px solid var(--blue);outline-offset:2px;}
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{transition:none!important;animation:none!important;}
+}
+
+/* ===== 头部 ===== */
+.app-header{
+  position:sticky;top:0;z-index:30;
+  background:linear-gradient(180deg,#8c362a,#a44636);
+  color:#fff;box-shadow:var(--shadow);
+}
+.header-inner{
+  max-width:860px;margin:0 auto;padding:12px 16px;
+  display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;
+}
+.site-title{
+  margin:0;font-size:21px;letter-spacing:3px;font-weight:700;
+  font-family:var(--kai);
+  display:flex;align-items:center;
+}
+/* 朱砂印章（全页唯一签名件） */
+.seal{
+  display:inline-flex;align-items:center;justify-content:center;
+  width:30px;height:30px;margin-right:9px;border-radius:5px;
+  background:var(--accent);color:#fff;
+  font-size:17px;font-weight:700;letter-spacing:0;
+  transform:rotate(-4deg);
+  box-shadow:inset 0 0 0 1.5px rgba(255,255,255,.35),0 1px 3px rgba(0,0,0,.25);
+}
+.mode-switch{display:flex;background:rgba(0,0,0,.18);border-radius:999px;padding:3px;}
+.mode-btn{
+  border:0;background:transparent;color:rgba(255,255,255,.85);
+  padding:9px 16px;border-radius:999px;font-size:14px;transition:background .2s,color .2s;white-space:nowrap;
+  min-height:40px;
+}
+.mode-btn.active{background:#fff;color:var(--accent);font-weight:700;}
+
+/* ===== 分类 tabs ===== */
+.cat-tabs{
+  position:sticky;top:56px;z-index:20;
+  display:flex;gap:8px;max-width:860px;margin:0 auto;padding:10px 16px 4px;
+  background:var(--paper);
+}
+.cat-btn{
+  flex:1;border:1px solid var(--line);background:var(--paper-card);
+  color:var(--ink-soft);padding:10px 4px;border-radius:var(--radius-s);font-size:15px;
+  transition:background .15s,border-color .15s,color .15s;min-height:44px;
+}
+.cat-btn.active{background:var(--active-bg);border-color:var(--accent);color:var(--accent);font-weight:700;}
+
+/* ===== 工具栏 ===== */
+.toolbar{max-width:860px;margin:0 auto;padding:6px 16px 10px;}
+.search-box input{
+  width:100%;padding:10px 14px;font-size:16px;font-family:inherit;   /* 16px 防 iOS 聚焦缩放 */
+  border:1px solid var(--line);border-radius:var(--radius-s);background:var(--paper-card);color:var(--ink);
+}
+.search-box input:focus{outline:2px solid var(--blue);outline-offset:0;}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 4px;}
+.chip{
+  border:1px solid var(--line);background:var(--paper-card);color:var(--ink-soft);
+  padding:6px 13px;border-radius:999px;font-size:13px;min-height:32px;
+  transition:background .15s,border-color .15s,color .15s;
+}
+.chip.active{background:var(--active-bg);border-color:var(--accent);color:var(--accent);font-weight:600;}
+.filter-row{display:flex;align-items:center;flex-wrap:wrap;gap:12px;margin-top:8px;font-size:14px;}
+.filter-row .spacer{flex:1;}
+.check{display:inline-flex;align-items:center;gap:5px;color:var(--ink-soft);user-select:none;}
+.check input{accent-color:var(--blue);width:16px;height:16px;}
+.mini-btn{
+  border:1px solid var(--blue);background:#fff;color:var(--blue);
+  border-radius:var(--radius-s);padding:7px 14px;font-size:13px;min-height:34px;
+}
+.mini-btn:active{background:var(--blue);color:#fff;}
+.count{color:var(--ink-soft);font-size:13px;font-variant-numeric:tabular-nums;}
+
+/* ===== 诗词卡片（外壳+内芯裱装） ===== */
+.poem-list{max-width:860px;margin:0 auto;padding:8px 16px 40px;display:flex;flex-direction:column;gap:16px;}
+.poem-card{
+  background:var(--paper-card);border:1px solid var(--line);border-radius:var(--radius);
+  box-shadow:var(--shadow);padding:18px 20px;position:relative;
+  transition:box-shadow .2s,transform .2s,border-color .2s;
+}
+/* 中式裱装：朱砂淡内线 */
+.poem-card::before{
+  content:"";position:absolute;inset:5px;border:1px solid var(--frame-line);
+  border-radius:10px;pointer-events:none;
+}
+@media (hover:hover){
+  .poem-card:hover{box-shadow:var(--shadow-lift);transform:translateY(-1px);}
+}
+.poem-head{display:flex;align-items:flex-start;gap:10px;}
+.poem-title{font-size:20px;font-weight:700;margin:0;color:var(--ink);font-family:var(--kai);letter-spacing:.5px;}
+.poem-meta{color:var(--ink-soft);font-size:14px;margin-top:2px;}
+.badge{
+  display:inline-block;font-size:12px;padding:1px 8px;border-radius:6px;margin-left:6px;
+  vertical-align:middle;font-weight:600;
+}
+.badge-must{background:#e7f0fb;color:var(--blue);border:1px solid #c4daf3;}
+.badge-none{background:#f3ede2;color:var(--ink-soft);border:1px solid var(--line);}
+.badge-read{background:#fdece7;color:var(--accent);border:1px solid #f3cdc4;}
+.poem-actions{margin-left:auto;display:flex;gap:8px;align-items:center;flex-shrink:0;}
+.icon-btn{
+  border:1px solid var(--line);background:#fff;border-radius:var(--radius-s);
+  padding:7px 12px;font-size:13px;color:var(--ink-soft);min-height:34px;
+}
+.icon-btn.done{background:var(--blue);border-color:var(--blue);color:#fff;font-weight:600;}
+.hint-toggle{
+  border:0;background:none;color:var(--blue);font-size:13px;padding:2px 0;
+  text-decoration:underline;text-underline-offset:3px;
+}
+
+.poem-body{
+  margin:10px 0 2px;
+  font-family:var(--kai);
+  font-size:21px;line-height:1.8;
+}
+.poem-line{display:block;padding:1px 0;}
+.poem-clause{
+  display:inline-block;
+  padding:4px 8px;margin:2px 1px;
+  border:1px solid transparent;border-radius:var(--radius-s);   /* 透明边框占位，保证两种模式几何一致 */
+  transition:background .12s,border-color .12s;
+  cursor:pointer;user-select:none;-webkit-user-select:none;    /* 阅读悬停看拼音、背诵按住偷看，禁选中防误触 */
+}
+.poem-note{
+  margin-top:10px;font-size:14px;color:var(--accent);
+  border-left:3px solid var(--accent-soft);padding:2px 10px;background:#fdf6f4;border-radius:0 8px 8px 0;
+}
+.poem-extra{margin-top:12px;font-size:14px;color:var(--ink-soft);}
+.poem-extra .label{color:var(--accent);font-weight:600;}
+.poem-story{
+  background:#f3ede2;border-radius:10px;padding:10px 12px;margin-top:8px;color:var(--ink);
+}
+.poem-imgs{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px;}
+.poem-imgs figure{margin:0;}
+.poem-imgs img{
+  max-width:100%;width:200px;border:1px solid var(--line);border-radius:8px;
+  cursor:zoom-in;display:block;background:#fff;
+}
+.poem-imgs figcaption{font-size:12px;color:var(--ink-soft);margin-top:3px;text-align:center;}
+
+/* ===== 背诵模式：逐句遮挡。块身边缘清晰，仅文字模糊至不可辨认 ===== */
+body.recite .poem-clause{
+  cursor:pointer;user-select:none;position:relative;
+  color:var(--ink);
+  background:var(--mask-sand);                       /* 磨砂实底 */
+  border-color:var(--mask-line);                    /* 清晰描边（边框已由通用规则占位） */
+  overflow:hidden;                                  /* 墨晕不溢出块外，边缘干净 */
+}
+body.recite .poem-clause .clause-text{
+  display:inline-block;
+  filter:blur(5.5px);-webkit-filter:blur(5.5px);    /* 只糊文字，字形不可辨认 */
+}
+body.recite .poem-clause.peek{
+  background:var(--peek-bg);border-color:var(--peek-line);
+}
+body.recite .poem-clause.peek .clause-text{
+  filter:none;-webkit-filter:none;
+}
+/* ===== 阅读模式：单字拼音气泡 ===== */
+.pinyin-tip{
+  position:fixed;z-index:60;
+  padding:2px 11px;
+  background:var(--paper-card);
+  border:1px solid var(--line);
+  border-radius:999px;
+  box-shadow:var(--shadow-lift);
+  color:var(--blue);
+  font-size:15px;
+  font-weight:600;
+  letter-spacing:.03em;
+  line-height:1.6;
+  white-space:nowrap;
+  pointer-events:none;      /* 纯视觉：绝不成为指针目标 */
+}
+.pinyin-tip[hidden]{display:none;}
+
+/* ===== 逐字元素：悬停高亮指示光标所在字 ===== */
+.cz{
+  font-style:normal;        /* <i> 默认斜体，恢复正体 */
+  border-radius:4px;
+}
+.cz:hover{
+  background:var(--peek-bg);
+  box-shadow:inset 0 0 0 1px var(--peek-line);
+}
+/* 配图/速记法/记忆故事：默认收起，两种模式一致，点卡片「提示」展开 */
+.poem-imgs,
+.poem-extra .hide-in-recite{display:none;}
+.poem-card.show-hint .poem-imgs{display:flex;}
+.poem-card.show-hint .poem-extra .hide-in-recite{display:block;}
+.poem-card.is-done{border-color:#bcd6f2;}
+.poem-card.is-done .poem-title::after{content:"";}
+
+.empty{text-align:center;color:var(--ink-soft);padding:50px 0;font-size:15px;}
+
+/* ===== 灯箱 ===== */
+.lightbox{
+  position:fixed;inset:0;z-index:50;background:rgba(20,16,12,.9);
+  display:flex;align-items:center;justify-content:center;padding:24px;
+}
+.lightbox[hidden]{display:none;}
+.lightbox img{max-width:100%;max-height:100%;border-radius:8px;}
+.lightbox-close{
+  position:absolute;top:14px;right:18px;width:42px;height:42px;border-radius:50%;
+  border:0;background:rgba(255,255,255,.15);color:#fff;font-size:26px;line-height:1;
+}
+
+.app-footer{
+  text-align:center;color:var(--ink-soft);font-size:13px;padding:18px 16px 40px;
+  border-top:1px solid var(--line);max-width:860px;margin:0 auto;
+}
+
+/* ===== 响应式 ===== */
+@media (min-width:640px){
+  .poem-list{display:grid;grid-template-columns:1fr 1fr;align-items:start;}
+  .poem-body{font-size:23px;}
+}
+@media (max-width:480px){
+  .site-title{font-size:19px;}
+  .seal{width:27px;height:27px;font-size:15px;}
+  .mode-btn{padding:8px 11px;font-size:13px;}
+  .poem-body{font-size:21px;}
+  .poem-imgs img{width:140px;}
+}

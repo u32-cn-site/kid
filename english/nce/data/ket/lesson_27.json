@@ -1,0 +1,506 @@
+{
+    "lesson": 28,
+    "title": [
+        "Professor Miller's Advice on Friendship",
+        "米勒教授关于友谊的建议"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Friendship is very important, but it's also among the most difficult relationships to make and keep in our life.",
+                "友谊非常重要，但它也是我们生活中最难建立和维持的关系之一。"
+            ],
+            [
+                "How to be a good friend?",
+                "如何成为一个好朋友？"
+            ],
+            [
+                "Be respectful.",
+                "要有礼貌。"
+            ],
+            [
+                "If your friends said something you don't agree with, don't argue with them or shout at them.",
+                "如果你的朋友说了一些你不同意的话，不要和他们争论或对他们大喊大叫。"
+            ],
+            [
+                "If you show your respect, they will tell you the reasons why they feel that way and discuss a new point with you.",
+                "如果你表现出尊重，他们会告诉你他们那样想的原因，并和你讨论一个新观点。"
+            ],
+            [
+                "Be kind.",
+                "要友善。"
+            ],
+            [
+                "If your friends happen to do something wrong, choose your words carefully to explain and do not let them have a deep sense of shame.",
+                "如果你的朋友碰巧做错了什么，要仔细斟酌用词来解释，并且不要让他们有深深的羞耻感。"
+            ],
+            [
+                "If they apologised, excuse their mistakes.",
+                "如果他们道歉了，就原谅他们的错误。"
+            ],
+            [
+                "Give each other some space.",
+                "给彼此一些空间。"
+            ],
+            [
+                "Your best friends cannot always be in company with you.",
+                "你最好的朋友不能总是陪着你。"
+            ],
+            [
+                "Sometimes they also need other friends.",
+                "有时他们也需要其他朋友。"
+            ],
+            [
+                "So learn to go out alone or make a date with other friends.",
+                "所以要学会独自外出或和其他朋友约会。"
+            ],
+            [
+                "How to make new friends?",
+                "如何结交新朋友？"
+            ],
+            [
+                "Smile more; laugh more.",
+                "多微笑；多欢笑。"
+            ],
+            [
+                "Smiles and laughter tell people that you're friendly and easy-going.",
+                "微笑和欢笑会告诉人们你很友好且随和。"
+            ],
+            [
+                "Be open-minded.",
+                "要思想开放。"
+            ],
+            [
+                "It's easier to make friends with similar interests in the class or the same department.",
+                "在班级或同一部门里，与有相似兴趣的人交朋友更容易。"
+            ],
+            [
+                "However, isn't it more interesting to have friends from online chatrooms or different departments?",
+                "然而，有来自网络聊天室或不同部门的朋友不是更有趣吗？"
+            ],
+            [
+                "How to keep old friends?",
+                "如何维系老朋友？"
+            ],
+            [
+                "Keep in touch.",
+                "保持联系。"
+            ],
+            [
+                "It's easy to know your friends' latest news through modern technologies.",
+                "通过现代技术很容易了解你朋友的最新消息。"
+            ],
+            [
+                "A quick note with a few words, a greeting with emoji or sharing a funny picture on social media show that you still care about them, and you want to continue your relationship.",
+                "一条简短的几句话的便条，一个带有表情符号的问候或在社交媒体上分享一张有趣的图片，都表明你仍然关心他们，并且你想继续你们的关系。"
+            ],
+            [
+                "It's also nice to write a congratulation postcard or prepare a present like puzzles for them on special days as a symbol of your long-lasting friendship!",
+                "在特殊日子写一张祝贺明信片或者为他们准备一份像拼图这样的礼物作为你们长久友谊的象征也很好！"
+            ],
+            [
+                "Go with the flow.",
+                "顺其自然。"
+            ],
+            [
+                "You might feel lost when you cannot see your friends very often.",
+                "当你不能经常见到你的朋友时，你可能会感到失落。"
+            ],
+            [
+                "However, distance doesn't make real differences to them.",
+                "然而，距离并不会对他们产生真正的影响。"
+            ],
+            [
+                "They're still the same as before, and your friendship won't end.",
+                "他们还是和以前一样，你们的友谊不会结束。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "among",
+            "prep.",
+            "在（三者或以上）中"
+        ],
+        [
+            "Bees buzzed lazily among the flowers.",
+            "",
+            "蜜蜂在花丛中懒洋洋地嗡嗡鸣叫着。"
+        ],
+        [
+            "agree",
+            "v.",
+            "同意，赞成"
+        ],
+        [
+            "agree with sb",
+            "",
+            "同意某人的意见"
+        ],
+        [
+            "I couldn't agree more.",
+            "",
+            "我完全同意。"
+        ],
+        [
+            "argue",
+            "v.",
+            "争论，争辩"
+        ],
+        [
+            "My brothers are always arguing.",
+            "",
+            "我的兄弟们总是争论不休。"
+        ],
+        [
+            "shout",
+            "v.",
+            "喊叫；大声说"
+        ],
+        [
+            "shout at sb",
+            "",
+            "对某人大声喊叫"
+        ],
+        [
+            "Stop shouting and listen!",
+            "",
+            "别嚷了，听着!"
+        ],
+        [
+            "reason",
+            "n.",
+            "理由；原因"
+        ],
+        [
+            "for some reason",
+            "",
+            "出于某种原因"
+        ],
+        [
+            "discuss",
+            "v.",
+            "讨论"
+        ],
+        [
+            "discuss sth with sb",
+            "",
+            "和某人讨论某事"
+        ],
+        [
+            "happen",
+            "v.",
+            "（偶然）发生；碰巧"
+        ],
+        [
+            "happen to",
+            "",
+            "碰巧"
+        ],
+        [
+            "Accidents like this happen all the time.",
+            "",
+            "此类事故一直在发生。"
+        ],
+        [
+            "choose",
+            "v.",
+            "选择（过去式 chose；过去分词 chosen）"
+        ],
+        [
+            "We chose to go by train.",
+            "",
+            "我们选择乘火车去。"
+        ],
+        [
+            "explain",
+            "v.",
+            "说明；解释"
+        ],
+        [
+            "explain the reason why...",
+            "",
+            "解释……的原因"
+        ],
+        [
+            "shame",
+            "n.",
+            "羞耻，羞愧"
+        ],
+        [
+            "She felt a deep sense of shame.",
+            "",
+            "她深感羞耻。"
+        ],
+        [
+            "excuse",
+            "v.",
+            "原谅；宽恕"
+        ],
+        [
+            "excuse me",
+            "",
+            "劳驾，请原谅"
+        ],
+        [
+            "Please excuse the mess.",
+            "",
+            "这里凌乱不堪，请见谅。"
+        ],
+        [
+            "company",
+            "n.",
+            "公司；陪伴"
+        ],
+        [
+            "I enjoy Joe's company.",
+            "",
+            "我喜欢和乔在一起。"
+        ],
+        [
+            "alone",
+            "adj.",
+            "独自的"
+        ],
+        [
+            "alone",
+            "adv.",
+            "独自地"
+        ],
+        [
+            "It was her first experience of living alone.",
+            "",
+            "那是她第一次独自生活。"
+        ],
+        [
+            "laugh",
+            "v.",
+            "笑"
+        ],
+        [
+            "laugh at",
+            "",
+            "嘲笑"
+        ],
+        [
+            "department",
+            "n.",
+            "（大学的）系；部门"
+        ],
+        [
+            "a government department",
+            "",
+            "政府部门"
+        ],
+        [
+            "chatroom",
+            "n.",
+            "聊天室"
+        ],
+        [
+            "chatroom",
+            "",
+            "chat（聊天）+room（房间）"
+        ],
+        [
+            "news",
+            "n.",
+            "新闻；消息"
+        ],
+        [
+            "What's the latest news?",
+            "",
+            "有什么最新消息吗？"
+        ],
+        [
+            "modern",
+            "adj.",
+            "现代的"
+        ],
+        [
+            "modern technology",
+            "",
+            "现代科技"
+        ],
+        [
+            "quick",
+            "adj.",
+            "快的；迅速的"
+        ],
+        [
+            "It's quicker by train.",
+            "",
+            "坐火车更快。"
+        ],
+        [
+            "word",
+            "n.",
+            "单词"
+        ],
+        [
+            "Do not write more than 100 words.",
+            "",
+            "写的东西不要超过100词。"
+        ],
+        [
+            "emoji",
+            "n.",
+            "表情符号"
+        ],
+        [
+            "funny",
+            "adj.",
+            "有趣的；滑稽的"
+        ],
+        [
+            "a funny story",
+            "",
+            "滑稽的故事"
+        ],
+        [
+            "media",
+            "n.",
+            "媒体"
+        ],
+        [
+            "social media",
+            "",
+            "社交媒体"
+        ],
+        [
+            "still",
+            "adv.",
+            "仍然；还"
+        ],
+        [
+            "Mum, I'm still hungry!",
+            "",
+            "妈妈，我还饿!"
+        ],
+        [
+            "continue",
+            "v.",
+            "继续，延续"
+        ],
+        [
+            "The rain continued all afternoon.",
+            "",
+            "这场雨连续下了整整一下午。"
+        ],
+        [
+            "also",
+            "adv.",
+            "也；而且"
+        ],
+        [
+            "congratulation",
+            "n.",
+            "祝贺；贺词"
+        ],
+        [
+            "Congratulations on your exam results!",
+            "",
+            "祝贺你考出了好成绩!"
+        ],
+        [
+            "postcard",
+            "n.",
+            "明信片"
+        ],
+        [
+            "postcard",
+            "",
+            "post（邮寄）+card（卡片）"
+        ],
+        [
+            "Send us a postcard from Venice!",
+            "",
+            "从威尼斯给我们寄张明信片!"
+        ],
+        [
+            "prepare",
+            "v.",
+            "准备"
+        ],
+        [
+            "prepare for",
+            "",
+            "为……准备"
+        ],
+        [
+            "present",
+            "n.",
+            "礼物"
+        ],
+        [
+            "present",
+            "adj.",
+            "当前的"
+        ],
+        [
+            "birthday presents",
+            "",
+            "生日礼物"
+        ],
+        [
+            "puzzle",
+            "n.",
+            "谜；智力游戏"
+        ],
+        [
+            "a crossword puzzle",
+            "",
+            "纵横字谜"
+        ],
+        [
+            "symbol",
+            "n.",
+            "象征；符号"
+        ],
+        [
+            "The dove is a universal symbol of peace.",
+            "",
+            "鸽子是和平的普遍象征。"
+        ],
+        [
+            "lost",
+            "adj.",
+            "迷路的；丢失的；迷惘的"
+        ],
+        [
+            "We would be lost without your help.",
+            "",
+            "没有你的帮助，我们会迷路的。"
+        ],
+        [
+            "real",
+            "adj.",
+            "实际的；真实的"
+        ],
+        [
+            "difference",
+            "n.",
+            "差异；不同"
+        ],
+        [
+            "I can never tell the differences between the twins.",
+            "",
+            "我从来都分不清这对双胞胎。"
+        ],
+        [
+            "end",
+            "v. & n.",
+            "结束"
+        ],
+        [
+            "come to an end",
+            "",
+            "结束"
+        ],
+        [
+            "at the end of the week",
+            "",
+            "在周末"
+        ]
+    ]
+}

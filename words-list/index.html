@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#8c362a">
+<title>词语表 · 阅读与背诵</title>
+<meta name="description" content="小学语文课本词语表，阅读与遮挡背诵双模式，拼音始终可见，支持离线使用。">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="词语表">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="fonts/lxgwwenkaiscreen.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="app-header" data-u32-name="header">
+  <div class="header-inner" data-u32-name="header-inner">
+    <h1 class="site-title" data-u32-name="site-title"><span class="seal" data-u32-name="seal" aria-hidden="true">词</span>词语表</h1>
+    <div class="mode-switch" data-u32-name="mode-switch" role="tablist" aria-label="模式切换">
+      <button class="mode-btn active" data-mode="read" role="tab" aria-selected="true" data-u32-name="mode-read">📖 阅读模式</button>
+      <button class="mode-btn" data-mode="recite" role="tab" aria-selected="false" data-u32-name="mode-recite">✍️ 背诵模式</button>
+    </div>
+  </div>
+</header>
+
+<nav class="cat-tabs" data-u32-name="cat-tabs" role="tablist" aria-label="课标版本">
+  <button class="cat-btn active" data-cat="2022" data-u32-name="cat-2022">2022课标修订版</button>
+  <button class="cat-btn" data-cat="2011" data-u32-name="cat-2011">2011课标版</button>
+</nav>
+
+<div class="toolbar" data-u32-name="toolbar">
+  <div class="chips" id="bookChips" data-u32-name="book-chips" role="group" aria-label="册次选择"></div>
+  <div class="search-box" data-u32-name="search-box">
+    <input type="search" id="searchInput" placeholder="搜索词语 / 拼音…" aria-label="搜索" data-u32-name="search-input">
+  </div>
+  <div class="filter-row" data-u32-name="filter-row">
+    <label class="check" data-u32-name="filter-mem"><input type="checkbox" id="memOnly"> 仅看未掌握</label>
+    <label class="check" data-u32-name="filter-star"><input type="checkbox" id="starOnly"> ⭐ 只看重点</label>
+    <span class="spacer" data-u32-name="filter-spacer"></span>
+    <span class="count" id="countLabel" data-u32-name="count-label"></span>
+  </div>
+</div>
+
+<main class="lesson-list" id="lessonList" data-u32-name="lesson-list" aria-live="polite"></main>
+
+<div class="stroke-pop" id="strokePop" data-u32-name="stroke-pop" hidden>
+  <div class="stroke-card" data-u32-name="stroke-card">
+    <button class="stroke-close" id="strokeClose" aria-label="关闭" data-u32-name="stroke-close">×</button>
+    <div class="stroke-title" data-u32-name="stroke-title">
+      <span class="stroke-char" id="strokeChar" data-u32-name="stroke-char">字</span>
+      <span class="stroke-py" id="strokePy" data-u32-name="stroke-py"></span>
+    </div>
+    <div class="stroke-stage" id="strokeStage" data-u32-name="stroke-stage">
+      <svg class="stroke-grid" id="strokeGrid" data-u32-name="stroke-grid" aria-hidden="true"></svg>
+      <div class="stroke-writer" id="writer" data-u32-name="stroke-writer"></div>
+      <div class="stroke-loading" id="strokeLoading" data-u32-name="stroke-loading" hidden>笔顺加载中…</div>
+      <div class="stroke-error" id="strokeError" data-u32-name="stroke-error" hidden>暂无「<span id="strokeErrChar"></span>」的笔顺数据</div>
+    </div>
+    <div class="stroke-tip" data-u32-name="stroke-tip">笔顺循环播放 · 点我跟着写 · 点击空白处关闭</div>
+  </div>
+</div>
+
+<footer class="app-footer" data-u32-name="footer">
+  <span data-u32-name="footer-text">共 <b id="totalCount">0</b> 册 · <b id="totalWords">0</b> 词 · 数据来源「统编版小学语文课本」书末词语表</span><br>
+  <span data-u32-name="footer-tip">📖 阅读模式：点击词语中的字可看笔顺动画 · ✍️ 背诵模式：按住词语偷看 · ⭐ 点击拼音标记重点词</span>
+</footer>
+
+<script src="hanzi-writer.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

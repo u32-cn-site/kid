@@ -1,0 +1,152 @@
+{
+    "lesson": 99,
+    "title": [
+        "Owl!",
+        "啊哟！"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Ow!",
+                "啊哟！"
+            ],
+            [
+                "What's the matter, Andy?",
+                "怎么了，安迪？"
+            ],
+            [
+                "I slipped and fell downstairs.",
+                "我滑了一跤，从楼梯上摔下来了。"
+            ],
+            [
+                "Have you hurt yourself?",
+                "你摔伤了没有？"
+            ],
+            [
+                "Yes, I have.",
+                "是啊，摔伤了。"
+            ],
+            [
+                "I think that I've hurt my back.",
+                "我想我把背摔坏了。"
+            ],
+            [
+                "Try and stand up.",
+                "试试站起来。"
+            ],
+            [
+                "Can you stand up?",
+                "你能站起来吗？"
+            ],
+            [
+                "Here.",
+                "来。"
+            ],
+            [
+                "Let me help you.",
+                "让我帮你。"
+            ],
+            [
+                "I'm sorry, Lucy.",
+                "对不起，露西。"
+            ],
+            [
+                "I'm afraid that I can't get up.",
+                "恐怕我站不起来。"
+            ],
+            [
+                "I think that the doctor had better see you.",
+                "我想最好请医生来给你看一下。"
+            ],
+            [
+                "I'll phone Dr. Carter.",
+                "我去给卡特医生打电话。"
+            ],
+            [
+                "The doctor says that he will come at once.",
+                "医生说他马上就来。"
+            ],
+            [
+                "I'm sure that you need an X-ray, Andy.",
+                "我看你需要做一次X光透视。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "ow",
+            "int.",
+            "哎哟"
+        ],
+        [
+            "slip",
+            "v.",
+            "滑倒，滑了一脚"
+        ],
+        [
+            "fall",
+            "v.",
+            "落下，跌倒"
+        ],
+        [
+            "fell",
+            "v.",
+            "落下，跌倒(fall的过去式)"
+        ],
+        [
+            "fallen",
+            "v.",
+            "落下，跌倒(fall的过去分词)"
+        ],
+        [
+            "downstairs",
+            "adv.",
+            "下楼"
+        ],
+        [
+            "hurt",
+            "v.",
+            "伤，伤害，疼痛"
+        ],
+        [
+            "hurt",
+            "v.",
+            "伤，伤害，疼痛(hurt的过去式)"
+        ],
+        [
+            "hurt",
+            "v.",
+            "伤，伤害，疼痛(hurt的过去分词)"
+        ],
+        [
+            "back",
+            "n.",
+            "背"
+        ],
+        [
+            "stand up",
+            "",
+            "起立，站起来"
+        ],
+        [
+            "help",
+            "v.",
+            "帮助"
+        ],
+        [
+            "at once",
+            "",
+            "立即"
+        ],
+        [
+            "sure",
+            "adj.",
+            "一定的，确信的"
+        ],
+        [
+            "X-ray",
+            "n.",
+            "X光透视"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "lesson": 7,
+    "title": ["Unit 7", "第七单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["knife", "n.", "刀"],
+        ["I cut with a knife.", "", "我用刀切东西。"],
+        ["knee", "n.", "膝盖"],
+        ["I hurt my knee.", "", "我膝盖受伤了。"],
+        ["write", "v.", "写"],
+        ["I write a letter.", "", "我写一封信。"],
+        ["wrong", "adj.", "错误的"],
+        ["That answer is wrong.", "", "那个答案是错的。"],
+        ["lamb", "n.", "羔羊"],
+        ["The lamb is soft.", "", "小羊很柔软。"],
+        ["comb", "n.", "梳子"],
+        ["I comb my hair.", "", "我梳头发。"],
+        ["glove", "n.", "手套"],
+        ["I wear gloves in winter.", "", "冬天我戴手套。"],
+        ["live", "v.", "居住"],
+        ["I live in a house.", "", "我住在房子里。"],
+        ["rhino", "n.", "犀牛"],
+        ["The rhino is big.", "", "犀牛很大。"],
+        ["rhubarb", "n.", "大黄"],
+        ["Rhubarb is a plant.", "", "大黄是一种植物。"],
+        ["whistle", "n.", "哨子"],
+        ["The referee blows the whistle.", "", "裁判吹哨子。"],
+        ["castle", "n.", "城堡"],
+        ["The princess lives in a castle.", "", "公主住在城堡里。"]
+    ]
+}

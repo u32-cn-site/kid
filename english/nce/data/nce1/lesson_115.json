@@ -1,0 +1,127 @@
+{
+    "lesson": 115,
+    "title": [
+        "Knock, knock!",
+        "敲敲门！"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Isn't there anyone at home?",
+                "家里没有人吗？"
+            ],
+            [
+                "I'll knock again, Helen.",
+                "海伦，我再敲一次。"
+            ],
+            [
+                "Everything's very quiet.",
+                "毫无动静。"
+            ],
+            [
+                "I'm sure there's no one at home.",
+                "肯定家里没有人。"
+            ],
+            [
+                "But that's impossible. Carol and Tom invited us to lunch. Look through the window.",
+                "但这是不可能的。卡罗尔和汤姆请我们来吃午饭。从窗子往里看看。"
+            ],
+            [
+                "Can you see anything?",
+                "你能看见什么吗？"
+            ],
+            [
+                "Nothing at all.",
+                "什么也看不见。"
+            ],
+            [
+                "Let's try the back door.",
+                "让我们到后门去试试。"
+            ],
+            [
+                "Look! Everyone's in the garden.",
+                "瞧！大家都在花园里。"
+            ],
+            [
+                "Hello, Helen. Hello, Jim.",
+                "你好，海伦。你好，吉姆。"
+            ],
+            [
+                "Everybody wants to have lunch in the garden. It's nice and warm out here.",
+                "大家都想在花园里吃午饭。这外面挺暖和。"
+            ],
+            [
+                "Come and have something to drink.",
+                "来喝点什么。"
+            ],
+            [
+                "Thanks, Carol. May I have a glass of beer please?",
+                "谢谢，卡罗尔。给我一杯啤酒好吗？"
+            ],
+            [
+                "Beer? There's none left. You can have some lemonade.",
+                "啤酒？一点都不剩了。你可以喝点柠檬水。"
+            ],
+            [
+                "Lemonade!",
+                "柠檬水！"
+            ],
+            [
+                "Don't believe her, Jim. She's only joking. Have some beer!",
+                "吉姆，别信她的。她只是在开玩笑。喝点啤酒吧！"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "anyone",
+            "pron.",
+            "（用于疑问句，否定句）任何人"
+        ],
+        [
+            "knock",
+            "v.",
+            "敲，打"
+        ],
+        [
+            "everything",
+            "pron.",
+            "一切事情"
+        ],
+        [
+            "quiet",
+            "adj.",
+            "宁静的，安静的"
+        ],
+        [
+            "impossible",
+            "adj.",
+            "不可能的"
+        ],
+        [
+            "invite",
+            "v.",
+            "邀请"
+        ],
+        [
+            "anything",
+            "pron.",
+            "任何东西"
+        ],
+        [
+            "nothing",
+            "pron.",
+            "什么也没有"
+        ],
+        [
+            "lemonade",
+            "n.",
+            "柠檬水"
+        ],
+        [
+            "joke",
+            "v.",
+            "开玩笑"
+        ]
+    ]
+}

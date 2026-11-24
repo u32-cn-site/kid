@@ -1,0 +1,448 @@
+{
+ "lesson": 102,
+ "title": [
+  "The Prisoners Are Released",
+  "囚犯们被释放了"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "Lady Kou ran into the courthouse early the next morning.",
+    "寇女士第二天一大早就跑到了法院。"
+   ],
+   [
+    "With tears in her eyes, she told the judge that she had lied the day before.",
+    "她泪眼汪汪地对法官说道，前一天她撒了谎。"
+   ],
+   [
+    "\"The Tang Monk and his companions are innocent.",
+    "“唐僧和他的同伴们都是无辜的。”"
+   ],
+   [
+    "Lady Kou sniffed.",
+    "寇女士抽了抽鼻子。"
+   ],
+   [
+    "\"Please release them.\"",
+    "“请释放他们。”"
+   ],
+   [
+    "The judge nodded.",
+    "法官点了点头。"
+   ],
+   [
+    "\"I was going to release the prisoners this morning.",
+    "“我本来打算今天早上释放那些囚犯的。”"
+   ],
+   [
+    "He explained how the Wandering Spirit had visited him the night before.",
+    "他解释了前一天晚上“游荡之灵”是如何出现在他身上的。"
+   ],
+   [
+    "Lady Kou gasped.",
+    "寇小姐倒吸了一口气。"
+   ],
+   [
+    "\"My husband visited me last night!",
+    "“我丈夫昨晚来看我了！”"
+   ],
+   [
+    "We must release the prisoners at once.\"",
+    "我们必须立即释放这些囚犯。"
+   ],
+   [
+    "They hurried to the Tang Monk's cell.",
+    "他们急忙赶往唐僧的牢房。"
+   ],
+   [
+    "A guard swung open the cell door.",
+    "一名看守推开了牢房的门。"
+   ],
+   [
+    "\"I'm glad to be out of there,\" said Wujing.",
+    "“我很高兴自己终于摆脱了那里，”五静说道。"
+   ],
+   [
+    "\"Me too,\" said Bajie with a yawn.",
+    "“我也一样，”八戒打着哈欠说。"
+   ],
+   [
+    "\"The beds were very uncomfortable.\"",
+    "“这些床非常不舒服。”"
+   ],
+   [
+    "Lady Kou bowed to the Tang Monk.",
+    "寇夫人向唐僧鞠了一躬。"
+   ],
+   [
+    "\"I framed you for killing my husband,\" she said.",
+    "“我诬陷你杀了我的丈夫，”她说。"
+   ],
+   [
+    "\"Please forgive me.",
+    "请原谅我。"
+   ],
+   [
+    "It was a terrible thing to do.\"",
+    "“这样做真是太糟糕了。”"
+   ],
+   [
+    "\"That's right!\" shouted Wukong.",
+    "“没错！”悟空大声喊道。"
+   ],
+   [
+    "\"It was a really terrible thing to do!\"",
+    "“这样做真的太糟糕了！”"
+   ],
+   [
+    "The Tang Monk put his hand on the monkey's shoulder.",
+    "唐僧把手放在猴子的肩上。"
+   ],
+   [
+    "\"Don't yell, Wukong.",
+    "“不要喊叫，悟空。”"
+   ],
+   [
+    "He looked at Lady Kou.",
+    "他看向了寇夫人。"
+   ],
+   [
+    "\"We forgive you.",
+    "“我们原谅你。”"
+   ],
+   [
+    "The squire was a kind man.",
+    "这位乡绅是个善良的人。"
+   ],
+   [
+    "His death is a terrible tragedy.\"",
+    "他的去世是一场可怕的悲剧。”"
+   ],
+   [
+    "Wukong rubbed his chin.",
+    "孙悟空摸了摸下巴。"
+   ],
+   [
+    "\"I can probably bring him back to life.\"",
+    "“我或许能把他救回来。”"
+   ],
+   [
+    "Lady Kou and the judge were shocked.",
+    "寇女士和法官都感到震惊。"
+   ],
+   [
+    "\"Can you really do that?\" asked Lady Kou.",
+    "“你真的能做到吗？”寇夫人问道。"
+   ],
+   [
+    "The Tang Monk smiled.",
+    "唐僧笑了。"
+   ],
+   [
+    "\"Yes, he can.",
+    "“是的，他能做到。”"
+   ],
+   [
+    "Wukong brought the king of the Black Rooster Kingdom back to life.",
+    "孙悟空让黑鸡王国的国王复活了。"
+   ],
+   [
+    "He turned to the monkey.",
+    "他转向那只猴子。"
+   ],
+   [
+    "\"The sage Laozi helped you that time.",
+    "那位智者老子那次帮了你大忙。"
+   ],
+   [
+    "Will you ask him for help again?\"",
+    "“你还会再向他寻求帮助吗？”"
+   ],
+   [
+    "\"No,\" said Wukong.",
+    "“不，”孙悟空说。"
+   ],
+   [
+    "\"Laozi doesn't really like me.",
+    "“老子其实并不喜欢我。”"
+   ],
+   [
+    "I'll go to the Land of Darkness and talk to the Judge of the Dead instead.\"",
+    "“我还是去黑暗之地，和死神判官谈谈吧。”"
+   ],
+   [
+    "When Wukong entered the Palace of Darkness, the Judge of the Dead frowned.",
+    "当悟空进入黑暗宫殿时，死神判官皱起了眉头。"
+   ],
+   [
+    "\"Why are you here, Wukong?",
+    "“你为什么在这里，悟空？”"
+   ],
+   [
+    "You already made yourself immortal by crossing out your name in the Directory.\"",
+    "你已经在《名录》中划掉了自己的名字，从而让自己永垂不朽了。"
+   ],
+   [
+    "Wukong laughed.",
+    "孙悟空笑了。"
+   ],
+   [
+    "\"I wondered if you would remember that.",
+    "“我在想你是否还记得那件事。”"
+   ],
+   [
+    "I'm looking for Squire Kou's name.\"",
+    "我在寻找库斯奎尔（Squire Kou）的名字。"
+   ],
+   [
+    "\"Squire Kou?",
+    "“库尔乡绅？”"
+   ],
+   [
+    "The judge opened the Directory and flipped through some pages.",
+    "法官打开目录，翻阅了几页。"
+   ],
+   [
+    "\"Ah, yes.",
+    "“啊，是的。”"
+   ],
+   [
+    "He died two days ago.",
+    "他两天前去世了。"
+   ],
+   [
+    "He now works for the bodhisattva Dayuan in the Jade Palace.",
+    "他现在在玉宫为菩萨大圆效力。"
+   ],
+   [
+    "It's here in the Land of Darkness.\"",
+    "它就在这个黑暗之境里。"
+   ],
+   [
+    "Wukong went to the Jade Palace.",
+    "悟空去了玉皇宫。"
+   ],
+   [
+    "\"Greetings, Sun Wukong,\" said the bodhisattva.",
+    "“你好啊，孙悟空，”菩萨说道。"
+   ],
+   [
+    "\"Greetings, Bodhisattva.",
+    "“问候您，菩萨。”"
+   ],
+   [
+    "The monkey bowed.",
+    "猴子鞠了一躬。"
+   ],
+   [
+    "\"Two nights ago a friend of mine, Squire Kou, was killed and brought here.",
+    "“两夜前，我的一个朋友，名叫寇斯奎尔（Squire Kou），被杀害了，然后被带到这里来。”"
+   ],
+   [
+    "I would like to bring him back to Earth.\"",
+    "我想把他带回地球。"
+   ],
+   [
+    "The bodhisattva raised an eyebrow.",
+    "菩萨挑了挑眉毛。"
+   ],
+   [
+    "\"You want him to return to life?\"",
+    "“你想让他复活吗？”"
+   ],
+   [
+    "\"Yes,\" said Wukong.",
+    "“是的，”悟空说。"
+   ],
+   [
+    "\"I'm helping the Tang Monk reach the Western Paradise to fetch the True Scriptures.",
+    "“我正在帮助唐僧前往西方极乐世界取回真经。”"
+   ],
+   [
+    "The squire was very kind to us.\"",
+    "这位乡绅对我们非常友善。"
+   ],
+   [
+    "The bodhisattva smiled.",
+    "菩萨笑了。"
+   ],
+   [
+    "\"Very well.",
+    "“非常好了。”"
+   ],
+   [
+    "The squire may return to Earth until it's time for him to come back here.\"",
+    "乡绅可以回到地球上，直到他需要再次回到这里的时候为止。"
+   ],
+   [
+    "The bodhisattva brought Wukong to an office.",
+    "菩萨把悟空带到了一间办公室里。"
+   ],
+   [
+    "Squire Kou was sitting behind a large desk, smiling, as he studied some documents.",
+    "Kou先生坐在一张大桌子后面，微笑着看着一些文件。"
+   ],
+   [
+    "His eyes sparkled when he saw Wukong.",
+    "当他看到悟空时，他的眼睛闪闪发光。"
+   ],
+   [
+    "\"It's good to see you, Wukong!\" said the squire.",
+    "“见到你真是太高兴了，悟空！”骑士说道。"
+   ],
+   [
+    "\"What are you doing here?\"",
+    "“你在这里做什么？”"
+   ],
+   [
+    "\"I have good news,\" said the monkey.",
+    "“我有个好消息，”猴子说。"
+   ],
+   [
+    "\"Your life isn't over yet.",
+    "“你的生命尚未结束。”"
+   ],
+   [
+    "I'm taking you back to Earth.\"",
+    "“我要把你送回地球。”"
+   ],
+   [
+    "The squire looked confused.",
+    "乡绅看起来很困惑。"
+   ],
+   [
+    "He glanced at the bodhisattva.",
+    "他瞥了一眼那尊菩萨像。"
+   ],
+   [
+    "The bodhisattva nodded.",
+    "菩萨点了点头。"
+   ],
+   [
+    "\"You may return to Earth.",
+    "“你们可以返回地球了。”"
+   ],
+   [
+    "When your life is over, you will return to your job here.",
+    "当你的生命结束后，你会回到这里重新开始你的工作。"
+   ],
+   [
+    "The squire came out from behind his desk and bowed.",
+    "侍从从办公桌后面走出来，鞠了一躬。"
+   ],
+   [
+    "\"Thank you, Bodhisattva.",
+    "“谢谢您，菩萨。”"
+   ],
+   [
+    "\"I am happy here, but I would love to see my wife and friends again.\"",
+    "“我在这里很开心，但我非常希望能再次见到我的妻子和朋友。”"
+   ],
+   [
+    "Wukong moved closer to the squire.",
+    "孙悟空向那个骑士走了过去。"
+   ],
+   [
+    "\"You'll be home soon, Squire.\"",
+    "“你很快就会到家了，爵士。”"
+   ],
+   [
+    "The monkey recited a spell, and the squire vanished.",
+    "猴子念了一句咒语，那个骑士就消失了。"
+   ]
+  ]
+ },
+ "words": [
+  [
+   "prisoner",
+   "",
+   "囚犯，犯⼈",
+   "I was going to release the prisoners this morning.",
+   "我本来打算今天早上释放这些囚犯的。"
+  ],
+  [
+   "release",
+   "",
+   "释放，解放",
+   "Please release them.",
+   "请释放他们。"
+  ],
+  [
+   "swung",
+   "",
+   "摇摆，摇荡 (swing-swung)",
+   "A guard swung open the cell door.",
+   "一名看守推开了牢房的门。"
+  ],
+  [
+   "uncomfortable",
+   "",
+   "不舒服的，不⾃在的",
+   "The beds were very uncomfortable.",
+   "这些床非常不舒服。"
+  ],
+  [
+   "forgive",
+   "",
+   "原谅",
+   "Please forgive me.",
+   "请原谅我。"
+  ],
+  [
+   "death",
+   "",
+   "死亡",
+   "His death is a terrible tragedy.",
+   "他的离世是一场令人痛心的悲剧。"
+  ],
+  [
+   "tragedy",
+   "",
+   "悲剧性事件",
+   "His death is a terrible tragedy.",
+   "他的离世是一场令人痛心的悲剧。"
+  ],
+  [
+   "sage",
+   "",
+   "圣⼈，圣贤",
+   "The sage Laozi helped you that time.",
+   "那位智者老子那次帮了你的忙。"
+  ],
+  [
+   "instead",
+   "",
+   "作为替代",
+   "I'll go to the Land of Darkness and talk to the Judge of the Dead instead.",
+   "那我宁愿去黑暗之国，跟死神之判官谈谈。"
+  ],
+  [
+   "immortal",
+   "",
+   "神，不朽的⼈物",
+   "You already made yourself immortal by crossing out your name in the Directory.",
+   "你已经通过从名录中删除自己的名字而让自己永垂不朽了。"
+  ],
+  [
+   "cross out",
+   "",
+   "划掉，删去",
+   "You already made yourself immortal by crossing out your name in the Directory.",
+   "你已经通过从名录中删除自己的名字而让自己永垂不朽了。"
+  ],
+  [
+   "time",
+   "",
+   "时间，时刻",
+   "The squire may return to Earth until it's time for him to come back here.",
+   "这位绅士可以返回地球，直到他再次需要回到这里的时候。"
+  ],
+  [
+   "sparkle",
+   "",
+   "发光，闪耀",
+   "His eyes sparkled when he saw Wukong.",
+   "当他看到悟空时，他的眼睛闪闪发光。"
+  ]
+ ]
+}

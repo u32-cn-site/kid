@@ -1,0 +1,586 @@
+{
+    "lesson": 7,
+    "title": [
+        "Let's Go Shopping for Clothes!",
+        "我们去买衣服吧！"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Vivien and Olivia are good friends and they usually go shopping together.",
+                "薇薇安和奥利维亚是好朋友，她们通常一起去购物。"
+            ],
+            [
+                "\"Hi! This is Viv.",
+                "「嗨！我是薇薇。"
+            ],
+            [
+                "Have you read the advertisement for the Central Shopping Centre?",
+                "你看到中央购物中心的广告了吗？"
+            ],
+            [
+                "There are many clothes on sale.",
+                "有很多衣服在打折。"
+            ],
+            [
+                "I need a new jacket or a new coat, as well as a new pair of boots.",
+                "我需要一件新夹克或新外套，还有一双新靴子。"
+            ],
+            [
+                "Would you like to come?\" asked Vivien on the phone.",
+                "你想来吗？」薇薇安在电话里问道。"
+            ],
+            [
+                "\"I've read that!",
+                "「我看到了！"
+            ],
+            [
+                "There are so many discounts.",
+                "有这么多折扣。"
+            ],
+            [
+                "I also want to buy new clothes, maybe a nice T-shirt or a blouse.",
+                "我也想买新衣服，也许是一件漂亮的T恤或女式衬衫。"
+            ],
+            [
+                "By the way, the jumper I bought last time doesn't fit me well, so I need to change the size.",
+                "顺便说一下，我上次买的针织衫不太合身，所以我需要换个尺码。"
+            ],
+            [
+                "Let's meet around three,\" answered Olivia.",
+                "我们三点左右见面吧，」奥利维亚回答。"
+            ],
+            [
+                "They met at the entrance of the shopping center.",
+                "他们在购物中心入口处见面。"
+            ],
+            [
+                "\"Look at the poster over there!",
+                "「看那边的海报！"
+            ],
+            [
+                "The model in the striped shirt and slim trousers looks great.",
+                "那个穿着条纹衬衫和修身裤的模特看起来很棒。"
+            ],
+            [
+                "We should go to that store and have a look,\" said Vivien with excitement.",
+                "我们应该去那家店看看，」薇薇安兴奋地说。"
+            ],
+            [
+                "\"Good afternoon! Is there anything I can help?\" A shop assistant gave Vivien and Olivia a polite greeting when they walked in.",
+                "「下午好！有什么我可以帮助的吗？」一位店员在她们走进店时礼貌地向薇薇安和奥利维亚打招呼。"
+            ],
+            [
+                "\"Yes. I'd like to try on what the model wears on that poster.\" Vivien requested while looking around the shop.",
+                "「是的。我想试穿那张海报上模特穿的衣服。」薇薇安一边环顾店铺一边要求。"
+            ],
+            [
+                "\"Certainly. If you're interested, I also recommend you try on this A-line skirt with black and white stripes and that pair of shorts.",
+                "「当然。如果您感兴趣，我还推荐您试穿这条黑白条纹的A字裙和那条短裤。"
+            ],
+            [
+                "They both match perfectly with that shirt.\" The shop assistant suggested with a smile.",
+                "它们和那件衬衫都很配。」店员微笑着建议。"
+            ],
+            [
+                "\"Why not?\" Vivien tried them on and decided to take them all.",
+                "「为什么不呢？」薇薇安试穿了它们并决定全部买下。"
+            ],
+            [
+                "\"500 pounds? It's a bit expensive, isn't it?\" Olivia whispered to Vivien when she checked out.",
+                "「500英镑？有点贵，不是吗？」奥利维亚在结账时低声对薇薇安说。"
+            ],
+            [
+                "\"They're all half-price!\" Vivien said, \"I need the clothes and I want to spend my money on them.\"",
+                "「它们都是半价！」薇薇安说，「我需要这些衣服，我想把钱花在它们上面。」"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "shopping",
+            "n.",
+            "购物"
+        ],
+        [
+            "go shopping",
+            "",
+            "去购物"
+        ],
+        [
+            "advertisement",
+            "n.",
+            "广告"
+        ],
+        [
+            "ad",
+            "n.",
+            "广告"
+        ],
+        [
+            "clothes",
+            "n.",
+            "衣服"
+        ],
+        [
+            "take off one's clothes",
+            "",
+            "脱下衣服"
+        ],
+        [
+            "sale",
+            "n.",
+            "销售；出售"
+        ],
+        [
+            "for sale",
+            "",
+            "出售；待售"
+        ],
+        [
+            "on sale",
+            "",
+            "廉价出售"
+        ],
+        [
+            "jacket",
+            "n.",
+            "短上衣；夹克衫"
+        ],
+        [
+            "a leather jacket",
+            "",
+            "皮夹克"
+        ],
+        [
+            "coat",
+            "n.",
+            "外套；大衣"
+        ],
+        [
+            "boot",
+            "n.",
+            "靴子"
+        ],
+        [
+            "a pair of black leather boots",
+            "",
+            "一双黑皮靴"
+        ],
+        [
+            "discount",
+            "n.",
+            "折扣"
+        ],
+        [
+            "discount",
+            "v.",
+            "对……打折"
+        ],
+        [
+            "at a discount",
+            "",
+            "打折"
+        ],
+        [
+            "give a discount",
+            "",
+            "给予折扣"
+        ],
+        [
+            "buy",
+            "v.",
+            "买；购买"
+        ],
+        [
+            "bought",
+            "v.",
+            "买；购买"
+        ],
+        [
+            "T-shirt",
+            "n.",
+            "T恤衫"
+        ],
+        [
+            "a printed T-shirt",
+            "",
+            "印花T恤衫"
+        ],
+        [
+            "blouse",
+            "n.",
+            "女式衬衫"
+        ],
+        [
+            "sleeveless blouse",
+            "",
+            "无袖衬衫"
+        ],
+        [
+            "jumper",
+            "n.",
+            "（毛或棉的）针织套衫，毛衣"
+        ],
+        [
+            "sweater",
+            "n.",
+            "毛衣"
+        ],
+        [
+            "change",
+            "v.",
+            "改变；更换"
+        ],
+        [
+            "change",
+            "n.",
+            "改变；更换"
+        ],
+        [
+            "We'll change it for a larger size.",
+            "",
+            "我们会给您换大一号的。"
+        ],
+        [
+            "size",
+            "n.",
+            "大小；尺码"
+        ],
+        [
+            "It's not my size.",
+            "",
+            "这个尺码不适合我。"
+        ],
+        [
+            "poster",
+            "n.",
+            "海报，广告"
+        ],
+        [
+            "put up a poster",
+            "",
+            "张贴海报"
+        ],
+        [
+            "model",
+            "n.",
+            "模特；模型"
+        ],
+        [
+            "a fashion model",
+            "",
+            "时装模特"
+        ],
+        [
+            "striped",
+            "adj.",
+            "有条纹的；有斑纹的"
+        ],
+        [
+            "a striped shirt",
+            "",
+            "一件条纹衬衫"
+        ],
+        [
+            "shirt",
+            "n.",
+            "（尤指男士）衬衫"
+        ],
+        [
+            "wear a shirt and tie",
+            "",
+            "穿衬衫打领带，扎领带"
+        ],
+        [
+            "slim",
+            "adj.",
+            "苗条的；纤细的"
+        ],
+        [
+            "She is tall and slim.",
+            "",
+            "她是瘦高个儿。"
+        ],
+        [
+            "trousers",
+            "n.",
+            "裤子"
+        ],
+        [
+            "a pair of grey trousers",
+            "",
+            "一条灰裤子"
+        ],
+        [
+            "pants",
+            "n.",
+            "裤子"
+        ],
+        [
+            "should",
+            "v.",
+            "应该"
+        ],
+        [
+            "What should I do?",
+            "",
+            "我应该做些什么？"
+        ],
+        [
+            "store",
+            "n.",
+            "商店"
+        ],
+        [
+            "a food store",
+            "",
+            "食品店"
+        ],
+        [
+            "shop",
+            "n.",
+            "商店；店铺"
+        ],
+        [
+            "a shoe shop",
+            "",
+            "鞋店"
+        ],
+        [
+            "assistant",
+            "n.",
+            "助手，助理"
+        ],
+        [
+            "a shop assistant",
+            "",
+            "店员；售货员"
+        ],
+        [
+            "polite",
+            "adj.",
+            "有礼貌的"
+        ],
+        [
+            "polite requests",
+            "",
+            "礼貌的请求"
+        ],
+        [
+            "try",
+            "v.",
+            "尝试"
+        ],
+        [
+            "try on",
+            "",
+            "试穿"
+        ],
+        [
+            "wear",
+            "v.",
+            "穿；戴"
+        ],
+        [
+            "She always wears black clothes.",
+            "",
+            "她总是穿黑色的衣服。"
+        ],
+        [
+            "line",
+            "n.",
+            "线；线条"
+        ],
+        [
+            "a straight line",
+            "",
+            "直线"
+        ],
+        [
+            "skirt",
+            "n.",
+            "裙子"
+        ],
+        [
+            "a long/short skirt",
+            "",
+            "长/短裙"
+        ],
+        [
+            "stripe",
+            "n.",
+            "条纹"
+        ],
+        [
+            "black and white stripes",
+            "",
+            "黑白条纹"
+        ],
+        [
+            "shorts",
+            "n.",
+            "短裤"
+        ],
+        [
+            "He was wearing a T-shirt and shorts.",
+            "",
+            "他那时穿着T恤衫和短裤。"
+        ],
+        [
+            "pound",
+            "n.",
+            "英镑"
+        ],
+        [
+            "expensive",
+            "adj.",
+            "昂贵的；花钱多的"
+        ],
+        [
+            "That dress is expensive.",
+            "",
+            "那条连衣裙很贵。"
+        ],
+        [
+            "half-price",
+            "adj.",
+            "半价的"
+        ],
+        [
+            "a half-price ticket",
+            "",
+            "半价票"
+        ],
+        [
+            "spend",
+            "v.",
+            "用，花"
+        ],
+        [
+            "spent",
+            "v.",
+            "用，花"
+        ],
+        [
+            "She spent £100 on a new dress.",
+            "",
+            "她花100英镑买了一条新连衣裙。"
+        ],
+        [
+            "money",
+            "n.",
+            "钱"
+        ],
+        [
+            "spend money",
+            "",
+            "花钱"
+        ],
+        [
+            "good",
+            "adj.",
+            "好的"
+        ],
+        [
+            "friend",
+            "n.",
+            "朋友"
+        ],
+        [
+            "usually",
+            "adv.",
+            "通常"
+        ],
+        [
+            "together",
+            "adv.",
+            "一起"
+        ],
+        [
+            "read",
+            "v.",
+            "阅读；看"
+        ],
+        [
+            "centre",
+            "n.",
+            "中心"
+        ],
+        [
+            "pair",
+            "n.",
+            "一对；一双"
+        ],
+        [
+            "well",
+            "adv.",
+            "好"
+        ],
+        [
+            "as well as",
+            "",
+            "也；还"
+        ],
+        [
+            "fit",
+            "v.",
+            "合身"
+        ],
+        [
+            "entrance",
+            "n.",
+            "入口"
+        ],
+        [
+            "excitement",
+            "n.",
+            "兴奋"
+        ],
+        [
+            "greeting",
+            "n.",
+            "问候"
+        ],
+        [
+            "request",
+            "v.",
+            "要求"
+        ],
+        [
+            "recommend",
+            "v.",
+            "推荐"
+        ],
+        [
+            "A-line",
+            "adj.",
+            "A字形的"
+        ],
+        [
+            "match",
+            "v.",
+            "搭配"
+        ],
+        [
+            "perfectly",
+            "adv.",
+            "完美地"
+        ],
+        [
+            "suggest",
+            "v.",
+            "建议"
+        ],
+        [
+            "check out",
+            "",
+            "结账"
+        ],
+        [
+            "whisper",
+            "v.",
+            "低语"
+        ]
+    ]
+}

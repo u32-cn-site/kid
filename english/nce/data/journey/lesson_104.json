@@ -1,0 +1,355 @@
+{
+ "lesson": 104,
+ "title": [
+  "The Tang Monk and the River",
+  "唐僧与河流"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "Wukong and his companions walked through the Western Paradise.",
+    "悟空和他的同伴们穿过了西方极乐世界。"
+   ],
+   [
+    "The road weaved through a field of flowers and toward the Spirit Mountain.",
+    "道路蜿蜒穿过一片花田，朝着灵山方向延伸。"
+   ],
+   [
+    "Bajie looked up at the huge mountain and shook his head.",
+    "八戒抬头看着那座巨大的山，摇了摇头。"
+   ],
+   [
+    "\"It won't be easy to climb that.\"",
+    "“爬上去不容易。”"
+   ],
+   [
+    "Wukong laughed.",
+    "孙悟空笑了。"
+   ],
+   [
+    "\"Don't ask me to carry you!\"",
+    "“别叫我背你！”"
+   ],
+   [
+    "The travelers soon arrived at a river with a strong current.",
+    "旅行者们很快就来到了一条水流湍急的河边。"
+   ],
+   [
+    "Waves crashed into jagged rocks, spraying water everywhere.",
+    "海浪拍打着参差不齐的岩石，水花四溅。"
+   ],
+   [
+    "\"This river looks dangerous,\" said Wujing.",
+    "“这条河看起来很危险，”伍静说道。"
+   ],
+   [
+    "\"But we must cross it to get to the Spirit Mountain.\"",
+    "“但我们必须穿过它才能到达灵山。”"
+   ],
+   [
+    "Bajie sighed.",
+    "八戒叹了口气。"
+   ],
+   [
+    "\"We will never be able to cross this river safely.",
+    "“我们永远无法安全地渡过这条河。”"
+   ],
+   [
+    "Let's just go home.\"",
+    "“我们干脆回家吧。”"
+   ],
+   [
+    "\"Nonsense,\" said Wukong.",
+    "“胡说八道，”孙悟空说道。"
+   ],
+   [
+    "\"Look over there.\"",
+    "“看那边。”"
+   ],
+   [
+    "The monkey pointed upstream.",
+    "猴子指向上游的方向。"
+   ],
+   [
+    "A thin log lay across the river.",
+    "一根细长的原木横躺在河上。"
+   ],
+   [
+    "It wobbled and shook as the water rushed under it.",
+    "随着水流从下方冲过，它不停地摇晃和抖动。"
+   ],
+   [
+    "The Tang Monk looked at the log.",
+    "唐僧看着那根原木。"
+   ],
+   [
+    "\"Don't be silly, Wukong.",
+    "“别犯傻了，悟空。”"
+   ],
+   [
+    "We can't walk across that log—it's too thin.",
+    "我们不能从那根原木上走过去，它太薄了。"
+   ],
+   [
+    "And it looks quite slippery.\"",
+    "“看起来还挺滑的。”"
+   ],
+   [
+    "\"But that log is the only way to reach the Spirit Mountain,\" said Wukong.",
+    "“但是那根木头是通往灵山的唯一途径，”悟空说。"
+   ],
+   [
+    "\"You must believe that it's safe.",
+    "“你一定要相信这是安全的。”"
+   ],
+   [
+    "Watch me!\"",
+    "“看我的！”"
+   ],
+   [
+    "The monkey hopped onto the log and ran across the river and back.",
+    "猴子跳上原木，跑过了河，然后再跑回来。"
+   ],
+   [
+    "\"See?\" he said.",
+    "“看到了吧？”他说。"
+   ],
+   [
+    "\"It's safe.\"",
+    "“这是安全的。”"
+   ],
+   [
+    "Bajie snorted.",
+    "八戒哼了一声。"
+   ],
+   [
+    "\"You don't weigh much, Wukong.",
+    "“你体重不重啊，悟空。”"
+   ],
+   [
+    "But if I step on that log, it will break.\"",
+    "但如果我踩在那根木头上，它会断裂的。"
+   ],
+   [
+    "\"I believe Wukong,\" said Wujing.",
+    "“我相信孙悟空，”牛真说道。"
+   ],
+   [
+    "\"We must walk across the log.\"",
+    "“我们必须穿过那根圆木。”"
+   ],
+   [
+    "\"Follow me, Master,\" said Wukong.",
+    "“跟我来，师傅，”悟空说道。"
+   ],
+   [
+    "He pulled the Tang Monk toward the log.",
+    "他把唐僧拉向那根圆木。"
+   ],
+   [
+    "The monk trembled with fear.",
+    "僧人吓得浑身发抖。"
+   ],
+   [
+    "\"Don't make me walk across that!",
+    "“别让我走过去！”"
+   ],
+   [
+    "I'll fall into the river and drown!\"",
+    "“我要掉进河里淹死了！”"
+   ],
+   [
+    "\"Let's just fly over the river,\" suggested Bajie.",
+    "“我们就飞过那条河吧，”猪八戒提议道。"
+   ],
+   [
+    "\"We can carry Master and the horse.\"",
+    "“我们可以把主人和马一起带走。”"
+   ],
+   [
+    "\"No,\" insisted Wukong.",
+    "“不，”悟空坚持说道。"
+   ],
+   [
+    "\"The Tang Monk must make the entire journey by himself.",
+    "“唐僧必须独自完成整个旅程。”"
+   ],
+   [
+    "We're here to protect him, not to carry him.",
+    "我们在这里是为了保护他，而不是背负他。"
+   ],
+   [
+    "Buddha won't allow Master to have the True Scriptures if he doesn't take every step himself.\"",
+    "如果大师不亲自去完成每一个步骤，佛是不会允许他得到真正的经文的。"
+   ],
+   [
+    "Just then an old man appeared in a boat.",
+    "就在这时，一个老人乘着小船出现了。"
+   ],
+   [
+    "\"I can take you across the river,\" said the man.",
+    "“我可以带你过河，”那个男人说。"
+   ],
+   [
+    "\"Thank you,\" said the Tang Monk.",
+    "“谢谢你们，”唐僧说道。"
+   ],
+   [
+    "He walked to the riverbank.",
+    "他走到了河岸边。"
+   ],
+   [
+    "\"My companion wanted me to walk across that log, but—\" The monk gasped.",
+    "“我的同伴想让我走过那根原木，但是——” 那位僧侣倒吸了一口气。"
+   ],
+   [
+    "\"There's something wrong with your boat,\" he said to the man.",
+    "“你的船有些问题，”他对那个人说。"
+   ],
+   [
+    "\"It has no bottom!",
+    "“这无底洞啊！”"
+   ],
+   [
+    "Water is flowing right through it!\"",
+    "水直接从它里面流过！”"
+   ],
+   [
+    "\"The boat is safe,\" said the man.",
+    "“船是安全的，”那个男人说。"
+   ],
+   [
+    "\"Please climb in.",
+    "请上车。"
+   ],
+   [
+    "Buddha is waiting.\"",
+    "“佛在等待。”"
+   ],
+   [
+    "With a bit more hesitation, the Tang Monk stepped into the boat.",
+    "带着些许犹豫，唐僧走了上船。"
+   ],
+   [
+    "He was shocked to find that he didn't sink.",
+    "他惊讶地发现自己没有沉下去。"
+   ],
+   [
+    "He sat on the edge of the boat as Wujing led the horse aboard.",
+    "当武静把马牵上船时，他坐在船的边缘。"
+   ],
+   [
+    "Bajie and Wukong followed.",
+    "八戒和悟空跟在后面。"
+   ],
+   [
+    "The boat glided swiftly across the river.",
+    "小船迅速滑过河流。"
+   ],
+   [
+    "Suddenly there was a splash.",
+    "突然传来一阵水花声。"
+   ],
+   [
+    "The Tang Monk looked at the water and saw a body floating downstream.",
+    "唐僧望向水面，看到一具尸体顺流而下。"
+   ],
+   [
+    "He screamed.",
+    "他尖叫了一声。"
+   ],
+   [
+    "\"A man has drowned!\"",
+    "“有一个人溺水了！”"
+   ],
+   [
+    "Wukong put his hand on the monk's shoulder and smiled.",
+    "悟空把手放在僧人的肩上，微笑着。"
+   ],
+   [
+    "\"It's you, Master.\"",
+    "“是您，主人。”"
+   ],
+   [
+    "\"What?\" said the monk.",
+    "“什么？”僧侣说道。"
+   ],
+   [
+    "\"Me?\"",
+    "“我？”"
+   ],
+   [
+    "\"Wukong is right!\" cried Bajie.",
+    "“悟空说得对！”八戒喊道。"
+   ],
+   [
+    "\"It is you!\"",
+    "“就是你！”"
+   ],
+   [
+    "\"Look again, Master,\" said Wujing, smiling.",
+    "“再看看吧，主人。”武静微笑着说。"
+   ],
+   [
+    "The Tang Monk looked at the body more carefully.",
+    "唐僧更加仔细地观察那具尸体。"
+   ],
+   [
+    "It was wearing the same Buddhist robe that he was wearing.",
+    "它穿着和他一样的佛教长袍。"
+   ],
+   [
+    "\"It is me,\" said the monk quietly.",
+    "“是我，”僧人轻声说道。"
+   ],
+   [
+    "\"But how . . . ?\"",
+    "“但是怎么可能……？”"
+   ],
+   [
+    "\"You got rid of your mortal body, Master,\" said Wukong.",
+    "“您摆脱了凡人的肉体，大师，”悟空说道。"
+   ],
+   [
+    "\"You're a spirit now.\"",
+    "“你现在变成了一股灵脉（或灵魂）了。”"
+   ],
+   [
+    "\"You're one of us!",
+    "“你是我们中的一员！”"
+   ],
+   [
+    "Bajie beamed.",
+    "八戒露出了笑容。"
+   ],
+   [
+    "The boat soon reached the other riverbank, and the travelers stepped out.",
+    "小船很快就到了对岸，旅行者们纷纷下了船。"
+   ],
+   [
+    "As they walked up the slope of the Spirit Mountain, the Tang Monk laughed in amazement.",
+    "当他们沿着灵山的山坡向上走时，唐僧惊讶地笑了起来。"
+   ],
+   [
+    "\"I feel so light!\" he said.",
+    "“我感觉轻飘飘的！”他说。"
+   ],
+   [
+    "\"I feel like I could run right up this mountain!\"",
+    "“我觉得我可以直接跑上这座山！”"
+   ],
+   [
+    "\"Good,\" said Bajie.",
+    "“好，”八戒说。"
+   ],
+   [
+    "\"Perhaps you could carry me?\"",
+    "“也许你可以抱我一下？”"
+   ],
+   [
+    "Everybody laughed as they continued up the mountain.",
+    "大家都笑了，然后继续往山上走去。"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,515 @@
+{
+    "lesson": 22,
+    "title": [
+        "Why Not Choose This Film?",
+        "为什么不选这部电影呢？"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "When Billy and Jack came to the cinema, they still discussed the films they would watch.",
+                "当比利和杰克来到电影院时，他们还在讨论要看的电影。"
+            ],
+            [
+                "Billy likes science fiction films, while Jack likes exciting films.",
+                "比利喜欢科幻电影，而杰克喜欢刺激的电影。"
+            ],
+            [
+                "So it's rather difficult to decide which film to watch.",
+                "所以很难决定看哪部电影。"
+            ],
+            [
+                "There were many kinds of films listed on the screen: romantic stories, comedies, horror films, science fiction films and so on.",
+                "屏幕上列出了很多种电影：爱情故事、喜剧、恐怖片、科幻片等等。"
+            ],
+            [
+                "Jack was looking for a horror film and he found a great one.",
+                "杰克在找一部恐怖片，他找到了一部很棒的。"
+            ],
+            [
+                "\"Why not choose this?",
+                "「为什么不选这部呢？"
+            ],
+            [
+                "I'm crazy about this scary film and I wish you could be my partner to watch it.\"",
+                "我对这部恐怖电影很着迷，我希望你能和我一起看。」"
+            ],
+            [
+                "Billy looked so scared and said immediately, \"Of course not!",
+                "比利看起来很害怕，立刻说：「当然不行！"
+            ],
+            [
+                "I cannot accept it.",
+                "我不能接受。"
+            ],
+            [
+                "It's terrible.",
+                "太可怕了。"
+            ],
+            [
+                "Look at that notice: The film will drive you mad!\"",
+                "看那个通知：这部电影会让你发疯的！」"
+            ],
+            [
+                "Jack gave up his idea and said, \"Oh, sorry.",
+                "杰克放弃了他的想法，说：「哦，对不起。"
+            ],
+            [
+                "I guess you must like the only science fiction film on the list.",
+                "我猜你一定喜欢列表上唯一的那部科幻电影。"
+            ],
+            [
+                "Let's choose this one.\"",
+                "我们选这部吧。」"
+            ],
+            [
+                "\"Alright.",
+                "「好的。"
+            ],
+            [
+                "Let's buy tickets,\" said Billy with a smile.",
+                "我们买票吧，」比利笑着说。"
+            ],
+            [
+                "(After watching the film…)",
+                "（看完电影后……）"
+            ],
+            [
+                "\"What do you think of the film, Billy?\" asked Jack.",
+                "「比利，你觉得这部电影怎么样？」杰克问。"
+            ],
+            [
+                "\"It must be the best science fiction film I've ever seen.",
+                "「这一定是我看过的最好的科幻电影。"
+            ],
+            [
+                "The plots are amazing and the background music is pleasant to the ear,\" answered Billy with joy.",
+                "情节很棒，背景音乐也很悦耳，」比利高兴地回答。"
+            ],
+            [
+                "Then he added, \"What about you?\"",
+                "然后他又问：「你呢？」"
+            ],
+            [
+                "However, Jack had different opinions and said, \"I am not sure.",
+                "然而，杰克有不同的看法，他说：「我不太确定。"
+            ],
+            [
+                "It's not awful but a little strange.",
+                "它不算糟糕，但有点奇怪。"
+            ],
+            [
+                "Plus, I am angry about the way people treat the aliens from outer space.",
+                "而且，我对人们对待来自外太空的外星人的方式感到生气。"
+            ],
+            [
+                "I just wanted to take a break during the film.\"",
+                "我在看电影的时候只想休息一下。」"
+            ],
+            [
+                "\"What a pity!",
+                "「真可惜！"
+            ],
+            [
+                "Although we have different opinions about the film, I still want to make a date with you to watch the next film.\"",
+                "虽然我们对这部电影有不同的看法，但我还是想和你约好去看下一部电影。」"
+            ],
+            [
+                "\"Oh, I'm very glad to join your next plan,\" said Jack.",
+                "「哦，我很高兴加入你的下一个计划，」杰克说。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "rather",
+            "adv.",
+            "相当；有点儿"
+        ],
+        [
+            "He looks rather like his father.",
+            "",
+            "他看上去很像他的父亲。"
+        ],
+        [
+            "difficult",
+            "adj.",
+            "困难的"
+        ],
+        [
+            "easy",
+            "adj.",
+            "容易的"
+        ],
+        [
+            "kind",
+            "n.",
+            "种类"
+        ],
+        [
+            "What kind of house do you live in?",
+            "",
+            "你住的是哪种房子？"
+        ],
+        [
+            "look for",
+            "",
+            "寻找"
+        ],
+        [
+            "horror",
+            "n.",
+            "恐怖故事（或电影等）；恐惧"
+        ],
+        [
+            "a horror film",
+            "",
+            "恐怖片"
+        ],
+        [
+            "why",
+            "adv.",
+            "为什么，为何"
+        ],
+        [
+            "why don't we... / why not...",
+            "",
+            "为什么不……"
+        ],
+        [
+            "Why don't we go together?",
+            "",
+            "我们为什么不一起去呢？"
+        ],
+        [
+            "crazy",
+            "adj.",
+            "热衷的；狂热的"
+        ],
+        [
+            "be crazy about",
+            "",
+            "热衷于"
+        ],
+        [
+            "scary",
+            "adj.",
+            "可怕的，吓人的"
+        ],
+        [
+            "a scary movie",
+            "",
+            "恐怖电影"
+        ],
+        [
+            "wish",
+            "v.",
+            "希望"
+        ],
+        [
+            "—Where is he now?",
+            "",
+            "——他现在在哪儿？"
+        ],
+        [
+            "—I only wish I knew!",
+            "",
+            "——我要是知道就好了！"
+        ],
+        [
+            "partner",
+            "n.",
+            "伙伴；搭档"
+        ],
+        [
+            "a dancing partner",
+            "",
+            "舞伴"
+        ],
+        [
+            "look",
+            "v.",
+            "看来好像；似乎"
+        ],
+        [
+            "You look happy.",
+            "",
+            "你看起来很开心。"
+        ],
+        [
+            "scared",
+            "adj.",
+            "害怕的，受惊的"
+        ],
+        [
+            "be scared of",
+            "",
+            "害怕……"
+        ],
+        [
+            "immediately",
+            "adv.",
+            "立刻地"
+        ],
+        [
+            "She answered almost immediately.",
+            "",
+            "她几乎立刻就回答了。"
+        ],
+        [
+            "of course",
+            "",
+            "当然（不）"
+        ],
+        [
+            "accept",
+            "v.",
+            "接受；同意"
+        ],
+        [
+            "He didn't accept the job.",
+            "",
+            "他不接受那项工作。"
+        ],
+        [
+            "terrible",
+            "adj.",
+            "可怕的；糟糕的"
+        ],
+        [
+            "What terrible news!",
+            "",
+            "多么骇人听闻的消息！"
+        ],
+        [
+            "notice",
+            "n.",
+            "通知，公告"
+        ],
+        [
+            "They pinned a notice to the door.",
+            "",
+            "他们把通知钉在门上。"
+        ],
+        [
+            "mad",
+            "adj.",
+            "疯的；生气的"
+        ],
+        [
+            "I'll go mad if I have to wait much longer.",
+            "",
+            "如果还要等更久的话，我会发疯的。"
+        ],
+        [
+            "sorry",
+            "adj.",
+            "抱歉的；遗憾的"
+        ],
+        [
+            "only",
+            "adj.",
+            "仅有的"
+        ],
+        [
+            "only",
+            "adv.",
+            "只有，仅仅"
+        ],
+        [
+            "She's their only daughter.",
+            "",
+            "她是他们的独生女。"
+        ],
+        [
+            "alright",
+            "adv.",
+            "好吧"
+        ],
+        [
+            "all right",
+            "",
+            "好吧"
+        ],
+        [
+            "ticket",
+            "n.",
+            "票；入场券"
+        ],
+        [
+            "a plane ticket",
+            "",
+            "机票"
+        ],
+        [
+            "think",
+            "v.",
+            "想；认为"
+        ],
+        [
+            "think of",
+            "",
+            "想起"
+        ],
+        [
+            "best",
+            "adj.",
+            "最好的"
+        ],
+        [
+            "best",
+            "",
+            "best是good与well的最高级形式。"
+        ],
+        [
+            "amazing",
+            "adj.",
+            "令人惊奇的"
+        ],
+        [
+            "That's amazing, isn't it?",
+            "",
+            "真是令人惊叹，是不是？"
+        ],
+        [
+            "pleasant",
+            "adj.",
+            "令人愉快的"
+        ],
+        [
+            "a pleasant evening",
+            "",
+            "令人愉快的夜晚"
+        ],
+        [
+            "however",
+            "adv.",
+            "然而"
+        ],
+        [
+            "sure",
+            "adj.",
+            "确定的"
+        ],
+        [
+            "I'm not a hundred per cent sure.",
+            "",
+            "我不能百分百肯定。"
+        ],
+        [
+            "awful",
+            "adj.",
+            "糟糕的；极讨厌的"
+        ],
+        [
+            "It's awful, isn't it?",
+            "",
+            "糟糕透了，不是吗？"
+        ],
+        [
+            "strange",
+            "adj.",
+            "奇怪的；陌生的"
+        ],
+        [
+            "There is something strange about her eyes.",
+            "",
+            "她的眼睛有些异常。"
+        ],
+        [
+            "plus",
+            "prep.",
+            "和；也；外加"
+        ],
+        [
+            "angry",
+            "adj.",
+            "愤怒的；生气的"
+        ],
+        [
+            "Are you angry with me for some reason?",
+            "",
+            "你是出于某种原因生我的气了吗？"
+        ],
+        [
+            "way",
+            "n.",
+            "方式；道路"
+        ],
+        [
+            "in this way",
+            "",
+            "用这种方法"
+        ],
+        [
+            "break",
+            "n.",
+            "间断；休息"
+        ],
+        [
+            "take a break",
+            "",
+            "休息一下"
+        ],
+        [
+            "pity",
+            "n.",
+            "遗憾；同情"
+        ],
+        [
+            "What a pity!",
+            "",
+            "太遗憾了！"
+        ],
+        [
+            "although",
+            "conj.",
+            "尽管，虽然"
+        ],
+        [
+            "although",
+            "",
+            "although和but不能同时出现在一个句子中。"
+        ],
+        [
+            "date",
+            "n.",
+            "日期；约见时间"
+        ],
+        [
+            "I have a date with Bob.",
+            "",
+            "我和鲍勃有个约会。"
+        ],
+        [
+            "glad",
+            "adj.",
+            "高兴的；乐意的"
+        ],
+        [
+            "I'm glad that you're feeling better.",
+            "",
+            "我很高兴你感觉好些了。"
+        ],
+        [
+            "join",
+            "v.",
+            "参加；加入……之中"
+        ],
+        [
+            "Will you join us for lunch?",
+            "",
+            "和我们一起吃午饭好吗？"
+        ],
+        [
+            "plan",
+            "n. & v.",
+            "计划；精心安排"
+        ],
+        [
+            "a three-year plan",
+            "",
+            "三年计划"
+        ]
+    ]
+}

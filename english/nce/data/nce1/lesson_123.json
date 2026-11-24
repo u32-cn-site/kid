@@ -1,0 +1,135 @@
+{
+    "lesson": 123,
+    "title": [
+        "A trip to Australia",
+        "澳大利亚之行"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Look, Scott. This is a photograph I took during my trip to Australia.",
+                "看，这是我到澳大利亚旅行时拍的一张照片。"
+            ],
+            [
+                "Let me see it, Mike.",
+                "让我看看，迈克。"
+            ],
+            [
+                "This is a good photograph. Who are these people?",
+                "这是一张很好的照片。这些人是谁。"
+            ],
+            [
+                "They're people I met during the trip.",
+                "他们是我旅行时认识的人。"
+            ],
+            [
+                "That's the ship we travelled on.",
+                "这是我们所乘的那条船。"
+            ],
+            [
+                "What a beautiful ship!",
+                "多漂亮的船啊！"
+            ],
+            [
+                "Who's this?",
+                "这是谁？"
+            ],
+            [
+                "That's the man I told you about. Remember?",
+                "这就是我跟你说过的那个人。还记得吗？"
+            ],
+            [
+                "Ah yes. The one who offered you a job in Australia.",
+                "啊，记得。就是在澳大利亚给你工作的那个人。"
+            ],
+            [
+                "That's right.",
+                "对。"
+            ],
+            [
+                "Who's this?",
+                "这是谁？"
+            ],
+            [
+                "Guess!",
+                "你猜！"
+            ],
+            [
+                "It's not you, is it?",
+                "这不是你，对吗？"
+            ],
+            [
+                "That's right.",
+                "不，是我。"
+            ],
+            [
+                "I grew a beard during the trip.",
+                "我在旅行时留了胡子。"
+            ],
+            [
+                "But I shaved it off when I came home.",
+                "但我回到家时就把它刮了。"
+            ],
+            [
+                "Why did you shave it off?",
+                "你为什么把它刮了？"
+            ],
+            [
+                "My wife didn't like it!",
+                "我妻子不喜欢！"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "during",
+            "prep.",
+            "在……期间"
+        ],
+        [
+            "trip",
+            "n.",
+            "旅行"
+        ],
+        [
+            "travel",
+            "v.",
+            "旅行"
+        ],
+        [
+            "offer",
+            "v.",
+            "提供"
+        ],
+        [
+            "job",
+            "n.",
+            "工作"
+        ],
+        [
+            "guess",
+            "v.",
+            "猜"
+        ],
+        [
+            "grow",
+            "v.",
+            "长，让……生长"
+        ],
+        [
+            "grew",
+            "v.",
+            "长，让……生长（过去式）"
+        ],
+        [
+            "grown",
+            "v.",
+            "长，让……生长（过去分词）"
+        ],
+        [
+            "beard",
+            "n.",
+            "（下巴上的）胡子，络腮胡子"
+        ]
+    ]
+}

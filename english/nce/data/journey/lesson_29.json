@@ -1,0 +1,485 @@
+{
+ "lesson": 29,
+ "title": [
+  "The Magic Sleeve",
+  "神奇袖子"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "\"I know we counted the fruit correctly,\" said one priest.",
+    "“我知道我们仔细地数过那些水果了，”一位神父说道。"
+   ],
+   [
+    "\"But we'll count again anyway.\"",
+    "“但不管怎样，我们还是要重新数一遍。”"
+   ],
+   [
+    "The two angry priests went outside and gasped.",
+    "两位愤怒的牧师走到外面，顿时倒抽了一口气。"
+   ],
+   [
+    "The ginseng tree was lying on the ground.",
+    "人参树倒在地上了。"
+   ],
+   [
+    "It was gray, and all its leaves were gone.",
+    "它是灰色的，所有的叶子都不见了。"
+   ],
+   [
+    "\"The tree is dead!\" cried one priest.",
+    "“这棵树死了！”一位牧师喊道。"
+   ],
+   [
+    "\"That monkey must have done this.\"",
+    "“肯定是那只猴子干的这件事。”"
+   ],
+   [
+    "\"But the monkey was inside the whole time,\" said the other priest.",
+    "“但是那只猴子从头到尾都在里面，”另一位牧师说。"
+   ],
+   [
+    "\"How could he have been out here also?\"",
+    "“他怎么也可能在这里呢？”"
+   ],
+   [
+    "\"He's a spirit,\" said the first priest.",
+    "“他是个精灵，”第一位牧师说道。"
+   ],
+   [
+    "\"He must have used magic.",
+    "他肯定用了魔法。"
+   ],
+   [
+    "He looked at the tree and shook his head.",
+    "他看了那棵树，然后摇了摇头。"
+   ],
+   [
+    "\"This tree was older than Heaven and Earth.",
+    "“这棵树的年龄仿佛超越了天地万物。”"
+   ],
+   [
+    "The monkey must be very powerful.\"",
+    "这猴子肯定非常强壮。"
+   ],
+   [
+    "\"It would be dangerous for us to fight him,\" said the other priest.",
+    "“如果我们与他战斗，对我们来说会很危险，”另一位牧师说。"
+   ],
+   [
+    "\"Let's wait for our master, the Great Immortal, to return.\"",
+    "“让我们等待我们的主人，那位伟大的仙人归来吧。”"
+   ],
+   [
+    "Inside the abbey the Tang Monk was scolding his companions.",
+    "在修道院里，唐僧正在训斥他的同伴们。"
+   ],
+   [
+    "\"We are guests here,\" he said.",
+    "“我们这里是客人，”他说。"
+   ],
+   [
+    "\"I am very upset you stole fruit from our hosts.\"",
+    "“你对主人家的水果下手，这让我非常难过。”"
+   ],
+   [
+    "The priests came back in.",
+    "祭司们又进来了。"
+   ],
+   [
+    "\"We owe you an apology,\" said one.",
+    "“我们欠你一个道歉，”其中一个人说道。"
+   ],
+   [
+    "\"None of the ginseng fruit is missing after all.\"",
+    "“毕竟，所有的人参果实都没有丢失。”"
+   ],
+   [
+    "\"Oh,\" said the Tang Monk.",
+    "“哦，”唐僧说道。"
+   ],
+   [
+    "\"I'm glad to hear that.\"",
+    "“听到这个消息我很高兴。”"
+   ],
+   [
+    "\"Thank you for your apology,\" said Bajie.",
+    "“感谢你的道歉，”八戒说。"
+   ],
+   [
+    "Wukong gave the priests a suspicious look.",
+    "孙悟空怀疑地看了那些祭司一眼。"
+   ],
+   [
+    "He knew they were lying.",
+    "他知道他们在撒谎。"
+   ],
+   [
+    "But he didn't know why.",
+    "但他不明白为什么。"
+   ],
+   [
+    "\"You're all welcome to spend the night,\" said one of the priests.",
+    "“大家都可以留下来过夜，”其中一位牧师说道。"
+   ],
+   [
+    "\"Follow us.\"",
+    "“跟着我们。”"
+   ],
+   [
+    "The priests led the group to a small room in the abbey.",
+    "神父们带领着一群人来到了修道院的一个小房间里。"
+   ],
+   [
+    "The Tang Monk and his companions went inside.",
+    "唐僧和他的伙伴们走了进去。"
+   ],
+   [
+    "\"This is a nice room,\" said Bajie.",
+    "“这个房间不错。”八戒说。"
+   ],
+   [
+    "Wukong noticed that the priests didn't come in.",
+    "悟空注意到那些祭司都没有进来。"
+   ],
+   [
+    "He was about to say something when one priest slammed the door shut.",
+    "他正想说些什么，这时一位牧师突然猛地把门关上了。"
+   ],
+   [
+    "A lock clicked.",
+    "一阵“咔嗒”声后，锁打开了。"
+   ],
+   [
+    "\"Wait!\" cried Bajie.",
+    "“等等！”八戒喊道。"
+   ],
+   [
+    "\"What kind of hosts are you?",
+    "“你们是什么样的主人啊？”"
+   ],
+   [
+    "You locked us in!\"",
+    "“你把我们锁在里面了！”"
+   ],
+   [
+    "Bam!",
+    "砰！"
+   ],
+   [
+    "He kicked the door.",
+    "他踢了踢门。"
+   ],
+   [
+    "\"Ow!",
+    "“哎哟！"
+   ],
+   [
+    "My foot!\"",
+    "“我的脚！”"
+   ],
+   [
+    "Bajie fell to the floor, rubbing his foot.",
+    "八戒摔倒在地上，揉着他的脚。"
+   ],
+   [
+    "\"Why did they lock us in here?\" asked the Tang Monk.",
+    "“他们为什么把我们锁在这里？”唐僧问道。"
+   ],
+   [
+    "\"They're afraid of us,\" said Wukong.",
+    "“他们害怕我们，”悟空说。"
+   ],
+   [
+    "\"I knocked down their ginseng tree.\"",
+    "“我把他们的人参树撞倒了。”"
+   ],
+   [
+    "\"What?\" cried the Tang Monk.",
+    "“什么？”唐僧喊道。"
+   ],
+   [
+    "\"I was angry at them,\" said Wukong.",
+    "“我生他们的气，”悟空说。"
+   ],
+   [
+    "\"They're probably planning to keep us locked in here until their master comes back.\"",
+    "“他们可能打算把我们关在这里，直到他们的主人回来。”"
+   ],
+   [
+    "The Tang Monk glared at his companions.",
+    "唐僧瞪了一眼他的同伴们。"
+   ],
+   [
+    "\"How will I ever reach the Western Paradise with companions like you?\" he asked.",
+    "“有你们这样的伙伴，我怎么可能到达西天乐园呢？”他问道。"
+   ],
+   [
+    "Bajie stood up.",
+    "八戒站了起来。"
+   ],
+   [
+    "\"It's not my fault.",
+    "“这不是我的错。”"
+   ],
+   [
+    "I was hungry.\"",
+    "“我饿了。”"
+   ],
+   [
+    "Wujing looked at the ground.",
+    "武靖低头看着地面。"
+   ],
+   [
+    "\"Master, don't worry,\" said Wukong.",
+    "“师傅，不必担心，”悟空说道。"
+   ],
+   [
+    "\"I'll get us out of here.",
+    "“我会把我们从这个地方带出去的。”"
+   ],
+   [
+    "When the priests go to sleep, I'll use my lock-picking magic.",
+    "当祭司们睡着的时候，我就用我的开锁魔法吧。"
+   ],
+   [
+    "Then we'll be on our way.\"",
+    "“那么我们就出发吧。”"
+   ],
+   [
+    "The four travelers escaped that night and headed west.",
+    "那四名旅行者在那个晚上逃走了，然后向西行进。"
+   ],
+   [
+    "The next day they saw an old man on the road.",
+    "第二天，他们在路上看到了一位老人。"
+   ],
+   [
+    "\"Excuse me,\" said the man.",
+    "“打扰一下，”那个男人说道。"
+   ],
+   [
+    "\"Did you come from the abbey?\"",
+    "“你是从修道院来的吗？”"
+   ],
+   [
+    "The Tang Monk glanced nervously at his companions.",
+    "唐僧紧张地看了一眼他的同伴们。"
+   ],
+   [
+    "\"Um, yes,\" he said.",
+    "“嗯，是的，”他说。"
+   ],
+   [
+    "\"I thought so,\" said the man.",
+    "“我就这么觉得，”那人说。"
+   ],
+   [
+    "He suddenly stood much taller.",
+    "他突然显得高了很多。"
+   ],
+   [
+    "\"I am the Great Immortal!",
+    "“我是伟大的仙者！”"
+   ],
+   [
+    "You destroyed my ginseng tree.",
+    "你毁了我的人参树。"
+   ],
+   [
+    "You're not going any farther until you give me a new one!\"",
+    "在你给我一个新的（东西）之前，你不能再往前走了！"
+   ],
+   [
+    "Wukong pulled out his iron bar.",
+    "孙悟空拔出了他的铁棒。"
+   ],
+   [
+    "Bajie and Wujing raised their weapons.",
+    "八戒和悟空举起了他们的武器。"
+   ],
+   [
+    "The Great Immortal rose into the air and landed on a cloud.",
+    "那位伟大的仙人升入空中，然后降落在一片云朵上。"
+   ],
+   [
+    "Wukong laughed.",
+    "孙悟空笑了。"
+   ],
+   [
+    "\"You think you're special just because you can fly?",
+    "“就因为你会飞，你就觉得自己很特别吗？”"
+   ],
+   [
+    "We can do that too!\"",
+    "“我们也能做到！”"
+   ],
+   [
+    "The Great Immortal raised an eyebrow.",
+    "伟大的仙人挑起了眉毛。"
+   ],
+   [
+    "\"Can you do this?",
+    "“你能做这件事吗？”"
+   ],
+   [
+    "It's called Magic of the Cosmos in the Sleeve.\"",
+    "它的名字叫做“袖中的宇宙魔力”。"
+   ],
+   [
+    "The Great Immortal waved his arm.",
+    "那位伟大的仙人挥了挥手臂。"
+   ],
+   [
+    "His sleeve swooped down toward Wukong and his companions.",
+    "他的手臂猛地向悟空和他的同伴们挥了下来。"
+   ],
+   [
+    "Instantly they were all swept up in it.",
+    "他们立刻都被吸引了进去。"
+   ]
+  ]
+ },
+ "words": [
+  [
+   "correctly",
+   "",
+   "正确地，得体地",
+   "I know we counted the fruit correctly.",
+   "我知道我们正确地把水果数量数对了。"
+  ],
+  [
+   "dead",
+   "",
+   "死亡的",
+   "The tree is dead!",
+   "这棵树已经死了！"
+  ],
+  [
+   "dangerous",
+   "",
+   "危险的",
+   "It would be dangerous for us to fight him.",
+   "与我们对抗他会很危险。"
+  ],
+  [
+   "scold",
+   "",
+   "责骂",
+   "Inside the abbey the Tang Monk was scolding his companions.",
+   "在修道院里，唐僧正在训斥他的同伴们。"
+  ],
+  [
+   "guest",
+   "",
+   "客⼈",
+   "We are guests here.",
+   "我们在这里是客人。"
+  ],
+  [
+   "stole",
+   "",
+   "偷窃 (steal-stole)",
+   "I am very upset you stole fruit from our hosts.",
+   "你从我们的主人那里偷水果，这让我非常难过。"
+  ],
+  [
+   "host",
+   "",
+   "主⼈",
+   "I am very upset you stole fruit from our hosts.",
+   "你从我们的主人那里偷水果，这让我非常难过。"
+  ],
+  [
+   "apology",
+   "",
+   "道歉，赔罪",
+   "We owe you an apology.",
+   "我们欠你一个道歉。"
+  ],
+  [
+   "missing",
+   "",
+   "失踪的，不见的",
+   "None of the ginseng fruit is missing after all.",
+   "毕竟，没有一根人参果实是缺失的。"
+  ],
+  [
+   "suspicious",
+   "",
+   "可疑的，容易引起怀疑的",
+   "Wukong gave the priests a suspicious look.",
+   "孙悟空怀疑地看了那些祭司一眼。"
+  ],
+  [
+   "spend",
+   "",
+   "花(钱、时间等)",
+   "You're all welcome to spend the night.",
+   "大家都欢迎在这里过夜。"
+  ],
+  [
+   "lock in",
+   "",
+   "把…锁在(屋等)⾥，把…关在⾥⾯",
+   "You locked us in!",
+   "你把我们锁在里面了！"
+  ],
+  [
+   "glare",
+   "",
+   "怒⽬注视",
+   "The Tang Monk glared at his companions.",
+   "唐僧瞪了一眼他的同伴们。"
+  ],
+  [
+   "fault",
+   "",
+   "错误，过失",
+   "It's not my fault.",
+   "这不是我的错。"
+  ],
+  [
+   "lock-picking",
+   "",
+   "撬锁的",
+   "When the priests go to sleep, I'll use my lock-picking magic.",
+   "当祭司们睡着的时候，我就用我的开锁魔法吧。"
+  ],
+  [
+   "escape",
+   "",
+   "逃亡，逃跑",
+   "The four travelers escaped that night and headed west.",
+   "那四名旅行者在那个晚上逃走了，然后向西行进。"
+  ],
+  [
+   "nervously",
+   "",
+   "焦急地，神经质地",
+   "The Tang Monk glanced nervously at his companions.",
+   "唐僧紧张地看了一眼他的同伴们。"
+  ],
+  [
+   "farther",
+   "",
+   "更远地 (far-farther)",
+   "You're not going any farther until you give me a new one!",
+   "在给我一个新的（东西/人等）之前，你不能再往前走了！"
+  ],
+  [
+   "raise",
+   "",
+   "举起，使升⾼",
+   "Bajie and Wujing raised their weapons.",
+   "八戒和悟空举起了他们的武器。"
+  ],
+  [
+   "eyebrow",
+   "",
+   "眉⽑",
+   "The Great Immortal raised an eyebrow.",
+   "伟大的仙人挑起了眉毛。"
+  ]
+ ]
+}

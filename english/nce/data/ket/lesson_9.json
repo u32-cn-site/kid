@@ -1,0 +1,219 @@
+{
+    "lesson": 9,
+    "title": [
+        "Aria's Daily Vlog (1)",
+        "阿莉亚的日常Vlog（1）"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Hey guys, this is Aria!",
+                "嘿大家好，我是阿莉亚！"
+            ],
+            [
+                "Welcome back to my channel!",
+                "欢迎回到我的频道！"
+            ],
+            [
+                "Today is my husband Tommy's birthday.",
+                "今天是我丈夫汤米的生日。"
+            ],
+            [
+                "We'll have a small dinner party at our house.",
+                "我们将在家里举办一个小型晚宴。"
+            ],
+            [
+                "Follow me and see how it goes!",
+                "跟着我来看看进展如何！"
+            ],
+            [
+                "Now we're in the backyard.",
+                "现在我们在后院。"
+            ],
+            [
+                "The weather is nice.",
+                "天气很好。"
+            ],
+            [
+                "We're going to eat outside.",
+                "我们要在户外用餐。"
+            ],
+            [
+                "We set the table earlier in the morning.",
+                "我们在早上早些时候摆好了餐桌。"
+            ],
+            [
+                "We got these beautiful bowls, plates and cups from abroad.",
+                "我们从国外买来了这些漂亮的碗、盘子和杯子。"
+            ],
+            [
+                "This set of silverware, which includes knives, forks and spoons, is a gift from a friend.",
+                "这套包括刀、叉和勺的银餐具是一位朋友送的礼物。"
+            ],
+            [
+                "We only take them out for special days, like today.",
+                "我们只在特殊的日子才拿出来，比如今天。"
+            ],
+            [
+                "We invited several friends a few weeks ago.",
+                "几周前我们邀请了几位朋友。"
+            ],
+            [
+                "They were told to bring one of their favourite desserts.",
+                "他们被告知要带上他们最喜欢的甜点之一。"
+            ],
+            [
+                "This means we're going to have some really delicious home-made sweet snacks!",
+                "这意味着我们要享用一些真正美味的自制甜点小吃了！"
+            ],
+            [
+                "Patrick, Emily and Anne will bring some banana cakes, mango rice, butter biscuits and fruit sugars.",
+                "帕特里克、艾米莉和安妮会带一些香蕉蛋糕、芒果饭、黄油饼干和水果糖。"
+            ],
+            [
+                "I love their desserts so much.",
+                "我太喜欢他们的甜点了。"
+            ],
+            [
+                "I never have enough.",
+                "我总是吃不够。"
+            ],
+            [
+                "Look, who is in the kitchen?",
+                "看，谁在厨房里？"
+            ],
+            [
+                "Tommy's mum just finished baking a lovely birthday cake.",
+                "汤米的妈妈刚刚烤好了一个可爱的生日蛋糕。"
+            ],
+            [
+                "She is now preparing for today's barbecue.",
+                "她现在正在准备今天的烧烤。"
+            ],
+            [
+                "As you see, the bottom of the cake is decorated with lots of cream.",
+                "如你所见，蛋糕底部装饰着很多奶油。"
+            ],
+            [
+                "On top, there're some strawberry slices and chocolate bars.",
+                "上面有一些草莓片和巧克力棒。"
+            ],
+            [
+                "We hope Tommy will like it.",
+                "我们希望汤米会喜欢。"
+            ],
+            [
+                "Now I'm going to pick some apples and lemons from our backyard.",
+                "现在我要去后院摘一些苹果和柠檬。"
+            ],
+            [
+                "It would be great to make some fresh drinks like juice, lemonade, cocktails and fruit tea.",
+                "制作一些新鲜的饮料如果汁、柠檬水、鸡尾酒和果茶会很棒。"
+            ],
+            [
+                "We can serve our thirsty guests with these drinks.",
+                "我们可以用这些饮料招待我们口渴的客人。"
+            ],
+            [
+                "It's already three o'clock.",
+                "已经三点了。"
+            ],
+            [
+                "I have to start preparing for the cooking.",
+                "我得开始准备做饭了。"
+            ],
+            [
+                "See you later!",
+                "待会儿见！"
+            ]
+        ]
+    },
+    "words": [
+        ["dinner", "n.", "晚餐，晚宴"],
+        ["how", "adv.", "如何；怎样"],
+        ["eat", "v.", "吃；吃饭"],
+        ["table", "n.", "桌子；表格"],
+        ["bowl", "n.", "碗"],
+        ["plate", "n.", "盘子；碟子"],
+        ["cup", "n.", "杯子"],
+        ["set", "n.", "一套"],
+        ["set", "v.", "放，置；摆放餐具"],
+        ["knife", "n.", "刀"],
+        ["fork", "n.", "餐叉"],
+        ["spoon", "n.", "匙；勺子"],
+        ["several", "det. & pron.", "几个；数个"],
+        ["favourite", "adj.", "特别喜爱的"],
+        ["favourite", "n.", "特别喜爱的人（或事物）"],
+        ["dessert", "n.", "（饭后）甜点，甜食"],
+        ["delicious", "adj.", "美味的；可口的"],
+        ["sweet", "adj.", "甜的"],
+        ["sweet", "n.", "糖果（英式）"],
+        ["snack", "n.", "小吃；快餐"],
+        ["banana", "n.", "香蕉"],
+        ["cake", "n.", "蛋糕"],
+        ["mango", "n.", "芒果"],
+        ["rice", "n.", "大米；米饭"],
+        ["butter", "n.", "黄油，奶油"],
+        ["biscuit", "n.", "饼干"],
+        ["sugar", "n.", "糖"],
+        ["enough", "det.", "足够的"],
+        ["enough", "pron.", "足够的人或事物"],
+        ["enough", "adv.", "足够"],
+        ["bake", "v.", "烤，烘焙"],
+        ["barbecue", "n.", "户外烤肉"],
+        ["bottom", "n.", "底部"],
+        ["cream", "n.", "奶油，乳脂"],
+        ["strawberry", "n.", "草莓"],
+        ["slice", "n.", "薄片"],
+        ["chocolate", "n.", "巧克力"],
+        ["apple", "n.", "苹果"],
+        ["lemon", "n.", "柠檬"],
+        ["fresh", "adj.", "新鲜的；清新的"],
+        ["drink", "n.", "饮料"],
+        ["drink", "v.", "喝，饮"],
+        ["juice", "n.", "果汁"],
+        ["lemonade", "n.", "柠檬汁"],
+        ["tea", "n.", "茶"],
+        ["thirsty", "adj.", "口渴的"],
+        ["cooking", "n.", "烹饪；饭菜"],
+        ["Christmas dinner", "", "圣诞大餐"],
+        ["set the table", "", "摆饭桌"],
+        ["a pile of dinner plates", "", "一叠餐盘"],
+        ["a coffee cup", "", "咖啡杯"],
+        ["a set of six chairs", "", "六把成套的椅子"],
+        ["a bread knife", "", "切面包刀"],
+        ["eat with a knife and fork", "", "用刀叉吃东西"],
+        ["a soup spoon", "", "汤匙"],
+        ["several times", "", "几次"],
+        ["a few months ago", "", "几个月之前"],
+        ["delicious dessert", "", "美味的甜品"],
+        ["snack food", "", "零食"],
+        ["a bunch of bananas", "", "一串香蕉"],
+        ["a piece of cake", "", "一块蛋糕"],
+        ["a fresh mango", "", "新鲜的芒果"],
+        ["a bowl of rice", "", "一碗米饭"],
+        ["chocolate biscuits", "", "巧克力饼干"],
+        ["fruit sugars", "", "水果糖"],
+        ["vegetables fresh from the garden", "", "刚从菜园采摘的蔬菜"],
+        ["fresh apple juice", "", "新鲜的苹果汁"],
+        ["I don't eat meat", "", "我不吃肉。"],
+        ["Who is your favourite writer?", "", "谁是你特别喜欢的作家？"],
+        ["What is for dessert?", "", "餐后甜点吃什么？"],
+        ["Have you had enough?", "", "你吃饱了吗？"],
+        ["I'm baking Alex a cake", "", "我在给亚历克斯烤蛋糕。"],
+        ["Let's have a barbecue!", "", "我们来一次户外烧烤吧！"],
+        ["at the bottom of the hill", "", "在山脚下"],
+        ["lots of sugar", "", "大量的糖"],
+        ["fresh cream", "", "新鲜的奶油"],
+        ["strawberry ice cream", "", "草莓冰激凌"],
+        ["a slice of bread", "", "一片面包"],
+        ["a chocolate cake", "", "巧克力蛋糕"],
+        ["I want an apple", "", "我想要一个苹果。"],
+        ["Can I have a drink?", "", "给我来杯饮料好吗？"],
+        ["I don't drink coffee", "", "我不喝咖啡。"],
+        ["Do you take sugar in your tea?", "", "你的茶里放糖吗？"],
+        ["We are hungry and thirsty", "", "我们又饥又渴。"],
+        ["They serve good French cooking", "", "他们供应美味的法国菜。"],
+        ["When life gives you lemons, make lemonade", "", "当生活给你柠檬的时候，把它做成柠檬汁吧。"]
+    ]
+}

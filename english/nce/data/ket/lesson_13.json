@@ -1,0 +1,194 @@
+{
+    "lesson": 13,
+    "title": [
+        "Hobbies Make Our Life Interesting",
+        "兴趣爱好让我们的生活更有趣"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Alice made lots of new friends in the new school.",
+                "爱丽丝在新学校交了很多新朋友。"
+            ],
+            [
+                "She invited her friends Lily, Dan and Richard to her home on Sunday.",
+                "周日她邀请朋友莉莉、丹和理查德来家里。"
+            ],
+            [
+                "Alice's friends came to her room.",
+                "爱丽丝的朋友们来到了她的房间。"
+            ],
+            [
+                "There were several toys and dolls on the shelf.",
+                "架子上放着几个玩具和玩偶。"
+            ],
+            [
+                "A stamp album on the desk was noticed by Lily.",
+                "莉莉注意到了桌子上的一本集邮册。"
+            ],
+            [
+                "Lily pointed it and asked Alice, \"You like collecting stamps, right?\"",
+                "莉莉指着它问爱丽丝：「你喜欢集邮，对吗？」"
+            ],
+            [
+                "\"Yes.",
+                "「是的。"
+            ],
+            [
+                "I also like painting and photographing to record the beauty of the daily life,\" answered Alice and then she asked, \"What are your hobbies, guys?\"",
+                "我也喜欢绘画和拍照来记录日常生活的美好，」爱丽丝回答，然后她问：「你们的爱好是什么，伙计们？」"
+            ],
+            [
+                "\"Actually I like listening to classical music played by the violin and piano and going to the opera.",
+                "「实际上我喜欢听小提琴和钢琴演奏的古典音乐，也喜欢去看歌剧。"
+            ],
+            [
+                "But last week my father took me to a rock concert.",
+                "但上周我父亲带我去了摇滚音乐会。"
+            ],
+            [
+                "A rock band made me interested.",
+                "一支摇滚乐队让我产生了兴趣。"
+            ],
+            [
+                "When the singer sang songs, the other members in the band played the musical instruments like the guitar, drums.",
+                "当歌手唱歌时，乐队其他成员弹奏吉他、鼓等乐器。"
+            ],
+            [
+                "So now I also enjoy listening to rock music.",
+                "所以现在我也喜欢听摇滚乐。"
+            ],
+            [
+                "In the future, I hope to be a musician,\" answered Richard quickly.",
+                "将来，我希望成为一名音乐家，」理查德快速回答。"
+            ],
+            [
+                "Lily is a girl who is very active.",
+                "莉莉是一个非常活跃的女孩。"
+            ],
+            [
+                "She answered, \"Wow, you like art, but I am interested in taking adventures.",
+                "她回答说：「哇，你喜欢艺术，但我对冒险感兴趣。"
+            ],
+            [
+                "I love going camping with my parents.",
+                "我喜欢和父母去露营。"
+            ],
+            [
+                "It is so wonderful to be surrounded by nature.\"",
+                "被大自然包围真是太棒了。」"
+            ],
+            [
+                "Dan is a quiet boy.",
+                "丹是一个安静的男孩。"
+            ],
+            [
+                "He said, \"Sounds fun!",
+                "他说：「听起来很有趣！"
+            ],
+            [
+                "But I prefer to read newspapers, magazines, comics and draw pictures.\"",
+                "但我更喜欢读报纸、杂志、漫画和画画。」"
+            ],
+            [
+                "\"I watch cartoon films sometimes.",
+                "「我有时看卡通电影。"
+            ],
+            [
+                "We should play together more often.",
+                "我们应该更经常一起玩。"
+            ],
+            [
+                "What about playing cards or board games like chess next weekend?\" said Richard.",
+                "下周末打牌或下棋之类的桌游怎么样？」理查德说。"
+            ],
+            [
+                "\"Great!",
+                "「太好了！"
+            ],
+            [
+                "I will get bored without you guys.",
+                "没有你们这些伙计我会无聊的。"
+            ],
+            [
+                "It is so lucky to have you to be my friends.\" Alice spoke out her feelings excitedly.",
+                "很幸运有你们成为我的朋友。」爱丽丝激动地说出了她的感受。"
+            ]
+        ]
+    },
+    "words": [
+        ["toy", "n.", "玩具"],
+        ["doll", "n.", "玩偶；玩具娃娃"],
+        ["stamp", "n.", "邮票"],
+        ["album", "n.", "相册；影集"],
+        ["collect", "v.", "收集；收藏"],
+        ["paint", "v.", "用颜料画"],
+        ["photograph", "v.", "拍照"],
+        ["photograph", "n.", "照片"],
+        ["hobby", "n.", "业余爱好"],
+        ["actually", "adv.", "真实地；事实上"],
+        ["listen to", "", "听……；听从"],
+        ["classical", "adj.", "古典的；经典的"],
+        ["music", "n.", "音乐；乐曲"],
+        ["play", "v.", "演奏；玩耍"],
+        ["violin", "n.", "小提琴"],
+        ["piano", "n.", "钢琴"],
+        ["opera", "n.", "歌剧"],
+        ["rock", "n.", "摇滚乐"],
+        ["band", "n.", "流行音乐乐队"],
+        ["singer", "n.", "歌唱家；歌手"],
+        ["sing", "v.", "唱；演唱"],
+        ["song", "n.", "歌；歌曲"],
+        ["musical", "adj.", "音乐的；有音乐的"],
+        ["instrument", "n.", "乐器"],
+        ["guitar", "n.", "吉他"],
+        ["drum", "n.", "鼓"],
+        ["musician", "n.", "音乐家"],
+        ["active", "adj.", "活跃的；积极的"],
+        ["art", "n.", "艺术，美术"],
+        ["adventure", "n.", "冒险；冒险经历"],
+        ["camping", "n.", "野营度假"],
+        ["fun", "n.", "享乐；乐趣"],
+        ["fun", "adj.", "有趣的"],
+        ["read", "v.", "阅读"],
+        ["newspaper", "n.", "报纸"],
+        ["magazine", "n.", "杂志；期刊"],
+        ["comic", "n.", "连环画册"],
+        ["draw", "v.", "画"],
+        ["picture", "n.", "图画；照片"],
+        ["cartoon", "n.", "动画片；卡通片"],
+        ["film", "n.", "电影；影片（英式）"],
+        ["card", "n.", "卡片"],
+        ["game", "n.", "游戏"],
+        ["chess", "n.", "国际象棋"],
+        ["bored", "adj.", "厌倦的；烦闷的"],
+        ["a stamp album", "", "集邮册"],
+        ["a photo album", "", "相册"],
+        ["collect stamps", "", "集邮"],
+        ["take photographs", "", "拍照"],
+        ["classical music", "", "古典音乐"],
+        ["play the violin", "", "拉小提琴"],
+        ["play the piano", "", "弹钢琴"],
+        ["go to the opera", "", "去看歌剧"],
+        ["a rock band", "", "摇滚乐队"],
+        ["a musical instrument", "", "乐器"],
+        ["a famous musician", "", "著名的音乐家"],
+        ["take an active part in", "", "积极参加"],
+        ["adventure stories", "", "历险故事"],
+        ["draw pictures", "", "画画"],
+        ["a cartoon film", "", "动画电影"],
+        ["a film star", "", "电影明星"],
+        ["card games", "", "纸牌游戏"],
+        ["board games", "", "棋类游戏"],
+        ["be bored with", "", "对……厌烦"],
+        ["A friend painted the children for me", "", "一位朋友给我画了孩子们的画像。"],
+        ["Her hobby is swimming", "", "她爱好游泳。"],
+        ["I love listening to music", "", "我喜欢听音乐。"],
+        ["She's a wonderful singer", "", "她歌唱得非常好。"],
+        ["Will you sing us a song?", "", "你给我们唱支歌好吗？"],
+        ["We sang a song together", "", "我们一起唱了一首歌。"],
+        ["Have fun!", "", "尽情地玩吧！"],
+        ["Do you go camping?", "", "你去野营度假吗？"],
+        ["movie", "n.", "电影（美式）"]
+    ]
+}

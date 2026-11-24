@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英语音标学习</title>
+    <style>
+        .card {
+            width: 50px;
+            height: 50px;
+            border: 1px solid #ccc;
+            display: inline-block;
+            margin: 1px;
+            text-align: center;
+            line-height: 50px;
+            font-size: 40px;
+            cursor: pointer;
+            font-family: 'Lucida Sans Unicode';
+            user-select: none;
+        }
+        .card:hover {
+            background-color: #f0f000;
+        }
+        .category {
+            font-size: 12px;
+            font-weight: bold;
+            margin-top: 6px;
+        }
+    </style>
+</head>
+<body>
+    <div id="cards"></div>
+
+    <script>
+        const cards = document.getElementById('cards');
+        const phoneticSymbols = {
+            '单元音': {
+                '长元音': ['iː', 'ɑː', 'ɔː', 'uː', 'ɜː'],
+                '短元音': ['ɪ', 'e', 'æ', 'ɒ', 'ʊ', 'ə', 'ʌ']
+            },
+            '双元音': ['ei', 'aɪ', 'ɔɪ', 'əʊ', 'aʊ', 'ɪə', 'eə', 'ʊə'],
+            '辅音': {
+                '爆破音': ['p', 'b', 't', 'd', 'k', 'g'],
+                '摩擦音': ['f', 'v', 's', 'z', 'θ', 'ð', 'ʃ', 'ʒ', 'h', 'r'],
+                '破擦音': ['tr', 'dr', 'ts', 'dz', 'tʃ', 'dʒ'],
+                '鼻音': ['m', 'n', 'ŋ'],
+                '舌侧音': ['l'],
+                '半元音': ['w', 'j']
+            }
+        };
+
+        function createCards(category, symbols) {
+            const categoryDiv = document.createElement('div');
+            categoryDiv.classList.add('category');
+            categoryDiv.textContent = category;
+            cards.appendChild(categoryDiv);
+
+            symbols.forEach((symbol, index) => {
+                const card = document.createElement('div');
+                card.classList.add('card');
+                card.textContent = symbol;
+                card.addEventListener('click', () => {
+                    const audio = new Audio(`assets/mp3/${symbol}.mp3`);
+                    audio.play();
+                });
+                cards.appendChild(card);
+            });
+        }
+
+        for (const category in phoneticSymbols) {
+            if (phoneticSymbols.hasOwnProperty(category)) {
+                const symbols = phoneticSymbols[category];
+                if (!Array.isArray(symbols)) {
+                    for (const subCategory in symbols) {
+                        if (symbols.hasOwnProperty(subCategory)) {
+                            createCards(`${category} - ${subCategory}`, symbols[subCategory]);
+                        }
+                    }
+                } else {
+                    createCards(category, symbols);
+                }
+            }
+        }
+    </script>
+
+
+</body>
+</html>

@@ -1,0 +1,177 @@
+{
+    "lesson": 8,
+    "title": [
+        "Welcome to the Central Shopping Centre",
+        "欢迎来到中央购物中心"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Dear customers, welcome to the Central Shopping Centre.",
+                "亲爱的顾客们，欢迎来到中央购物中心。"
+            ],
+            [
+                "We open at 11 a.m. and close at 9 p.m. from Monday to Sunday.",
+                "我们从周一到周日上午11点开门，晚上9点关门。"
+            ],
+            [
+                "We sell many products, including clothing, jewellery and accessories, housewares, food and drinks, and much more.",
+                "我们销售许多商品，包括服装、珠宝和配饰、厨房用具、食品和饮料，以及更多。"
+            ],
+            [
+                "The jewellery and accessory section is on the ground floor.",
+                "珠宝和配饰区在底楼。"
+            ],
+            [
+                "We sell all types of jewellery, including rings, bracelets, necklaces, earrings which are made of gold, silver and gems.",
+                "我们销售各类珠宝，包括金、银和宝石制成的戒指、手镯、项链、耳环。"
+            ],
+            [
+                "Accessories are next to jewellery, including leather handbags, purses and wallets, watches, sunglasses, ties and belts.",
+                "配饰在珠宝旁边，包括皮革手提包、钱包和皮夹、手表、太阳镜、领带和腰带。"
+            ],
+            [
+                "There's also a wide choice of hats, scarves and gloves.",
+                "还有各种各样的帽子、围巾和手套可供选择。"
+            ],
+            [
+                "The make-up and perfume counters are also on the same floor, where you can buy all sorts of items.",
+                "化妆品和香水柜台也在同一层楼，在那里您可以购买各类商品。"
+            ],
+            [
+                "The clothing stores and shoe stores are on the first floor.",
+                "服装店和鞋店在一楼。"
+            ],
+            [
+                "The products we sell include clothing and shoes in the latest fashion for women, men and children.",
+                "我们销售的产品包括女士、男士和儿童的最新时尚服装和鞋类。"
+            ],
+            [
+                "You can also find sportswear, sports socks, swimming costumes, and sporting equipment on this floor.",
+                "您还可以在这一层找到运动服、运动袜、泳衣和运动器材。"
+            ],
+            [
+                "On the second floor, there are many restaurant chains.",
+                "在二楼有许多连锁餐厅。"
+            ],
+            [
+                "There's also a large market where you can buy fresh food.",
+                "还有一个大市场，您可以在那里购买新鲜食品。"
+            ],
+            [
+                "Customers can pay by credit card, cheque or in cash at any store.",
+                "顾客可以在任何商店使用信用卡、支票或现金支付。"
+            ],
+            [
+                "After checkout, please keep your receipts which can be used for a refund.",
+                "结账后，请保管好您的收据，这些收据可用于退款。"
+            ],
+            [
+                "We provide umbrellas and raincoats for shoppers to borrow on rainy days.",
+                "我们在雨天为购物者提供雨伞和雨衣借用。"
+            ],
+            [
+                "If you have any questions, please feel free to ask our staff for help.",
+                "如果您有任何问题，请随时向我们的员工寻求帮助。"
+            ],
+            [
+                "They wear blue uniforms.",
+                "他们身穿蓝色制服。"
+            ],
+            [
+                "We always put \"customers first\" and \"make sure every penny you spend counts\".",
+                "我们始终秉持「顾客至上」和「确保您花的每一分钱都物有所值」的理念。"
+            ],
+            [
+                "Thank you for choosing us and we sincerely hope to see you soon!",
+                "感谢您选择我们，真诚希望很快见到您！"
+            ]
+        ]
+    },
+    "words": [
+        ["customer", "n.", "顾客"],
+        ["welcome", "excl.", "欢迎"],
+        ["welcome", "adj.", "受欢迎的"],
+        ["open", "v.", "打开"],
+        ["open", "adj.", "开着的"],
+        ["close", "v.", "关闭"],
+        ["close", "adj.", "关闭的"],
+        ["sell", "v.", "售卖"],
+        ["jewellery", "n.", "珠宝（英式）"],
+        ["type", "n.", "类型；种类"],
+        ["ring", "n.", "戒指"],
+        ["bracelet", "n.", "手镯；手链"],
+        ["necklace", "n.", "项链"],
+        ["earring", "n.", "耳环，耳饰"],
+        ["gold", "n.", "黄金"],
+        ["gold", "adj.", "金色的"],
+        ["leather", "n.", "皮革"],
+        ["handbag", "n.", "小手提包"],
+        ["purse", "n.", "（女士）钱包"],
+        ["wallet", "n.", "钱包，皮夹"],
+        ["sunglasses", "n.", "太阳镜"],
+        ["tie", "n.", "领带"],
+        ["belt", "n.", "腰带；皮带"],
+        ["hat", "n.", "帽子"],
+        ["scarf", "n.", "围巾"],
+        ["glove", "n.", "手套"],
+        ["make-up", "n.", "化妆品"],
+        ["perfume", "n.", "香水"],
+        ["sort", "n.", "种类；方式"],
+        ["shoe", "n.", "鞋"],
+        ["latest", "adj.", "最新的；最近的"],
+        ["fashion", "n.", "时尚；流行款式"],
+        ["sock", "n.", "短袜"],
+        ["costume", "n.", "（特定国家或历史时期流行的）服装；全套服饰"],
+        ["chain", "n.", "项链；链子"],
+        ["market", "n.", "市场"],
+        ["pay", "v.", "支付"],
+        ["credit card", "n.", "信用卡"],
+        ["cheque", "n.", "支票（英式）"],
+        ["cash", "n.", "现金"],
+        ["receipt", "n.", "收据；收条"],
+        ["umbrella", "n.", "雨伞"],
+        ["raincoat", "n.", "雨衣"],
+        ["shopper", "n.", "购物者；顾客"],
+        ["free", "adj.", "自由的；免费的"],
+        ["uniform", "n.", "制服"],
+        ["penny", "n.", "便士"],
+        ["thank", "v.", "谢谢，感谢"],
+        ["soon", "adv.", "很快；马上；不久"],
+        ["customer first", "", "顾客至上"],
+        ["open the window", "", "打开窗户"],
+        ["close the window", "", "关上窗户"],
+        ["silver jewellery", "n.", "珠宝（法式）"],
+        ["I like this type of book", "", "我喜欢这类图书。"],
+        ["a gold ring", "", "金戒指"],
+        ["a silver bracelet", "", "银手镯"],
+        ["a pair of earrings", "", "一对耳环"],
+        ["a leather belt", "", "皮带"],
+        ["a coin out of my purse", "", "从钱包里取出一枚硬币"],
+        ["a striped silk tie", "", "带有条纹的真丝领带"],
+        ["seat belt", "", "安全带"],
+        ["put on a hat", "", "戴帽子"],
+        ["a silk scarf", "", "丝绸围巾"],
+        ["a pair of gloves", "", "一副手套"],
+        ["wear make-up", "", "化妆"],
+        ["a bottle of expensive perfume", "", "一瓶昂贵的香水"],
+        ["What sort of music do you like?", "", "你喜欢哪一类音乐？"],
+        ["a pair of shoes", "", "一双鞋"],
+        ["the latest style", "", "最新款式"],
+        ["out of fashion", "", "过时"],
+        ["a pair of socks", "", "一双短袜"],
+        ["swim costume", "", "泳衣（英式）"],
+        ["a supermarket chain", "", "连锁超市"],
+        ["a fruit market", "", "水果市场"],
+        ["pay for", "", "支付"],
+        ["pay by cheque", "", "用支票支付"],
+        ["bathing suit", "n.", "泳衣（美式）"],
+        ["check", "n.", "支票（美式）"],
+        ["Feel free to ask questions if you don't understand", "", "你要是不懂，可以随便提问。"],
+        ["Welcome home!", "", "欢迎回家！"],
+        ["I took a coin out of my purse", "", "我从钱包里取出了一枚硬币。"],
+        ["He has a few pennies in his pocket", "", "他的口袋里有几便士。"],
+        ["Thank you very much", "", "非常感谢你。"],
+        ["See you soon!", "", "再见！"]
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "lesson": 9,
+    "title": [
+        "How are you today?",
+        "今天好吗？"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Hello, Helen.",
+                "你好，海伦。"
+            ],
+            [
+                "Hi, Steven.",
+                "你好，史蒂文。"
+            ],
+            [
+                "How are you today?",
+                "你今天好吗？"
+            ],
+            [
+                "I'm very well, thank you.",
+                "很好，谢谢你。"
+            ],
+            [
+                "And you?",
+                "你好吗？"
+            ],
+            [
+                "I'm fine, thanks.",
+                "很好，谢谢。"
+            ],
+            [
+                "How is Tony?",
+                "托尼好吗？"
+            ],
+            [
+                "He's fine, thanks.",
+                "他很好，谢谢。"
+            ],
+            [
+                "How's Emma?",
+                "埃玛好吗？"
+            ],
+            [
+                "She's very well, too, Helen.",
+                "她也很好，海伦。"
+            ],
+            [
+                "Goodbye, Helen.",
+                "再见，海伦。"
+            ],
+            [
+                "Nice to see you.",
+                "见到你真高兴。"
+            ],
+            [
+                "Nice to see you, too, Steven.",
+                "我见到你也很高兴，史蒂文。"
+            ],
+            [
+                "Goodbye.",
+                "再见。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "hello",
+            "int.",
+            "喂（表示问候）"
+        ],
+        [
+            "hi",
+            "int.",
+            "喂，嗨"
+        ],
+        [
+            "how",
+            "adv.",
+            "如何，怎样"
+        ],
+        [
+            "well",
+            "adj.",
+            "身体好"
+        ],
+        [
+            "fine",
+            "adj.",
+            "美好的"
+        ],
+        [
+            "thanks",
+            "int.",
+            "谢谢"
+        ],
+        [
+            "goodbye",
+            "int.",
+            "再见"
+        ],
+        [
+            "see",
+            "v.",
+            "见"
+        ]
+    ]
+}

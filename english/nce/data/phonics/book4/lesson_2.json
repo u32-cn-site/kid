@@ -1,0 +1,29 @@
+{
+    "lesson": 2,
+    "title": ["Unit 2", "第2单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["frog", "", "青蛙"],
+        ["The frog jumps high.", "", "青蛙跳得很高。"],
+        ["Friday", "", "星期五"],
+        ["Friday is my favorite day.", "", "星期五是我最喜欢的一天。"],
+        ["green", "", "绿色"],
+        ["The grass is green.", "", "草是绿色的。"],
+        ["grass", "", "草"],
+        ["I sit on the grass.", "", "我坐在草地上。"],
+        ["plate", "", "盘子"],
+        ["The plate is round.", "", "盘子是圆形的。"],
+        ["playslide", "", "滑梯"],
+        ["I go down the slide.", "", "我从滑梯上滑下来。"],
+        ["sleep", "", "睡觉"],
+        ["I sleep at night.", "", "我晚上睡觉。"],
+        ["drum", "", "鼓"],
+        ["He plays the drum.", "", "他打鼓。"],
+        ["dress", "", "连衣裙"],
+        ["She wears a pink dress.", "", "她穿着粉色连衣裙。"],
+        ["truck", "", "卡车"],
+        ["The truck is big.", "", "卡车很大。"],
+        ["tree", "", "树"],
+        ["The tree has many leaves.", "", "树有很多叶子。"]
+    ]
+}

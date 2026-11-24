@@ -1,0 +1,31 @@
+{
+    "lesson": 8,
+    "title": ["Unit 8", "第8单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["rice", "", "米饭"],
+        ["I eat rice every day.", "", "我每天都吃米饭。"],
+        ["city", "", "城市"],
+        ["I live in a big city.", "", "我住在大城市。"],
+        ["ice cream", "", "冰淇淋"],
+        ["I like chocolate ice cream.", "", "我喜欢巧克力冰淇淋。"],
+        ["cell phone", "", "手机"],
+        ["My mom has a cell phone.", "", "我妈妈有手机。"],
+        ["giraffe", "", "长颈鹿"],
+        ["The giraffe has a long neck.", "", "长颈鹿有长脖子。"],
+        ["orange", "", "橙子/橙色"],
+        ["I eat an orange.", "", "我吃橙子。"],
+        ["giant", "", "巨人"],
+        ["The giant is very tall.", "", "巨人非常高。"],
+        ["cage", "", "笼子"],
+        ["The bird is in a cage.", "", "鸟在笼子里。"],
+        ["rose", "", "玫瑰"],
+        ["The rose smells nice.", "", "玫瑰闻起来很香。"],
+        ["jeans", "", "牛仔裤"],
+        ["I wear blue jeans.", "", "我穿蓝色牛仔裤。"],
+        ["cheese", "", "奶酪"],
+        ["Mice like cheese.", "", "老鼠喜欢奶酪。"],
+        ["legs", "", "腿"],
+        ["I have two legs.", "", "我有两条腿。"]
+    ]
+}

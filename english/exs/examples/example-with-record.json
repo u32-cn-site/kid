@@ -1,0 +1,66 @@
+{
+  "title": "已作答练习 - 记录示例",
+  "questions": [
+    {
+      "type": "single",
+      "content": "5 + 3 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": 2,
+      "record": {
+        "status": "correct",
+        "attempts": 1,
+        "attemptHistory": [
+          {"selected": 2, "correct": true, "startTime": 1714000000000, "endTime": 1714000005000}
+        ]
+      }
+    },
+    {
+      "type": "single",
+      "content": "15 - 8 = ?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 2,
+      "record": {
+        "status": "wrong",
+        "attempts": 2,
+        "attemptHistory": [
+          {"selected": 1, "correct": false, "startTime": 1714000010000, "endTime": 1714000018000},
+          {"selected": 0, "correct": false, "startTime": 1714000020000, "endTime": 1714000028000}
+        ]
+      }
+    },
+    {
+      "type": "multiple",
+      "content": "哪些是3的倍数？",
+      "options": ["6", "7", "9", "10"],
+      "answer": [0, 2],
+      "record": {
+        "status": "correct",
+        "attempts": 1,
+        "attemptHistory": [
+          {"selected": [0, 2], "correct": true, "startTime": 1714000030000, "endTime": 1714000040000}
+        ]
+      }
+    },
+    {
+      "type": "fill",
+      "content": "3 × 7 = ___",
+      "answer": ["21"],
+      "record": {
+        "status": "pending",
+        "attempts": 0,
+        "attemptHistory": []
+      }
+    },
+    {
+      "type": "fill",
+      "content": "中国最长的河流是___",
+      "answer": ["长江"],
+      "record": {
+        "status": "skipped",
+        "attempts": 0,
+        "attemptHistory": [],
+        "skipReason": "没学过"
+      }
+    }
+  ]
+}

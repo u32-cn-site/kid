@@ -1,0 +1,69 @@
+# U32 练习场 (Practice Zone)
+
+> 一个纯前端、无后端的练习 PWA。用户粘贴固定格式的题集 JSON，应用以递归 Section 树形展示所有题、每题独立提交并即时判分。支持六种题型（单选、多选、填空、连线、排序、主观），客观题系统自动判分，主观题用户查看参考答案后自评。所有数据保存在浏览器本地（OPFS），仅在用户主动使用「从 URL 导入」或「从题库导入」时发起网络请求拉取题集，不收集任何作答数据。
+
+## 给 AI 助手
+
+如果你是 AI 助手，正准备帮用户生成练习题集（学习资料转题、随堂测验、复习自测等），请先读取下面的技能文档——它包含完整的题集 JSON 格式、六题型字段定义、判分规则、自评规则、正反示例与校验脚本：
+
+- [u32-practice-zone 技能](https://kid.u32.cn/practice-zone/u32-practice-zone/SKILL.md): 读取后即可为应用生成可直接粘贴的题集 JSON
+
+## 如何使用
+
+公网入口：`https://kid.u32.cn/practice-zone/index.html`
+
+1. 把题集 JSON 粘贴到输入框（也可用「从 URL 导入」或「从题库导入」让应用主动 fetch）
+2. 系统校验格式，有问题会列出错误位置；通过后点「开始练习」
+3. 所有题以树形结构展示在一页里，每题独立作答与提交：客观题（单选/多选/填空/连线/排序）提交后即时判分并显示解析；主观题（简答）走「查看参考答案 → 自评 → 提交」三步
+4. 顶部「保存退出」（弹确认）或底部「已全部答完，结束练习」（全部提交后激活，无确认）会把当前进度存入历史记录，可查看逐题明细与得分
+
+## 题集 JSON 格式（v2：Section 树）
+
+顶层为对象，`root` 是 Section 树根。`sections`（分支）与 `question`（叶子）严格互斥；都没时是纯展示节点（只有 `content`）。默认扁平挂在 `root.sections` 下，多题共享同一材料时用分支节点 + `content` 承载共享材料：
+
+```json
+{
+  "title": "题集标题",
+  "basePath": "https://example.com/assets/",
+  "root": {
+    "sections": [
+      { "question": {
+        "type": "single-choice", "title": "题干",
+        "options": ["A","B","C","D"], "answer": 1,
+        "explanation": "解析"
+      } },
+      { "title": "阅读理解", "content": "## 共享阅读材料（markdown）",
+        "sections": [
+          { "question": { "type": "single-choice", "title": "...", "options": [...], "answer": 0 } },
+          { "question": { "type": "free-response", "title": "...", "points": 5, "reference": "..." } }
+        ] }
+    ]
+  }
+}
+```
+
+六种题型：
+
+- `single-choice`：`options` 字符串数组，`answer` 为正确选项下标
+- `multiple-select`：`options` 字符串数组，`answer` 为正确下标数组
+- `fill-in-the-blank`：`answer` 为可接受答案数组（命中任一即对，忽略大小写/全半角/空白）
+- `matching`：`prompts` 左列、`options` 右列，`answer[i]` 为 `prompts[i]` 对应的 `options` 下标
+- `ordering`：`items` 待排序项，`answer` 为正确顺序的下标排列
+- `free-response`：`reference` 参考答案（markdown），提交后由用户自评 0~`points`
+
+每道 question 可选 `points`（客观题默认 1，主观题默认 5）和 `explanation`（解析）。所有展示字段（title/content/options/explanation/reference）均按 markdown 渲染。顶层可选 `basePath`（以 `/` 结尾的绝对 URL 前缀），用于解析图片/音视频的相对 `src`（如 `./assets/x.jpg`）。
+
+> v2 是 breaking change：与 v1 扁平 `exercises[]` 数组不兼容，应用启动时会自动清空 v1 时期的本地数据。
+
+## 示例与提示词
+
+源码仓库 `docs/tdd/examples/` 下有 9 份可直接粘贴的示例（覆盖六题型 + 阅读/完形/听力图片题组合），`docs/system-prompt.md` 是让 AI 生成题集的系统提示词（SSOT）。公网部署后示例 JSON 可通过下列路径获取（路径随仓库发版）：
+
+- 题集示例目录：`docs/tdd/examples/`（含 01-单选多选 至 09-英语听力图片题）
+- AI 生成提示词：`docs/system-prompt.md`
+
+## 自动化脚本
+
+技能目录下提供零依赖 Node.js 校验脚本（node ≥ 18），可下载后用于校验题集 JSON：
+
+- [validate-questionset.mjs](https://kid.u32.cn/practice-zone/u32-practice-zone/scripts/validate-questionset.mjs): 校验题集 JSON 结构（v2 Section 树），输出问题列表

@@ -1,0 +1,433 @@
+{
+    "lesson": 25,
+    "title": [
+        "Eric's Travel Journal (1)",
+        "埃里克的旅行日志（1）"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "15th July 2019",
+                "2019年7月15日"
+            ],
+            [
+                "Today is the first day of our yearly family travel.",
+                "今天是我们一年一度家庭旅行的第一天。"
+            ],
+            [
+                "Mum and Dad have started to prepare for the trip since last month and I'm really excited about it.",
+                "爸爸妈妈从上个月就开始为这次旅行做准备了，我对此真的很兴奋。"
+            ],
+            [
+                "Last night, Mum packed our luggage, and helped my sister Jenny and me with our backpacks.",
+                "昨晚，妈妈收拾了行李，还帮我和妹妹珍妮整理了背包。"
+            ],
+            [
+                "In the morning, we took a taxi to the airport.",
+                "早上，我们乘出租车去机场。"
+            ],
+            [
+                "The traffic was not bad and we arrived just on time.",
+                "交通状况不错，我们刚好准时到达。"
+            ],
+            [
+                "The staff asked to see our passports and checked in our suitcases.",
+                "工作人员要求查看我们的护照，并办理了我们的行李托运。"
+            ],
+            [
+                "Unfortunately, we were told that our flight was delayed because the engine of the plane needed to be repaired, so we had to wait at the lounge with other passengers for two extra hours.",
+                "不幸的是，我们被告知航班延误了，因为飞机发动机需要维修，所以我们不得不在候机厅和其他乘客一起多等了两个小时。"
+            ],
+            [
+                "Jenny and I were upset but Mum said, \"When life gives you lemons, make lemonade.\"",
+                "珍妮和我很沮丧，但妈妈说：「当生活给你柠檬时，就做柠檬水。」"
+            ],
+            [
+                "It cheered us up and we spent the time playing games—that was fun!",
+                "这让我们振作起来，我们花时间玩游戏——那很有趣！"
+            ],
+            [
+                "The plane finally took off at twelve o'clock and the journey took eight hours.",
+                "飞机终于在12点起飞了，旅程持续了8个小时。"
+            ],
+            [
+                "I had a window seat.",
+                "我有一个靠窗的座位。"
+            ],
+            [
+                "It was so interesting to see the cities from the sky.",
+                "从空中看城市非常有趣。"
+            ],
+            [
+                "We landed in the afternoon.",
+                "我们下午着陆了。"
+            ],
+            [
+                "Everything was fine but we couldn't find our way to the guest-house.",
+                "一切都还好，但我们找不到去宾馆的路。"
+            ],
+            [
+                "Dad encouraged me to go to the tourist information centre and ask for help.",
+                "爸爸鼓励我去游客信息中心寻求帮助。"
+            ],
+            [
+                "I was really nervous but I made it!",
+                "我真的很紧张，但我做到了！"
+            ],
+            [
+                "A nice lady told us that we should take the tram at Platform One.",
+                "一位好心的女士告诉我们应该在一号站台乘坐有轨电车。"
+            ],
+            [
+                "When we arrived at the guest-house, the receptionist gave us a map and a public transport timetable which included trams, trains, buses and boats.",
+                "当我们到达宾馆时，接待员给了我们一张地图和一份公共交通时刻表，其中包括有轨电车、火车、公交车和船只。"
+            ],
+            [
+                "I can't wait to use them for tomorrow's sightseeing!",
+                "我迫不及待地想用它们来安排明天的观光了！"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "travel",
+            "n.",
+            "旅行"
+        ],
+        [
+            "travel",
+            "v.",
+            "长途旅行"
+        ],
+        [
+            "He travels a lot.",
+            "",
+            "他经常旅行。"
+        ],
+        [
+            "trip",
+            "n.",
+            "（尤指短程往返的）旅行"
+        ],
+        [
+            "a day trip",
+            "",
+            "当天来回的短途旅行"
+        ],
+        [
+            "since",
+            "prep.",
+            "自……以来"
+        ],
+        [
+            "since then",
+            "",
+            "从那时起"
+        ],
+        [
+            "pack",
+            "v.",
+            "包装；压紧"
+        ],
+        [
+            "I packed my luggage by myself.",
+            "",
+            "我自己打包了行李。"
+        ],
+        [
+            "luggage",
+            "n.",
+            "行李；皮箱"
+        ],
+        [
+            "a piece of luggage",
+            "",
+            "一件行李"
+        ],
+        [
+            "backpack",
+            "n.",
+            "双肩背包，背包"
+        ],
+        [
+            "backpack",
+            "",
+            "back（后背）+pack（背包）"
+        ],
+        [
+            "taxi",
+            "n.",
+            "出租车"
+        ],
+        [
+            "traffic",
+            "n.",
+            "交通；运输"
+        ],
+        [
+            "traffic light",
+            "",
+            "红绿灯"
+        ],
+        [
+            "arrive",
+            "v.",
+            "到达；达成"
+        ],
+        [
+            "We arrived at three.",
+            "",
+            "我们三点到的。"
+        ],
+        [
+            "passport",
+            "n.",
+            "护照，通行证"
+        ],
+        [
+            "passport",
+            "",
+            "pass（通过）+port（口岸）"
+        ],
+        [
+            "suitcase",
+            "n.",
+            "[旅行用的]手提箱"
+        ],
+        [
+            "suitcase",
+            "",
+            "suit（服装）+case（箱子）"
+        ],
+        [
+            "unfortunately",
+            "adv.",
+            "不幸地"
+        ],
+        [
+            "fortunately/luckily",
+            "adv.",
+            "幸运地"
+        ],
+        [
+            "delay",
+            "v.",
+            "延迟；延期"
+        ],
+        [
+            "delay",
+            "n.",
+            "延迟的时间（过去式/过去分词 delayed）"
+        ],
+        [
+            "a delay of two hours",
+            "",
+            "延迟两个小时"
+        ],
+        [
+            "The flight is delayed.",
+            "",
+            "航班延误了。"
+        ],
+        [
+            "engine",
+            "n.",
+            "引擎；发动机"
+        ],
+        [
+            "start the engine",
+            "",
+            "发动引擎"
+        ],
+        [
+            "plane",
+            "n.",
+            "飞机"
+        ],
+        [
+            "aeroplane/airplane",
+            "n.",
+            "飞机"
+        ],
+        [
+            "They arrived in London by plane.",
+            "",
+            "他们乘坐飞机抵达伦敦。"
+        ],
+        [
+            "repair",
+            "v.",
+            "修理；修补"
+        ],
+        [
+            "repair a car",
+            "",
+            "修理汽车"
+        ],
+        [
+            "passenger",
+            "n.",
+            "旅客；乘客"
+        ],
+        [
+            "a passenger train",
+            "",
+            "客运列车"
+        ],
+        [
+            "upset",
+            "adj.",
+            "难过的；不高兴的；沮丧的"
+        ],
+        [
+            "spend",
+            "v.",
+            "度过，消磨（时光）；花费"
+        ],
+        [
+            "Blair has spent lots of money on his hobby.",
+            "",
+            "布莱尔在他的爱好上花了很多钱。"
+        ],
+        [
+            "take off",
+            "",
+            "起飞；脱下；离开"
+        ],
+        [
+            "The plane took off at night.",
+            "",
+            "飞机在夜里起飞了。"
+        ],
+        [
+            "journey",
+            "n.",
+            "（尤指长途）旅行；行程"
+        ],
+        [
+            "Life is a journey.",
+            "",
+            "人生就是一段旅程。"
+        ],
+        [
+            "seat",
+            "n.",
+            "座位"
+        ],
+        [
+            "a window seat",
+            "",
+            "挨窗户的座位"
+        ],
+        [
+            "a corner seat",
+            "",
+            "角落里的座位"
+        ],
+        [
+            "guest-house",
+            "n.",
+            "宾馆；小型家庭旅馆"
+        ],
+        [
+            "hotel",
+            "n.",
+            "旅馆"
+        ],
+        [
+            "tourist",
+            "n.",
+            "旅游者，观光客"
+        ],
+        [
+            "tourist information centre",
+            "",
+            "游客信息咨询中心"
+        ],
+        [
+            "tram",
+            "n.",
+            "有轨电车"
+        ],
+        [
+            "streetcar",
+            "n.",
+            "有轨电车"
+        ],
+        [
+            "platform",
+            "n.",
+            "平台；月台，站台"
+        ],
+        [
+            "What platform does the train go from?",
+            "",
+            "火车从哪个站台发车？"
+        ],
+        [
+            "receptionist",
+            "n.",
+            "接待员"
+        ],
+        [
+            "receptionist",
+            "",
+            "reception（接待）+-ist（表示「人」）"
+        ],
+        [
+            "transport",
+            "n. & v.",
+            "运输；运送"
+        ],
+        [
+            "public transport",
+            "",
+            "公共交通"
+        ],
+        [
+            "timetable",
+            "n.",
+            "时间表；时刻表；课程表"
+        ],
+        [
+            "school timetable",
+            "",
+            "学校课程表"
+        ],
+        [
+            "timetable",
+            "",
+            "time（时间）+table（表格）"
+        ],
+        [
+            "train",
+            "n.",
+            "火车；列车"
+        ],
+        [
+            "bus",
+            "n.",
+            "公共汽车"
+        ],
+        [
+            "boat",
+            "n.",
+            "船"
+        ],
+        [
+            "sightseeing",
+            "n.",
+            "观光；游览"
+        ],
+        [
+            "go sightseeing",
+            "",
+            "去观光"
+        ],
+        [
+            "sightseeing",
+            "",
+            "sight（景象）+see（看）+-ing"
+        ]
+    ]
+}

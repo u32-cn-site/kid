@@ -1,0 +1,140 @@
+{
+    "lesson": 15,
+    "title": [
+        "Your passports, please.",
+        "请出示你们的护照。"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Are you Swedish?",
+                "你们是瑞典人吗？"
+            ],
+            [
+                "No, we are not.",
+                "不，我们不是瑞典人。"
+            ],
+            [
+                "We are Danish.",
+                "我们是丹麦人。"
+            ],
+            [
+                "Are your friends Danish, too?",
+                "你们的朋友也是丹麦人吗？"
+            ],
+            [
+                "No, they aren't.",
+                "不，他们不是丹麦人。"
+            ],
+            [
+                "They are Norwegian.",
+                "他们是挪威人。"
+            ],
+            [
+                "Your passports, please.",
+                "请出示你们的护照。"
+            ],
+            [
+                "Here they are.",
+                "给您。"
+            ],
+            [
+                "Are these your cases?",
+                "这些是你们的箱子吗？"
+            ],
+            [
+                "No, they aren't.",
+                "不，不是。"
+            ],
+            [
+                "Our cases are brown.",
+                "我们的箱子是棕色的。"
+            ],
+            [
+                "Here they are.",
+                "在这儿呢。"
+            ],
+            [
+                "Are you tourists?",
+                "你们是来旅游的吗？"
+            ],
+            [
+                "Yes, we are.",
+                "是的，我们是来旅游的。"
+            ],
+            [
+                "Are your friends tourists too?",
+                "你们的朋友也是来旅游的吗？"
+            ],
+            [
+                "Yes, they are.",
+                "是的，他们也是。"
+            ],
+            [
+                "That's fine.",
+                "好了。"
+            ],
+            [
+                "Thank you very much.",
+                "非常感谢。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "customs",
+            "n.",
+            "海关"
+        ],
+        [
+            "officer",
+            "n.",
+            "官员"
+        ],
+        [
+            "girl",
+            "n.",
+            "女孩，姑娘"
+        ],
+        [
+            "Danish",
+            "adj.",
+            "丹麦的"
+        ],
+        [
+            "Danish",
+            "n.",
+            "丹麦人"
+        ],
+        [
+            "friend",
+            "n.",
+            "朋友"
+        ],
+        [
+            "Norwegian",
+            "adj.",
+            "挪威的"
+        ],
+        [
+            "Norwegian",
+            "n.",
+            "挪威人"
+        ],
+        [
+            "passport",
+            "n.",
+            "护照"
+        ],
+        [
+            "brown",
+            "adj.",
+            "棕色的"
+        ],
+        [
+            "tourist",
+            "n.",
+            "旅游者"
+        ]
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "lesson": 41,
+    "title": [
+        "Penny's bag",
+        "彭妮的提包"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Is that bag heavy, Penny?",
+                "那个提包重吗，彭妮？"
+            ],
+            [
+                "Not very.",
+                "不太重。"
+            ],
+            [
+                "Here!",
+                "放在这儿。"
+            ],
+            [
+                "Put it on this chair.",
+                "把它放在这把椅子上。"
+            ],
+            [
+                "What's in it?",
+                "里面是什么东西？"
+            ],
+            [
+                "A piece of cheese.",
+                "一块乳酪。"
+            ],
+            [
+                "A loaf of bread.",
+                "一块面包。"
+            ],
+            [
+                "A bar of soap.",
+                "一块肥皂。"
+            ],
+            [
+                "A bar of chocolate.",
+                "一块巧克力。"
+            ],
+            [
+                "A bottle of milk.",
+                "一瓶牛奶。"
+            ],
+            [
+                "A pound of sugar.",
+                "一磅糖。"
+            ],
+            [
+                "Half a pound of coffee.",
+                "半磅咖啡。"
+            ],
+            [
+                "A quarter of a pound of tea.",
+                "四分之一磅茶叶。"
+            ],
+            [
+                "And a tin of tobacco.",
+                "和一听烟丝。"
+            ],
+            [
+                "Is that tin of tobacco for me?",
+                "那听烟丝是给我的吗？"
+            ],
+            [
+                "Well, it's certainly not for me!",
+                "噢，当然不会给我的！"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "cheese",
+            "n.",
+            "乳酪，干酪"
+        ],
+        [
+            "bread",
+            "n.",
+            "面包"
+        ],
+        [
+            "soap",
+            "n.",
+            "肥皂"
+        ],
+        [
+            "chocolate",
+            "n.",
+            "巧克力"
+        ],
+        [
+            "sugar",
+            "n.",
+            "糖"
+        ],
+        [
+            "coffee",
+            "n.",
+            "咖啡"
+        ],
+        [
+            "tea",
+            "n.",
+            "茶"
+        ],
+        [
+            "tobacco",
+            "n.",
+            "烟草，烟丝"
+        ]
+    ]
+}

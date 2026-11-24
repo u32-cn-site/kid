@@ -1,0 +1,547 @@
+{
+    "lesson": 4,
+    "title": [
+        "Evan's Home Tour (2)",
+        "埃文的家之参观（2）"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Now let's walk up the stairs.",
+                "现在让我们走上楼梯。"
+            ],
+            [
+                "There are three bedrooms and two bathrooms on the first floor.",
+                "一楼有三间卧室和两间浴室。"
+            ],
+            [
+                "The largest room is the master bedroom.",
+                "最大的房间是主卧室。"
+            ],
+            [
+                "The colours of the wooden furniture and the curtains are matched.",
+                "木质家具和窗帘的颜色很搭配。"
+            ],
+            [
+                "My wife has lots of clothes, so I made her a walk-in closet.",
+                "我的妻子有很多衣服，所以我为她做了一个步入式衣橱。"
+            ],
+            [
+                "Next is James' bedroom.",
+                "接下来是詹姆斯的卧室。"
+            ],
+            [
+                "There's a single bed, a cabinet, a shelf, a desk and an armchair in his room.",
+                "他的房间里有一张单人床、一个储物柜、一个架子、一张书桌和一把扶手椅。"
+            ],
+            [
+                "He wants to keep it simple.",
+                "他想保持简单。"
+            ],
+            [
+                "Mia lives in the opposite room.",
+                "米娅住在对面的房间。"
+            ],
+            [
+                "Sometimes her friends stay overnight and sleep in her room.",
+                "有时她的朋友会过夜并睡在她的房间里。"
+            ],
+            [
+                "Your room is on the second floor.",
+                "你的房间在二楼。"
+            ],
+            [
+                "We painted your walls with a bright colour.",
+                "我们用明亮的颜色粉刷了你的墙壁。"
+            ],
+            [
+                "Have you noticed flowers beside the lamp and the alarm clock?",
+                "你注意到台灯和闹钟旁边的花了吗？"
+            ],
+            [
+                "Mia picked them from the garden.",
+                "米娅从花园里摘的这些花。"
+            ],
+            [
+                "We hope you like them.",
+                "我们希望你喜欢它们。"
+            ],
+            [
+                "We got new pillows and bed sheets for you.",
+                "我们为你准备了新枕头和新床单。"
+            ],
+            [
+                "If you feel cold at night, you can find a blanket in the wardrobe.",
+                "如果你晚上感到冷，可以在衣柜里找到毛毯。"
+            ],
+            [
+                "The heating system is powered by electricity, and you can adjust the temperature on your own.",
+                "供暖系统是电力驱动的，你可以自己调节温度。"
+            ],
+            [
+                "The toilet is on the right side.",
+                "洗手间在右边。"
+            ],
+            [
+                "You can take a shower, but if you want to use the bathtub, you need to go downstairs.",
+                "你可以淋浴，但如果想使用浴缸，你需要下楼。"
+            ],
+            [
+                "We have also prepared shampoo and towels.",
+                "我们还准备了洗发水和毛巾。"
+            ],
+            [
+                "By the way, Luna will help you tidy up your room and your toilet every week.",
+                "顺便说一下，露娜每周会帮你收拾房间和洗手间。"
+            ],
+            [
+                "Please don't make these places too dirty.",
+                "请不要把这些地方弄得太脏。"
+            ],
+            [
+                "It's five o'clock now and I'm afraid that I have to leave for a while.",
+                "现在五点钟了，恐怕我得离开一会儿。"
+            ],
+            [
+                "Here is your key.",
+                "这是你的钥匙。"
+            ],
+            [
+                "We'll have dinner in one and a half hours.",
+                "我们一个半小时后吃晚饭。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "stair",
+            "n.",
+            "楼梯"
+        ],
+        [
+            "stairs",
+            "n.",
+            "楼梯"
+        ],
+        [
+            "The children ran up the stairs.",
+            "",
+            "孩子们跑上楼梯。"
+        ],
+        [
+            "bedroom",
+            "n.",
+            "卧室"
+        ],
+        [
+            "the master bedroom",
+            "",
+            "主卧"
+        ],
+        [
+            "bathroom",
+            "n.",
+            "浴室；厕所；盥洗室"
+        ],
+        [
+            "wooden",
+            "adj.",
+            "木制的"
+        ],
+        [
+            "a wooden box",
+            "",
+            "木箱"
+        ],
+        [
+            "furniture",
+            "n.",
+            "家具"
+        ],
+        [
+            "a piece of furniture",
+            "",
+            "一件家具"
+        ],
+        [
+            "curtain",
+            "n.",
+            "窗帘"
+        ],
+        [
+            "close the curtains",
+            "",
+            "拉上窗帘"
+        ],
+        [
+            "closet",
+            "n.",
+            "贮藏室；壁橱"
+        ],
+        [
+            "walk-in closet",
+            "",
+            "步入式衣橱"
+        ],
+        [
+            "single",
+            "adj.",
+            "单一的；单身的"
+        ],
+        [
+            "a single bed",
+            "",
+            "单人床"
+        ],
+        [
+            "bed",
+            "n.",
+            "床"
+        ],
+        [
+            "It's time for bed.",
+            "",
+            "该是睡觉的时候了。"
+        ],
+        [
+            "cabinet",
+            "n.",
+            "储藏柜；陈列柜"
+        ],
+        [
+            "a medicine cabinet",
+            "",
+            "药柜"
+        ],
+        [
+            "shelf",
+            "n.",
+            "架子；搁板"
+        ],
+        [
+            "a shoe shelf",
+            "",
+            "鞋架"
+        ],
+        [
+            "armchair",
+            "n.",
+            "扶手椅"
+        ],
+        [
+            "sit in an armchair",
+            "",
+            "坐在扶手椅上"
+        ],
+        [
+            "simple",
+            "adj.",
+            "简单的"
+        ],
+        [
+            "a simple solution",
+            "",
+            "简单的解决办法"
+        ],
+        [
+            "stay",
+            "v.",
+            "停留；暂住"
+        ],
+        [
+            "stay in bed",
+            "",
+            "待在床上；卧病在床"
+        ],
+        [
+            "sleep",
+            "v.",
+            "睡，睡觉"
+        ],
+        [
+            "slept",
+            "v.",
+            "睡，睡觉"
+        ],
+        [
+            "I had to sleep on the sofa.",
+            "",
+            "我只得睡在沙发上。"
+        ],
+        [
+            "wall",
+            "n.",
+            "墙壁；围墙"
+        ],
+        [
+            "lamp",
+            "n.",
+            "灯"
+        ],
+        [
+            "a desk lamp",
+            "",
+            "台灯"
+        ],
+        [
+            "clock",
+            "n.",
+            "时钟"
+        ],
+        [
+            "an alarm clock",
+            "",
+            "闹钟"
+        ],
+        [
+            "pillow",
+            "n.",
+            "枕头"
+        ],
+        [
+            "sheet",
+            "n.",
+            "床单"
+        ],
+        [
+            "blanket",
+            "n.",
+            "毛毯，毯子"
+        ],
+        [
+            "wardrobe",
+            "n.",
+            "衣柜；衣橱"
+        ],
+        [
+            "a new wardrobe",
+            "",
+            "一个新衣柜"
+        ],
+        [
+            "heating",
+            "n.",
+            "供暖"
+        ],
+        [
+            "a gas heating system",
+            "",
+            "燃气供暖系统"
+        ],
+        [
+            "electricity",
+            "n.",
+            "电"
+        ],
+        [
+            "The electricity is off.",
+            "",
+            "停电了。"
+        ],
+        [
+            "own",
+            "adj.",
+            "自己的；特有的"
+        ],
+        [
+            "on one's own",
+            "",
+            "独自；独立地"
+        ],
+        [
+            "I need a room of my own.",
+            "",
+            "我需要一个独立的房间。"
+        ],
+        [
+            "toilet",
+            "n.",
+            "厕所；马桶"
+        ],
+        [
+            "public toilets",
+            "",
+            "公共厕所"
+        ],
+        [
+            "shower",
+            "n.",
+            "淋浴；淋浴室"
+        ],
+        [
+            "take a shower",
+            "",
+            "淋浴"
+        ],
+        [
+            "bathtub",
+            "n.",
+            "浴缸"
+        ],
+        [
+            "shampoo",
+            "n.",
+            "洗发液"
+        ],
+        [
+            "a bottle of shampoo",
+            "",
+            "一瓶洗发液"
+        ],
+        [
+            "towel",
+            "n.",
+            "毛巾，手巾"
+        ],
+        [
+            "a bath towel",
+            "",
+            "浴巾"
+        ],
+        [
+            "tidy",
+            "v.",
+            "整理；收拾"
+        ],
+        [
+            "tidy",
+            "adj.",
+            "整洁的；整齐的"
+        ],
+        [
+            "You should tidy up before leaving.",
+            "",
+            "你出去之前一定要收拾一下。"
+        ],
+        [
+            "dirty",
+            "adj.",
+            "肮脏的；卑鄙的"
+        ],
+        [
+            "Try not to get too dirty!",
+            "",
+            "别把身上弄得太脏！"
+        ],
+        [
+            "o'clock",
+            "adv.",
+            "……点钟"
+        ],
+        [
+            "He left between five and six o'clock.",
+            "",
+            "他是五六点钟离开的。"
+        ],
+        [
+            "have got to",
+            "",
+            "必须；不得不"
+        ],
+        [
+            "We have got to leave right now.",
+            "",
+            "我们必须马上离开。"
+        ],
+        [
+            "key",
+            "n.",
+            "钥匙"
+        ],
+        [
+            "key",
+            "adj.",
+            "关键的"
+        ],
+        [
+            "the door key",
+            "",
+            "门钥匙"
+        ],
+        [
+            "half",
+            "n.",
+            "一半"
+        ],
+        [
+            "half",
+            "det.",
+            "半数"
+        ],
+        [
+            "half",
+            "pron.",
+            "半数"
+        ],
+        [
+            "one and a half hours",
+            "",
+            "一个半小时"
+        ],
+        [
+            "half an hour",
+            "",
+            "半小时"
+        ],
+        [
+            "hour",
+            "n.",
+            "小时"
+        ],
+        [
+            "He'll be back in an hour.",
+            "",
+            "他一小时后回来。"
+        ],
+        [
+            "match",
+            "v.",
+            "搭配；匹配"
+        ],
+        [
+            "opposite",
+            "adj.",
+            "对面的；相反的"
+        ],
+        [
+            "overnight",
+            "adv.",
+            "过夜；一夜"
+        ],
+        [
+            "bright",
+            "adj.",
+            "明亮的"
+        ],
+        [
+            "notice",
+            "v.",
+            "注意；注意到"
+        ],
+        [
+            "pick",
+            "v.",
+            "采摘；挑选"
+        ],
+        [
+            "adjust",
+            "v.",
+            "调节；调整"
+        ],
+        [
+            "prepare",
+            "v.",
+            "准备"
+        ],
+        [
+            "first floor",
+            "",
+            "一楼"
+        ],
+        [
+            "second floor",
+            "",
+            "二楼"
+        ]
+    ]
+}

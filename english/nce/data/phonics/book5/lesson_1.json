@@ -1,0 +1,31 @@
+{
+    "lesson": 1,
+    "title": ["Unit 1", "第一单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["car", "n.", "汽车"],
+        ["Dad drives a car.", "", "爸爸开汽车。"],
+        ["farm", "n.", "农场"],
+        ["There are animals on the farm.", "", "农场上有动物。"],
+        ["park", "n.", "公园"],
+        ["We play in the park.", "", "我们在公园玩耍。"],
+        ["star", "n.", "星星"],
+        ["I see a star in the sky.", "", "我看见天上的星星。"],
+        ["bird", "n.", "鸟"],
+        ["The bird can fly.", "", "鸟会飞。"],
+        ["girl", "n.", "女孩"],
+        ["The girl is happy.", "", "女孩很开心。"],
+        ["nurse", "n.", "护士"],
+        ["The nurse helps sick people.", "", "护士帮助病人。"],
+        ["purple", "n./adj.", "紫色"],
+        ["My favorite color is purple.", "", "我最喜欢紫色。"],
+        ["teacher", "n.", "教师"],
+        ["The teacher teaches us.", "", "老师教我们知识。"],
+        ["sister", "n.", "姐妹"],
+        ["My sister is kind.", "", "我的姐姐很善良。"],
+        ["doctor", "n.", "医生"],
+        ["The doctor makes me feel better.", "", "医生让我感觉好些。"],
+        ["tractor", "n.", "拖拉机"],
+        ["The farmer drives a tractor.", "", "农民开拖拉机。"]
+    ]
+}

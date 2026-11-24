@@ -1,0 +1,485 @@
+{
+ "lesson": 72,
+ "title": [
+  "A Surprise at the Fruit and Flower Mountain",
+  "果蔬山的一大惊喜"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "Wukong went straight to Mount Potalaka.",
+    "悟空直接前往了波塔拉卡山。"
+   ],
+   [
+    "The bodhisattva Guanyin was in her garden.",
+    "观音菩萨在她的花园里。"
+   ],
+   [
+    "\"Hello, Wukong.",
+    "“你好，悟空。”"
+   ],
+   [
+    "How is the journey going?\"",
+    "“旅途进行得怎么样？”"
+   ],
+   [
+    "Wukong threw up his hands.",
+    "悟空只好无奈地举起双手。"
+   ],
+   [
+    "\"The Tang Monk is crazy!\"",
+    "“唐僧疯了！”"
+   ],
+   [
+    "\"Why?\" asked the bodhisattva.",
+    "“为什么？”菩萨问道。"
+   ],
+   [
+    "\"He told me to leave,\" said the monkey.",
+    "“他让我离开，”猴子说道。"
+   ],
+   [
+    "\"He was mad because I was going to hurt some robbers.\"",
+    "他很生气，因为我要去伤害一些强盗。"
+   ],
+   [
+    "Guanyin frowned.",
+    "观音皱了皱眉头。"
+   ],
+   [
+    "\"It's wrong to hurt people, Wukong.",
+    "“伤害别人是不对的，悟空。”"
+   ],
+   [
+    "You know that.\"",
+    "“你知道的。”"
+   ],
+   [
+    "\"I hurt demons all the time,\" said Wukong.",
+    "“我一直在伤害那些恶魔，”悟空说。"
+   ],
+   [
+    "\"That's different,\" said Guanyin.",
+    "“那不一样，”观音说。"
+   ],
+   [
+    "\"Demons are evil, and you're doing a good thing when you get rid of them.",
+    "恶魔是邪恶的，当你消灭它们时，你是在做一件好事。"
+   ],
+   [
+    "But you must not hurt people.\"",
+    "“但是你绝不能伤害别人。”"
+   ],
+   [
+    "The monkey sat down and put his head in his hands.",
+    "猴子坐下来，把头埋在手里。"
+   ],
+   [
+    "\"Oh, Bodhisattva, you're right.",
+    "“哦，菩萨，你是对的。”"
+   ],
+   [
+    "He started to cry.",
+    "他开始哭了。"
+   ],
+   [
+    "\"This is terrible.",
+    "“这太糟糕了。”"
+   ],
+   [
+    "Now I'll never reach the Western Paradise with the Tang Monk.",
+    "现在我永远不可能和唐僧一起到达西方极乐世界了。"
+   ],
+   [
+    "I wanted to earn forgiveness.\"",
+    "“我想要获得对方的原谅。”"
+   ],
+   [
+    "\"Don't cry, Wukong,\" said Guanyin.",
+    "“别哭了，悟空，”观音菩萨说道。"
+   ],
+   [
+    "\"You will still help the Tang Monk reach the Western Paradise.",
+    "“你仍然会帮助唐僧到达西方极乐世界。”"
+   ],
+   [
+    "He will need your help soon.",
+    "他很快就会需要你的帮助。"
+   ],
+   [
+    "In the meantime you may stay here with me.\"",
+    "“与此同时，你可以和我待在这里。”"
+   ],
+   [
+    "Bajie dropped the bags.",
+    "八戒把包掉地上了。"
+   ],
+   [
+    "\"Let's rest here,\" he said.",
+    "“我们在这里休息吧，”他说。"
+   ],
+   [
+    "\"I'm starving.\"",
+    "“我饿死了。”"
+   ],
+   [
+    "The Tang Monk climbed down from his horse and stretched.",
+    "唐僧从马背上下来，然后伸了个懒腰。"
+   ],
+   [
+    "The horse drank from a stream while Bajie looked in a bag.",
+    "马在小溪里喝水，而八戒则在一袋子里看看有什么。"
+   ],
+   [
+    "\"We're out of rice,\" said the pig.",
+    "“我们的米吃完了，”猪说。"
+   ],
+   [
+    "\"We'll have to beg for food somewhere,\" said Wujing.",
+    "“我们 somewhere 只能靠乞讨来获取食物了，”伍静说道。"
+   ],
+   [
+    "He looked at the monk.",
+    "他看着那个僧人。"
+   ],
+   [
+    "\"Master, you wait here while Bajie and I find a village.\"",
+    "“师傅，您在这里等着，我和八戒去找个村子来。”"
+   ],
+   [
+    "The monk's two companions flew off.",
+    "僧人的两位同伴飞走了。"
+   ],
+   [
+    "The monk sat down in the grass next to the road and closed his eyes.",
+    "僧侣坐在路边的草地上，闭上了眼睛。"
+   ],
+   [
+    "He had nearly dozed off when he heard a voice.",
+    "他差点就睡着了，这时他听到一个声音。"
+   ],
+   [
+    "\"Master!",
+    "“主人！”"
+   ],
+   [
+    "It was Wukong.",
+    "那是孙悟空。"
+   ],
+   [
+    "The Tang Monk glared at the monkey.",
+    "唐僧怒视着那只猴子。"
+   ],
+   [
+    "\"Why are you here, Wukong?\"",
+    "“你为什么在这里，悟空？”"
+   ],
+   [
+    "The monkey fell to his knees.",
+    "猴子跪了下来。"
+   ],
+   [
+    "\"I'm begging you—please let me join you again.\"",
+    "“我求你了—请再一次让我加入你们。”"
+   ],
+   [
+    "\"No,\" said the monk.",
+    "“不，”僧侣说。"
+   ],
+   [
+    "\"You're evil, Wukong.",
+    "“你太邪恶了，悟空。”"
+   ],
+   [
+    "You can't go to the Western Paradise with me.",
+    "你不能和我一起去西天乐园。"
+   ],
+   [
+    "Now leave before I recite the Tight Headband spell!\"",
+    "现在趁我还没念出“紧束发带”的咒语之前离开吧！"
+   ],
+   [
+    "The monkey was furious.",
+    "这只猴子非常生气。"
+   ],
+   [
+    "He pulled out his iron bar, which quickly grew.",
+    "他拔出了他的铁棒，那铁棒很快就变长了。"
+   ],
+   [
+    "Before the monk could recite the spell, Wukong struck.",
+    "就在和尚念出咒语之前，悟空发起了攻击。"
+   ],
+   [
+    "Whap!",
+    "砰！"
+   ],
+   [
+    "He knocked out the monk.",
+    "他把那个僧人打倒了。"
+   ],
+   [
+    "Quickly, the monkey grabbed the bags and then vanished.",
+    "很快，那只猴子抓起袋子然后消失了。"
+   ],
+   [
+    "Wujing and Bajie soon returned.",
+    "五精和八戒很快就回来了。"
+   ],
+   [
+    "They found the Tang Monk sitting by the road, rubbing his head.",
+    "他们发现唐僧坐在路边，揉着脑袋。"
+   ],
+   [
+    "\"Master!\" cried Wujing.",
+    "“师父！”五敬喊道。"
+   ],
+   [
+    "\"What happened?\"",
+    "“发生了什么事？”"
+   ],
+   [
+    "\"Where are the bags?\" asked Bajie, looking around.",
+    "“包在哪里？”Bajie问道，环顾四周。"
+   ],
+   [
+    "\"Wukong returned,\" said the Tang Monk.",
+    "“悟空回来了，”唐僧说道。"
+   ],
+   [
+    "\"He begged me to let him join us again.",
+    "“他恳求我再次让他加入我们。”"
+   ],
+   [
+    "I said no, and then he attacked me!\"",
+    "我说了“不”，然后他就袭击了我！"
+   ],
+   [
+    "\"That's terrible!\" said Wujing.",
+    "“太糟糕了！”吴静说道。"
+   ],
+   [
+    "\"That rotten monkey!",
+    "“那个讨厌的家伙！”"
+   ],
+   [
+    "Bajie stomped his foot.",
+    "八戒跺了跺脚。"
+   ],
+   [
+    "\"We can't let him get away with this!",
+    "“我们不能让他就这么逍遥法外！”"
+   ],
+   [
+    "He probably went home, to the Fruit and Flower Mountain.\"",
+    "他可能回家了，回了那个叫做“花果山”的地方。"
+   ],
+   [
+    "\"I'll go there and deal with him,\" said Wujing.",
+    "“我去那里处理他的事，”武静说道。"
+   ],
+   [
+    "Bajie gave Wujing directions to the Fruit and Flower Mountain.",
+    "白 gefährden, aber in anderen Fällen könnten diese auch vorteilhaft sein, zum Beispiel beim Erhalt einer besseren Wahrnehmung oder einer schnelleren Reaktion. Daher ist es wichtig, die verschiedenen Faktoren sorgfältig zu bewerten und die geeigneten Strategien auszuwählen.\n\nZusätzlich zu den genannten Strategien gibt es auch einige generelle Ratschläge, die für das Management von Risiken in der Medizin hilfreich sein können:\n\n1. Sensibilisierung und Aufklärung: Es ist wichtig, das medizinische Personal für die potenziellen Risiken zu sensibilisieren und sie über die entsprechenden Maßnahmen und Verfahren zu informieren, um ein besseres Verständnis und eine effektivere Behandlung der Patienten zu ermöglichen.\n2. Risikoanalyse und Bewertung: Eine gründliche Risikoanalyse ist notwendig, um die potenziellen Bedrohungen zu identifizieren und ihr Ausmaß sowie die möglichen Auswirkungen zu bewerten. Dies hilft dabei, geeignete Strategien zu entwickeln und umzusetzen.\n3. Integritätsmanagement: Ein starkes System für die Verwaltung und Überwachung von Daten und Informationen ist erforderlich, um potenzielle Sicherheitslücken zu vermeiden und den Schutz der Patientendaten zu gewährleisten.\n4. Kommunikation und Zusammenarbeit: Eine offene und effektive Kommunikation zwischen den verschiedenen Abteilungen und Fachkräften ist wichtig, um sicherzustellen, dass alle Beteiligten über die relevanten Informationen verfügen und zusammenarbeiten können, um Risiken zu identifizieren und zu bewältigen.\n5. Gerechte und angemessene Risikobewältigungsmaßnahmen: Die Risikobewältigungsstrategien sollten gerecht und angemessen sein und die Interessen aller Beteiligten berücksichtigen, um ein optimales Ergebnis zu erzielen.\n6. Fortschreibung und Verbesserung: Es ist wichtig, die Bewertung und Anpassung der Risikobewältigungsstrategien regelmäßig zu überprüfen und zu verbessern, um sicherzustellen, dass sie immer effektiver und angemessener sind.\n\nIndem diese Ratschläge umgesetzt werden, kann das medizinische Personal die potenziellen Risiken effektiver managen und die Patientensicherheit verbessern."
+   ],
+   [
+    "When Wujing arrived there, he found Wukong near the waterfall.",
+    "当吴静到达那里时，他发现悟空在瀑布附近。"
+   ],
+   [
+    "\"Wukong!\" shouted Wujing.",
+    "“悟空！”无泾大声喊道。"
+   ],
+   [
+    "\"Why did you attack Master?\"",
+    "“你为什么要攻击大师？”"
+   ],
+   [
+    "The monkey looked at Wujing blankly.",
+    "猴子茫然地看着武静。"
+   ],
+   [
+    "\"Who are you?\"",
+    "“你是谁？”"
+   ],
+   [
+    "Wujing raised an eyebrow.",
+    "吴静挑了挑眉毛。"
+   ],
+   [
+    "\"What are you talking about?",
+    "“你在说什么？”"
+   ],
+   [
+    "You know who I am.\"",
+    "“你知道我是谁。”"
+   ],
+   [
+    "\"No, I don't,\" said Wukong.",
+    "“不，我没有，”悟空说。"
+   ],
+   [
+    "\"I'm Sha Wujing!",
+    "“我是沙悟净！”"
+   ],
+   [
+    "We were traveling to the West together.\"",
+    "我们曾经一起前往西方旅行。"
+   ],
+   [
+    "\"I'm going to the West but not with you,\" said Wukong.",
+    "“我要去西方，但不会和你一起去，”悟空说。"
+   ],
+   [
+    "He pointed to a group of figures.",
+    "他指着一群人物。"
+   ],
+   [
+    "\"I'm going with them.\"",
+    "“我要和他们一起去。”"
+   ],
+   [
+    "Wujing looked over.",
+    "吴京看了一眼。"
+   ],
+   [
+    "A monk who looked exactly like the Tang Monk sat on a horse.",
+    "一个长得和唐僧一模一样的僧人坐在马上。"
+   ],
+   [
+    "A pig stood next to the horse.",
+    "一只猪站在马旁边。"
+   ],
+   [
+    "\"Bajie?\" said Wujing.",
+    "“八戒？”武静说道。"
+   ],
+   [
+    "Just then he saw a purple figure walk over to the horse.",
+    "就在那时，他看到一个紫色身影走向那匹马。"
+   ],
+   [
+    "Wujing gasped in shock.",
+    "五惊（Wujing）震惊地倒吸了一口凉气。"
+   ],
+   [
+    "\"That's me!\"",
+    "“那就是我！”"
+   ]
+  ]
+ },
+ "words": [
+  [
+   "crazy",
+   "",
+   "疯狂的",
+   "The Tang Monk is crazy!",
+   "唐僧简直疯了！"
+  ],
+  [
+   "robber",
+   "",
+   "强盗",
+   "He was mad because I was going to hurt some robbers.",
+   "他很生气，因为我要去伤害一些强盗。"
+  ],
+  [
+   "get rid of",
+   "",
+   "摆脱，除掉",
+   "You're doing a good thing when you get rid of them.",
+   "当你摆脱它们的时候，你是在做一件好事。"
+  ],
+  [
+   "forgiveness",
+   "",
+   "宽恕",
+   "I wanted to earn forgiveness.",
+   "我想获得宽恕。"
+  ],
+  [
+   "meantime",
+   "",
+   "同时，在...期间",
+   "In the meantime you may stay here with me.",
+   "与此同时，你可以和我一起待在这里。"
+  ],
+  [
+   "beg",
+   "",
+   "请求，恳请",
+   "We'll have to beg for food somewhere.",
+   "我们不得不去某个地方讨吃的了。"
+  ],
+  [
+   "somewhere",
+   "",
+   "在某处，到某处",
+   "We'll have to beg for food somewhere.",
+   "我们不得不去某个地方讨吃的了。"
+  ],
+  [
+   "doze",
+   "",
+   "打瞌睡",
+   "He had nearly dozed off when he heard a voice.",
+   "他差点就睡着了，这时他听到一个声音。"
+  ],
+  [
+   "doze off",
+   "",
+   "打瞌睡",
+   "He had nearly dozed off when he heard a voice.",
+   "他差点就睡着了，这时他听到一个声音。"
+  ],
+  [
+   "knock out",
+   "",
+   "使昏迷",
+   "He knocked out the monk.",
+   "他把那个僧人打倒了。"
+  ],
+  [
+   "attack",
+   "",
+   "攻击",
+   "I said no, and then he attacked me!",
+   "我说了“不”，然后他就攻击了我！"
+  ],
+  [
+   "get away with",
+   "",
+   "侥幸成功，侥幸逃脱",
+   "We can't let him get away with this!",
+   "我们不能让他就这样逃脱惩罚！"
+  ],
+  [
+   "deal",
+   "",
+   "处理，应付(事情，问题等)",
+   "I'll go there and deal with him.",
+   "我会去那里处理他的事情。"
+  ],
+  [
+   "deal with",
+   "",
+   "对付",
+   "I'll go there and deal with him.",
+   "我会去那里处理他的事情。"
+  ],
+  [
+   "waterfall",
+   "",
+   "瀑布",
+   "When Wujing arrived there, he found Wukong near the waterfall.",
+   "当吴静到达那里时，他发现悟空在瀑布附近。"
+  ],
+  [
+   "blankly",
+   "",
+   "茫然地",
+   "The monkey looked at Wujing blankly.",
+   "猴子茫然地看着武静。"
+  ]
+ ]
+}

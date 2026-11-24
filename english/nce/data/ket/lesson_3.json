@@ -1,0 +1,515 @@
+{
+    "lesson": 3,
+    "title": [
+        "Evan's Home Tour (1)",
+        "埃文的家之参观（1）"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Welcome!",
+                "欢迎！"
+            ],
+            [
+                "My name is Evan, and I'm your homestay host.",
+                "我叫埃文，我是你的寄宿家庭主人。"
+            ],
+            [
+                "I would like to show you around my house today.",
+                "今天我想带你参观我的房子。"
+            ],
+            [
+                "I live here with my wife Luna, my daughter Mia, and my son James.",
+                "我和我的妻子露娜、女儿米娅以及儿子詹姆斯住在这里。"
+            ],
+            [
+                "Now we're at the gate.",
+                "现在我们到了大门口。"
+            ],
+            [
+                "You can see the garden, where we plant many flowers.",
+                "你可以看到花园，我们在那里种了许多花。"
+            ],
+            [
+                "The garage is on the left.",
+                "车库在左边。"
+            ],
+            [
+                "That's also the place we keep large rubbish bins.",
+                "那也是我们放大型垃圾桶的地方。"
+            ],
+            [
+                "Open the door and walk in, and we're now standing at the front hall.",
+                "打开门走进去，我们现在站在门厅里。"
+            ],
+            [
+                "On the ground floor, there's a large living room.",
+                "在一楼有一个大客厅。"
+            ],
+            [
+                "My wife likes these floor-to-ceiling windows because they can make more natural light get in.",
+                "我的妻子喜欢这些落地窗，因为它们可以让更多的自然光照进来。"
+            ],
+            [
+                "The sitting area has a cosy sofa, a couple of chairs, and a soft carpet.",
+                "休息区有一个舒适的沙发、几把椅子和一张柔软的地毯。"
+            ],
+            [
+                "Mia and James usually sit on the carpet to read.",
+                "米娅和詹姆斯通常坐在地毯上看书。"
+            ],
+            [
+                "Luna and I decided to put a bookcase instead of a television in our living room because we believe that reading is better for our kids than watching TV.",
+                "露西和我决定在客厅放一个书柜而不是电视，因为我们相信阅读对孩子们来说比看电视更好。"
+            ],
+            [
+                "We have various reading time every week and you're welcome to join.",
+                "我们每周有固定的阅读时间，欢迎你参加。"
+            ],
+            [
+                "In winter, when the temperature outside is low, it is very lovely to enjoy a book beside the fireplace.",
+                "在冬天，当外面气温很低时，在壁炉旁读书是很惬意的事。"
+            ],
+            [
+                "The kitchen is certainly my favourite place in the house.",
+                "厨房当然是我在这所房子里最喜欢的地方。"
+            ],
+            [
+                "I love cooking.",
+                "我喜欢烹饪。"
+            ],
+            [
+                "We have various cooking tools and equipment.",
+                "我们有各种烹饪工具和设备。"
+            ],
+            [
+                "The oven and the fridge are a little bit old, but they're still working well.",
+                "烤箱和冰箱有点旧了，但它们仍然运转良好。"
+            ],
+            [
+                "Plates and cups are in these drawers and cupboards.",
+                "盘子和杯子在这些抽屉和橱柜里。"
+            ],
+            [
+                "We don't use the dining room very often.",
+                "我们不太经常使用餐厅。"
+            ],
+            [
+                "Only when we have guests do we use it.",
+                "只有当有客人时我们才会使用它。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "home",
+            "n.",
+            "家，住宅；家乡"
+        ],
+        [
+            "stay at home",
+            "",
+            "待在家里"
+        ],
+        [
+            "house",
+            "n.",
+            "房屋；住宅"
+        ],
+        [
+            "a two-bedroom house",
+            "",
+            "两居室的住宅"
+        ],
+        [
+            "today",
+            "n.",
+            "今天，今日"
+        ],
+        [
+            "today",
+            "adv.",
+            "今天，今日"
+        ],
+        [
+            "live",
+            "v.",
+            "居住；生存；生活"
+        ],
+        [
+            "She needs to find somewhere to live.",
+            "",
+            "她需要找个住的地方。"
+        ],
+        [
+            "gate",
+            "n.",
+            "大门；出入口"
+        ],
+        [
+            "the gate of the city",
+            "",
+            "城门"
+        ],
+        [
+            "garden",
+            "n.",
+            "花园；菜园"
+        ],
+        [
+            "a rose garden",
+            "",
+            "玫瑰花园"
+        ],
+        [
+            "garage",
+            "n.",
+            "停车房；车库"
+        ],
+        [
+            "a bus garage",
+            "",
+            "公共汽车车库"
+        ],
+        [
+            "rubbish",
+            "n.",
+            "垃圾，废物"
+        ],
+        [
+            "bin",
+            "n.",
+            "垃圾箱；箱子，容器"
+        ],
+        [
+            "a rubbish bin",
+            "",
+            "垃圾箱"
+        ],
+        [
+            "door",
+            "n.",
+            "门"
+        ],
+        [
+            "open the door",
+            "",
+            "开门"
+        ],
+        [
+            "stand",
+            "v.",
+            "站立；位于"
+        ],
+        [
+            "stand up",
+            "",
+            "起立"
+        ],
+        [
+            "hall",
+            "n.",
+            "过道；门厅"
+        ],
+        [
+            "She ran into the hall and up the stairs.",
+            "",
+            "她跑进门厅，冲上楼梯。"
+        ],
+        [
+            "floor",
+            "n.",
+            "地板；楼层"
+        ],
+        [
+            "I live on the ground floor.",
+            "",
+            "我住在一楼。"
+        ],
+        [
+            "there",
+            "adv.",
+            "表示存在；在那里"
+        ],
+        [
+            "living room",
+            "",
+            "客厅；起居室"
+        ],
+        [
+            "sitting room",
+            "",
+            "客厅，起居室"
+        ],
+        [
+            "ceiling",
+            "n.",
+            "天花板"
+        ],
+        [
+            "light",
+            "n.",
+            "光；光线；灯"
+        ],
+        [
+            "a room with good natural light",
+            "",
+            "采光好的房间"
+        ],
+        [
+            "area",
+            "n.",
+            "地区；区域"
+        ],
+        [
+            "a picnic area",
+            "",
+            "野餐区"
+        ],
+        [
+            "sofa",
+            "n.",
+            "沙发；长椅"
+        ],
+        [
+            "chair",
+            "n.",
+            "椅子"
+        ],
+        [
+            "a table and chairs",
+            "",
+            "一套桌椅"
+        ],
+        [
+            "carpet",
+            "n.",
+            "地毯；地毯状覆盖物"
+        ],
+        [
+            "a roll of carpet",
+            "",
+            "一卷地毯"
+        ],
+        [
+            "sit",
+            "v.",
+            "坐；位于"
+        ],
+        [
+            "May I sit here?",
+            "",
+            "我可以坐这儿吗？"
+        ],
+        [
+            "bookcase",
+            "n.",
+            "书柜，书架"
+        ],
+        [
+            "television",
+            "n.",
+            "电视"
+        ],
+        [
+            "believe",
+            "v.",
+            "相信；认为"
+        ],
+        [
+            "I don't believe you!",
+            "",
+            "我不相信你的话！"
+        ],
+        [
+            "watch",
+            "v.",
+            "观看，注视；看守"
+        ],
+        [
+            "watch TV",
+            "",
+            "看电视"
+        ],
+        [
+            "time",
+            "n.",
+            "时间；时代"
+        ],
+        [
+            "What time is it?",
+            "",
+            "几点了？"
+        ],
+        [
+            "low",
+            "adj.",
+            "低的；浅的"
+        ],
+        [
+            "The temperature is too low.",
+            "",
+            "温度太低了。"
+        ],
+        [
+            "book",
+            "n.",
+            "书"
+        ],
+        [
+            "kitchen",
+            "n.",
+            "厨房"
+        ],
+        [
+            "in the kitchen",
+            "",
+            "在厨房里"
+        ],
+        [
+            "certainly",
+            "adv.",
+            "肯定；当然，行"
+        ],
+        [
+            "I'm certainly never going there again.",
+            "",
+            "我肯定不会再去那里了。"
+        ],
+        [
+            "equipment",
+            "n.",
+            "设备；装备"
+        ],
+        [
+            "office equipment",
+            "",
+            "办公室设备"
+        ],
+        [
+            "oven",
+            "n.",
+            "烤箱；炉，灶"
+        ],
+        [
+            "Take the cake out of the oven.",
+            "",
+            "把蛋糕从烤箱中取出来。"
+        ],
+        [
+            "fridge",
+            "n.",
+            "电冰箱"
+        ],
+        [
+            "There's nothing much in the fridge.",
+            "",
+            "冰箱里没什么东西了。"
+        ],
+        [
+            "drawer",
+            "n.",
+            "抽屉"
+        ],
+        [
+            "open the desk drawer",
+            "",
+            "打开书桌抽屉"
+        ],
+        [
+            "cupboard",
+            "n.",
+            "橱柜；衣柜"
+        ],
+        [
+            "kitchen cupboards",
+            "",
+            "厨房里用的橱柜"
+        ],
+        [
+            "dining room",
+            "",
+            "餐厅"
+        ],
+        [
+            "homestay",
+            "n.",
+            "寄宿家庭"
+        ],
+        [
+            "host",
+            "n.",
+            "主人"
+        ],
+        [
+            "around",
+            "prep.",
+            "环绕；在……周围"
+        ],
+        [
+            "around",
+            "adv.",
+            "周围；四周"
+        ],
+        [
+            "show somebody around",
+            "",
+            "带某人参观"
+        ],
+        [
+            "wife",
+            "n.",
+            "妻子"
+        ],
+        [
+            "son",
+            "n.",
+            "儿子"
+        ],
+        [
+            "plant",
+            "v.",
+            "种植"
+        ],
+        [
+            "plant",
+            "n.",
+            "植物"
+        ],
+        [
+            "cosy",
+            "adj.",
+            "舒适的"
+        ],
+        [
+            "various",
+            "adj.",
+            "各种各样的"
+        ],
+        [
+            "favourite",
+            "adj.",
+            "最喜欢的"
+        ],
+        [
+            "favourite",
+            "n.",
+            "最喜欢的人或物"
+        ],
+        [
+            "fireplace",
+            "n.",
+            "壁炉"
+        ],
+        [
+            "plate",
+            "n.",
+            "盘子"
+        ],
+        [
+            "cup",
+            "n.",
+            "杯子"
+        ]
+    ]
+}

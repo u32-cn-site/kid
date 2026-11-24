@@ -1,0 +1,484 @@
+{
+ "lesson": 9,
+ "title": [
+  "The Peach Garden",
+  "桃花园"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "Wukong plucked a peach from a branch and bit into it.",
+    "孙悟空从树枝上摘下一个桃子，然后咬了一口。"
+   ],
+   [
+    "\"This peach tastes wonderful!\" he said.",
+    "“这个桃子味道棒极了！”他说。"
+   ],
+   [
+    "He ate another peach.",
+    "他又吃了一个桃子。"
+   ],
+   [
+    "And then he ate another one.",
+    "然后他又吃了一个。"
+   ],
+   [
+    "Each morning after that, Wukong secretly ate more and more peaches.",
+    "从那天起，每天早上，悟空都会偷偷吃越来越多的桃子。"
+   ],
+   [
+    "After eating he climbed into a tree and took a nap.",
+    "吃完饭后，他爬到树上小睡了一会儿。"
+   ],
+   [
+    "Time went by, and Wukong enjoyed his life in Heaven.",
+    "时间流逝，悟空在天上享受着自己的生活。"
+   ],
+   [
+    "Meanwhile the queen of Heaven was busy.",
+    "与此同时，天国的女王正忙于处理各种事务。"
+   ],
+   [
+    "It was almost time for the annual Peach Festival.",
+    "一年一度的桃花节快到了。"
+   ],
+   [
+    "She called for her maidens, Red Gown and Blue Gown.",
+    "她叫来了她的女仆们，红裙子姑娘和蓝裙子姑娘。"
+   ],
+   [
+    "\"How may we help you?\" asked Red Gown.",
+    "“我们能为您做什么吗？”穿红色礼服的人问道。"
+   ],
+   [
+    "\"The Peach Festival is tomorrow,\" said the queen.",
+    "“明天就是桃花节了，”女王说道。"
+   ],
+   [
+    "\"All the important gods and spirits in Heaven will be here.",
+    "“天上所有的重要的神和灵都会来到这里。”"
+   ],
+   [
+    "I also invited the bodhisattva Guanyin, the goddess of mercy.",
+    "我还请来了观音菩萨，那位慈悲的女神。"
+   ],
+   [
+    "Go to the Peach Garden now, and pick plenty of ripe peaches.\"",
+    "现在就去桃花園，摘够很多成熟的桃子吧。"
+   ],
+   [
+    "Red Gown and Blue Gown went to the garden.",
+    "红裙子女孩和蓝裙子女孩一起去了花园。"
+   ],
+   [
+    "As soon as they went through the gate, both maidens gasped.",
+    "她们一穿过大门，两个少女都惊呼出声。"
+   ],
+   [
+    "\"Where are all the peaches?\" cried Red Gown.",
+    "“所有的桃子都哪儿去了？”红裙女叫道。"
+   ],
+   [
+    "\"They're . . . gone!\" cried Blue Gown.",
+    "“他们……不见了！”蓝裙子喊道。"
+   ],
+   [
+    "\"This is terrible!\" said Red Gown.",
+    "“这太可怕了！”红袍女说道。"
+   ],
+   [
+    "\"The queen will be angry!\"",
+    "“女王会生气的！”"
+   ],
+   [
+    "Wukong had been sleeping up on a branch.",
+    "悟空一直在树枝上睡觉。"
+   ],
+   [
+    "When he heard the maidens, he woke up.",
+    "当他听到少女们的声音时，他醒了。"
+   ],
+   [
+    "\"Who's making all this noise?\" he asked, jumping down to the ground.",
+    "“是谁在制造这么多噪音？”他问道，然后跳到了地上。"
+   ],
+   [
+    "\"I'm trying to sleep!\"",
+    "“我正试图睡觉！”"
+   ],
+   [
+    "The maidens were startled.",
+    "那些少女们吓了一跳。"
+   ],
+   [
+    "\"We're sorry to wake you, sir,\" said Red Gown.",
+    "“很抱歉打扰您了，先生，”红袍人说。"
+   ],
+   [
+    "\"We came to pick peaches for the Peach Festival.",
+    "“我们来这里是为了在桃节期间采摘桃子。”"
+   ],
+   [
+    "Do you know what happened to—\" \"The Peach Festival?\" said Wukong.",
+    "“你知道‘桃花节’后来发生什么事了吗？”悟空问道。"
+   ],
+   [
+    "His eyes lit up.",
+    "他的眼睛亮了起来。"
+   ],
+   [
+    "\"I didn't hear about that.\"",
+    "“我没听说过那件事。”"
+   ],
+   [
+    "\"Oh, it's a wonderful festival,\" said Blue Gown.",
+    "“哦，这真是一个美好的节日，”蓝裙子说。"
+   ],
+   [
+    "\"All the important gods and spirits will be there.\"",
+    "“所有重要的神灵和精灵都会在那里。”"
+   ],
+   [
+    "\"That sounds like fun,\" said Wukong.",
+    "“那听起来很有趣，”孙悟空说道。"
+   ],
+   [
+    "\"I'm sure I'm invited, right?\"",
+    "“我确定我被邀请了吧，对吧？”"
+   ],
+   [
+    "Red Gown bit her lip.",
+    "红礼服女孩咬了咬嘴唇。"
+   ],
+   [
+    "\"Um, I don't think so.\"",
+    "“嗯，我不这么认为。”"
+   ],
+   [
+    "Wukong was furious.",
+    "悟空勃然大怒。"
+   ],
+   [
+    "\"The queen did not invite me?",
+    "“女王没有邀请我？”"
+   ],
+   [
+    "I'm just as important as any other spirit or god!\"",
+    "“我和任何其他神灵或神明一样重要！”"
+   ],
+   [
+    "The maidens looked nervous.",
+    "那些少女们看起来很紧张。"
+   ],
+   [
+    "\"Sir,\" said Blue Gown.",
+    "“先生，”蓝礼服说道。"
+   ],
+   [
+    "\"Where are the peaches?\"",
+    "“桃子在哪里？”"
+   ],
+   [
+    "\"I ate them,\" said Wukong.",
+    "“我把它们吃掉了，”悟空说。"
+   ],
+   [
+    "\"I ate every single one!",
+    "“我把每一个都吃掉了！”"
+   ],
+   [
+    "And they were delicious!\"",
+    "“它们非常美味！”"
+   ],
+   [
+    "\"Oh no!\" cried Red Gown.",
+    "“哦不！”红裙女孩叫道。"
+   ],
+   [
+    "\"We must tell the queen.\"",
+    "“我们必须告诉女王。”"
+   ],
+   [
+    "\"No, you're not going to tell the queen,\" said Wukong.",
+    "“不行，你不能告诉王后，”悟空说。"
+   ],
+   [
+    "He quickly said a spell.",
+    "他迅速念了一个咒语。"
+   ],
+   [
+    "Instantly Red Gown and Blue Gown fell asleep.",
+    "立刻，红裙女孩和蓝裙女孩都睡着了。"
+   ],
+   [
+    "Wukong looked at all the empty peach trees.",
+    "悟空看着所有那些光秃秃的桃树。"
+   ],
+   [
+    "He shook his head.",
+    "他摇了摇头。"
+   ],
+   [
+    "\"I'm in big trouble.\"",
+    "“我遇到了大麻烦。”"
+   ],
+   [
+    "When Red Gown and Blue Gown woke up, they ran back to the Cloud Palace.",
+    "当红袍少女和蓝袍少女醒来后，她们立刻跑回了云宫。"
+   ],
+   [
+    "\"Your Majesty!\" cried Red Gown.",
+    "“陛下！”红袍女子喊道。"
+   ],
+   [
+    "\"Something terrible has happened!",
+    "“发生了可怕的事情！"
+   ],
+   [
+    "Sun Wukong ate all the peaches!\"",
+    "孙悟空把所有的桃子都吃光了！"
+   ],
+   [
+    "\"He got very angry and cast a spell on us,\" added Blue Gown.",
+    "“他非常生气，然后对我们施了魔法，”蓝袍女子补充道。"
+   ],
+   [
+    "\"When we woke up, he was gone.\"",
+    "“当我们醒来时，他已经不见了。”"
+   ],
+   [
+    "The queen's eyes flashed with anger.",
+    "女王的眼睛里闪过愤怒的光芒。"
+   ],
+   [
+    "She went to the royal court and told the Jade Emperor.",
+    "她去了皇家宫廷，将此事告诉了玉帝。"
+   ],
+   [
+    "\"That horrible monkey!\" cried the emperor.",
+    "“那只可怕的猴子！”皇帝大叫道。"
+   ],
+   [
+    "He turned to his captain.",
+    "他转向他的队长。"
+   ],
+   [
+    "\"Gather 100,000 soldiers.",
+    "“招募10万名士兵。”"
+   ],
+   [
+    "I want Wukong arrested!\"",
+    "“我要捉住孙悟空！”"
+   ],
+   [
+    "The captain nodded and then left the palace.",
+    "队长点了点头，然后离开了宫殿。"
+   ],
+   [
+    "Meanwhile the bodhisattva Guanyin left her home on Mount Potalaka in the South Sea.",
+    "与此同时，观音菩萨离开了她位于南海普陀罗山的家园。"
+   ],
+   [
+    "She soon arrived at the Cloud Palace.",
+    "她很快就来到了云宫。"
+   ],
+   [
+    "\"I'm sorry to tell you this,\" said the queen.",
+    "“很遗憾地告诉你这个消息，”女王说道。"
+   ],
+   [
+    "\"But there won't be a peach festival.\"",
+    "“但是不会有一个桃子节了。”"
+   ],
+   [
+    "\"Why not?\" asked Guanyin.",
+    "“为什么不呢？”观音问道。"
+   ],
+   [
+    "\"A monkey named Sun Wukong ate all the peaches,\" said the emperor.",
+    "“一只名叫孙悟空的猴子把所有的桃子都吃掉了，”皇帝说。"
+   ],
+   [
+    "\"I sent 100,000 soldiers to arrest him.",
+    "“我派遣了一万名士兵去逮捕他。”"
+   ],
+   [
+    "They'll bring him back to Heaven soon.\"",
+    "他们很快就会把他带回天堂。"
+   ],
+   [
+    "Just then a messenger ran into the court.",
+    "就在这时，一个信使冲进了宫殿。"
+   ],
+   [
+    "\"We need more soldiers, Your Majesty!\"",
+    "“陛下，我们需要更多的士兵！”"
+   ],
+   [
+    "\"What?\" cried the emperor.",
+    "“什么？”皇帝喊道。"
+   ],
+   [
+    "\"Wukong defeated the entire army,\" said the messenger.",
+    "“悟空打败了整个军队，”信使说。"
+   ],
+   [
+    "The Jade Emperor put his head in his hands.",
+    "玉皇大帝双手抱头。"
+   ],
+   [
+    "\"We don't have any more soldiers!\"",
+    "“我们的士兵已经没有多少了！”"
+   ]
+  ]
+ },
+ "words": [
+  [
+   "pluck",
+   "",
+   "采，摘，拔",
+   "Wukong plucked a peach from a branch and bit into it.",
+   "孙悟空从树枝上摘下一个桃子，然后咬了一口。"
+  ],
+  [
+   "branch",
+   "",
+   "树枝",
+   "Wukong plucked a peach from a branch and bit into it.",
+   "孙悟空从树枝上摘下一个桃子，然后咬了一口。"
+  ],
+  [
+   "secretly",
+   "",
+   "偷偷地，秘密地",
+   "Each morning after that, Wukong secretly ate more and more peaches.",
+   "从那天起，每天早上，悟空都会偷偷吃越来越多的桃子。"
+  ],
+  [
+   "heaven",
+   "",
+   "天堂，天国",
+   "Time went by, and Wukong enjoyed his life in Heaven.",
+   "时间流逝，悟空在天上享受着自己的生活。"
+  ],
+  [
+   "meanwhile",
+   "",
+   "同时，在...期间",
+   "Meanwhile the queen of Heaven was busy.",
+   "与此同时，天国的女王正忙于处理各种事务。"
+  ],
+  [
+   "busy",
+   "",
+   "忙碌的，繁忙的",
+   "Meanwhile the queen of Heaven was busy.",
+   "与此同时，天国的女王正忙于处理各种事务。"
+  ],
+  [
+   "maiden",
+   "",
+   "少⼥，⼩姐",
+   "She called for her maidens, Red Gown and Blue Gown.",
+   "她叫来了她的女仆们，红裙子姑娘和蓝裙子姑娘。"
+  ],
+  [
+   "important",
+   "",
+   "重要的",
+   "All the important gods and spirits in Heaven will be here.",
+   "天上所有重要的神灵和神仙都会来到这里。"
+  ],
+  [
+   "bodhisattva",
+   "",
+   "菩萨",
+   "I also invited the bodhisattva Guanyin, the goddess of mercy.",
+   "我还请来了观音菩萨，那位慈悲的女神。"
+  ],
+  [
+   "Guanyin",
+   "",
+   "观⾳",
+   "I also invited the bodhisattva Guanyin, the goddess of mercy.",
+   "我还请来了观音菩萨，那位慈悲的女神。"
+  ],
+  [
+   "mercy",
+   "",
+   "仁慈，宽容",
+   "I also invited the bodhisattva Guanyin, the goddess of mercy.",
+   "我还请来了观音菩萨，那位慈悲的女神。"
+  ],
+  [
+   "terrible",
+   "",
+   "可怕的，极坏的，糟糕的",
+   "This is terrible!",
+   "这太糟糕了！"
+  ],
+  [
+   "startle",
+   "",
+   "使⼤吃⼀惊",
+   "The maidens were startled.",
+   "那些少女们吓了一跳。"
+  ],
+  [
+   "noise",
+   "",
+   "声响，喧闹声",
+   "Who's making all this noise?",
+   "是谁在制造这么多噪音？"
+  ],
+  [
+   "single",
+   "",
+   "单⼀的，单个的",
+   "I ate every single one!",
+   "我把每一个都吃掉了！"
+  ],
+  [
+   "empty",
+   "",
+   "空的，未占⽤的",
+   "Wukong looked at all the empty peach trees.",
+   "悟空看着所有那些光秃秃的桃树。"
+  ],
+  [
+   "flash",
+   "",
+   "闪光，闪烁",
+   "The queen's eyes flashed with anger.",
+   "女王的眼睛里闪过愤怒的光芒。"
+  ],
+  [
+   "horrible",
+   "",
+   "可怕的，让⼈讨厌的 (=terrible)",
+   "That horrible monkey!",
+   "那只可怕的猴子！"
+  ],
+  [
+   "arrest",
+   "",
+   "逮捕",
+   "I want Wukong arrested!",
+   "我要把悟空抓起来！"
+  ],
+  [
+   "defeat",
+   "",
+   "战胜，击败",
+   "Wukong defeated the entire army.",
+   "悟空击败了整支军队。"
+  ],
+  [
+   "entire",
+   "",
+   "整个的，全部的",
+   "Wukong defeated the entire army.",
+   "悟空击败了整支军队。"
+  ]
+ ]
+}

@@ -1,0 +1,514 @@
+{
+ "lesson": 100,
+ "title": [
+  "A Terrible Robbery",
+  "一起可怕的抢劫案"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "For over a month, the travelers stayed at Squire Kou's house.",
+    "旅行者在斯奎尔·库的家里住了有一个多月的时间。"
+   ],
+   [
+    "Every time they tried to leave, the squire begged them to stay longer.",
+    "每次他们试图离开时，乡绅都会恳求他们再多留一段时间。"
+   ],
+   [
+    "Finally, one morning during breakfast, the Tang Monk insisted on leaving.",
+    "终于，在一个早晨吃早餐的时候，唐僧坚决要求出发。"
+   ],
+   [
+    "\"We'll never fetch the True Scriptures if we stay here.\"",
+    "“如果我们留在这里，永远也找不到真正的经典文献。”"
+   ],
+   [
+    "\"Please don't leave,\" said Squire Kou.",
+    "“请不要离开，”寇乡绅说。"
+   ],
+   [
+    "\"You are very important monks.",
+    "“你们是非常重要的僧侣。”"
+   ],
+   [
+    "Having you as guests is a good deed.\"",
+    "有您这样的客人来做客，真是件美好的事情。"
+   ],
+   [
+    "\"I'd like to stay here,\" said Bajie.",
+    "“我想待在这里，”八戒说。"
+   ],
+   [
+    "He took a bite of a peach.",
+    "他咬了一口桃子。"
+   ],
+   [
+    "\"No.",
+    "“不。”"
+   ],
+   [
+    "Master's right,\" said Wukong.",
+    "“这是大师的权利，”悟空说道。"
+   ],
+   [
+    "\"We must continue our journey.\"",
+    "“我们必须继续我们的旅程。”"
+   ],
+   [
+    "Lady Kou grew angry.",
+    "寇女士生气了。"
+   ],
+   [
+    "\"You monks are ungrateful!",
+    "“你们这些僧侣真是忘恩负义！”"
+   ],
+   [
+    "We have fed you and taken care of you.",
+    "我们给你们提供了食物，也照顾了你们。"
+   ],
+   [
+    "Yet you can't wait to leave!\"",
+    "可你却迫不及待地想要离开！"
+   ],
+   [
+    "\"We are very grateful,\" said the Tang Monk.",
+    "“我们非常感激，”唐僧说道。"
+   ],
+   [
+    "\"But we cannot stay any longer.\"",
+    "“但我们不能再待下去了。”"
+   ],
+   [
+    "After breakfast Wujing got the horse from Squire Kou's stable.",
+    "早餐后，五镜从寇乡绅的马厩里牵出了那匹马。"
+   ],
+   [
+    "Bajie gathered the bags.",
+    "八戒把那些包都收拾好了。"
+   ],
+   [
+    "The Tang Monk thanked Squire and Lady Kou, and the travelers headed west.",
+    "唐僧感谢了寇氏夫妇，然后旅行者们向西出发了。"
+   ],
+   [
+    "\"They are ungrateful,\" muttered Lady Kou.",
+    "“他们真不知感恩，”寇夫人喃喃说道。"
+   ],
+   [
+    "The next morning Lady Kou ran into the town's courthouse.",
+    "第二天早上，寇夫人赶到了镇上的法院。"
+   ],
+   [
+    "Tears filled her eyes.",
+    "泪水充满了她的眼睛。"
+   ],
+   [
+    "\"I must speak with the judge!\" she cried.",
+    "“我必须和法官谈谈！”她喊道。"
+   ],
+   [
+    "The judge rushed to her.",
+    "法官赶紧走向她。"
+   ],
+   [
+    "\"Lady Kou!",
+    "“寇小姐！”"
+   ],
+   [
+    "What's wrong?\"",
+    "“怎么了？”"
+   ],
+   [
+    "\"Robbers broke into our house last night,\" said Lady Kou breathlessly.",
+    "“昨晚有小偷闯进了我们家，”寇夫人气喘吁吁地说。"
+   ],
+   [
+    "\"They stole many valuable items and two of our horses.",
+    "“他们偷走了许多贵重物品和我们的两匹马。”"
+   ],
+   [
+    "Squire Kou tried to stop them, but the robbers . . .",
+    "斯奎尔·寇试图阻止他们，但是那些强盗……"
+   ],
+   [
+    "They . . . killed my husband!",
+    "他们……杀了我的丈夫！"
+   ],
+   [
+    "Lady Kou burst into tears.",
+    "寇女士突然哭了起来。"
+   ],
+   [
+    "The judge gasped.",
+    "法官倒吸了一口凉气。"
+   ],
+   [
+    "\"Oh no!",
+    "“哦不！”"
+   ],
+   [
+    "Did you see the robbers?\"",
+    "“你看到那些强盗了吗？”"
+   ],
+   [
+    "Lady Kou sniffed.",
+    "寇女士抽了抽鼻子。"
+   ],
+   [
+    "\"Yes, and I know who they are.\"",
+    "“是的，而且我知道他们是谁。”"
+   ],
+   [
+    "\"Who are they?\" asked the judge.",
+    "“他们是谁？”法官问道。"
+   ],
+   [
+    "Lady Kou gritted her teeth.",
+    "寇女士咬紧了牙关。"
+   ],
+   [
+    "\"The Tang Monk and his companions!\"",
+    "“唐僧和他的伙伴们！”"
+   ],
+   [
+    "The judge turned to a soldier.",
+    "法官转向一名士兵。"
+   ],
+   [
+    "\"Gather some soldiers and arrest the Tang Monk and his companions!\"",
+    "“召集一些士兵，逮捕唐僧和他的同伴们！”"
+   ],
+   [
+    "\"I'm glad we're headed west again,\" said the Tang Monk as the travelers walked.",
+    "“我很高兴我们又要向西行进了，”唐僧一边说，一边和旅行者们一起走着。"
+   ],
+   [
+    "\"I'm eager to reach the Western Paradise.\"",
+    "“我渴望抵达西方天堂。”"
+   ],
+   [
+    "Wujing nodded.",
+    "武静点了点头。"
+   ],
+   [
+    "\"We were delayed at Squire Kou's house for too long.\"",
+    "“我们在斯奎尔·库的家里耽搁了太久。”"
+   ],
+   [
+    "Bajie snorted.",
+    "八戒哼了一声。"
+   ],
+   [
+    "\"We should have stayed longer.\"",
+    "“我们本应该多留一会儿的。”"
+   ],
+   [
+    "Suddenly a group of men stepped onto the road.",
+    "突然，一群男人走到了路上。"
+   ],
+   [
+    "They carried swords and axes.",
+    "他们携带了剑和斧头。"
+   ],
+   [
+    "Their horses carried several large bundles.",
+    "他们的马驮着几大捆货物。"
+   ],
+   [
+    "\"Give us your money!\" shouted one man.",
+    "“把你们的钱交出来！”一个男人喊道。"
+   ],
+   [
+    "Wukong pulled out his iron bar.",
+    "孙悟空拔出了他的铁棒。"
+   ],
+   [
+    "\"Wukong,\" said the Tang Monk.",
+    "“悟空。” 唐僧说道。"
+   ],
+   [
+    "\"Remember, you must not harm people.\"",
+    "“记住，你绝对不能伤害别人。”"
+   ],
+   [
+    "Wukong smiled.",
+    "悟空笑了。"
+   ],
+   [
+    "\"I'm just going to talk to them, Master.",
+    "“我只是要去和他们谈谈，主人。”"
+   ],
+   [
+    "He turned to the man who had shouted.",
+    "他转向那个喊叫的男人。"
+   ],
+   [
+    "\"We have no money.\"",
+    "“我们没有钱。”"
+   ],
+   [
+    "\"No money, huh?\" said the man.",
+    "“没有钱，是吧？”那个男人说。"
+   ],
+   [
+    "\"Well then, we're going to beat up all of you.\"",
+    "“那么，我们就要揍扁你们所有人。”"
+   ],
+   [
+    "Wukong laughed.",
+    "孙悟空笑了。"
+   ],
+   [
+    "\"You don't realize who I am.",
+    "“你根本不知道我是谁。”"
+   ],
+   [
+    "I'm Sun Wukong, the Monkey King!\"",
+    "“我是孙悟空，美猴王！”"
+   ],
+   [
+    "\"I don't care who you are,\" said the man.",
+    "“我不在乎你是谁，”那个男人说。"
+   ],
+   [
+    "\"We're dangerous robbers!",
+    "“我们是一群危险的强盗！”"
+   ],
+   [
+    "Last night we robbed a very wealthy squire.\"",
+    "昨晚我们抢了一名非常富有的乡绅。"
+   ],
+   [
+    "The Tang Monk raised his eyebrows.",
+    "唐僧挑了挑眉毛。"
+   ],
+   [
+    "\"A squire?\"",
+    "“一个乡绅？”"
+   ],
+   [
+    "Wukong quickly recited a spell, which froze the robbers.",
+    "孙悟空迅速念了一个咒语，将那些强盗都冻住了。"
+   ],
+   [
+    "Wujing rushed to the horses and opened one of the bundles.",
+    "吴净急忙跑到马旁，打开其中一个包裹。"
+   ],
+   [
+    "Inside were dishes, jewels, and other valuable items.",
+    "里面有一些餐具、珠宝以及其他贵重物品。"
+   ],
+   [
+    "Wujing gasped.",
+    "五静倒吸了一口气。"
+   ],
+   [
+    "\"These items belong to Squire Kou!",
+    "“这些物品属于库斯quire！"
+   ],
+   [
+    "So do the horses!\"",
+    "马们也是！"
+   ],
+   [
+    "The Tang Monk bit his lip.",
+    "唐僧咬了咬嘴唇。"
+   ],
+   [
+    "\"Squire Kou is a good man.",
+    "“Kou先生是个好人。”"
+   ],
+   [
+    "We must return his belongings.\"",
+    "我们必须归还他的物品。"
+   ],
+   [
+    "Everyone agreed.",
+    "大家都同意了。"
+   ],
+   [
+    "Wukong recited another spell, and the robbers became unfrozen.",
+    "孙悟空又念了一个咒语，那些强盗们都解冻了。"
+   ],
+   [
+    "The monkey grew large, and fire burned in his eyes.",
+    "猴子长大了，它的眼睛里燃烧着火焰。"
+   ],
+   [
+    "\"Get out of here!\" he thundered.",
+    "“滚出去！”他怒吼道。"
+   ],
+   [
+    "\"And never steal again!\"",
+    "“还有，永远不要再偷东西了！”"
+   ],
+   [
+    "The robbers screamed and ran away.",
+    "强盗们大喊一声，然后逃跑了。"
+   ],
+   [
+    "The travelers headed back toward town with the squire's horses.",
+    "旅行者们乘坐侍从提供的马匹，回到了镇上。"
+   ],
+   [
+    "Soon they saw a group of soldiers on horseback.",
+    "不久，他们看到了一群骑在马上的士兵。"
+   ],
+   [
+    "\"Those soldiers are riding toward us,\" said Wujing.",
+    "“那些士兵正在朝我们这边骑行过来，”武静说。"
+   ],
+   [
+    "\"I wonder what they want,\" said the Tang Monk.",
+    "“我想知道他们想要什么，”唐僧说。"
+   ],
+   [
+    "One of the soldiers pointed a sword at the travelers.",
+    "其中一名士兵用剑指向了旅行者们。"
+   ],
+   [
+    "\"Stop, thieves!",
+    "“站住，小偷们！”"
+   ],
+   [
+    "You're all under arrest!\"",
+    "“你们所有人都被逮捕了！”"
+   ]
+  ]
+ },
+ "words": [
+  [
+   "robbery",
+   "",
+   "抢劫，抢劫案",
+   "There was a terrible robbery last night.",
+   "昨晚发生了一起可怕的抢劫案。"
+  ],
+  [
+   "insist",
+   "",
+   "坚持要求，主张",
+   "The Tang Monk insisted on leaving.",
+   "唐僧坚持要离开。"
+  ],
+  [
+   "ungrateful",
+   "",
+   "忘恩负义的",
+   "You monks are ungrateful!",
+   "你们这些僧侣真是忘恩负义！"
+  ],
+  [
+   "grateful",
+   "",
+   "感激的",
+   "We are very grateful.",
+   "我们非常感激。"
+  ],
+  [
+   "stable",
+   "",
+   "马厩",
+   "After breakfast Wujing got the horse from Squire Kou's stable.",
+   "早餐后，五镜从寇乡绅的马厩里牵出了那匹马。"
+  ],
+  [
+   "courthouse",
+   "",
+   "法院",
+   "The next morning Lady Kou ran into the town's courthouse.",
+   "第二天早上，寇夫人赶到了镇上的法院。"
+  ],
+  [
+   "robber",
+   "",
+   "强盗",
+   "Squire Kou tried to stop them, but the robbers killed my husband!",
+   "库侍从试图阻止他们，但强盗们杀害了我的丈夫！"
+  ],
+  [
+   "grit",
+   "",
+   "咯咯地磨(⽛)，咬紧(⽛)",
+   "Lady Kou gritted her teeth.",
+   "寇女士咬紧了牙关。"
+  ],
+  [
+   "arrest",
+   "",
+   "逮捕",
+   "Gather some soldiers and arrest the Tang Monk and his companions!",
+   "召集一些士兵，逮捕唐僧和他的同伴们！"
+  ],
+  [
+   "eager",
+   "",
+   "渴望的，热切的",
+   "I'm eager to reach the Western Paradise.",
+   "我渴望到达西方极乐世界。"
+  ],
+  [
+   "ax",
+   "",
+   "斧⼦ (=axe)",
+   "They carried swords and axes.",
+   "他们携带了剑和斧头。"
+  ],
+  [
+   "beat up",
+   "",
+   "痛打",
+   "Well then, we're going to beat up all of you.",
+   "那么，我们要把你们所有人都揍一顿。"
+  ],
+  [
+   "rob",
+   "",
+   "抢劫，盗取",
+   "Last night we robbed a very wealthy squire.",
+   "昨晚我们抢了一名非常富有的乡绅。"
+  ],
+  [
+   "wealthy",
+   "",
+   "富有的，富裕的",
+   "Last night we robbed a very wealthy squire.",
+   "昨晚我们抢了一名非常富有的乡绅。"
+  ],
+  [
+   "jewel",
+   "",
+   "宝⽯",
+   "Inside were dishes, jewels, and other valuable items.",
+   "里面有一些餐具、珠宝以及其他贵重物品。"
+  ],
+  [
+   "belong to",
+   "",
+   "属于",
+   "These items belong to Squire Kou!",
+   "这些物品属于库尔侍从！"
+  ],
+  [
+   "unfrozen",
+   "",
+   "解冻的，溶化的",
+   "Wukong recited another spell, and the robbers became unfrozen.",
+   "孙悟空又念了一个咒语，那些强盗们都解冻了。"
+  ],
+  [
+   "horseback",
+   "",
+   "马背",
+   "Soon they saw a group of soldiers on horseback.",
+   "不久，他们看到了一群骑在马上的士兵。"
+  ],
+  [
+   "under arrest",
+   "",
+   "被捕的",
+   "You're all under arrest!",
+   "你们所有人都被逮捕了！"
+  ]
+ ]
+}

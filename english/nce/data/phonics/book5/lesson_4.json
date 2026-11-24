@@ -1,0 +1,31 @@
+{
+    "lesson": 4,
+    "title": ["Unit 4", "第四单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["square", "n./adj.", "正方形"],
+        ["The box is square.", "", "盒子是方形的。"],
+        ["share", "v.", "分享"],
+        ["I share my toys.", "", "我分享我的玩具。"],
+        ["chair", "n.", "椅子"],
+        ["I sit on the chair.", "", "我坐在椅子上。"],
+        ["hair", "n.", "头发"],
+        ["I brush my hair.", "", "我梳头发。"],
+        ["bread", "n.", "面包"],
+        ["I eat bread for breakfast.", "", "我早餐吃面包。"],
+        ["head", "n.", "头"],
+        ["I wear a hat on my head.", "", "我头上戴帽子。"],
+        ["bear", "n.", "熊"],
+        ["The bear is big.", "", "熊很大。"],
+        ["pear", "n.", "梨"],
+        ["I eat a pear.", "", "我吃一个梨。"],
+        ["ear", "n.", "耳朵"],
+        ["I hear with my ears.", "", "我用耳朵听。"],
+        ["clear", "adj.", "清楚的"],
+        ["The water is clear.", "", "水很清澈。"],
+        ["deer", "n.", "鹿"],
+        ["The deer runs in the forest.", "", "鹿在森林里跑。"],
+        ["cheer", "v.", "欢呼"],
+        ["We cheer for our team.", "", "我们为队伍欢呼。"]
+    ]
+}

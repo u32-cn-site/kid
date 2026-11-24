@@ -1,0 +1,41 @@
+{
+  "title": "小学数学综合练习",
+  "description": "包含单选、多选和填空题的混合练习",
+  "questions": [
+    {
+      "type": "single",
+      "content": "12 × 3 = ?",
+      "options": ["24", "36", "48", "15"],
+      "answer": 1,
+      "explanation": "12 × 3 就是3个12相加：12 + 12 + 12 = 36"
+    },
+    {
+      "type": "single",
+      "content": {"type": "html", "innerHTML": "<p>下面哪个图形是<span style='color:red'>三角形</span>？</p>"},
+      "hint": "三角形有三条边",
+      "options": ["○", "△", "□", "☆"],
+      "answer": 1,
+      "explanation": "三角形（△）是由三条线段首尾相连围成的封闭图形，有三条边和三个角。"
+    },
+    {
+      "type": "multiple",
+      "content": "下面哪些数是偶数？",
+      "options": ["1", "2", "3", "4"],
+      "answer": [1, 3],
+      "explanation": "偶数是能被2整除的整数。2 ÷ 2 = 1，4 ÷ 2 = 2，所以2和4都是偶数。"
+    },
+    {
+      "type": "fill",
+      "content": "1米 = ___ 厘米",
+      "answer": ["100"],
+      "explanation": "1米 = 100厘米，这是长度单位的基本换算关系。"
+    },
+    {
+      "type": "fill",
+      "content": {"type": "html", "innerHTML": "<p><sup>1</sup>/<sub>2</sub> + <sup>1</sup>/<sub>2</sub> = ___</p>"},
+      "hint": "同分母分数相加，分母不变",
+      "answer": ["1", "1/1"],
+      "explanation": "同分母分数相加，分母不变，分子相加：1/2 + 1/2 = 2/2 = 1"
+    }
+  ]
+}

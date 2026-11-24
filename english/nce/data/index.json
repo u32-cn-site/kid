@@ -1,0 +1,48 @@
+{
+    "books": [
+        {
+            "name": "新概念英语第一册",
+            "dir": "nce1"
+        },
+        {
+            "name": "新概念英语第二册",
+            "dir": "nce2"
+        },
+        {
+            "name": "新概念英语第三册",
+            "dir": "nce3"
+        },
+        {
+            "name": "新概念英语第四册",
+            "dir": "nce4"
+        },
+        {
+            "name": "ket",
+            "dir": "ket"
+        },
+        {
+            "name": "西游记（英文版）",
+            "dir": "journey"
+        },
+        {
+            "name": "牛津自然拼读第一册",
+            "dir": "phonics/book1"
+        },
+        {
+            "name": "牛津自然拼读第二册",
+            "dir": "phonics/book2"
+        },
+        {
+            "name": "牛津自然拼读第三册",
+            "dir": "phonics/book3"
+        },
+        {
+            "name": "牛津自然拼读第四册",
+            "dir": "phonics/book4"
+        },
+        {
+            "name": "牛津自然拼读第五册",
+            "dir": "phonics/book5"
+        }
+    ]
+}

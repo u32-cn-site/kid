@@ -1,0 +1,33 @@
+{
+    "lesson": 9,
+    "title": ["其他补充词汇", "其他补充词汇"],
+    "content": {"sentences": []},
+    "words": [
+        ["mess", "", "混乱"],
+        ["My room is a mess.", "", "我的房间很乱。"],
+        ["sweep", "", "打扫"],
+        ["I sweep the floor.", "", "我扫地。"],
+        ["wipe", "", "擦拭"],
+        ["I wipe the table.", "", "我擦桌子。"],
+        ["drive", "", "驾驶"],
+        ["My dad drives a car.", "", "我爸爸开车。"],
+        ["park", "", "公园"],
+        ["We play in the park.", "", "我们在公园玩。"],
+        ["vacation", "", "假期"],
+        ["We go on vacation.", "", "我们去度假。"],
+        ["stir", "", "搅拌"],
+        ["I stir the soup.", "", "我搅拌汤。"],
+        ["train", "", "训练"],
+        ["I train my dog.", "", "我训练我的狗。"],
+        ["net", "", "网"],
+        ["I catch fish with a net.", "", "我用网捕鱼。"],
+        ["robe", "", "长袍"],
+        ["I wear a robe after bath.", "", "我洗澡后穿浴袍。"],
+        ["blow", "", "吹"],
+        ["I blow bubbles.", "", "我吹泡泡。"],
+        ["huge", "", "巨大的"],
+        ["The elephant is huge.", "", "大象非常巨大。"],
+        ["named", "", "命名为"],
+        ["My cat is named Mimi.", "", "我的猫叫咪咪。"]
+    ]
+}

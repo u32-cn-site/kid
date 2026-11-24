@@ -1,0 +1,20 @@
+{
+  "name": "时间管理",
+  "short_name": "时间管理",
+  "description": "统计每天的学习总时长：倒计时学习 + 补记 + 时间轴统计图（只存最近 7 天）",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FFF9E6",
+  "theme_color": "#FFF9E6",
+  "dir": "ltr",
+  "lang": "zh-CN",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

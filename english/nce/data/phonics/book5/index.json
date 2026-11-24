@@ -1,0 +1,60 @@
+{
+    "lessons": [
+        {
+            "lesson": 1,
+            "title": [
+                "Unit 1",
+                "第一单元"
+            ]
+        },
+        {
+            "lesson": 2,
+            "title": [
+                "Unit 2",
+                "第二单元"
+            ]
+        },
+        {
+            "lesson": 3,
+            "title": [
+                "Unit 3",
+                "第三单元"
+            ]
+        },
+        {
+            "lesson": 4,
+            "title": [
+                "Unit 4",
+                "第四单元"
+            ]
+        },
+        {
+            "lesson": 5,
+            "title": [
+                "Unit 5",
+                "第五单元"
+            ]
+        },
+        {
+            "lesson": 6,
+            "title": [
+                "Unit 6",
+                "第六单元"
+            ]
+        },
+        {
+            "lesson": 7,
+            "title": [
+                "Unit 7",
+                "第七单元"
+            ]
+        },
+        {
+            "lesson": 8,
+            "title": [
+                "Unit 8",
+                "第八单元"
+            ]
+        }
+    ]
+}

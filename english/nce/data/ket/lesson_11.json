@@ -1,0 +1,181 @@
+{
+    "lesson": 11,
+    "title": [
+        "A Football Match",
+        "一场足球比赛"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Kenny likes water sports, such as swimming, surfing, diving and windsurfing.",
+                "肯尼喜欢水上运动，比如游泳、冲浪、潜水和帆板。"
+            ],
+            [
+                "He is also a big fan of football.",
+                "他也是足球的狂热粉丝。"
+            ],
+            [
+                "In his opinion, football is more fantastic.",
+                "在他看来，足球更精彩。"
+            ],
+            [
+                "Today he and his mum were watching a football match in the Olympic Stadium.",
+                "今天他和妈妈在奥林匹克体育场观看一场足球比赛。"
+            ],
+            [
+                "Football players wearing special trainers were running from one side to the other.",
+                "穿着特殊运动鞋的足球运动员从一边跑到另一边。"
+            ],
+            [
+                "\"Mum, I really want to be a football player so that I can kick the ball well, just like them,\" Kenny said to his mum.",
+                "「妈妈，我真的想成为一名足球运动员，这样我就能像他们一样踢好球，」肯尼对他妈妈说。"
+            ],
+            [
+                "\"It's nice that you have a dream, but how much do you know about this sport?\" asked Mum.",
+                "「你有梦想真好，但你对这项运动了解多少？」妈妈问。"
+            ],
+            [
+                "\"In the UK, people call it football, but it's called soccer in America.",
+                "「在英国，人们称之为football，但在美国它被称为soccer。"
+            ],
+            [
+                "American football is another sport like rugby,\" answered Kenny proudly.",
+                "美式足球是另一项像橄榄球一样的运动，」肯尼骄傲地回答。"
+            ],
+            [
+                "\"You are right, my boy.",
+                "「你说得对，我的孩子。"
+            ],
+            [
+                "In fact, maybe it will take many years to be a famous player.",
+                "事实上，也许要成为著名球员需要很多年。"
+            ],
+            [
+                "You need to practise every day with your coach to enter a competition,\" Mum explained to Kenny.",
+                "你需要每天和教练一起练习才能参加比赛，」妈妈向肯尼解释道。"
+            ],
+            [
+                "\"It seems not easy to be a football player,\" said Kenny worriedly.",
+                "「看来当足球运动员并不容易，」肯尼担忧地说。"
+            ],
+            [
+                "Just then his favourite team scored one goal and their scores were much higher than those of the other team.",
+                "就在那时，他最喜欢的球队进了一球，他们的分数比另一支球队高得多。"
+            ],
+            [
+                "They were about to win.",
+                "他们快要赢了。"
+            ],
+            [
+                "\"Yeah!\" Kenny cried excitedly and jumped off the seat.",
+                "「耶！」肯尼兴奋地叫道，从座位上跳了起来。"
+            ],
+            [
+                "\"This group is excellent and the players are strong.",
+                "「这支队伍很优秀，球员们很强壮。"
+            ],
+            [
+                "No matter which match they are in, they will be the winner.\"",
+                "无论他们参加哪场比赛，他们都将是获胜者。」"
+            ],
+            [
+                "\"Of course,\" answered Kenny confidently.",
+                "「当然，」肯尼自信地回答。"
+            ],
+            [
+                "\"Kenny, look.",
+                "「肯尼，看。"
+            ],
+            [
+                "I can't believe it — the group is about to lose.",
+                "我简直不敢相信 — 这支球队快要输了。"
+            ],
+            [
+                "If they are a little faster, they will be the winner.\"",
+                "如果他们再快一点，他们就会是获胜者。」"
+            ],
+            [
+                "\"That's not fair!\" said Kenny sadly.",
+                "「这不公平！」肯尼伤心地说。"
+            ],
+            [
+                "Mum told him gently, \"Maybe they're just not lucky this time...",
+                "妈妈温柔地告诉他：「也许他们只是这次运气不好……"
+            ],
+            [
+                "We should believe they will get back and be the winner in the next event.\"",
+                "我们应该相信他们会重整旗鼓，在下一场比赛中获胜。」"
+            ],
+            [
+                "\"Of course, they will,\" said Kenny.",
+                "「当然，他们会的，」肯尼说。"
+            ]
+        ]
+    },
+    "words": [
+        ["swimming", "n.", "游泳"],
+        ["surfboarding", "n.", "冲浪运动"],
+        ["diving", "n.", "跳水；潜水"],
+        ["windsurfing", "n.", "帆板运动"],
+        ["fan", "n.", "迷；狂热爱好者"],
+        ["football", "n.", "足球运动；橄榄球运动"],
+        ["fantastic", "adj.", "精彩的；极好的"],
+        ["match", "n.", "比赛；火柴"],
+        ["Olympic", "adj.", "奥林匹克运动会的"],
+        ["player", "n.", "运动员；游戏者"],
+        ["trainer", "n.", "运动鞋（英式）"],
+        ["sneaker", "n.", "运动鞋（美式）"],
+        ["run", "v.", "奔跑"],
+        ["kick", "v.", "踢"],
+        ["ball", "n.", "球"],
+        ["sport", "n.", "运动"],
+        ["soccer", "n.", "足球运动"],
+        ["rugby", "n.", "橄榄球运动"],
+        ["off", "adv.", "离开，脱掉"],
+        ["group", "n.", "组；群；团体"],
+        ["excellent", "adj.", "优秀的；极好的"],
+        ["strong", "adj.", "强大的，强壮的"],
+        ["matter", "n.", "事情；问题"],
+        ["matter", "v.", "要紧"],
+        ["winner", "n.", "获胜者"],
+        ["fact", "n.", "事实；现实"],
+        ["maybe", "adv.", "大概，也许"],
+        ["famous", "adj.", "著名的"],
+        ["practise", "v.", "练习"],
+        ["coach", "n.", "教练；长途客车"],
+        ["enter", "v.", "进入；报名参加"],
+        ["competition", "n.", "竞争；比赛"],
+        ["team", "n.", "（游戏或运动的）队"],
+        ["goal", "n.", "目标；进球"],
+        ["high", "adj.", "高的"],
+        ["win", "v.", "赢，获胜"],
+        ["jump", "v.", "跳"],
+        ["lose", "v.", "丧失，迷失，失败"],
+        ["fast", "adj.", "快速的"],
+        ["lucky", "adj.", "幸运的"],
+        ["next", "adj.", "下一个的；紧接着的"],
+        ["event", "n.", "事件；比赛项目"],
+        ["swimming pool", "", "游泳池"],
+        ["the Olympic Games", "", "奥运会"],
+        ["a pair of trainers", "", "一双运动鞋"],
+        ["kick the ball", "", "踢球"],
+        ["jump off", "", "跳下来"],
+        ["a group of girls", "", "一群女孩"],
+        ["no matter what/how/who", "", "无论是什么/如何/是谁"],
+        ["in fact", "", "事实上"],
+        ["enter a competition", "", "参加比赛"],
+        ["team work", "", "团队合作"],
+        ["score a goal", "", "进一球；得一分"],
+        ["get back", "", "恢复；回来"],
+        ["next to", "", "挨着，紧邻"],
+        ["lucky dog", "", "幸运儿"],
+        ["The weather is absolutely fantastic", "", "天气非常好。"],
+        ["She speaks excellent French", "", "她的法语说得好极了。"],
+        ["It doesn't matter", "", "没关系。"],
+        ["You need to practise every day", "", "你需要每天练习。"],
+        ["Knock before you enter", "", "进来前请先敲门。"],
+        ["Which team won?", "", "哪个队赢了？"],
+        ["He has lost his job", "", "他失业了。"],
+        ["The main events start at 1 p.m.", "", "主要项目下午1点开始。"]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "lesson": 3,
+    "title": ["Unit 3", "第3单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["smile", "", "微笑"],
+        ["The baby smiles at me.", "", "宝宝对我微笑。"],
+        ["smoke", "", "烟"],
+        ["Smoke comes from the chimney.", "", "烟从烟囱里冒出来。"],
+        ["snake", "", "蛇"],
+        ["The snake slithers.", "", "蛇蜿蜒爬行。"],
+        ["snow", "", "雪"],
+        ["Snow is white and cold.", "", "雪是白色且冰冷的。"],
+        ["spoon", "", "勺子"],
+        ["I eat soup with a spoon.", "", "我用勺子喝汤。"],
+        ["spot", "", "斑点"],
+        ["The dog has black spots.", "", "这只狗有黑色斑点。"],
+        ["swing", "", "秋千"],
+        ["I love to swing.", "", "我喜欢荡秋千。"],
+        ["swim", "", "游泳"],
+        ["Fish can swim.", "", "鱼会游泳。"],
+        ["stop", "", "停止"],
+        ["The car stops at red light.", "", "汽车在红灯时停下。"],
+        ["test", "", "测试"],
+        ["We have a math test.", "", "我们有数学测验。"],
+        ["stamp", "", "邮票"],
+        ["I put a stamp on the letter.", "", "我在信上贴邮票。"],
+        ["fast", "", "快的"],
+        ["The rabbit runs fast.", "", "兔子跑得很快。"]
+    ]
+}

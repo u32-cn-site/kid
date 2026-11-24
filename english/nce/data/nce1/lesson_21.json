@@ -1,0 +1,60 @@
+{
+    "lesson": 21,
+    "title": [
+        "Which book?",
+        "哪一本书？"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Give me a book please, Jane.",
+                "请拿本书给我，简。"
+            ],
+            [
+                "Which book?",
+                "哪一本？"
+            ],
+            [
+                "This one?",
+                "是这本吗？"
+            ],
+            [
+                "No, not that one. The red one.",
+                "不，不是那本。是那本红皮的。"
+            ],
+            [
+                "This one?",
+                "这本吗？"
+            ],
+            [
+                "Yes, please.",
+                "是的，请给我。"
+            ],
+            [
+                "Here you are.",
+                "给你。"
+            ],
+            [
+                "Thank you.",
+                "谢谢。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "give",
+            "v.",
+            "给"
+        ],
+        [
+            "one",
+            "pron.",
+            "一个"
+        ],
+        [
+            "which",
+            "pron.",
+            "哪一个"
+        ]
+    ]
+}

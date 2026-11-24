@@ -1,0 +1,531 @@
+{
+ "lesson": 86,
+ "title": [
+  "Magic Bells",
+  "魔力铃铛"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "Wukong shouted outside the cave.",
+    "悟空在洞外大喊。"
+   ],
+   [
+    "He shouted all kinds of insults about the Demon of Power.",
+    "他大声辱骂着“力量恶魔”。"
+   ],
+   [
+    "Inside the cave the guard woke up.",
+    "在洞穴里，守卫醒了过来。"
+   ],
+   [
+    "He ran to the demon's bedroom.",
+    "他跑向恶魔的卧室。"
+   ],
+   [
+    "\"Master!\" cried the guard.",
+    "“主人！”卫兵喊道。"
+   ],
+   [
+    "\"The monkey is back!\"",
+    "“猴子回来了！”"
+   ],
+   [
+    "\"It's the middle of the night,\" said the demon.",
+    "“现在是半夜了，”恶魔说道。"
+   ],
+   [
+    "\"What does he want?\"",
+    "“他想要什么？”"
+   ],
+   [
+    "\"He said we must return the queen,\" said the guard.",
+    "“他说我们必须把女王送回去，”卫兵说道。"
+   ],
+   [
+    "\"If we don't, he'll smash our entire mountain.",
+    "“如果我们不这么做，他会把我们的整座山都毁掉。”"
+   ],
+   [
+    "He also yelled some terrible things about you.\"",
+    "他还说了一些关于你的非常糟糕的话。"
+   ],
+   [
+    "The Demon of Power climbed out of bed and grabbed the fake bells.",
+    "“力量恶魔”从床上爬起来，抓起了那些假铃铛。"
+   ],
+   [
+    "\"I'll chase the monkey away with my fire, smoke, and sand again.",
+    "“我再用我的火、烟和沙子把猴子赶走。”"
+   ],
+   [
+    "He tied the bells around his neck and went outside.",
+    "他把铃铛挂在脖子上，然后走出了门外。"
+   ],
+   [
+    "The demon glared at Wukong.",
+    "恶魔恶狠狠地盯着悟空。"
+   ],
+   [
+    "\"Go away!",
+    "“滚开！”"
+   ],
+   [
+    "I'm sleeping!\"",
+    "“我在睡觉！”"
+   ],
+   [
+    "\"Return the queen!\" shouted the monkey.",
+    "“还回皇后！”猴子喊道。"
+   ],
+   [
+    "\"Never!\" said the demon.",
+    "“绝不！”恶魔说道。"
+   ],
+   [
+    "He reached for the bells around his neck.",
+    "他伸出手去摸脖子上的铃铛。"
+   ],
+   [
+    "Wukong pretended to be surprised.",
+    "孙悟空装作很惊讶的样子。"
+   ],
+   [
+    "\"Oh,\" he said.",
+    "“哦，”他说。"
+   ],
+   [
+    "\"I have bells just like those.\"",
+    "“我也有那样的铃铛。”"
+   ],
+   [
+    "The demon squinted at the monkey.",
+    "恶魔眯着眼睛看着那只猴子。"
+   ],
+   [
+    "\"I doubt your bells are like mine.",
+    "“我怀疑你的铃铛和我的不一样。”"
+   ],
+   [
+    "Let me see them.\"",
+    "“让我看看它们。”"
+   ],
+   [
+    "Wukong held up the bells.",
+    "悟空举起了那些铃铛。"
+   ],
+   [
+    "The demon peered at them for a moment.",
+    "恶魔盯着他们看了一会儿。"
+   ],
+   [
+    "\"Those bells do look like mine.",
+    "“那些铃铛确实看起来像我的。”"
+   ],
+   [
+    "But my bells are magic.\"",
+    "但我的铃铛有 magic（魔法般的功效）。"
+   ],
+   [
+    "\"So are mine,\" said Wukong.",
+    "“我的也是，”悟空说道。"
+   ],
+   [
+    "\"My bells can make fire, smoke, and sand,\" said the demon.",
+    "“我的铃铛能够制造出火、烟和沙子，”恶魔说。"
+   ],
+   [
+    "\"That's interesting.",
+    "“那很有趣。”"
+   ],
+   [
+    "Wukong smiled.",
+    "悟空笑了。"
+   ],
+   [
+    "\"My bells can do that too.\"",
+    "“我的铃声也能做到那样。”"
+   ],
+   [
+    "\"Really?",
+    "“真的吗？”"
+   ],
+   [
+    "The Demon of Power looked surprised.",
+    "“力量恶魔”看起来很惊讶。"
+   ],
+   [
+    "\"Let's compare bells to see whose work better.\"",
+    "“让我们比较一下这些铃铛，看看哪个的效果更好。”"
+   ],
+   [
+    "\"Okay,\" said Wukong.",
+    "“好吧，”悟空说。"
+   ],
+   [
+    "\"You go first.\"",
+    "“你先走吧。”"
+   ],
+   [
+    "\"I was planning to,\" said the demon.",
+    "“我本来是打算那么做的，”恶魔说道。"
+   ],
+   [
+    "He shook his bells.",
+    "他摇了摇他的铃铛。"
+   ],
+   [
+    "Nothing happened.",
+    "什么事情都没有发生。"
+   ],
+   [
+    "He shook the bells again.",
+    "他又摇了摇铃铛。"
+   ],
+   [
+    "Again nothing happened.",
+    "又什么都没发生。"
+   ],
+   [
+    "\"That's strange,\" the demon mumbled.",
+    "“真奇怪，”恶魔喃喃道。"
+   ],
+   [
+    "He looked closely at the bells.",
+    "他仔细观察了那些铃铛。"
+   ],
+   [
+    "\"These bells worked fine yesterday.\"",
+    "“这些铃昨天运行得很好。”"
+   ],
+   [
+    "Wukong tried not to laugh.",
+    "孙悟空努力不让自己笑出来。"
+   ],
+   [
+    "\"Let's see if my bells work,\" he said.",
+    "“我们来看看我的铃铛是否还能正常使用，”他说。"
+   ],
+   [
+    "The monkey shook the bells.",
+    "猴子摇晃着铃铛。"
+   ],
+   [
+    "Whoosh!",
+    "嗖！"
+   ],
+   [
+    "Fire, smoke, and sand rushed toward the demon.",
+    "火焰、烟雾和沙子向恶魔冲去。"
+   ],
+   [
+    "\"Aargh!\" cried the demon.",
+    "“啊啊啊！”恶魔叫道。"
+   ],
+   [
+    "He covered his face and fell to the ground.",
+    "他捂住脸，然后倒在了地上。"
+   ],
+   [
+    "Wukong pulled out his iron bar and got ready to strike.",
+    "悟空拔出了他的铁棍，准备发动攻击。"
+   ],
+   [
+    "\"Wukong, stop!\" shouted a voice.",
+    "“悟空，停下来！”一个声音喊道。"
+   ],
+   [
+    "The monkey looked up and saw Guanyin coming down from the sky.",
+    "猴子抬起头，看到观音从天而降。"
+   ],
+   [
+    "Wukong bowed.",
+    "悟空鞠了一躬。"
+   ],
+   [
+    "\"Greetings, Bodhisattva.",
+    "“问候您，菩萨。”"
+   ],
+   [
+    "I was just going to destroy this demon.\"",
+    "我正打算消灭这个恶魔呢。"
+   ],
+   [
+    "\"You must not harm him,\" said Guanyin.",
+    "“你一定不能伤害他，”观音菩萨说。"
+   ],
+   [
+    "\"He's my pet wolf.",
+    "“他是我最喜欢的狼。”"
+   ],
+   [
+    "He escaped from Heaven.",
+    "他从天堂逃了出来。"
+   ],
+   [
+    "The bodhisattva looked at the demon.",
+    "菩萨看着那只恶魔。"
+   ],
+   [
+    "\"Return to your true form!\"",
+    "“恢复你的原本形态！”"
+   ],
+   [
+    "Light sparkled, and the demon turned into a huge wolf.",
+    "光芒闪烁，那个恶魔瞬间变成了一只巨大的狼。"
+   ],
+   [
+    "Guanyin climbed onto the wolf's back.",
+    "观音爬到了狼的背上。"
+   ],
+   [
+    "She looked at the wolf's neck and then at Wukong.",
+    "她先看了狼的脖子，然后又看了看悟空。"
+   ],
+   [
+    "\"Give me the bells, Wukong.\"",
+    "“把铃铛给我，悟空。”"
+   ],
+   [
+    "\"What bells?",
+    "“什么钟声？”"
+   ],
+   [
+    "Wukong held the bells behind his back.",
+    "悟空把铃铛藏在身后。"
+   ],
+   [
+    "\"My wolf wears a set of three bells,\" said Guanyin.",
+    "“我的狼身上戴着一串三个铃铛，”观音说道。"
+   ],
+   [
+    "\"I know you have them.",
+    "“我知道你拥有它们。”"
+   ],
+   [
+    "You could not have defeated the wolf without them.\"",
+    "没有他们，你不可能击败那只狼。"
+   ],
+   [
+    "Wukong shrugged.",
+    "悟空耸了耸肩。"
+   ],
+   [
+    "\"I have no idea what you're—\" \"Hand them over,\" said Guanyin.",
+    "“我完全不知道你在说什么……”  \n“把它们交出来。”观音说道。"
+   ],
+   [
+    "\"Or I'll recite the Tight Headband spell.\"",
+    "“否则我就念‘紧束头带咒’。”"
+   ],
+   [
+    "\"There's no need for that!\" cried the monkey.",
+    "“没必要那样！”猴子喊道。"
+   ],
+   [
+    "\"I was just joking!",
+    "“我只是在开玩笑！”"
+   ],
+   [
+    "Grinning sheepishly, he handed over the bells.",
+    "他尴尬地笑着，把铃铛递了上去。"
+   ],
+   [
+    "Guanyin tied the bells around the wolf's neck and then rode up into the sky.",
+    "观音把铃铛系在狼的脖子上，然后骑着凤凰飞上了天空。"
+   ],
+   [
+    "Back at the palace, the king and queen were reunited.",
+    "回到宫殿后，国王和王后重聚了。"
+   ],
+   [
+    "\"Thank you for rescuing the queen, Sun Wukong,\" said the king.",
+    "“谢谢你救出了女王，孙悟空，”国王说道。"
+   ],
+   [
+    "\"Tonight we will hold a feast to thank you and your companions,\" said the queen.",
+    "“今晚我们将举办一场盛宴来感谢你和你的伙伴们，”女王说道。"
+   ],
+   [
+    "That night the royal banquet hall was filled with people.",
+    "那天晚上，皇家宴会厅里挤满了人。"
+   ],
+   [
+    "Servants carried trays filled with rice, vegetables, mushrooms, noodles, tofu, dumplings, and other food.",
+    "仆人们端着托盘，托盘上盛满了米饭、蔬菜、蘑菇、面条、豆腐、饺子以及其他食物。"
+   ],
+   [
+    "Bajie ate everything in front of him.",
+    "八戒吃光了他面前的所有东西。"
+   ],
+   [
+    "\"Would you like more steamed buns?\" asked a servant.",
+    "“您还需要更多的馒头吗？”一位仆人问道。"
+   ],
+   [
+    "\"You don't need to ask,\" said the pig.",
+    "“你不必问，”猪说。"
+   ],
+   [
+    "\"Just put food in front of me, and I'll eat it!\"",
+    "“只要把食物放到我面前，我就会吃掉它！”"
+   ]
+  ]
+ },
+ "words": [
+  [
+   "fake",
+   "",
+   "假的，冒充的",
+   "The Demon of Power climbed out of bed and grabbed the fake bells.",
+   "“力量恶魔”从床上爬起来，抓起了那些假铃铛。"
+  ],
+  [
+   "chase away",
+   "",
+   "赶⾛，驱逐",
+   "I'll chase the monkey away.",
+   "我去把那只猴子赶走。"
+  ],
+  [
+   "glare",
+   "",
+   "怒⽬注视",
+   "The demon glared at Wukong.",
+   "恶魔恶狠狠地盯着悟空。"
+  ],
+  [
+   "reach for",
+   "",
+   "伸⼿去拿",
+   "He reached for the bells around his neck.",
+   "他伸出手去摸脖子上的铃铛。"
+  ],
+  [
+   "squint",
+   "",
+   "眯着眼看，斜着眼看",
+   "The demon squinted at the monkey.",
+   "恶魔眯着眼睛看着那只猴子。"
+  ],
+  [
+   "doubt",
+   "",
+   "怀疑，带着疑问",
+   "I doubt your bells are like mine.",
+   "我怀疑你的铃铛和我的不一样。"
+  ],
+  [
+   "peer",
+   "",
+   "凝视，盯着看",
+   "The demon peered at them for a moment.",
+   "恶魔盯着他们看了一会儿。"
+  ],
+  [
+   "interesting",
+   "",
+   "有趣的",
+   "That's interesting.",
+   "那很有趣。"
+  ],
+  [
+   "mumble",
+   "",
+   "含糊地说，咕哝着说",
+   "\"That's strange,\" the demon mumbled.",
+   "“真奇怪，”恶魔喃喃道。"
+  ],
+  [
+   "closely",
+   "",
+   "仔细地",
+   "He looked closely at the bells.",
+   "他仔细观察了那些铃铛。"
+  ],
+  [
+   "pet",
+   "",
+   "宠物",
+   "He's my pet wolf.",
+   "他是我最宠爱的小狗（或小狼等）。"
+  ],
+  [
+   "wolf",
+   "",
+   "狼",
+   "He's my pet wolf.",
+   "他是我最宠爱的小狗（或小狼等）。"
+  ],
+  [
+   "heaven",
+   "",
+   "天堂，天国",
+   "He escaped from Heaven.",
+   "他从天堂逃了出来。"
+  ],
+  [
+   "sparkle",
+   "",
+   "发光，闪耀",
+   "Light sparkled, and the demon turned into a huge wolf.",
+   "光芒闪烁，那个恶魔瞬间变成了一只巨大的狼。"
+  ],
+  [
+   "hand over",
+   "",
+   "交出，移交",
+   "Hand them over.",
+   "把它们交出来。"
+  ],
+  [
+   "joke",
+   "",
+   "说笑话，开玩笑",
+   "I was just joking!",
+   "我只是在开玩笑而已！"
+  ],
+  [
+   "reunite",
+   "",
+   "重聚",
+   "Back at the palace, the king and queen were reunited.",
+   "回到宫殿后，国王和王后重聚了。"
+  ],
+  [
+   "feast",
+   "",
+   "盛宴，筵席",
+   "Tonight we will hold a feast to thank you and your companions.",
+   "今晚我们将举行一场盛宴，以感谢您和您的伙伴们。"
+  ],
+  [
+   "banquet",
+   "",
+   "宴会，盛宴",
+   "That night the royal banquet hall was filled with people.",
+   "那天晚上，皇家宴会厅里挤满了人。"
+  ],
+  [
+   "servant",
+   "",
+   "仆⼈，佣⼈",
+   "Servants carried trays filled with rice, vegetables, mushrooms, noodles, tofu, dumplings, and other food.",
+   "仆人们端着托盘，托盘上盛满了米饭、蔬菜、蘑菇、面条、豆腐、饺子以及其他食物。"
+  ],
+  [
+   "mushroom",
+   "",
+   "蘑菇",
+   "Servants carried trays filled with rice, vegetables, mushrooms, noodles, tofu, dumplings, and other food.",
+   "仆人们端着托盘，托盘上盛满了米饭、蔬菜、蘑菇、面条、豆腐、饺子以及其他食物。"
+  ],
+  [
+   "dumpling",
+   "",
+   "饺⼦",
+   "Servants carried trays filled with rice, vegetables, mushrooms, noodles, tofu, dumplings, and other food.",
+   "仆人们端着托盘，托盘上盛满了米饭、蔬菜、蘑菇、面条、豆腐、饺子以及其他食物。"
+  ]
+ ]
+}

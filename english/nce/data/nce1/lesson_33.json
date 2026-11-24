@@ -1,0 +1,132 @@
+{
+    "lesson": 33,
+    "title": [
+        "A fine day",
+        "晴天"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "It is a fine day today.",
+                "今天天气好。"
+            ],
+            [
+                "There are some clouds in the sky,",
+                "天空中飘着几朵云。"
+            ],
+            [
+                "but the sun is shining.",
+                "但阳光灿烂。"
+            ],
+            [
+                "Mr. Jones is with his family.",
+                "琼斯先生同他的家人在一起。"
+            ],
+            [
+                "They are walking over the bridge.",
+                "他们正在过桥。"
+            ],
+            [
+                "There are some boats on the river.",
+                "河上有几艘船。"
+            ],
+            [
+                "Mr. Jones and his wife are looking at them.",
+                "琼斯先生和他的妻子正在看这些船。"
+            ],
+            [
+                "Sally is looking at a big ship.",
+                "莎莉正在观看一艘大船。"
+            ],
+            [
+                "The ship is going under the bridge.",
+                "那船正从桥下驶过。"
+            ],
+            [
+                "Tim is looking at an aeroplane.",
+                "蒂姆正望着一架飞机。"
+            ],
+            [
+                "The aeroplane is flying over the river.",
+                "飞机正从河上飞过。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "day",
+            "n.",
+            "日子"
+        ],
+        [
+            "cloud",
+            "n.",
+            "云"
+        ],
+        [
+            "sky",
+            "n.",
+            "天空"
+        ],
+        [
+            "sun",
+            "n.",
+            "太阳"
+        ],
+        [
+            "shine",
+            "v.",
+            "照耀"
+        ],
+        [
+            "with",
+            "prep.",
+            "和……在一起"
+        ],
+        [
+            "family",
+            "n.",
+            "家庭（成员）"
+        ],
+        [
+            "walk",
+            "v.",
+            "走路, 步行"
+        ],
+        [
+            "over",
+            "prep.",
+            "跨越，在……之上"
+        ],
+        [
+            "bridge",
+            "n.",
+            "桥"
+        ],
+        [
+            "boat",
+            "n.",
+            "船"
+        ],
+        [
+            "river",
+            "n.",
+            "河"
+        ],
+        [
+            "ship",
+            "n.",
+            "轮船"
+        ],
+        [
+            "aeroplane",
+            "n.",
+            "飞机"
+        ],
+        [
+            "fly",
+            "v.",
+            "飞"
+        ]
+    ]
+}

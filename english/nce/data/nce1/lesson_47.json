@@ -1,0 +1,79 @@
+{
+    "lesson": 47,
+    "title": [
+        "A cup of coffee",
+        "一杯咖啡"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Do you like coffee, Ann?",
+                "你喜欢咖啡吗，安？"
+            ],
+            [
+                "Yes, I do.",
+                "是的，我喜欢。"
+            ],
+            [
+                "Do you want a cup?",
+                "你想要一杯吗？"
+            ],
+            [
+                "Yes, please, Christine.",
+                "好的，请来一杯，克里斯廷。"
+            ],
+            [
+                "Do you want any sugar?",
+                "你要放些糖吗？"
+            ],
+            [
+                "Yes, please.",
+                "好的，请放一些。"
+            ],
+            [
+                "Do you want any milk?",
+                "要放些牛奶吗？"
+            ],
+            [
+                "No, thank you.",
+                "不了，谢谢。"
+            ],
+            [
+                "I don't like milk in my coffee.",
+                "我不喜欢咖啡中放牛奶。"
+            ],
+            [
+                "I like black coffee.",
+                "我喜欢黑咖啡。"
+            ],
+            [
+                "Do you like biscuits?",
+                "你喜欢饼干吗？"
+            ],
+            [
+                "Yes. I do.",
+                "是的，我喜欢。"
+            ],
+            [
+                "Do you want one?",
+                "你想要一块吗？"
+            ],
+            [
+                "Yes, please.",
+                "好的，请来一块。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "like",
+            "v.",
+            "喜欢，想要"
+        ],
+        [
+            "want",
+            "v.",
+            "想"
+        ]
+    ]
+}

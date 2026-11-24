@@ -1,0 +1,546 @@
+{
+    "lesson": 19,
+    "title": [
+        "The Weather in Beijing",
+        "北京的天气"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Beijing is in the northeast of China and has been the capital of the country for over eight centuries.",
+                "北京位于中国东北部，作为国家首都已有八百多年历史。"
+            ],
+            [
+                "It attracts millions of tourists from all over the world every year.",
+                "它每年吸引来自世界各地的数百万游客。"
+            ],
+            [
+                "If you're looking at the calendar and planning for a trip, please notice the weather in Beijing.",
+                "如果你正在查看日历并计划旅行，请留意北京的天气。"
+            ],
+            [
+                "Beijing has four distinct seasons: short windy spring, hot and wet summer, cool and pleasant autumn, and long chilly winter.",
+                "北京有四季分明：短暂多风的春天，炎热潮湿的夏天，凉爽宜人的秋天，以及漫长寒冷的冬天。"
+            ],
+            [
+                "The sun in Beijing shines quite often all year round.",
+                "北京全年经常阳光明媚。"
+            ],
+            [
+                "Here are the monthly temperatures:",
+                "以下是每月的气温："
+            ],
+            [
+                "In spring, the temperature increases rapidly and the weather becomes warm.",
+                "春天，气温迅速上升，天气变暖。"
+            ],
+            [
+                "Sometimes the city can be covered by yellow dust which comes from the deserts of Mongolia.",
+                "有时这座城市会被来自蒙古沙漠的黄沙覆盖。"
+            ],
+            [
+                "It's already as hot as in the middle of summer from the beginning of June and it often rains.",
+                "从六月初开始就已经和仲夏一样炎热，而且经常下雨。"
+            ],
+            [
+                "Short and heavy thunderstorms may come suddenly in the afternoon on sunny days.",
+                "晴天的下午可能会突然出现短暂而猛烈的雷暴。"
+            ],
+            [
+                "It becomes pleasant in autumn.",
+                "秋天变得宜人。"
+            ],
+            [
+                "It is the best time to visit the city, especially in September and October.",
+                "这是游览这座城市的最佳时间，尤其是在九月和十月。"
+            ],
+            [
+                "The green leaves on the trees turn red, golden and brown and the colour of the sky is usually bright blue.",
+                "树上的绿叶变成红色、金色和棕色，天空通常是明亮的蓝色。"
+            ],
+            [
+                "In winter, the temperature sometimes can drop to -15℃ at midnight.",
+                "冬天，午夜时分气温有时会降至零下15摄氏度。"
+            ],
+            [
+                "Cold winds blow from the north.",
+                "寒风从北方吹来。"
+            ],
+            [
+                "Although winter is a dry season, sometimes it snows.",
+                "虽然冬季是干燥的季节，但有时会下雪。"
+            ],
+            [
+                "Don't be worried that it gets dark too early—many celebrations take place at night during the Spring Festival holiday, which is usually in January or February.",
+                "不要担心天黑得太早——春节假期期间（通常在一月或二月）有许多庆祝活动在晚上举行。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "for",
+            "prep.",
+            "给，对；为了"
+        ],
+        [
+            "travel all over the world",
+            "",
+            "周游世界"
+        ],
+        [
+            "century",
+            "n.",
+            "世纪；百年"
+        ],
+        [
+            "the 20th century",
+            "",
+            "20世纪"
+        ],
+        [
+            "world",
+            "n.",
+            "世界"
+        ],
+        [
+            "calendar",
+            "n.",
+            "日历"
+        ],
+        [
+            "a calendar for 2021",
+            "",
+            "2021年日历"
+        ],
+        [
+            "windy",
+            "adj.",
+            "多风的，风大的"
+        ],
+        [
+            "a windy day",
+            "",
+            "大风天"
+        ],
+        [
+            "spring",
+            "n.",
+            "春天"
+        ],
+        [
+            "next spring",
+            "",
+            "明年春天"
+        ],
+        [
+            "hot",
+            "adj.",
+            "热的"
+        ],
+        [
+            "a hot dry summer",
+            "",
+            "炎热干燥的夏天"
+        ],
+        [
+            "wet",
+            "adj.",
+            "潮湿的"
+        ],
+        [
+            "wet clothes",
+            "",
+            "湿衣服"
+        ],
+        [
+            "summer",
+            "n.",
+            "夏天；夏季"
+        ],
+        [
+            "a summer's day",
+            "",
+            "夏日"
+        ],
+        [
+            "cool",
+            "adj.",
+            "凉爽的"
+        ],
+        [
+            "a cool dry place",
+            "",
+            "干燥凉爽的地方"
+        ],
+        [
+            "autumn",
+            "n.",
+            "秋天"
+        ],
+        [
+            "in early autumn",
+            "",
+            "在初秋"
+        ],
+        [
+            "winter",
+            "n.",
+            "冬天；冬季"
+        ],
+        [
+            "last winter",
+            "",
+            "去年冬天"
+        ],
+        [
+            "sun",
+            "n.",
+            "太阳"
+        ],
+        [
+            "year",
+            "n.",
+            "年"
+        ],
+        [
+            "all year round",
+            "",
+            "全年"
+        ],
+        [
+            "monthly",
+            "adj.",
+            "每月的；每月一次的"
+        ],
+        [
+            "month",
+            "n.",
+            "月；一个月的时间"
+        ],
+        [
+            "several months later",
+            "",
+            "几个月以后"
+        ],
+        [
+            "January",
+            "n.",
+            "一月（缩写Jan.）"
+        ],
+        [
+            "February",
+            "n.",
+            "二月（缩写Feb.）"
+        ],
+        [
+            "March",
+            "n.",
+            "三月（缩写Mar.）"
+        ],
+        [
+            "April",
+            "n.",
+            "四月（缩写Apr.）"
+        ],
+        [
+            "May",
+            "n.",
+            "五月"
+        ],
+        [
+            "June",
+            "n.",
+            "六月（缩写Jun.）"
+        ],
+        [
+            "July",
+            "n.",
+            "七月（缩写Jul.）"
+        ],
+        [
+            "August",
+            "n.",
+            "八月（缩写Aug.）"
+        ],
+        [
+            "September",
+            "n.",
+            "九月（缩写Sept.）"
+        ],
+        [
+            "October",
+            "n.",
+            "十月（缩写Oct.）"
+        ],
+        [
+            "November",
+            "n.",
+            "十一月（缩写Nov.）"
+        ],
+        [
+            "December",
+            "n.",
+            "十二月（缩写Dec.）"
+        ],
+        [
+            "weather",
+            "n.",
+            "天气"
+        ],
+        [
+            "warm",
+            "adj.",
+            "温暖的"
+        ],
+        [
+            "a warm September evening",
+            "",
+            "9月的一个温暖夜晚"
+        ],
+        [
+            "yellow",
+            "adj.",
+            "黄色的"
+        ],
+        [
+            "yellow",
+            "n.",
+            "黄色"
+        ],
+        [
+            "pale yellow flowers",
+            "",
+            "淡黄色的花朵"
+        ],
+        [
+            "desert",
+            "n.",
+            "沙漠；荒原"
+        ],
+        [
+            "the Sahara Desert",
+            "",
+            "撒哈拉大沙漠"
+        ],
+        [
+            "beginning",
+            "n.",
+            "开头；开始部分"
+        ],
+        [
+            "at the beginning of July",
+            "",
+            "七月初"
+        ],
+        [
+            "rain",
+            "n.",
+            "雨"
+        ],
+        [
+            "rain",
+            "v.",
+            "下雨"
+        ],
+        [
+            "thunderstorm",
+            "n.",
+            "雷雨"
+        ],
+        [
+            "afternoon",
+            "n.",
+            "午后，下午"
+        ],
+        [
+            "in the afternoon",
+            "",
+            "在下午"
+        ],
+        [
+            "sunny",
+            "adj.",
+            "阳光充足的"
+        ],
+        [
+            "a sunny day",
+            "",
+            "阳光明媚的日子"
+        ],
+        [
+            "especially",
+            "adv.",
+            "尤其；特别"
+        ],
+        [
+            "green",
+            "adj.",
+            "绿色的"
+        ],
+        [
+            "green",
+            "n.",
+            "绿色"
+        ],
+        [
+            "green fields",
+            "",
+            "绿油油的农田"
+        ],
+        [
+            "tree",
+            "n.",
+            "树"
+        ],
+        [
+            "plant a tree",
+            "",
+            "植树"
+        ],
+        [
+            "red",
+            "adj.",
+            "红色的"
+        ],
+        [
+            "a red car",
+            "",
+            "红色的汽车"
+        ],
+        [
+            "golden",
+            "adj.",
+            "金色的；金黄色的"
+        ],
+        [
+            "golden hair",
+            "",
+            "金发"
+        ],
+        [
+            "brown",
+            "adj.",
+            "棕色的；褐色的"
+        ],
+        [
+            "brown eyes",
+            "",
+            "褐色的眼睛"
+        ],
+        [
+            "colour",
+            "n.",
+            "颜色"
+        ],
+        [
+            "the colour of the sky",
+            "",
+            "天空的颜色"
+        ],
+        [
+            "sky",
+            "n.",
+            "天空"
+        ],
+        [
+            "the night sky",
+            "",
+            "夜空"
+        ],
+        [
+            "bright",
+            "adj.",
+            "明亮的；鲜艳的"
+        ],
+        [
+            "blue",
+            "adj.",
+            "蓝色的"
+        ],
+        [
+            "a blue shirt",
+            "",
+            "蓝色的衬衫"
+        ],
+        [
+            "midnight",
+            "n.",
+            "午夜；半夜12点钟"
+        ],
+        [
+            "wind",
+            "n.",
+            "风"
+        ],
+        [
+            "strong winds",
+            "",
+            "大风"
+        ],
+        [
+            "dry",
+            "adj.",
+            "干的；干燥的"
+        ],
+        [
+            "the dry season",
+            "",
+            "旱季"
+        ],
+        [
+            "snow",
+            "n.",
+            "雪"
+        ],
+        [
+            "snow",
+            "v.",
+            "下雪"
+        ],
+        [
+            "dark",
+            "adj.",
+            "黑暗的；深色的"
+        ],
+        [
+            "night",
+            "n.",
+            "夜晚"
+        ],
+        [
+            "at night",
+            "",
+            "在夜晚"
+        ],
+        [
+            "during",
+            "prep.",
+            "在……期间"
+        ],
+        [
+            "during the day",
+            "",
+            "在白天"
+        ],
+        [
+            "festival",
+            "n.",
+            "节日"
+        ],
+        [
+            "the Spring Festival",
+            "",
+            "春节"
+        ],
+        [
+            "holiday",
+            "n.",
+            "假期"
+        ],
+        [
+            "the summer holidays",
+            "",
+            "暑假"
+        ]
+    ]
+}

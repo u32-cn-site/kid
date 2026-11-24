@@ -1,0 +1,375 @@
+{
+    "lesson": 1,
+    "title": [
+        "Judy",
+        "朱迪"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Judy Hopper is a cute bunny who lives in a beautiful forest with her parents and her brother Peter.",
+                "朱迪·霍珀是一只可爱的兔子，她和父母以及弟弟彼得住在美丽的森林里。"
+            ],
+            [
+                "One day, Judy's father, Mr. Hopper received a letter from his older sister.",
+                "一天，朱迪的父亲霍珀先生收到了他姐姐的来信。"
+            ],
+            [
+                "\"Dear brother, my daughter Fluffy is getting married in August!",
+                "「亲爱的哥哥，我的女儿芙洛菲要在八月结婚了！"
+            ],
+            [
+                "She and your aunt Anna and uncle Steve want Judy and Peter to be the flower girl and page boy.\" Mr. Hopper put on his glasses and read.",
+                "她和你的安娜姨妈、史蒂夫姨父希望朱迪和彼得担任女花童和男花童。」霍珀先生戴上眼镜读道。"
+            ],
+            [
+                "\"Yay! I can't wait to go to my cousin's wedding!\" Judy was so happy and jumped high.",
+                "「耶！我迫不及待想去参加我表姐的婚礼！」朱迪非常高兴，跳得很高。"
+            ],
+            [
+                "She hadn't seen her grandparents and other family members for a long time.",
+                "她很久没见祖父母和其他家庭成员了。"
+            ],
+            [
+                "\"Mummy, can I have a new dress?\" she asked.",
+                "「妈咪，我可以有一条新裙子吗？」她问道。"
+            ],
+            [
+                "\"Of course,\" answered her mother cheerfully.",
+                "「当然可以，」她的母亲愉快地回答。"
+            ],
+            [
+                "The wedding took place in a white church by a lake.",
+                "婚礼在湖边的一座白色教堂举行。"
+            ],
+            [
+                "Judy was in her new pink dress and Peter was in his new smart suit.",
+                "朱迪穿着她新的粉色连衣裙，彼得穿着他新的帅气西装。"
+            ],
+            [
+                "Along with music, they walked into the venue with two pretty flower baskets.",
+                "伴随着音乐，她们提着两个漂亮的花篮走进会场。"
+            ],
+            [
+                "\"I like your cute dress.\" Grandmother whispered to her granddaughter when she sat down beside her.",
+                "「我喜欢你可爱的裙子。」祖母在她身边坐下时低声对孙女说。"
+            ],
+            [
+                "Judy gave Grandmother a big smile.",
+                "朱迪给了祖母一个大大的微笑。"
+            ],
+            [
+                "\"I now pronounce you husband and wife,\" said Father Rabbit.",
+                "「我现在宣布你们结为夫妻，」兔父说。"
+            ],
+            [
+                "All the guests burst into applause for the couple in love.",
+                "所有宾客都为这对相爱的人爆发掌声。"
+            ],
+            [
+                "The family and friends sang and danced happily until the moon and stars came out.",
+                "家人和朋友们快乐地唱歌跳舞，直到月亮和星星出来。"
+            ],
+            [
+                "\"I like everyone's smiling and laughing,\" Judy told her father before she fell asleep.",
+                "「我喜欢大家的微笑和欢笑，」朱迪在睡前告诉她的父亲。"
+            ],
+            [
+                "Then she had the sweetest dream ever.",
+                "然后她做了个最甜美的梦。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "parent",
+            "n.",
+            "父亲（或母亲）"
+        ],
+        [
+            "parents",
+            "n.",
+            "父母"
+        ],
+        [
+            "Children need their parents.",
+            "",
+            "孩子们需要父母。"
+        ],
+        [
+            "brother",
+            "n.",
+            "兄；弟"
+        ],
+        [
+            "an older brother",
+            "",
+            "哥哥"
+        ],
+        [
+            "a younger brother",
+            "",
+            "弟弟"
+        ],
+        [
+            "father",
+            "n.",
+            "父亲；爸爸"
+        ],
+        [
+            "old",
+            "adj.",
+            "老的；年纪大的（比较级：older）"
+        ],
+        [
+            "older",
+            "adj.",
+            "更老的；年纪更大的"
+        ],
+        [
+            "sister",
+            "n.",
+            "姐；妹"
+        ],
+        [
+            "an older sister",
+            "",
+            "姐姐"
+        ],
+        [
+            "dear",
+            "adj.",
+            "亲爱的"
+        ],
+        [
+            "daughter",
+            "n.",
+            "女儿"
+        ],
+        [
+            "married",
+            "adj.",
+            "已婚的"
+        ],
+        [
+            "get married",
+            "",
+            "结婚"
+        ],
+        [
+            "aunt",
+            "n.",
+            "姑母；姨母；伯母；婶母；舅母"
+        ],
+        [
+            "uncle",
+            "n.",
+            "舅父；叔父；伯父；姑父；姨父"
+        ],
+        [
+            "flower",
+            "n.",
+            "花；花朵"
+        ],
+        [
+            "girl",
+            "n.",
+            "女孩；姑娘"
+        ],
+        [
+            "a flower girl",
+            "",
+            "女花童"
+        ],
+        [
+            "a little girl of six",
+            "",
+            "六岁的小女孩"
+        ],
+        [
+            "boy",
+            "n.",
+            "男孩"
+        ],
+        [
+            "He was still a little boy.",
+            "",
+            "他还是个小男孩。"
+        ],
+        [
+            "a page boy",
+            "",
+            "男花童"
+        ],
+        [
+            "put on",
+            "",
+            "穿上，戴上"
+        ],
+        [
+            "glasses",
+            "n.",
+            "眼镜"
+        ],
+        [
+            "put on a pair of glasses",
+            "",
+            "戴上一副眼镜"
+        ],
+        [
+            "cousin",
+            "n.",
+            "堂（表）兄弟姐妹"
+        ],
+        [
+            "She's my cousin.",
+            "",
+            "她是我的表妹。"
+        ],
+        [
+            "happy",
+            "adj.",
+            "快乐的；高兴的"
+        ],
+        [
+            "grandparent",
+            "n.",
+            "祖父；祖母；外祖父；外祖母"
+        ],
+        [
+            "grandparents",
+            "n.",
+            "祖父母；外祖父母"
+        ],
+        [
+            "family",
+            "n.",
+            "家人；家庭"
+        ],
+        [
+            "a family of four",
+            "",
+            "四口之家"
+        ],
+        [
+            "member",
+            "n.",
+            "成员"
+        ],
+        [
+            "a family member",
+            "",
+            "家庭成员"
+        ],
+        [
+            "mummy",
+            "n.",
+            "（尤作儿语）妈咪"
+        ],
+        [
+            "mother",
+            "n.",
+            "母亲；妈妈"
+        ],
+        [
+            "grandmother",
+            "n.",
+            "祖母；外祖母"
+        ],
+        [
+            "granddaughter",
+            "n.",
+            "孙女；外孙女"
+        ],
+        [
+            "husband",
+            "n.",
+            "丈夫"
+        ],
+        [
+            "wife",
+            "n.",
+            "妻子；太太"
+        ],
+        [
+            "husband and wife",
+            "",
+            "夫妇"
+        ],
+        [
+            "guest",
+            "n.",
+            "客人；宾客"
+        ],
+        [
+            "wedding guests",
+            "",
+            "出席婚礼的宾客"
+        ],
+        [
+            "love",
+            "n.",
+            "爱；热爱"
+        ],
+        [
+            "love",
+            "v.",
+            "爱；热爱"
+        ],
+        [
+            "a mother's love for her children",
+            "",
+            "母亲对孩子的爱"
+        ],
+        [
+            "I love you.",
+            "",
+            "我爱你。"
+        ],
+        [
+            "friend",
+            "n.",
+            "朋友；友人"
+        ],
+        [
+            "an old friend",
+            "",
+            "老朋友"
+        ],
+        [
+            "a close friend",
+            "",
+            "密友"
+        ],
+        [
+            "everyone",
+            "pron.",
+            "每人；人人；所有人"
+        ],
+        [
+            "dream",
+            "n.",
+            "梦"
+        ],
+        [
+            "dream",
+            "v.",
+            "做梦"
+        ],
+        [
+            "Goodnight. Sweet dreams.",
+            "",
+            "晚安。祝你做个好梦。"
+        ],
+        [
+            "pronounce",
+            "v.",
+            "宣布"
+        ],
+        [
+            "applause",
+            "n.",
+            "掌声"
+        ]
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "lesson": 55,
+    "title": [
+        "The Sawyer family",
+        "索耶一家人"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "The Sawyer live at 87 King Street.",
+                "索耶一家住在国王街87号。"
+            ],
+            [
+                "In the morning, Mr. Sawyer goes to work and the children go to school.",
+                "早上，索耶先生去上班，孩子们去上学。"
+            ],
+            [
+                "Mrs. Sawyer stays at home every day. She does the housework.",
+                "索耶夫人每天呆在家里。她料理家务。"
+            ],
+            [
+                "She always eats her lunch at noon.",
+                "她总是在正午吃午饭。"
+            ],
+            [
+                "In the afternoon, she usually sees her friends. They often drink tea together.",
+                "下午，她总是会见她的朋友。她们经常在一起喝茶。"
+            ],
+            [
+                "In the evening, the children come home from school. They arrive home early.",
+                "傍晚，孩子们放学回家。他们到家很早。"
+            ],
+            [
+                "Mr. Sawyer comes home from work. He arrives home late.",
+                "索耶先生下班回家。他到家很晚。"
+            ],
+            [
+                "At night, the children always do their homework.",
+                "晚上，孩子们总是做作业。"
+            ],
+            [
+                "Then they go to bed.",
+                "然后去睡觉。"
+            ],
+            [
+                "Mr. Sawyer usually reads his newspaper, but sometimes he and his wife watch television.",
+                "索耶先生总是读报纸，但有时和他的妻子一起看电视。"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "live",
+            "v.",
+            "住，生活"
+        ],
+        [
+            "stay",
+            "v.",
+            "呆在，停留"
+        ],
+        [
+            "home",
+            "n.",
+            "家"
+        ],
+        [
+            "home",
+            "adv.",
+            "到家"
+        ],
+        [
+            "housework",
+            "n.",
+            "家务"
+        ],
+        [
+            "lunch",
+            "n.",
+            "午饭"
+        ],
+        [
+            "afternoon",
+            "n.",
+            "下午"
+        ],
+        [
+            "usually",
+            "adv.",
+            "通常"
+        ],
+        [
+            "together",
+            "adv.",
+            "一起"
+        ],
+        [
+            "evening",
+            "n.",
+            "晚上"
+        ],
+        [
+            "arrive",
+            "v.",
+            "到达"
+        ],
+        [
+            "night",
+            "n.",
+            "夜间"
+        ]
+    ]
+}

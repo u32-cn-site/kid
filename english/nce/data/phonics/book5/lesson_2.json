@@ -1,0 +1,31 @@
+{
+    "lesson": 2,
+    "title": ["Unit 2", "第二单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["mouse", "n.", "老鼠"],
+        ["The mouse is small.", "", "老鼠很小。"],
+        ["house", "n.", "房子"],
+        ["I live in a house.", "", "我住在房子里。"],
+        ["cow", "n.", "奶牛"],
+        ["The cow gives us milk.", "", "奶牛给我们牛奶。"],
+        ["brown", "adj./n.", "棕色"],
+        ["The bear is brown.", "", "熊是棕色的。"],
+        ["coin", "n.", "硬币"],
+        ["I find a coin on the ground.", "", "我在地上发现一枚硬币。"],
+        ["soil", "n.", "土壤"],
+        ["Plants grow in soil.", "", "植物在土壤里生长。"],
+        ["toy", "n.", "玩具"],
+        ["I play with my toy.", "", "我玩我的玩具。"],
+        ["boy", "n.", "男孩"],
+        ["The boy runs fast.", "", "男孩跑得很快。"],
+        ["book", "n.", "书"],
+        ["I read a book.", "", "我读一本书。"],
+        ["foot", "n.", "脚"],
+        ["I kick the ball with my foot.", "", "我用脚踢球。"],
+        ["bush", "n.", "灌木"],
+        ["A rabbit hides in the bush.", "", "兔子躲在灌木丛里。"],
+        ["pull", "v.", "拉"],
+        ["I pull the rope.", "", "我拉绳子。"]
+    ]
+}

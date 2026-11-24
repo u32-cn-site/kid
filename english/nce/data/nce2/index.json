@@ -1,0 +1,676 @@
+{
+    "lessons": [
+        {
+            "lesson": 1,
+            "title": [
+                "A private conversation",
+                "私人谈话"
+            ]
+        },
+        {
+            "lesson": 2,
+            "title": [
+                "Breakfast or lunch?",
+                "早餐还是午餐？"
+            ]
+        },
+        {
+            "lesson": 3,
+            "title": [
+                "Please send me a card",
+                "请给我寄一张明信片"
+            ]
+        },
+        {
+            "lesson": 4,
+            "title": [
+                "An exciting trip",
+                "激动人心的旅行"
+            ]
+        },
+        {
+            "lesson": 5,
+            "title": [
+                "No wrong numbers",
+                "无错号"
+            ]
+        },
+        {
+            "lesson": 6,
+            "title": [
+                "Percy Buttons",
+                "珀西·巴顿斯"
+            ]
+        },
+        {
+            "lesson": 7,
+            "title": [
+                "Too late",
+                "为时已晚"
+            ]
+        },
+        {
+            "lesson": 8,
+            "title": [
+                "The best and the worst",
+                "最好的和最差的"
+            ]
+        },
+        {
+            "lesson": 9,
+            "title": [
+                "A cold welcome",
+                "冷遇"
+            ]
+        },
+        {
+            "lesson": 10,
+            "title": [
+                "Not for jazz",
+                "不适于演奏爵士乐"
+            ]
+        },
+        {
+            "lesson": 11,
+            "title": [
+                "One good turn",
+                "礼尚往来"
+            ]
+        },
+        {
+            "lesson": 12,
+            "title": [
+                "Goodbye and good luck",
+                "再见，一路顺风"
+            ]
+        },
+        {
+            "lesson": 13,
+            "title": [
+                "A green park",
+                "绿色公园"
+            ]
+        },
+        {
+            "lesson": 14,
+            "title": [
+                "Do you speak English?",
+                "你会讲英语吗？"
+            ]
+        },
+        {
+            "lesson": 15,
+            "title": [
+                "Good news",
+                "好消息"
+            ]
+            },
+        {
+            "lesson": 16,
+            "title": [
+                "Your passport, please",
+                "请出示护照"
+            ]
+        },
+        {
+            "lesson": 17,
+            "title": [
+                "Always young",
+                "青春常驻"
+            ]
+        },
+        {
+            "lesson": 18,
+            "title": [
+                "He often does this!",
+                "他经常干这种事！"
+            ]
+        },
+        {
+            "lesson": 19,
+            "title": [
+                "Sold out",
+                "票已售完"
+            ]
+        },
+        {
+            "lesson": 20,
+            "title": [
+                "One man in a boat",
+                "独坐孤舟"
+            ]
+        },
+        {
+            "lesson": 21,
+            "title": [
+                "Mad or not?",
+                "是不是疯了"
+            ]
+        },
+        {
+            "lesson": 22,
+            "title": [
+                "A glass envelope",
+                "玻璃信封"
+            ]
+        },
+        {
+            "lesson": 23,
+            "title": [
+                "A new house",
+                "新居"
+            ]
+        },
+        {
+            "lesson": 24,
+            "title": [
+                "It could be worse",
+                "不幸中之万幸"
+            ]
+        },
+        {
+            "lesson": 25,
+            "title": [
+                "Do the English speak English?",
+                "英国人讲的是英语吗？"
+            ]
+        },
+        {
+            "lesson": 26,
+            "title": [
+                "The best art critics",
+                "最佳艺术评论家"
+            ]
+        },
+        {
+            "lesson": 27,
+            "title": [
+                "A wet night",
+                "雨夜"
+            ]
+        },
+        {
+            "lesson": 28,
+            "title": [
+                "No parking",
+                "禁止停车"
+            ]
+        },
+        {
+            "lesson": 29,
+            "title": [
+                "Taxi!",
+                "出租汽车"
+            ]
+        },
+        {
+            "lesson": 30,
+            "title": [
+                "Football or polo?",
+                "足球还是水球？"
+            ]
+        },
+        {
+            "lesson": 31,
+            "title": [
+                "Success story",
+                "成功者的故事"
+            ]
+        },
+        {
+            "lesson": 32,
+            "title": [
+                "Shopping made easy",
+                "购物变得很方便"
+            ]
+        },
+        {
+            "lesson": 33,
+            "title": [
+                "Out of the darkness",
+                "冲出黑暗"
+            ]
+        },
+        {
+            "lesson": 34,
+            "title": [
+                "Quick work",
+                "快速工作"
+            ]
+        },
+        {
+            "lesson": 35,
+            "title": [
+                "Stop thief!",
+                "抓小偷！"
+            ]
+        },
+        {
+            "lesson": 36,
+            "title": [
+                "Across the Channel",
+                "横渡海峡"
+            ]
+        },
+        {
+            "lesson": 37,
+            "title": [
+                "The Olympic Games",
+                "奥林匹克运动会"
+            ]
+        },
+        {
+            "lesson": 38,
+            "title": [
+                "Everything except the weather",
+                "唯独没有考虑到天气"
+            ]
+        },
+        {
+            "lesson": 39,
+            "title": [
+                "Am I all right?",
+                "我是否痊愈？"
+            ]
+        },
+        {
+            "lesson": 40,
+            "title": [
+                "Food and talk",
+                "进餐与交谈"
+            ]
+        },
+        {
+            "lesson": 41,
+            "title": [
+                "Do you call that a hat?",
+                "你把那个叫帽子吗？"
+            ]
+        },
+        {
+            "lesson": 42,
+            "title": [
+                "Not very musical",
+                "并非很懂音乐"
+            ]
+        },
+        {
+            "lesson": 43,
+            "title": [
+                "Over the South Pole",
+                "飞越南极"
+            ]
+        },
+        {
+            "lesson": 44,
+            "title": [
+                "Through the forest",
+                "穿过森林"
+            ]
+        },
+        {
+            "lesson": 45,
+            "title": [
+                "A clear conscience",
+                "问心无愧"
+            ]
+        },
+        {
+            "lesson": 46,
+            "title": [
+                "Expensive and uncomfortable",
+                "既昂贵又受罪"
+            ]
+        },
+        {
+            "lesson": 47,
+            "title" : [
+                "A thirsty ghost",
+                "嗜酒的鬼魂"
+            ]
+        },
+        {
+            "lesson": 48,
+            "title": [
+                "Did you want to tell me something?",
+                "你想对我说什么吗？"
+            ]
+        },
+        {
+            "lesson": 49,
+            "title": [
+                "The end of a dream",
+                "美梦告终"
+            ]
+        },
+        {
+            "lesson": 50,
+            "title": [
+                "Taken for a ride",
+                "上当"
+            ]
+        },
+        {
+            "lesson": 51,
+            "title": [
+                "Reward for virtue",
+                "对美德的奖赏"
+            ]
+        },
+        {
+            "lesson": 52,
+            "title": [
+                "A pretty carpet",
+                "漂亮的地毯"
+            ]
+        },
+        {
+            "lesson": 53,
+            "title": [
+                "Hot snake",
+                "触电的蛇"
+            ]
+        },
+        {
+            "lesson": 54,
+            "title": [
+                "Sticky fingers",
+                "粘糊的手指"
+            ]
+        },
+        {
+            "lesson": 55,
+            "title": [
+                "Not a gold mine",
+                "并非金矿"
+            ]
+        },
+        {
+            "lesson": 56,
+            "title": [
+                "Faster than sound!",
+                "比声音还快！"
+            ]
+        },
+        {
+            "lesson": 57,
+            "title": [
+                "Can I help you, madam?",
+                "夫人，您买什么？"
+            ]
+        },
+        {
+            "lesson": 58,
+            "title": [
+                "A blessing in disguise",
+                "因祸得福"
+            ]
+        },
+        {
+            "lesson": 59,
+            "title": [
+                "In or out?",
+                "进还是出？"
+            ]
+        },
+        {
+            "lesson": 60,
+            "title": [
+                "The future",
+                "未来"
+            ]
+        },
+        {
+            "lesson": 61,
+            "title": [
+                "Trouble with the Hubble",
+                "哈勃望远镜的困境"
+            ]
+        },
+        {
+            "lesson": 62,
+            "title": [
+                "After the fire",
+                "大火之后"
+            ]
+        },
+        {
+            "lesson": 63,
+            "title": [
+                "She was not amused",
+                "她并没有被逗乐"
+            ]
+        },
+        {
+            "lesson": 64,
+            "title": [
+                "The Channel Tunnel",
+                "海峡隧道"
+            ]
+        },
+        {
+            "lesson": 65,
+            "title": [
+                "Jolly widow",
+                "快乐的寡妇"
+            ]
+        },
+        {
+            "lesson": 66,
+            "title": [
+                "Sweet as honey!",
+                "像蜜一样甜！"
+            ]
+        },
+        {
+            "lesson": 67,
+            "title": [
+                "Volcanoes",
+                "火山"
+            ]
+        },
+        {
+            "lesson": 68,
+            "title": [
+                "Persistent",
+                "坚持"
+            ]
+        },
+        {
+            "lesson": 69,
+            "title": [
+                "Murder!",
+                "谋杀！"
+            ]
+        },
+        {
+            "lesson": 70,
+            "title": [
+                "Red for danger",
+                "红色表示危险"
+            ]
+        },
+        {
+            "lesson": 71,
+            "title": [
+                "A famous clock",
+                "一个著名的钟"
+            ]
+        },
+        {
+            "lesson": 72,
+            "title": [
+                "A car called Bluebird",
+                "蓝鸟汽车"
+            ]
+        },
+        {
+            "lesson": 73,
+            "title": [
+                "The record-holder",
+                "纪录保持者"
+            ]
+        },
+        {
+            "lesson": 74,
+            "title": [
+                "Heroes and heroines",
+                "英雄和女英雄"
+            ]
+        },
+        {
+            "lesson": 75,
+            "title": [
+                "SOS",
+                "SOS"
+            ]
+        },
+        {
+            "lesson": 76,
+            "title": [
+                "April Fools' Day",
+                "愚人节"
+            ]
+        },
+        {
+            "lesson": 77,
+            "title": [
+                "A successful operation",
+                "成功的手术"
+            ]
+        },
+        {
+            "lesson": 78,
+            "title": [
+                "The last one?",
+                "最后一个？"
+            ]
+        },
+        {
+            "lesson": 79,
+            "title": [
+                "By air",
+                "乘飞机"
+            ]
+        },
+        {
+            "lesson": 80,
+            "title": [
+                "The Crystal Palace",
+                "水晶宫"
+            ]
+        },
+        {
+            "lesson": 81,
+            "title": [
+                "Escape",
+                "逃脱"
+            ]
+        },
+        {
+            "lesson": 82,
+            "title": [
+                "Monster or fish?",
+                "是妖还是鱼？"
+            ]
+        },
+        {
+            "lesson": 83,
+            "title": [
+                "After the elections",
+                "大选之后"
+            ]
+        },
+        {
+            "lesson": 84,
+            "title": [
+                "On strike",
+                "罢工"
+            ]
+        },
+        {
+            "lesson": 85,
+            "title": [
+                "Never too old to learn",
+                "活到老学到老"
+            ]
+        },
+        {
+            "lesson": 86,
+            "title": [
+                "Out of control",
+                "失控"
+            ]
+        },
+        {
+            "lesson": 87,
+            "title": [
+                "A perfect alibi",
+                "极好的不在犯罪现场的证据"
+            ]
+        },
+        {
+            "lesson": 88,
+            "title": [
+                "Trapped in a mine",
+                "困在矿井里"
+            ]
+        },
+        {
+            "lesson": 89,
+            "title": [
+                "A slip of the tongue",
+                "口误"
+            ]
+        },
+        {
+            "lesson": 90,
+            "title": [
+                "What's for supper?",
+                "晚餐吃什么？"
+            ]
+        },
+        {
+            "lesson": 91,
+            "title": [
+                "Three men in a boat",
+                "三同舟"
+            ]
+        },
+        {
+            "lesson": 92,
+            "title": [
+                "Asking for trouble",
+                "自找麻烦"
+            ]
+        },
+        {
+            "lesson": 93,
+            "title": [
+                "A noble gift",
+                "崇高的礼物"
+            ]
+        },
+        {
+            "lesson": 94,
+            "title": [
+                "Future champions",
+                "未来的冠军"
+            ]
+        },
+        {
+            "lesson": 95,
+            "title": [
+                "A fantasy",
+                "幻想"
+            ]
+        },
+        {
+            "lesson": 96,
+            "title": [
+                "The dead return",
+                "亡灵返乡"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,557 @@
+{
+    "lesson": 5,
+    "title": [
+        "Ethan's First Day at the New School",
+        "伊森在新学校的第一天"
+    ],
+    "content": {
+        "sentences": [
+            [
+                "Ethan is a fifth-grade pupil and today is his first day at the new school.",
+                "伊森是一名五年级学生，今天是他在新学校的第一天。"
+            ],
+            [
+                "He just moved to this country with his family.",
+                "他刚和家人搬到这个国家。"
+            ],
+            [
+                "He is very nervous because he has to use a foreign language at school.",
+                "他非常紧张，因为他在学校必须使用外语。"
+            ],
+            [
+                "\"Mum, what if I say something wrong in class?",
+                "「妈妈，如果我在课上说错话怎么办？"
+            ],
+            [
+                "What if I get low marks and fail the exams?\" asked Ethan anxiously the day before.",
+                "如果我得低分并考试不及格怎么办？」伊森前一天焦虑地问道。"
+            ],
+            [
+                "\"Take it easy, my dear.",
+                "「放轻松，亲爱的。"
+            ],
+            [
+                "No one will laugh at you,\" answered Ethan's mother kindly.",
+                "没有人会嘲笑你，」伊森的母亲和蔼地回答。"
+            ],
+            [
+                "\"You're a clever boy.",
+                "「你是个聪明的男孩。"
+            ],
+            [
+                "You have studied English for many years.",
+                "你已经学了很多年英语了。"
+            ],
+            [
+                "What's more, do you know that making mistakes is the best way to learn a language?",
+                "而且，你知道犯错是学习一门语言的最好方式吗？"
+            ],
+            [
+                "Just believe in yourself and don't be afraid.\"",
+                "只要相信自己，不要害怕。」"
+            ],
+            [
+                "\"I can make it.\" Ethan whispered to himself before falling asleep.",
+                "「我能做到。」伊森在睡前低声对自己说。"
+            ],
+            [
+                "Ethan got up early in the morning and went to the school with his parents.",
+                "伊森一大早就起床了，和父母一起去学校。"
+            ],
+            [
+                "They met the headteacher, Mrs. Thompson, at her office.",
+                "他们在校长汤普森夫人的办公室见到了她。"
+            ],
+            [
+                "She gave Ethan's parents a student guidebook and then took him to the classroom.",
+                "她给了伊森的父母一本学生指南，然后带他去了教室。"
+            ],
+            [
+                "\"Let's give a warm welcome to Ethan.",
+                "「让我们热烈欢迎伊森。"
+            ],
+            [
+                "He just moved here, so I hope everyone can help him fit in.\" Mrs. Thompson wrote down Ethan's name on the blackboard.",
+                "他刚搬到这里，所以我希望大家能帮助他适应。」汤普森夫人在黑板上写下伊森的名字。"
+            ],
+            [
+                "\"My name is Ethan and I'm from China.",
+                "「我叫伊森，来自中国。"
+            ],
+            [
+                "My favourite subjects are history and science.",
+                "我最喜欢的科目是历史和科学。"
+            ],
+            [
+                "I like playing volleyball and reading books after school.\" Ethan introduced himself in front of the class and then sat next to a boy with blond hair.",
+                "我喜欢放学后打排球和看书。」伊森在班上做了自我介绍，然后坐在一个金发男孩旁边。"
+            ],
+            [
+                "\"Everyone is friendly and nice!\" said Ethan to his parents at dinner, \"I can't wait to see my new classmates tomorrow!\"",
+                "「大家都很友好和很好！」伊森在晚餐时对父母说，「我迫不及待想明天见到我的新同学！」"
+            ]
+        ]
+    },
+    "words": [
+        [
+            "grade",
+            "n.",
+            "年级；等级"
+        ],
+        [
+            "Sam is in the second grade.",
+            "",
+            "萨姆读二年级。"
+        ],
+        [
+            "pupil",
+            "n.",
+            "小学生"
+        ],
+        [
+            "How many pupils does the school have?",
+            "",
+            "这所小学有多少学生？"
+        ],
+        [
+            "school",
+            "n.",
+            "（中、小）学校"
+        ],
+        [
+            "School begins at 9.",
+            "",
+            "学校9点开始上课。"
+        ],
+        [
+            "this",
+            "det.",
+            "这，这个"
+        ],
+        [
+            "this",
+            "pron.",
+            "这，这个"
+        ],
+        [
+            "these",
+            "det.",
+            "这些"
+        ],
+        [
+            "these",
+            "pron.",
+            "这些"
+        ],
+        [
+            "Is this your bag?",
+            "",
+            "这是你的包吗？"
+        ],
+        [
+            "have to",
+            "",
+            "必须；不得不"
+        ],
+        [
+            "Do you have to go?",
+            "",
+            "你必须走吗？"
+        ],
+        [
+            "foreign",
+            "adj.",
+            "外国的"
+        ],
+        [
+            "a foreign language",
+            "",
+            "外语"
+        ],
+        [
+            "language",
+            "n.",
+            "语言"
+        ],
+        [
+            "Chinese is my first language.",
+            "",
+            "汉语是我的母语。"
+        ],
+        [
+            "wrong",
+            "adj.",
+            "错误的"
+        ],
+        [
+            "I got all the answers wrong.",
+            "",
+            "我的答案全错了。"
+        ],
+        [
+            "class",
+            "n.",
+            "班级；课"
+        ],
+        [
+            "I was late for class.",
+            "",
+            "我上课迟到了。"
+        ],
+        [
+            "mark",
+            "n.",
+            "成绩；分数"
+        ],
+        [
+            "mark",
+            "v.",
+            "做标记"
+        ],
+        [
+            "get a good mark in English",
+            "",
+            "英语得高分"
+        ],
+        [
+            "fail",
+            "v.",
+            "失败；不及格"
+        ],
+        [
+            "He failed his driving test.",
+            "",
+            "他没通过驾驶执照考试。"
+        ],
+        [
+            "exam",
+            "n.",
+            "考试"
+        ],
+        [
+            "take an exam",
+            "",
+            "参加考试"
+        ],
+        [
+            "easy",
+            "adj.",
+            "容易的"
+        ],
+        [
+            "take it easy",
+            "",
+            "放松点"
+        ],
+        [
+            "no one",
+            "",
+            "没有人"
+        ],
+        [
+            "No one was at home.",
+            "",
+            "没有人在家。"
+        ],
+        [
+            "answer",
+            "v.",
+            "答复；回答"
+        ],
+        [
+            "answer",
+            "n.",
+            "答复；回答"
+        ],
+        [
+            "answer the question",
+            "",
+            "回答问题"
+        ],
+        [
+            "clever",
+            "adj.",
+            "聪明的"
+        ],
+        [
+            "a clever child",
+            "",
+            "聪明的孩子"
+        ],
+        [
+            "cleverer",
+            "adj.",
+            "更聪明的"
+        ],
+        [
+            "cleverest",
+            "adj.",
+            "最聪明的"
+        ],
+        [
+            "study",
+            "v.",
+            "学习"
+        ],
+        [
+            "study English",
+            "",
+            "学英语"
+        ],
+        [
+            "know",
+            "v.",
+            "知道；了解"
+        ],
+        [
+            "knew",
+            "v.",
+            "知道；了解"
+        ],
+        [
+            "known",
+            "v.",
+            "知道；了解"
+        ],
+        [
+            "mistake",
+            "n.",
+            "错误"
+        ],
+        [
+            "Don't worry; we all make mistakes.",
+            "",
+            "没关系，我们都会犯错。"
+        ],
+        [
+            "learn",
+            "v.",
+            "学习；学会"
+        ],
+        [
+            "learnt",
+            "v.",
+            "学习；学会"
+        ],
+        [
+            "learned",
+            "v.",
+            "学习；学会"
+        ],
+        [
+            "learn a language",
+            "",
+            "学一门语言"
+        ],
+        [
+            "yourself",
+            "pron.",
+            "你自己"
+        ],
+        [
+            "yourselves",
+            "pron.",
+            "你们自己"
+        ],
+        [
+            "Help yourself!",
+            "",
+            "请自便！/随便吃！"
+        ],
+        [
+            "himself",
+            "pron.",
+            "他自己"
+        ],
+        [
+            "He introduced himself.",
+            "",
+            "他做了自我介绍。"
+        ],
+        [
+            "get up",
+            "",
+            "起床"
+        ],
+        [
+            "I usually get up at six.",
+            "",
+            "我通常六点钟起床。"
+        ],
+        [
+            "early",
+            "adj.",
+            "早的"
+        ],
+        [
+            "early",
+            "adv.",
+            "早"
+        ],
+        [
+            "earlier",
+            "adj.",
+            "更早的"
+        ],
+        [
+            "earlier",
+            "adv.",
+            "更早"
+        ],
+        [
+            "earliest",
+            "adj.",
+            "最早的"
+        ],
+        [
+            "earliest",
+            "adv.",
+            "最早"
+        ],
+        [
+            "headteacher",
+            "n.",
+            "（中小学）校长；班主任"
+        ],
+        [
+            "student",
+            "n.",
+            "学生"
+        ],
+        [
+            "a high school student",
+            "",
+            "高中生"
+        ],
+        [
+            "guidebook",
+            "n.",
+            "指南；手册"
+        ],
+        [
+            "classroom",
+            "n.",
+            "教室"
+        ],
+        [
+            "in the classroom",
+            "",
+            "在教室里"
+        ],
+        [
+            "write",
+            "v.",
+            "书写，写字"
+        ],
+        [
+            "wrote",
+            "v.",
+            "书写，写字"
+        ],
+        [
+            "written",
+            "v.",
+            "书写，写字"
+        ],
+        [
+            "write down",
+            "",
+            "写下"
+        ],
+        [
+            "blackboard",
+            "n.",
+            "黑板"
+        ],
+        [
+            "subject",
+            "n.",
+            "主题；学科"
+        ],
+        [
+            "Biology is my favourite subject.",
+            "",
+            "生物是我最喜爱的学科。"
+        ],
+        [
+            "history",
+            "n.",
+            "历史；历史学"
+        ],
+        [
+            "science",
+            "n.",
+            "科学"
+        ],
+        [
+            "science and technology",
+            "",
+            "科学技术"
+        ],
+        [
+            "read",
+            "v.",
+            "阅读"
+        ],
+        [
+            "read the newspaper",
+            "",
+            "看报纸"
+        ],
+        [
+            "classmate",
+            "n.",
+            "同班同学"
+        ],
+        [
+            "nervous",
+            "adj.",
+            "紧张的"
+        ],
+        [
+            "anxious",
+            "adj.",
+            "焦虑的"
+        ],
+        [
+            "kindly",
+            "adv.",
+            "和蔼地；亲切地"
+        ],
+        [
+            "believe in",
+            "",
+            "相信"
+        ],
+        [
+            "afraid",
+            "adj.",
+            "害怕的"
+        ],
+        [
+            "whisper",
+            "v.",
+            "低语"
+        ],
+        [
+            "fit in",
+            "",
+            "适应"
+        ],
+        [
+            "introduce",
+            "v.",
+            "介绍"
+        ],
+        [
+            "volleyball",
+            "n.",
+            "排球"
+        ],
+        [
+            "blond",
+            "adj.",
+            "金发的"
+        ]
+    ]
+}

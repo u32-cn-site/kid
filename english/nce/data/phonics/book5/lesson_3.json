@@ -1,0 +1,31 @@
+{
+    "lesson": 3,
+    "title": ["Unit 3", "第三单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["sauce", "n.", "酱汁"],
+        ["I put sauce on my food.", "", "我把酱汁倒在食物上。"],
+        ["August", "n.", "八月"],
+        ["My birthday is in August.", "", "我的生日在八月。"],
+        ["prawn", "n.", "对虾"],
+        ["I eat a prawn.", "", "我吃一只虾。"],
+        ["draw", "v.", "画"],
+        ["I draw a picture.", "", "我画一幅画。"],
+        ["ball", "n.", "球"],
+        ["I throw the ball.", "", "我扔球。"],
+        ["tall", "adj.", "高的"],
+        ["The tree is tall.", "", "树很高。"],
+        ["water", "n.", "水"],
+        ["I drink water.", "", "我喝水。"],
+        ["walk", "v.", "走"],
+        ["I walk to school.", "", "我走路去学校。"],
+        ["horse", "n.", "马"],
+        ["The horse runs fast.", "", "马跑得很快。"],
+        ["fork", "n.", "叉子"],
+        ["I eat with a fork.", "", "我用叉子吃饭。"],
+        ["roar", "v.", "吼叫"],
+        ["The lion roars.", "", "狮子吼叫。"],
+        ["board", "n.", "木板"],
+        ["We write on the board.", "", "我们在黑板上写字。"]
+    ]
+}

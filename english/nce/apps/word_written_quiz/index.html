@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>单词默写测试</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="header-left">
+            <button id="lesson-select-btn">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M3 6h18M3 12h18M3 18h18"/>
+                </svg>
+                选择课文
+            </button>
+            <button id="word-count-btn">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="10"/>
+                    <text x="12" y="16" font-size="12" text-anchor="middle" fill="currentColor">8</text>
+                </svg>
+                <span id="word-count-text">8个</span>
+            </button>
+            <button id="wrong-words-btn">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="10"/>
+                    <path d="M12 6v6l4 2"/>
+                </svg>
+                错误单词 <span id="wrong-words-count-badge">0</span>
+            </button>
+            <button id="recent-results-btn">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+                    <line x1="16" y1="2" x2="16" y2="6"/>
+                    <line x1="8" y1="2" x2="8" y2="6"/>
+                    <line x1="3" y1="10" x2="21" y2="10"/>
+                </svg>
+                最近测试
+            </button>
+        </div>
+        <div class="header-right">
+            <span id="quiz-status">请开始测试</span>
+            <span class="separator">|</span>
+            <span id="score">得分: 0</span>
+        </div>
+    </header>
+    <main>
+        <div id="quiz-container" class="quiz-container">
+            <div id="quiz-chinese" class="quiz-chinese">请选择课文并点击「开始测试」</div>
+            <div id="quiz-english" class="quiz-english hidden" style="user-select: none;"></div>
+            <input type="text" id="quiz-input" class="quiz-input hidden" placeholder="输入英文单词" autocomplete="off" disabled>
+        </div>
+    </main>
+
+    <div class="modal-overlay" id="lesson-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-title">选择课文</div>
+                <button class="modal-close" id="lesson-modal-close">&times;</button>
+            </div>
+            <div class="modal-body" id="lesson-modal-body"></div>
+            <div class="modal-footer">
+                <button class="modal-btn modal-btn-cancel" id="lesson-modal-cancel">取消</button>
+                <button class="modal-btn modal-btn-save" id="lesson-modal-save">确定</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="word-count-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-title">设置默写单词数量</div>
+                <button class="modal-close" id="word-count-modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="word-count-options">
+                    <button class="word-count-btn" data-count="2">2个</button>
+                    <button class="word-count-btn" data-count="4">4个</button>
+                    <button class="word-count-btn" data-count="8">8个</button>
+                    <button class="word-count-btn" data-count="16">16个</button>
+                    <button class="word-count-btn" data-count="32">32个</button>
+                    <button class="word-count-btn" data-count="64">64个</button>
+                    <button class="word-count-btn" data-count="all">全部</button>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="modal-btn modal-btn-cancel" id="word-count-modal-cancel">取消</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="wrong-words-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-title">错误单词列表 (<span id="wrong-words-count">0</span>)</div>
+                <button class="modal-close" id="wrong-words-modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="wrong-words-list" id="wrong-words-list"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="recent-results-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-title">最近测试结果</div>
+                <button class="modal-close" id="recent-results-modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="recent-results-list" id="recent-results-list"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="result-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-title">测试结果</div>
+            </div>
+            <div class="modal-body">
+                <div class="result-summary">
+                    <div class="result-score">最终得分: <span id="final-score">0</span>/100</div>
+                    <div class="result-stats">正确: <span id="correct-count">0</span> | 错误: <span id="wrong-count">0</span></div>
+                </div>
+                <div class="result-wrong-list" id="result-wrong-list"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="check-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-title" id="check-title">答案检查</div>
+            </div>
+            <div class="modal-body">
+                <div id="check-content"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/storage.js"></script>
+    <script src="js/audio.js"></script>
+    <script src="js/ui-utils.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/modal-renderers.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

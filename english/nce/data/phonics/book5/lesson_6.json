@@ -1,0 +1,31 @@
+{
+    "lesson": 6,
+    "title": ["Unit 6", "第六单元"],
+    "content": {"sentences": []},
+    "words": [
+        ["panda", "n.", "熊猫"],
+        ["The panda eats bamboo.", "", "熊猫吃竹子。"],
+        ["gorilla", "n.", "大猩猩"],
+        ["The gorilla is strong.", "", "大猩猩很强壮。"],
+        ["banana", "n.", "香蕉"],
+        ["I eat a banana.", "", "我吃香蕉。"],
+        ["umbrella", "n.", "雨伞"],
+        ["I use an umbrella.", "", "我用雨伞。"],
+        ["chicken", "n.", "鸡"],
+        ["The chicken lays eggs.", "", "鸡下蛋。"],
+        ["pencil", "n.", "铅笔"],
+        ["I write with a pencil.", "", "我用铅笔写字。"],
+        ["lemon", "n.", "柠檬"],
+        ["The lemon is sour.", "", "柠檬很酸。"],
+        ["surprise", "n.", "惊喜"],
+        ["I have a surprise for you.", "", "我给你一个惊喜。"],
+        ["monkey", "n.", "猴子"],
+        ["The monkey climbs.", "", "猴子在爬树。"],
+        ["love", "v./n.", "爱"],
+        ["I love my family.", "", "我爱我的家人。"],
+        ["son", "n.", "儿子"],
+        ["My son is smart.", "", "我的儿子很聪明。"],
+        ["honey", "n.", "蜂蜜"],
+        ["I put honey in my tea.", "", "我在茶里加蜂蜜。"]
+    ]
+}

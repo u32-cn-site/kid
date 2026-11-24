@@ -1,0 +1,32 @@
+{
+    "lesson": 1,
+    "title": [
+        "Letter A",
+        "字母A"
+    ],
+    "content": {
+        "sentences": []
+    },
+    "words": [
+        [
+            "ant",
+            "n.",
+            "蚂蚁"
+        ],
+        [
+            "I see an ant on the ground.",
+            "",
+            "我看见地上有只蚂蚁。"
+        ],
+        [
+            "ax",
+            "n.",
+            "斧子"
+        ],
+        [
+            "Dad uses an ax to cut wood.",
+            "",
+            "爸爸用斧子砍木头。"
+        ]
+    ]
+}

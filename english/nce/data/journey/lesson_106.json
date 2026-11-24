@@ -1,0 +1,335 @@
+{
+ "lesson": 106,
+ "title": [
+  "The Question",
+  "这个问题"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "Guanyin looked at the messenger in surprise.",
+    "观音惊讶地看着信使。"
+   ],
+   [
+    "\"What is the problem?\" she asked.",
+    "“有什么问题吗？”她问道。"
+   ],
+   [
+    "\"It's about the Tang Monk,\" said the messenger.",
+    "“这是关于唐僧的故事，”信使说。"
+   ],
+   [
+    "\"To become a buddha, he needs to face one hundred challenges.",
+    "“要成为佛陀，他必须面对一百个挑战。”"
+   ],
+   [
+    "I was just looking at the list of challenges he's faced.",
+    "我刚刚在看他所面临的一系列挑战的清单。"
+   ],
+   [
+    "There are only 99 challenges on the list.",
+    "列表上只有99个挑战。"
+   ],
+   [
+    "He must face one more challenge to become a buddha!\"",
+    "他必须要面对另一个挑战才能成为佛陀！"
+   ],
+   [
+    "\"We're moving so fast!\" said the Tang Monk, smiling.",
+    "“我们进展得太快了！”唐僧微笑着说。"
+   ],
+   [
+    "The travelers were flying back east.",
+    "旅行者们正在飞回东方。"
+   ],
+   [
+    "The guard from the Thunderclap Monastery was using a spell to carry them.",
+    "来自雷霆响 monastery 的守卫使用了一个魔法来将他们传送过去。"
+   ],
+   [
+    "\"I wish the whole journey had been this easy,\" said Bajie.",
+    "“我真希望整个旅程都能这么轻松。”八戒说道。"
+   ],
+   [
+    "Wukong laughed.",
+    "孙悟空笑了。"
+   ],
+   [
+    "\"Master was still mortal before we reached the Western Paradise.",
+    "在我们到达西方极乐世界之前，大师仍然是一个凡人。"
+   ],
+   [
+    "He couldn't be carried then.\"",
+    "那时候他根本无法被人抬起来。"
+   ],
+   [
+    "Wujing looked ahead.",
+    "吴靖向前望去。"
+   ],
+   [
+    "\"We'll reach the Tang Empire soon.\"",
+    "“我们很快就会到达唐朝。”"
+   ],
+   [
+    "Just then a messenger caught up with them.",
+    "就在那时，一名信使追上了他们。"
+   ],
+   [
+    "The messenger whispered something in the guard's ear.",
+    "信使在卫兵耳边低声说了些什么。"
+   ],
+   [
+    "The guard glanced quickly at the travelers.",
+    "卫兵迅速地扫了一眼旅行者们。"
+   ],
+   [
+    "Then he looked back at the messenger and nodded.",
+    "然后他转向使者，点了点头。"
+   ],
+   [
+    "Instantly the spell broke, and the travelers fell from the sky.",
+    "魔法瞬间消解，旅行者们从天而降。"
+   ],
+   [
+    "Bam!",
+    "砰！"
+   ],
+   [
+    "They slammed into the ground next to a wide river.",
+    "它们撞到了地面，落在了一条宽阔河流的旁边。"
+   ],
+   [
+    "Wukong stood up and saw the guard and messenger flying back west.",
+    "悟空站了起来，看到守卫和信使正朝西边飞去。"
+   ],
+   [
+    "The monkey shook his head.",
+    "猴子摇了摇头。"
+   ],
+   [
+    "\"What happened?",
+    "“发生了什么事？”"
+   ],
+   [
+    "The Tang Monk stood up and brushed dirt from his robe.",
+    "唐僧站了起来，拍了拍他 robes 上的灰尘。"
+   ],
+   [
+    "\"Why did the guard drop us?\"",
+    "“为什么警卫把我们放下了？”"
+   ],
+   [
+    "\"I'll tell you why,\" said Bajie.",
+    "“我来告诉你原因，”八戒说。"
+   ],
+   [
+    "\"He's a villain!",
+    "“他是个坏蛋！”"
+   ],
+   [
+    "He thinks it's funny to drop people!",
+    "他认为扔下别人这件事很有趣！"
+   ],
+   [
+    "The pig waved his fist at the guard, who was now far away.",
+    "那头猪朝守卫挥舞着拳头，而守卫此时已经离得很远了。"
+   ],
+   [
+    "\"Villain!\"",
+    "“恶棍！”"
+   ],
+   [
+    "Wukong turned slowly to the Tang Monk.",
+    "悟空慢慢地转向唐僧。"
+   ],
+   [
+    "\"I think I know why he dropped us, Master.",
+    "“我想我知道他为什么抛弃我们的原因了，主人。”"
+   ],
+   [
+    "You must face one hundred challenges in order to become a buddha.",
+    "你必须面对一百个挑战才能成为佛陀。"
+   ],
+   [
+    "You probably got to the Western Paradise before you'd faced all of them.\"",
+    "你可能还不足以应对所有这些情况，就已经“抵达了西方天堂”（即达到了某种理想或舒适的状态）。"
+   ],
+   [
+    "\"Oh no.",
+    "“哦不。”"
+   ],
+   [
+    "The monk trembled.",
+    "僧人颤抖着。"
+   ],
+   [
+    "\"So other bad things must happen now?\"",
+    "“那么现在肯定还会发生其他不好的事情咯？”"
+   ],
+   [
+    "Wukong nodded.",
+    "悟空点了点头。"
+   ],
+   [
+    "\"I hope there won't be too many more problems.\"",
+    "“我希望不会再出现太多问题了。”"
+   ],
+   [
+    "\"The first problem is crossing this river,\" said Wujing.",
+    "“第一个问题是渡过这条河，”武功说。"
+   ],
+   [
+    "\"It looks familiar,\" said the monk.",
+    "“这看起来很眼熟，”僧人说。"
+   ],
+   [
+    "\"We must have crossed it during the journey west.\"",
+    "“我们一定是在西行途中穿过了它。”"
+   ],
+   [
+    "Suddenly a large form rose from the river.",
+    "突然，一个巨大的身影从河中升起。"
+   ],
+   [
+    "It was an enormous turtle.",
+    "那是一只巨大的乌龟。"
+   ],
+   [
+    "\"Greetings,\" said the turtle.",
+    "“你好，”乌龟说道。"
+   ],
+   [
+    "\"Do you remember me?\"",
+    "“你记得我吗？”"
+   ],
+   [
+    "The travelers all smiled.",
+    "所有的旅行者都笑了。"
+   ],
+   [
+    "\"Yes, we do,\" said the Tang Monk.",
+    "“是的，我们确实这么做了，”唐僧说道。"
+   ],
+   [
+    "\"You carried us over this river many years ago.\"",
+    "“很多年前，你曾带着我们渡过了这条河。”"
+   ],
+   [
+    "\"Yes,\" said the turtle.",
+    "“是的，”乌龟说。"
+   ],
+   [
+    "\"And I will gladly carry you across again.",
+    "“我很乐意再次带你过去。”"
+   ],
+   [
+    "Hop onto my back.\"",
+    "“跳到我的背上吧。”"
+   ],
+   [
+    "The travelers climbed on, and the turtle started across the river.",
+    "旅行者们爬了上去，乌龟开始过河了。"
+   ],
+   [
+    "Wujing and Bajie soon fell asleep while Wukong meditated.",
+    "悟空在冥想的时候，吴京和八戒很快就睡着了。"
+   ],
+   [
+    "The Tang Monk stayed awake too, sitting near the turtle's head.",
+    "唐僧也保持清醒，坐在乌龟头部附近。"
+   ],
+   [
+    "\"Did you reach the Western Paradise?\" asked the turtle.",
+    "“你到达西方乐园了吗？”乌龟问道。"
+   ],
+   [
+    "\"Yes,\" said the Tang Monk.",
+    "“是的，”唐僧说道。"
+   ],
+   [
+    "\"It is a wonderful place.",
+    "“这是一个美妙的地方。”"
+   ],
+   [
+    "We are now returning to the east so I can deliver the True Scriptures.\"",
+    "我们现在正返回东方，这样我就可以传授真正的圣典了。"
+   ],
+   [
+    "\"Good,\" said the turtle.",
+    "“很好，”乌龟说。"
+   ],
+   [
+    "\"Did you ask Buddha when I would be reborn as a human?\"",
+    "“你问过佛陀我什么时候会以人类的身份重生吗？”"
+   ],
+   [
+    "The monk bit his lip.",
+    "僧侣咬了咬嘴唇。"
+   ],
+   [
+    "He had forgotten to ask the turtle's question!",
+    "他忘记问那只乌龟的问题了！"
+   ],
+   [
+    "\"You're not answering,\" said the turtle.",
+    "“你没有回答，”乌龟说。"
+   ],
+   [
+    "\"I'm sorry,\" said the monk.",
+    "“对不起，”僧人说。"
+   ],
+   [
+    "\"I, uh—\" Splash!",
+    "“我，呃——” 啪嗒！"
+   ],
+   [
+    "The turtle suddenly dived under the water, dumping everyone off his back.",
+    "乌龟突然潜入水中，把背上的所有人都甩了下去。"
+   ],
+   [
+    "Wukong's eyes flew open as he hit the cold water.",
+    "悟空一接触到冷水，眼睛立刻睁得大大的。"
+   ],
+   [
+    "He leaped into the air.",
+    "他跳向了空中。"
+   ],
+   [
+    "Bajie, Wujing, and the horse quickly flew across the river.",
+    "八戒、悟空和那匹马迅速飞过了河流。"
+   ],
+   [
+    "But the Tang Monk was thrashing furiously in the rushing water.",
+    "但是唐僧在湍急的水流中拼命挣扎。"
+   ],
+   [
+    "\"Help!\" yelled the monk.",
+    "“救命！”僧侣大喊道。"
+   ],
+   [
+    "Wukong cast a spell and lifted the monk and the bag from the river.",
+    "悟空施了一个法术，把和尚和那个袋子从河里捞了上来。"
+   ],
+   [
+    "When everyone was on dry land, the monkey turned the bag upside down.",
+    "当所有人都上了岸后，猴子把袋子翻了个底朝天。"
+   ],
+   [
+    "Water poured out, followed by the scrolls.",
+    "水先流了出来，接着那些卷轴也随之掉落。"
+   ],
+   [
+    "They were soaked.",
+    "他们全身都湿透了。"
+   ],
+   [
+    "\"The True Scriptures!\" cried the Tang Monk.",
+    "“真正的经典！”唐僧喊道。"
+   ],
+   [
+    "\"They're ruined!\"",
+    "“它们坏掉啦！”"
+   ]
+  ]
+ }
+}

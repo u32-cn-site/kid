@@ -1,0 +1,172 @@
+{
+    "lessons": [
+        {
+            "lesson": 1,
+            "title": [
+                "Letter A",
+                "字母A"
+            ]
+        },
+        {
+            "lesson": 2,
+            "title": [
+                "Letter B",
+                "字母B"
+            ]
+        },
+        {
+            "lesson": 3,
+            "title": [
+                "Letter C",
+                "字母C"
+            ]
+        },
+        {
+            "lesson": 4,
+            "title": [
+                "Letter D",
+                "字母D"
+            ]
+        },
+        {
+            "lesson": 5,
+            "title": [
+                "Letter E",
+                "字母E"
+            ]
+        },
+        {
+            "lesson": 6,
+            "title": [
+                "Letter F",
+                "字母F"
+            ]
+        },
+        {
+            "lesson": 7,
+            "title": [
+                "Letter G",
+                "字母G"
+            ]
+        },
+        {
+            "lesson": 8,
+            "title": [
+                "Letter H",
+                "字母H"
+            ]
+        },
+        {
+            "lesson": 9,
+            "title": [
+                "Letter I",
+                "字母I"
+            ]
+        },
+        {
+            "lesson": 10,
+            "title": [
+                "Letter J",
+                "字母J"
+            ]
+        },
+        {
+            "lesson": 11,
+            "title": [
+                "Letter K",
+                "字母K"
+            ]
+        },
+        {
+            "lesson": 12,
+            "title": [
+                "Letter L",
+                "字母L"
+            ]
+        },
+        {
+            "lesson": 13,
+            "title": [
+                "Letter M",
+                "字母M"
+            ]
+        },
+        {
+            "lesson": 14,
+            "title": [
+                "Letter N",
+                "字母N"
+            ]
+        },
+        {
+            "lesson": 15,
+            "title": [
+                "Letter O",
+                "字母O"
+            ]
+        },
+        {
+            "lesson": 16,
+            "title": [
+                "Letter P",
+                "字母P"
+            ]
+        },
+        {
+            "lesson": 17,
+            "title": [
+                "Letter R",
+                "字母R"
+            ]
+        },
+        {
+            "lesson": 18,
+            "title": [
+                "Letter S",
+                "字母S"
+            ]
+        },
+        {
+            "lesson": 19,
+            "title": [
+                "Letter T",
+                "字母T"
+            ]
+        },
+        {
+            "lesson": 20,
+            "title": [
+                "Letter U",
+                "字母U"
+            ]
+        },
+        {
+            "lesson": 21,
+            "title": [
+                "Letter V",
+                "字母V"
+            ]
+        },
+        {
+            "lesson": 22,
+            "title": [
+                "Letter W",
+                "字母W"
+            ]
+        },
+        {
+            "lesson": 23,
+            "title": [
+                "Letter Y",
+                "字母Y"
+            ]
+        },
+        {
+            "lesson": 24,
+            "title": [
+                "Letter Z",
+                "字母Z"
+            ]
+        }
+    ]
+}

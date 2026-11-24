@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>时间管理</title>
+  <meta name="description" content="统计每天的学习总时长：倒计时学习 + 补记 + 时间轴统计图（localStorage 只存最近 7 天）">
+  <meta name="theme-color" content="#FFF9E6">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="时间管理">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" type="image/svg+xml" href="./icon.svg">
+  <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="container" data-u32-name="container">
+
+    <header class="page-header" data-u32-name="page-header">
+      <h1>时间管理</h1>
+      <p class="subtitle">统计今天学了多少，画一画时间都去哪了</p>
+    </header>
+
+    <!-- 今日总时长 -->
+    <section class="card today-card" data-u32-name="today-card">
+      <div class="today-main" data-u32-name="today-main">
+        <span class="today-label">今日已学</span>
+        <div class="today-value" id="today-value">00:00</div>
+        <span class="today-detail" id="today-detail">还没有学习记录，加油开始吧！</span>
+      </div>
+    </section>
+
+    <!-- 学习控制 -->
+    <section class="card timer-card" data-u32-name="timer-card">
+      <h2>开始学习</h2>
+      <div class="timer-setup" data-u32-name="timer-setup">
+        <label class="field" data-u32-name="field-minutes">
+          <span class="field-label">本次学习时长</span>
+          <div class="field-row" data-u32-name="field-row">
+            <input id="input-minutes" type="number" min="1" step="1" inputmode="numeric" value="40" data-u32-name="input-minutes">
+            <span class="field-unit">分钟</span>
+          </div>
+        </label>
+        <button id="btn-start" class="btn btn-primary" data-u32-name="btn-start">▶ 开始学习</button>
+      </div>
+
+      <div class="timer-live" id="timer-live" data-u32-name="timer-live" hidden>
+        <div class="ring-wrap" data-u32-name="ring-wrap">
+          <svg class="ring" viewBox="0 0 220 220" aria-hidden="true">
+            <circle class="ring-track" cx="110" cy="110" r="96"></circle>
+            <circle class="ring-progress" id="ring-progress" cx="110" cy="110" r="96"></circle>
+          </svg>
+          <div class="ring-center" data-u32-name="ring-center">
+            <div class="time-left" id="time-left">25:00</div>
+            <div class="time-done" id="time-done">已学 00:00</div>
+          </div>
+        </div>
+        <div class="status-line" id="status-line" role="status" aria-live="polite">学习中，加油！</div>
+        <div class="primary-actions" data-u32-name="primary-actions">
+          <button id="btn-stop" class="btn btn-danger" data-u32-name="btn-stop">⏹ 停止学习</button>
+        </div>
+      </div>
+
+      <div class="timer-idle" id="timer-idle" data-u32-name="timer-idle">
+        <p class="hint">填好时长，点「开始学习」，倒计时结束后自动停止并记录。</p>
+      </div>
+
+      <!-- 休息提醒 -->
+      <div class="rest-section" id="rest-section" data-u32-name="rest-section" hidden>
+        <div class="rest-icon">😴</div>
+        <p class="rest-title">该休息啦！</p>
+        <p class="rest-subtitle">已连续学习 40 分钟</p>
+        <div class="rest-countdown" id="rest-countdown">05:00</div>
+        <p class="rest-hint">休息 5 分钟后即可继续</p>
+      </div>
+    </section>
+
+    <!-- 补记 -->
+    <section class="card manual-card" data-u32-name="manual-card">
+      <h2>补记学习</h2>
+      <p class="hint">忘了计时？手动补一段学习记录（可跨天，归属开始那天）。</p>
+      <div class="manual-grid" data-u32-name="manual-grid">
+        <label class="field" data-u32-name="field-manual-start">
+          <span class="field-label">起始时间</span>
+          <input id="input-mstart" type="time" data-u32-name="input-mstart">
+        </label>
+        <label class="field" data-u32-name="field-manual-end">
+          <span class="field-label">结束时间</span>
+          <input id="input-mend" type="time" data-u32-name="input-mend">
+        </label>
+      </div>
+      <label class="field" data-u32-name="field-manual-reason">
+        <span class="field-label">补记原因</span>
+        <input id="input-mreason" type="text" maxlength="50" placeholder="例如：默写单词、读课文…" data-u32-name="input-mreason">
+      </label>
+      <button id="btn-manual-save" class="btn btn-secondary" data-u32-name="btn-manual-save">＋ 保存补记</button>
+      <p class="form-msg" id="manual-msg" role="status" aria-live="polite"></p>
+    </section>
+
+    <!-- 今日时间轴 -->
+    <section class="card chart-card" data-u32-name="chart-day">
+      <h2>今日学习时间轴</h2>
+      <p class="chart-hint">蓝色 = 学习时段</p>
+      <div class="timeline" id="timeline" data-u32-name="timeline" aria-label="今日学习时间轴"></div>
+    </section>
+
+    <!-- 最近 7 天 -->
+    <section class="card chart-card" data-u32-name="chart-week">
+      <h2>最近 7 天总时长</h2>
+      <div class="barchart" id="barchart" data-u32-name="barchart" aria-label="最近7天学习总时长柱状图"></div>
+    </section>
+
+    <!-- 记录列表 -->
+    <section class="card log-card" data-u32-name="log-card">
+      <h2>学习记录</h2>
+      <p class="hint">计时记录可作废/重新启用；补记记录可直接删除。</p>
+      <ul class="log-list" id="log-list" data-u32-name="log-list"></ul>
+    </section>
+
+  </div>
+
+  <div class="modal-overlay" id="modal" data-u32-name="modal" hidden>
+    <div class="modal" role="alertdialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-icon" id="modal-icon" aria-hidden="true">&#9200;</div>
+      <h2 id="modal-title"></h2>
+      <p id="modal-msg"></p>
+      <button id="btn-modal" class="btn btn-primary btn-modal" data-u32-name="btn-modal">知道了</button>
+    </div>
+  </div>
+
+  <script src="./app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js', { scope: './' }).catch(() => {})
+      })
+    }
+  </script>
+</body>
+</html>

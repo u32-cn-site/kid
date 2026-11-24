@@ -1,0 +1,483 @@
+{
+ "lesson": 94,
+ "title": [
+  "The Elephant Demon",
+  "大象恶魔"
+ ],
+ "content": {
+  "sentences": [
+   [
+    "The lion demon rubbed his aching mouth.",
+    "狮子恶魔揉了揉他疼痛的嘴。"
+   ],
+   [
+    "\"Let's leave the Tang Monk alone.",
+    "“咱们别去打扰唐僧了。”"
+   ],
+   [
+    "Wukong is dangerous.\"",
+    "“悟空很危险。”"
+   ],
+   [
+    "The raptor nodded.",
+    "这只猛禽点了点头。"
+   ],
+   [
+    "\"Bah!",
+    "“呸！”"
+   ],
+   [
+    "The elephant demon waved his hand.",
+    "大象恶魔挥了挥手。"
+   ],
+   [
+    "\"I'm not afraid of that silly monkey.",
+    "“我不怕那只傻猴子。”"
+   ],
+   [
+    "I have a perfect plan to defeat him and capture the Tang Monk.\"",
+    "我有一个完美的计划来击败他并抓住唐僧。"
+   ],
+   [
+    "The lion shook his head.",
+    "狮子摇了摇头。"
+   ],
+   [
+    "\"The last time you had a plan, I wound up with a broken tooth.\"",
+    "“上次你制定了计划，结果我的牙齿却断了。”"
+   ],
+   [
+    "The elephant snorted.",
+    "大象喷了喷鼻子。"
+   ],
+   [
+    "\"Just leave everything to me.\"",
+    "“把所有事情都交给我吧。”"
+   ],
+   [
+    "Wukong returned to his companions.",
+    "悟空回到了他的同伴们身边。"
+   ],
+   [
+    "He heard Bajie and Wujing arguing.",
+    "他听到八戒和悟空在吵架。"
+   ],
+   [
+    "\"We can't go home!\" shouted Wujing.",
+    "“我们不能回家！”武静喊道。"
+   ],
+   [
+    "\"We're on an important journey.\"",
+    "“我们正在进行一次重要的旅程。”"
+   ],
+   [
+    "\"But Wukong got eaten by the lion demon,\" said Bajie.",
+    "“但是悟空被狮子恶魔吃掉了，”八戒说道。"
+   ],
+   [
+    "\"Without Wukong, we'll never get to the Western Paradise.\"",
+    "“没有孙悟空，我们永远到不了西方极乐世界。”"
+   ],
+   [
+    "\"Here I am!\" said the monkey.",
+    "“我在这里！”猴子说道。"
+   ],
+   [
+    "Everyone spun around.",
+    "每个人都转过身来。"
+   ],
+   [
+    "\"You're alive!\" cried the Tang Monk.",
+    "“你还活着！”唐僧喊道。"
+   ],
+   [
+    "\"Yes, I am,\" said Wukong.",
+    "“是的，我是，”悟空说道。"
+   ],
+   [
+    "\"I beat up that lion's insides and broke one of his teeth.",
+    "“我捣烂了那只狮子的内脏，还打碎了它的一颗牙齿。”"
+   ],
+   [
+    "The demons are scared of me now.",
+    "现在那些恶魔们都害怕我了。"
+   ],
+   [
+    "They promised to let us cross their mountain safely.\"",
+    "他们承诺会让我们安全地穿过他们的山脉。"
+   ],
+   [
+    "\"That's wonderful,\" said the Tang Monk.",
+    "“太棒了，”唐僧说道。"
+   ],
+   [
+    "Wujing helped the monk climb onto the horse.",
+    "武景帮助那位僧人爬上了马。"
+   ],
+   [
+    "The other travelers started walking.",
+    "其他旅行者也开始走了。"
+   ],
+   [
+    "They hadn't gone far when they saw a large figure ahead, blocking the road.",
+    "他们没走多远，就看到前方有一个高大的身影挡住了道路。"
+   ],
+   [
+    "\"That's the elephant demon,\" said Wukong with a frown.",
+    "“那就是象魔，”悟空皱着眉头说。"
+   ],
+   [
+    "\"What's he doing here?\"",
+    "“他在这里做什么？”"
+   ],
+   [
+    "\"We want the Tang Monk!\" shouted the elephant.",
+    "“我们想要唐僧！”大象喊道。"
+   ],
+   [
+    "The Tang Monk fainted.",
+    "唐僧晕倒了。"
+   ],
+   [
+    "Wukong turned to Bajie.",
+    "孙悟空转向了猪八戒。"
+   ],
+   [
+    "\"I've been dealing with these demons all day.",
+    "“我一整天都在与这些‘恶魔’（难题或负面情绪）作斗争。”"
+   ],
+   [
+    "It's your turn to fight them.\"",
+    "现在轮到你去和他们作战了。"
+   ],
+   [
+    "Bajie sighed.",
+    "八戒叹了口气。"
+   ],
+   [
+    "\"Okay.",
+    "“好的。”"
+   ],
+   [
+    "Waving his rake, the pig charged toward the elephant.",
+    "猪挥动着它的耙子，朝大象冲了过去。"
+   ],
+   [
+    "\"You'll never harm my master!\"",
+    "“你永远伤害不到我的主人！”"
+   ],
+   [
+    "The elephant blocked the rake, spun around, and struck back.",
+    "大象挡住了耙子，猛地转过身来，然后反击了。"
+   ],
+   [
+    "Bajie jumped out of the way.",
+    "八戒赶紧躲开了。"
+   ],
+   [
+    "The elephant jerked his head, and his trunk shot out.",
+    "大象突然一动头，它的长鼻子立刻伸了出去。"
+   ],
+   [
+    "Before Bajie could duck, the trunk wrapped tightly around his body.",
+    "在八戒还没来得及躲避的时候，那根树干就紧紧地缠绕在了他的身上。"
+   ],
+   [
+    "As the elephant ran off with Bajie, Wukong groaned.",
+    "当大象带着八戒跑掉时，孙悟空发出了呻吟声。"
+   ],
+   [
+    "The monkey turned to his companions.",
+    "猴子转向他的同伴们。"
+   ],
+   [
+    "\"You two wait here.",
+    "“你们两个在这里等着。”"
+   ],
+   [
+    "I'll go save the pig.\"",
+    "“我去把猪救出来。”"
+   ],
+   [
+    "Wukong returned to the demons' cave and turned into a fly.",
+    "悟空回到了恶魔的洞穴，然后变成了一只苍蝇。"
+   ],
+   [
+    "He found Bajie deep inside the cave.",
+    "他在洞穴的深处发现了八戒。"
+   ],
+   [
+    "The pig was tied up, floating in a tub of salt water.",
+    "那头猪被拴了起来，漂浮在一张装满盐水的桶里。"
+   ],
+   [
+    "Wukong changed back into himself and untied his companion.",
+    "悟空变回了原来的样子，然后解开了他同伴身上的束缚。"
+   ],
+   [
+    "\"Thank you,\" said Bajie.",
+    "“谢谢你们，”八戒说道。"
+   ],
+   [
+    "\"Those demons were planning to pickle me!\"",
+    "“那些恶魔本来打算把我腌起来！”"
+   ],
+   [
+    "\"You're welcome, Bajie,\" said Wukong.",
+    "“不客气，八戒，”悟空说道。"
+   ],
+   [
+    "\"Now let's—whaa!\"",
+    "“现在我们开始吧——哇！”"
+   ],
+   [
+    "The elephant's trunk wrapped tightly around Wukong's chest.",
+    "大象的鼻子紧紧缠在了悟空的胸口。"
+   ],
+   [
+    "Then the elephant stepped out of a dark corner.",
+    "然后，那只大象从一个黑暗的角落里走了出来。"
+   ],
+   [
+    "\"I knew you'd come to save your friend,\" said the elephant.",
+    "“我就知道你会来救你的朋友的，”大象说。"
+   ],
+   [
+    "\"Now you can't protect the Tang Monk.",
+    "“现在你没法保护唐僧了。”"
+   ],
+   [
+    "My trunk is very strong!\"",
+    "“我的躯干非常强壮！”"
+   ],
+   [
+    "Wukong's arms were still free.",
+    "孙悟空的双手仍然可以自由活动。"
+   ],
+   [
+    "He pulled out his iron bar, which instantly grew.",
+    "他拔出了他的铁棍，那铁棍立刻就变长了。"
+   ],
+   [
+    "With all his strength, he slammed it down on the elephant's trunk.",
+    "他用尽全力将那个东西猛地砸在大象的鼻子上。"
+   ],
+   [
+    "\"Ow!",
+    "“哎哟！"
+   ],
+   [
+    "Ow!",
+    "哎哟！"
+   ],
+   [
+    "Ow!\" the elephant cried.",
+    "“哎哟！”大象叫道。"
+   ],
+   [
+    "He released Wukong and fell backward.",
+    "他放开了悟空，然后向后倒下了。"
+   ],
+   [
+    "His trunk had a horrible purple bruise.",
+    "他的屁股上有一块难看的紫色淤青。"
+   ],
+   [
+    "Wukong moved toward the elephant, his iron bar raised high.",
+    "悟空向大象走去，手中的铁棒高高举起。"
+   ],
+   [
+    "The elephant's eyes went wide.",
+    "大象的眼睛瞪得大大的。"
+   ],
+   [
+    "\"Please don't hurt me anymore!",
+    "“请不要再伤害我了！”"
+   ],
+   [
+    "We'll let the Tang Monk cross the mountain!\"",
+    "我们让唐僧穿过这座山吧！"
+   ],
+   [
+    "The monkey glared at the elephant for a moment.",
+    "猴子瞪了大象一会儿。"
+   ],
+   [
+    "Then he put the iron bar away.",
+    "然后他把铁杆收起来了。"
+   ],
+   [
+    "\"You'd better not trick us again.\"",
+    "“你最好别再骗我们了。”"
+   ],
+   [
+    "Wukong and Bajie left the cave and returned to their companions.",
+    "悟空和白吉离开了洞穴，回到了他们的同伴身边。"
+   ],
+   [
+    "The group continued over the mountain.",
+    "队伍继续翻越那座山。"
+   ],
+   [
+    "As the travelers came around a bend, they saw the lion and the elephant.",
+    "当旅行者们绕过一个弯道时，他们看到了狮子和大象。"
+   ],
+   [
+    "The two demons were blocking the road.",
+    "两个恶魔挡住了道路。"
+   ],
+   [
+    "Wukong stomped toward them.",
+    "悟空大步朝他们走去。"
+   ],
+   [
+    "\"What are you doing?",
+    "“你在做什么？”"
+   ],
+   [
+    "You promised to—\" \"Wukong, help us!\" cried the Tang Monk.",
+    "“你答应过我们的……”“悟空，帮帮我们！”唐僧喊道。"
+   ],
+   [
+    "Wukong spun around.",
+    "悟空转过身来。"
+   ],
+   [
+    "The raptor had grabbed the monkey's companions with its talons.",
+    "这种猛禽用它的爪子抓住了猴子的同伴们。"
+   ],
+   [
+    "With a powerful flap of its wings, the giant bird flew away.",
+    "这只巨鸟猛地拍动翅膀，飞走了。"
+   ]
+  ]
+ },
+ "words": [
+  [
+   "aching",
+   "",
+   "疼痛的",
+   "The lion demon rubbed his aching mouth.",
+   "狮子恶魔揉了揉他疼痛的嘴。"
+  ],
+  [
+   "leave alone",
+   "",
+   "不打扰，不⼲涉",
+   "Let's leave the Tang Monk alone.",
+   "咱们别去打扰唐僧了。"
+  ],
+  [
+   "dangerous",
+   "",
+   "危险的",
+   "Wukong is dangerous.",
+   "悟空很危险。"
+  ],
+  [
+   "perfect",
+   "",
+   "完美的",
+   "I have a perfect plan to defeat him and capture the Tang Monk.",
+   "我有一个完美的计划来打败他并抓住唐僧。"
+  ],
+  [
+   "capture",
+   "",
+   "捕获，俘虏",
+   "I have a perfect plan to defeat him and capture the Tang Monk.",
+   "我有一个完美的计划来打败他并抓住唐僧。"
+  ],
+  [
+   "wound up",
+   "",
+   "最后得到或处于某种状况(wind up-wound up)",
+   "The last time you had a plan, I wound up with a broken tooth.",
+   "上次你制定了计划，结果我的牙齿却断了。"
+  ],
+  [
+   "argue",
+   "",
+   "争论，辩论",
+   "He heard Bajie and Wujing arguing.",
+   "他听到八戒和悟空在吵架。"
+  ],
+  [
+   "eaten",
+   "",
+   "吃 eat-ate-eaten",
+   "But Wukong got eaten by the lion demon.",
+   "但是悟空被狮子恶魔吃了。"
+  ],
+  [
+   "beat up",
+   "",
+   "痛打",
+   "I beat up that lion's insides and broke one of his teeth.",
+   "我打坏了那只狮子的内脏，还打断了他的一颗牙齿。"
+  ],
+  [
+   "safely",
+   "",
+   "安全地",
+   "They promised to let us cross their mountain safely.",
+   "他们承诺会让我们安全地穿过他们的山脉。"
+  ],
+  [
+   "faint",
+   "",
+   "晕倒，昏倒",
+   "The Tang Monk fainted.",
+   "唐僧晕倒了。"
+  ],
+  [
+   "harm",
+   "",
+   "损伤，损害",
+   "You'll never harm my master!",
+   "你永远伤害不了我的主人！"
+  ],
+  [
+   "jerk",
+   "",
+   "猛然⼀动，颠簸",
+   "The elephant jerked his head, and his trunk shot out.",
+   "大象突然一动头，它的长鼻子立刻伸了出去。"
+  ],
+  [
+   "trunk",
+   "",
+   "象⿐",
+   "The elephant jerked his head, and his trunk shot out.",
+   "大象突然一动头，它的长鼻子立刻伸了出去。"
+  ],
+  [
+   "tightly",
+   "",
+   "紧紧地，坚固地",
+   "Before Bajie could duck, the trunk wrapped tightly around his body.",
+   "在八戒还没来得及躲避的时候，那根树干就紧紧地缠绕在了他的身上。"
+  ],
+  [
+   "ran off",
+   "",
+   "迅速离开",
+   "Wukong groaned as the elephant ran off with Bajie.",
+   "悟空发出呻吟声，因为大象带着八戒逃走了。"
+  ],
+  [
+   "release",
+   "",
+   "释放，解放",
+   "He released Wukong and fell backward.",
+   "他放开了悟空，然后向后倒下了。"
+  ],
+  [
+   "bruise",
+   "",
+   "伤痕，青肿",
+   "His trunk had a horrible purple bruise.",
+   "他的屁股上有一块难看的紫色淤青。"
+  ]
+ ]
+}
